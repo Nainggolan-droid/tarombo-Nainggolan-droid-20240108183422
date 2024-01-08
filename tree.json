@@ -1238,6 +1238,9 @@
       "childRefs": [
         {
           "ref": "I170*4c4153bd-3214-4362-acab-82a1b4040c73"
+        },
+        {
+          "ref": "I171*af70e27a-eca8-4601-a983-f9a98ac95b36"
         }
       ],
       "husbandRefs": [
@@ -4758,6 +4761,25 @@
       "names": [
         {
           "value": "Op.Galogat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F74*8176d13b-6eab-4bbd-96f8-e5413b983d78"
+        }
+      ],
+      "id": "I171*af70e27a-eca8-4601-a983-f9a98ac95b36",
+      "names": [
+        {
+          "value": "Op.Jaunggas //"
         }
       ],
       "eventsFacts": [
