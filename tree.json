@@ -611,6 +611,19 @@
           "ref": "I90*fc6e54ae-67e8-495e-b585-a7a49044bca1"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I96*b35cb10e-1c99-474f-9c3a-2122b2d03294"
+        }
+      ],
+      "id": "F34*4aede7f8-f64d-468e-8c70-7159bc550739",
+      "wifeRefs": [
+        {
+          "ref": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e"
+        }
+      ]
     }
   ],
   "head": {
@@ -2557,6 +2570,11 @@
           "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F34*4aede7f8-f64d-468e-8c70-7159bc550739"
+        }
+      ],
       "id": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e",
       "names": [
         {
@@ -2568,6 +2586,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F34*4aede7f8-f64d-468e-8c70-7159bc550739"
+        }
+      ],
+      "id": "I96*b35cb10e-1c99-474f-9c3a-2122b2d03294",
+      "names": [
+        {
+          "value": " /Hutabarat/"
         }
       ]
     }
