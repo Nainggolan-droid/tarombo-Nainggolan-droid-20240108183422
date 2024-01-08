@@ -1054,6 +1054,9 @@
         },
         {
           "ref": "I152*2510b311-7d50-45d9-9f52-a54065be34da"
+        },
+        {
+          "ref": "I153*e9c3a46d-33de-4856-a646-35fbd7484f9a"
         }
       ],
       "husbandRefs": [
@@ -4173,6 +4176,25 @@
       "names": [
         {
           "value": "Op.Ulang Djudji //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I153*e9c3a46d-33de-4856-a646-35fbd7484f9a",
+      "names": [
+        {
+          "value": "Op.Siporhis Buluga //"
         }
       ],
       "eventsFacts": [
