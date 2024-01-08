@@ -1722,6 +1722,9 @@
       "childRefs": [
         {
           "ref": "I238*4e67a262-33ee-4cff-9a6a-51f4d0b61aec"
+        },
+        {
+          "ref": "I239*773dfa8c-4ee1-40bb-bf48-602a5324c7c0"
         }
       ],
       "husbandRefs": [
@@ -6666,6 +6669,25 @@
       "names": [
         {
           "value": "Kristian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*c6fc8492-af4c-40be-a080-2bd54335cb07"
+        }
+      ],
+      "id": "I239*773dfa8c-4ee1-40bb-bf48-602a5324c7c0",
+      "names": [
+        {
+          "value": "Uba //"
         }
       ],
       "eventsFacts": [
