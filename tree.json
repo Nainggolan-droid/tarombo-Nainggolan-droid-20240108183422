@@ -1670,6 +1670,19 @@
         }
       ],
       "id": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I229*b11f688f-ece2-457e-9954-7819f7659bbb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I225*dbe02dcb-346b-48e9-b727-871ec41daeb2"
+        }
+      ],
+      "id": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
     }
   ],
   "head": {
@@ -6340,6 +6353,11 @@
           "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
+        }
+      ],
       "id": "I225*dbe02dcb-346b-48e9-b727-871ec41daeb2",
       "names": [
         {
@@ -6401,6 +6419,25 @@
       "names": [
         {
           "value": "A.Naro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
+        }
+      ],
+      "id": "I229*b11f688f-ece2-457e-9954-7819f7659bbb",
+      "names": [
+        {
+          "value": "A.Lima //"
         }
       ],
       "eventsFacts": [
