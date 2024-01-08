@@ -422,6 +422,9 @@
       "childRefs": [
         {
           "ref": "I68*546b0662-616b-4d1a-8638-0432fcd05715"
+        },
+        {
+          "ref": "I69*50996825-5164-423e-8028-9a1917f81664"
         }
       ],
       "husbandRefs": [
@@ -1836,6 +1839,25 @@
       "names": [
         {
           "value": "Jawakin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
+        }
+      ],
+      "id": "I69*50996825-5164-423e-8028-9a1917f81664",
+      "names": [
+        {
+          "value": "Sopar //"
         }
       ],
       "eventsFacts": [
