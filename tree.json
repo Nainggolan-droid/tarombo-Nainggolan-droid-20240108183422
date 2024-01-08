@@ -1637,6 +1637,9 @@
       "childRefs": [
         {
           "ref": "I223*7a0292be-c9c9-45a0-aab6-8defc3f4767e"
+        },
+        {
+          "ref": "I224*9799b4f5-a93d-474f-a558-331eed7b1027"
         }
       ],
       "husbandRefs": [
@@ -6276,6 +6279,25 @@
       "names": [
         {
           "value": "Sumatahut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F98*b57ad7db-0226-4a3c-b37e-bba675e6250d"
+        }
+      ],
+      "id": "I224*9799b4f5-a93d-474f-a558-331eed7b1027",
+      "names": [
+        {
+          "value": "Op.Tamba //"
         }
       ],
       "eventsFacts": [
