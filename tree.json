@@ -1491,6 +1491,9 @@
         },
         {
           "ref": "I201*849b74cf-453b-4bac-9f6e-fcb4da23bac5"
+        },
+        {
+          "ref": "I202*dd8df8d9-fd77-4268-8a8d-24de1ddc4153"
         }
       ],
       "husbandRefs": [
@@ -5666,6 +5669,25 @@
       "names": [
         {
           "value": "A.Jabangun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F90*02ae772c-61ef-4c5b-a515-9905408856b7"
+        }
+      ],
+      "id": "I202*dd8df8d9-fd77-4268-8a8d-24de1ddc4153",
+      "names": [
+        {
+          "value": "A.Ganjang //"
         }
       ],
       "eventsFacts": [
