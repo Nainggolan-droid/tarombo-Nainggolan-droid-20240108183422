@@ -826,6 +826,19 @@
         }
       ],
       "id": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I121*40ee139a-102b-49ef-a490-ae80519f0f82"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I120*9fa62b23-f0ec-4d54-a454-962c9ced31ba"
+        }
+      ],
+      "id": "F48*2f223c1d-32c2-4bc0-a650-c65f2f3785e4"
     }
   ],
   "head": {
@@ -3269,6 +3282,11 @@
           "ref": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F48*2f223c1d-32c2-4bc0-a650-c65f2f3785e4"
+        }
+      ],
       "id": "I120*9fa62b23-f0ec-4d54-a454-962c9ced31ba",
       "names": [
         {
@@ -3280,6 +3298,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F48*2f223c1d-32c2-4bc0-a650-c65f2f3785e4"
+        }
+      ],
+      "id": "I121*40ee139a-102b-49ef-a490-ae80519f0f82",
+      "names": [
+        {
+          "value": "Harianti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
