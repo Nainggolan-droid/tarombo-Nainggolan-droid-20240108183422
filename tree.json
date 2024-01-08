@@ -924,6 +924,9 @@
         },
         {
           "ref": "I132*31f5fd57-7923-4421-a124-fe1c47728b85"
+        },
+        {
+          "ref": "I133*76d99e04-61be-4341-bfa2-03ba98efd8c6"
         }
       ],
       "husbandRefs": [
@@ -3627,6 +3630,25 @@
       "names": [
         {
           "value": "Op.Udjung Laut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F54*1e579c52-a073-4ff0-86db-a0293c43d655"
+        }
+      ],
+      "id": "I133*76d99e04-61be-4341-bfa2-03ba98efd8c6",
+      "names": [
+        {
+          "value": "Op.Madjua //"
         }
       ],
       "eventsFacts": [
