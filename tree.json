@@ -1656,6 +1656,9 @@
         },
         {
           "ref": "I226*b1a04bb0-58d2-464f-8b7d-867de6fd66b4"
+        },
+        {
+          "ref": "I227*6d525b24-1d2a-4507-a6ae-356218d42ad9"
         }
       ],
       "husbandRefs": [
@@ -6357,6 +6360,25 @@
       "names": [
         {
           "value": "A.Hukkam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
+        }
+      ],
+      "id": "I227*6d525b24-1d2a-4507-a6ae-356218d42ad9",
+      "names": [
+        {
+          "value": "A.Sorna //"
         }
       ],
       "eventsFacts": [
