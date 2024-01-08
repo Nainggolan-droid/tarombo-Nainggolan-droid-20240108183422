@@ -1425,6 +1425,19 @@
         }
       ],
       "id": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I194*dd1e652f-a1a8-4e11-994b-dd062b3d898e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I193*926e934f-8dfb-4623-bc77-a8d6acefa182"
+        }
+      ],
+      "id": "F86*fdb640ce-fce1-450b-b888-86e4fdf8ce88"
     }
   ],
   "head": {
@@ -5411,10 +5424,34 @@
           "ref": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
         }
       ],
+      "fams": [
+        {
+          "ref": "F86*fdb640ce-fce1-450b-b888-86e4fdf8ce88"
+        }
+      ],
       "id": "I193*926e934f-8dfb-4623-bc77-a8d6acefa182",
       "names": [
         {
           "value": "Parael //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F86*fdb640ce-fce1-450b-b888-86e4fdf8ce88"
+        }
+      ],
+      "id": "I194*dd1e652f-a1a8-4e11-994b-dd062b3d898e",
+      "names": [
+        {
+          "value": "Piter //"
         }
       ],
       "eventsFacts": [
