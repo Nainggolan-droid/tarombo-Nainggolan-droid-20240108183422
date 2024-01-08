@@ -1527,6 +1527,19 @@
         }
       ],
       "id": "F91*7febbbaf-de5b-4c59-a388-879003547b38"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I208*97803e4c-5024-422f-b618-423e85f7f2c8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I202*dd8df8d9-fd77-4268-8a8d-24de1ddc4153"
+        }
+      ],
+      "id": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
     }
   ],
   "head": {
@@ -5714,6 +5727,11 @@
           "ref": "F90*02ae772c-61ef-4c5b-a515-9905408856b7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
+        }
+      ],
       "id": "I202*dd8df8d9-fd77-4268-8a8d-24de1ddc4153",
       "names": [
         {
@@ -5813,6 +5831,25 @@
       "names": [
         {
           "value": "Pahala //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
+        }
+      ],
+      "id": "I208*97803e4c-5024-422f-b618-423e85f7f2c8",
+      "names": [
+        {
+          "value": "Marhaum //"
         }
       ],
       "eventsFacts": [
