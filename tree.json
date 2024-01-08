@@ -1999,6 +1999,9 @@
         },
         {
           "ref": "I292*ca332ec3-4251-416f-8dc9-2b8eb6e5143a"
+        },
+        {
+          "ref": "I294*60694482-da55-46d9-8425-b0fdd1ce598a"
         }
       ],
       "husbandRefs": [
@@ -8105,6 +8108,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I294*60694482-da55-46d9-8425-b0fdd1ce598a",
+      "names": [
+        {
+          "value": "Ledi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
