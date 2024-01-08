@@ -842,6 +842,19 @@
         }
       ],
       "id": "F48*2f223c1d-32c2-4bc0-a650-c65f2f3785e4"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I123*eb52f7f7-ae06-4aa4-ae3b-1739e2d0dc46"
+        }
+      ],
+      "id": "F49*fedd4772-d5dc-4c24-86c4-00a3d2a48cec",
+      "wifeRefs": [
+        {
+          "ref": "I122*1eed2a36-97db-4e12-955e-11625090e32d"
+        }
+      ]
     }
   ],
   "head": {
@@ -3329,6 +3342,11 @@
           "ref": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F49*fedd4772-d5dc-4c24-86c4-00a3d2a48cec"
+        }
+      ],
       "id": "I122*1eed2a36-97db-4e12-955e-11625090e32d",
       "names": [
         {
@@ -3340,6 +3358,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F49*fedd4772-d5dc-4c24-86c4-00a3d2a48cec"
+        }
+      ],
+      "id": "I123*eb52f7f7-ae06-4aa4-ae3b-1739e2d0dc46",
+      "names": [
+        {
+          "value": " /Simanjuntak/"
         }
       ]
     }
