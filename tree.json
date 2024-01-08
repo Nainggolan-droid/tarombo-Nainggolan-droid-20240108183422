@@ -973,6 +973,19 @@
         }
       ],
       "id": "F56*51038cd8-10b8-424a-a1c2-16392584c5e0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I140*a7ac42db-c88d-48d2-b7a6-91c1e539f997"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I136*8f8ecf89-589e-4e4d-8fd1-f4cb45b0a161"
+        }
+      ],
+      "id": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
     }
   ],
   "head": {
@@ -3750,6 +3763,11 @@
           "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
+        }
+      ],
       "id": "I136*8f8ecf89-589e-4e4d-8fd1-f4cb45b0a161",
       "names": [
         {
@@ -3811,6 +3829,25 @@
       "names": [
         {
           "value": "Op.Ujung Sahat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
+        }
+      ],
+      "id": "I140*a7ac42db-c88d-48d2-b7a6-91c1e539f997",
+      "names": [
+        {
+          "value": "Op.Morga //"
         }
       ],
       "eventsFacts": [
