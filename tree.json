@@ -1193,6 +1193,9 @@
       "childRefs": [
         {
           "ref": "I165*3b89f48e-e0b0-4f31-8b1f-b1395710d88c"
+        },
+        {
+          "ref": "I166*6ee4fae4-40fd-4f5e-ae34-c7006053b8d0"
         }
       ],
       "husbandRefs": [
@@ -4615,6 +4618,19 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F71*ab0aaa33-a955-421e-b62d-59eaa71a37b1"
+        }
+      ],
+      "id": "I166*6ee4fae4-40fd-4f5e-ae34-c7006053b8d0",
+      "names": [
+        {
+          "value": "A.Tujala //"
         }
       ]
     }
