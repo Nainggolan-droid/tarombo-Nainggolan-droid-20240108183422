@@ -2068,6 +2068,19 @@
           "ref": "I292*ca332ec3-4251-416f-8dc9-2b8eb6e5143a"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I295*ff4b2a23-77fe-446b-9d3c-5fb1faebafa4"
+        }
+      ],
+      "id": "F120*d3b42381-59a5-4248-8d4f-dd420a2aa923",
+      "wifeRefs": [
+        {
+          "ref": "I294*60694482-da55-46d9-8425-b0fdd1ce598a"
+        }
+      ]
     }
   ],
   "head": {
@@ -8117,6 +8130,11 @@
           "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F120*d3b42381-59a5-4248-8d4f-dd420a2aa923"
+        }
+      ],
       "id": "I294*60694482-da55-46d9-8425-b0fdd1ce598a",
       "names": [
         {
@@ -8127,6 +8145,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F120*d3b42381-59a5-4248-8d4f-dd420a2aa923"
+        }
+      ],
+      "id": "I295*ff4b2a23-77fe-446b-9d3c-5fb1faebafa4",
+      "names": [
+        {
+          "value": " /Mangunsong/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "U"
         }
       ]
     }
