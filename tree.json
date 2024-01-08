@@ -1510,6 +1510,9 @@
         },
         {
           "ref": "I204*37eeb374-0a69-4782-844a-7c463cc7461c"
+        },
+        {
+          "ref": "I205*db9936ae-b0bf-4eb5-8b15-f656c167db21"
         }
       ],
       "husbandRefs": [
@@ -5747,6 +5750,25 @@
       "names": [
         {
           "value": "Kasi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F91*7febbbaf-de5b-4c59-a388-879003547b38"
+        }
+      ],
+      "id": "I205*db9936ae-b0bf-4eb5-8b15-f656c167db21",
+      "names": [
+        {
+          "value": "Kostan //"
         }
       ],
       "eventsFacts": [
