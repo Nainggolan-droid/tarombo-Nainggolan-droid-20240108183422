@@ -981,6 +981,9 @@
         },
         {
           "ref": "I141*a4592382-7994-4e45-bc60-5f0c5aa9b85d"
+        },
+        {
+          "ref": "I142*d4163c39-15bc-4b89-9856-00f9e9863398"
         }
       ],
       "husbandRefs": [
@@ -3870,6 +3873,25 @@
       "names": [
         {
           "value": "Op.Tenggal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
+        }
+      ],
+      "id": "I142*d4163c39-15bc-4b89-9856-00f9e9863398",
+      "names": [
+        {
+          "value": "Op.Sopuluon //"
         }
       ],
       "eventsFacts": [
