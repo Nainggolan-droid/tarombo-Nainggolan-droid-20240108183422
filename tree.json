@@ -2262,6 +2262,9 @@
       "childRefs": [
         {
           "ref": "I318*227e336a-3769-4dd5-8dc3-9727dae5efa8"
+        },
+        {
+          "ref": "I319*4b5026fa-7e6d-452f-a6b6-284582f39946"
         }
       ],
       "husbandRefs": [
@@ -8829,6 +8832,25 @@
       "names": [
         {
           "value": "A.Mula //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
+        }
+      ],
+      "id": "I319*4b5026fa-7e6d-452f-a6b6-284582f39946",
+      "names": [
+        {
+          "value": "Md.Darius //"
         }
       ],
       "eventsFacts": [
