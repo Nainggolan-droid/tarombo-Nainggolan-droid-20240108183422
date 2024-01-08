@@ -1470,6 +1470,19 @@
         }
       ],
       "id": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I199*886604a2-9ef4-4681-84cc-981f4ec4570d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I196*abad85ae-f8a9-4bfb-ac2e-c1831562701a"
+        }
+      ],
+      "id": "F89*ab794381-ad1b-40cd-a862-e24ba4c7705f"
     }
   ],
   "head": {
@@ -5528,6 +5541,11 @@
           "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F89*ab794381-ad1b-40cd-a862-e24ba4c7705f"
+        }
+      ],
       "id": "I196*abad85ae-f8a9-4bfb-ac2e-c1831562701a",
       "names": [
         {
@@ -5570,6 +5588,25 @@
       "names": [
         {
           "value": "Op.Mandor Babiat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F89*ab794381-ad1b-40cd-a862-e24ba4c7705f"
+        }
+      ],
+      "id": "I199*886604a2-9ef4-4681-84cc-981f4ec4570d",
+      "names": [
+        {
+          "value": "Op Jaoloan //"
         }
       ],
       "eventsFacts": [
