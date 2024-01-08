@@ -1591,6 +1591,19 @@
         }
       ],
       "id": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I216*98dc6257-bcf0-497f-adb1-c6ee11c79c87"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I157*9312c8a6-70f6-41d0-8132-a202afbd91fa"
+        }
+      ],
+      "id": "F96*289cc329-3191-4704-8887-12dd2ec94455"
     }
   ],
   "head": {
@@ -4819,6 +4832,11 @@
           "ref": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
       "id": "I157*9312c8a6-70f6-41d0-8132-a202afbd91fa",
       "names": [
         {
@@ -6055,6 +6073,25 @@
       "names": [
         {
           "value": "Pola //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
+      "id": "I216*98dc6257-bcf0-497f-adb1-c6ee11c79c87",
+      "names": [
+        {
+          "value": "Op.Baladonia //"
         }
       ],
       "eventsFacts": [
