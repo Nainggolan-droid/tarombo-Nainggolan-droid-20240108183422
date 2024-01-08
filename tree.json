@@ -2111,6 +2111,9 @@
         },
         {
           "ref": "I301*4638f5c1-7503-4ddc-98d2-23a949d8b688"
+        },
+        {
+          "ref": "I302*f9a19d48-3523-4369-bf2b-d3df60b75ce6"
         }
       ],
       "husbandRefs": [
@@ -8322,6 +8325,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
+        }
+      ],
+      "id": "I302*f9a19d48-3523-4369-bf2b-d3df60b75ce6",
+      "names": [
+        {
+          "value": "Geulis //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
