@@ -752,6 +752,19 @@
         }
       ],
       "id": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I113*69d6a648-9def-4d08-80b5-5a8b72b7a538"
+        }
+      ],
+      "id": "F43*b6239c94-03c2-4cbd-848b-f828309eeefc",
+      "wifeRefs": [
+        {
+          "ref": "I112*c51a9c15-fba1-472b-924a-52e14acb37c7"
+        }
+      ]
     }
   ],
   "head": {
@@ -3039,6 +3052,11 @@
           "ref": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F43*b6239c94-03c2-4cbd-848b-f828309eeefc"
+        }
+      ],
       "id": "I112*c51a9c15-fba1-472b-924a-52e14acb37c7",
       "names": [
         {
@@ -3050,6 +3068,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F43*b6239c94-03c2-4cbd-848b-f828309eeefc"
+        }
+      ],
+      "id": "I113*69d6a648-9def-4d08-80b5-5a8b72b7a538",
+      "names": [
+        {
+          "value": " /Saragi/"
         }
       ]
     }
