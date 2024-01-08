@@ -860,6 +860,9 @@
       "childRefs": [
         {
           "ref": "I124*1610f861-e746-4b5d-a4b0-4b5232acbdff"
+        },
+        {
+          "ref": "I126*450acffd-b0f7-4e8d-ba8a-4a3692081067"
         }
       ],
       "husbandRefs": [
@@ -3439,6 +3442,25 @@
       "names": [
         {
           "value": " /Sigalingging/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
+        }
+      ],
+      "id": "I126*450acffd-b0f7-4e8d-ba8a-4a3692081067",
+      "names": [
+        {
+          "value": "...... //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
