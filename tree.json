@@ -722,6 +722,9 @@
       "childRefs": [
         {
           "ref": "I108*8409211b-824d-4dd9-a4df-d7a08724d593"
+        },
+        {
+          "ref": "I109*1a029685-6fbb-4647-8658-308d7277831f"
         }
       ],
       "husbandRefs": [
@@ -2940,6 +2943,25 @@
       "names": [
         {
           "value": "Lisa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F41*6ae108fc-d7a3-4067-9087-55e681f8ee4c"
+        }
+      ],
+      "id": "I109*1a029685-6fbb-4647-8658-308d7277831f",
+      "names": [
+        {
+          "value": "Febri //"
         }
       ],
       "eventsFacts": [
