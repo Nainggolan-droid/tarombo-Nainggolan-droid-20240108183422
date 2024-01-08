@@ -1782,6 +1782,19 @@
         }
       ],
       "id": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I253*61c62580-17b3-49ad-a70a-321b5262e2eb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I247*006c86e9-feff-4d56-b5cf-ba0ca67e4d14"
+        }
+      ],
+      "id": "F104*d0ea0231-9c76-4c0d-a0fc-bbe7bac0a003"
     }
   ],
   "head": {
@@ -6890,6 +6903,11 @@
           "ref": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
         }
       ],
+      "fams": [
+        {
+          "ref": "F104*d0ea0231-9c76-4c0d-a0fc-bbe7bac0a003"
+        }
+      ],
       "id": "I247*006c86e9-feff-4d56-b5cf-ba0ca67e4d14",
       "names": [
         {
@@ -6996,6 +7014,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F104*d0ea0231-9c76-4c0d-a0fc-bbe7bac0a003"
+        }
+      ],
+      "id": "I253*61c62580-17b3-49ad-a70a-321b5262e2eb",
+      "names": [
+        {
+          "value": "Lolita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
