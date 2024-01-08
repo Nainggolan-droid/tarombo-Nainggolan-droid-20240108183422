@@ -1618,6 +1618,9 @@
       "childRefs": [
         {
           "ref": "I220*df899f1a-1c0e-4ce0-93ff-59206ace637b"
+        },
+        {
+          "ref": "I221*64d0d5c6-ce4e-430d-aaa6-a51ee57e484f"
         }
       ],
       "husbandRefs": [
@@ -6195,6 +6198,25 @@
       "names": [
         {
           "value": "Op.Mora Laut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
+        }
+      ],
+      "id": "I221*64d0d5c6-ce4e-430d-aaa6-a51ee57e484f",
+      "names": [
+        {
+          "value": "A.Gasal //"
         }
       ],
       "eventsFacts": [
