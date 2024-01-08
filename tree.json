@@ -1941,6 +1941,19 @@
         }
       ],
       "id": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I276*3dcc0ce2-a8b8-48fe-9488-fdbe6dfae7da"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I237*28a725be-eeaa-48a8-8f50-d7f435a9b13c"
+        }
+      ],
+      "id": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
     }
   ],
   "head": {
@@ -6864,6 +6877,11 @@
           "ref": "F101*c2ea029f-ce49-415b-b7f7-e5a5e1ad83b8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+        }
+      ],
       "id": "I237*28a725be-eeaa-48a8-8f50-d7f435a9b13c",
       "names": [
         {
@@ -7605,6 +7623,25 @@
       "names": [
         {
           "value": "Angel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+        }
+      ],
+      "id": "I276*3dcc0ce2-a8b8-48fe-9488-fdbe6dfae7da",
+      "names": [
+        {
+          "value": "Ria //"
         }
       ],
       "eventsFacts": [
