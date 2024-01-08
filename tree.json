@@ -1535,6 +1535,9 @@
         },
         {
           "ref": "I209*81624c8f-9237-4161-a2ca-c276208470ef"
+        },
+        {
+          "ref": "I210*320c56ee-a4aa-48e2-a756-e09c8c9436d5"
         }
       ],
       "husbandRefs": [
@@ -5872,6 +5875,25 @@
       "names": [
         {
           "value": "Parel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
+        }
+      ],
+      "id": "I210*320c56ee-a4aa-48e2-a756-e09c8c9436d5",
+      "names": [
+        {
+          "value": "Krisman //"
         }
       ],
       "eventsFacts": [
