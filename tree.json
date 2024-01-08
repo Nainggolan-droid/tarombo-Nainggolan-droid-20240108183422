@@ -417,6 +417,19 @@
         }
       ],
       "id": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I68*546b0662-616b-4d1a-8638-0432fcd05715"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I27*ce4770b2-6571-4aba-8a5d-3728047344e0"
+        }
+      ],
+      "id": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
     }
   ],
   "head": {
@@ -995,6 +1008,11 @@
       "famc": [
         {
           "ref": "F11*f23963ed-af58-462a-ab28-09179b0f4a83"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
         }
       ],
       "id": "I27*ce4770b2-6571-4aba-8a5d-3728047344e0",
@@ -1799,6 +1817,25 @@
       "names": [
         {
           "value": "Ampangaloni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
+        }
+      ],
+      "id": "I68*546b0662-616b-4d1a-8638-0432fcd05715",
+      "names": [
+        {
+          "value": "Jawakin //"
         }
       ],
       "eventsFacts": [
