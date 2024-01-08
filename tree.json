@@ -2214,6 +2214,9 @@
       "childRefs": [
         {
           "ref": "I312*e8f786b3-9ad7-4358-9730-1f43b8ce64d9"
+        },
+        {
+          "ref": "I313*b6d68657-f0c1-4736-9f4e-2e4b3fa4f4be"
         }
       ],
       "husbandRefs": [
@@ -8652,6 +8655,25 @@
       "names": [
         {
           "value": "Md.Malam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F129*7c50d0c5-7f36-4650-a922-faaf8a3af1b8"
+        }
+      ],
+      "id": "I313*b6d68657-f0c1-4736-9f4e-2e4b3fa4f4be",
+      "names": [
+        {
+          "value": "Jadi //"
         }
       ],
       "eventsFacts": [
