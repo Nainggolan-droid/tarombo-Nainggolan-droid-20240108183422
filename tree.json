@@ -1209,6 +1209,9 @@
       "childRefs": [
         {
           "ref": "I167*1154edd8-3ce2-41ae-9427-49e444bc293d"
+        },
+        {
+          "ref": "I168*7efff20b-1373-4b73-9fae-3586afa38578"
         }
       ],
       "husbandRefs": [
@@ -4662,6 +4665,25 @@
       "names": [
         {
           "value": "Op.Halomoan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F72*fc20523c-3e66-43fe-9e18-a1eaa80494d2"
+        }
+      ],
+      "id": "I168*7efff20b-1373-4b73-9fae-3586afa38578",
+      "names": [
+        {
+          "value": "Op.Bohang //"
         }
       ],
       "eventsFacts": [
