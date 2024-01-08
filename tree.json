@@ -2008,6 +2008,9 @@
         },
         {
           "ref": "I298*e7e12c01-3cd4-413f-95d5-572f53f2331a"
+        },
+        {
+          "ref": "I303*1628d91f-87e0-4eaf-ae15-d20879862ba8"
         }
       ],
       "husbandRefs": [
@@ -8338,6 +8341,25 @@
       "names": [
         {
           "value": "Geulis //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I303*1628d91f-87e0-4eaf-ae15-d20879862ba8",
+      "names": [
+        {
+          "value": "Tiurli //"
         }
       ],
       "eventsFacts": [
