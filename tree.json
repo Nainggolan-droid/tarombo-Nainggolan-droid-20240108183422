@@ -1731,6 +1731,9 @@
         },
         {
           "ref": "I241*03b50b4a-4e50-49ec-a595-feb1993bd387"
+        },
+        {
+          "ref": "I242*9fa43e47-d5f4-40a8-8f89-79c4bcbcdb63"
         }
       ],
       "husbandRefs": [
@@ -6732,6 +6735,25 @@
       "names": [
         {
           "value": "Rosmina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*c6fc8492-af4c-40be-a080-2bd54335cb07"
+        }
+      ],
+      "id": "I242*9fa43e47-d5f4-40a8-8f89-79c4bcbcdb63",
+      "names": [
+        {
+          "value": "Amma //"
         }
       ],
       "eventsFacts": [
