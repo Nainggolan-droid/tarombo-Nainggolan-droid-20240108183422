@@ -1930,6 +1930,9 @@
         },
         {
           "ref": "I274*7128bcd4-6e0a-4dcf-b81c-293f39a267a4"
+        },
+        {
+          "ref": "I275*1f4c5bbb-8a3d-4e61-a766-8f71d8fd9171"
         }
       ],
       "husbandRefs": [
@@ -7583,6 +7586,25 @@
       "names": [
         {
           "value": "Tesa Ana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
+        }
+      ],
+      "id": "I275*1f4c5bbb-8a3d-4e61-a766-8f71d8fd9171",
+      "names": [
+        {
+          "value": "Angel //"
         }
       ],
       "eventsFacts": [
