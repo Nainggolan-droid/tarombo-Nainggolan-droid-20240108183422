@@ -2003,6 +2003,9 @@
       "childRefs": [
         {
           "ref": "I285*c74a1197-bf92-4d98-bc92-b6379aecae91"
+        },
+        {
+          "ref": "I286*a5ef0c1e-49b4-4057-966d-6c936d4a5290"
         }
       ],
       "husbandRefs": [
@@ -7893,6 +7896,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F116*469b2f9c-d59d-4d73-bb45-f0d9f080ee8b"
+        }
+      ],
+      "id": "I286*a5ef0c1e-49b4-4057-966d-6c936d4a5290",
+      "names": [
+        {
+          "value": "Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
