@@ -1048,6 +1048,9 @@
         },
         {
           "ref": "I150*51ff470b-f13f-45d3-b56d-91123d429c2e"
+        },
+        {
+          "ref": "I151*48cd6cd9-181d-4eeb-b840-543984ad1d50"
         }
       ],
       "husbandRefs": [
@@ -4128,6 +4131,25 @@
       "names": [
         {
           "value": "Op.Laum //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I151*48cd6cd9-181d-4eeb-b840-543984ad1d50",
+      "names": [
+        {
+          "value": "Op.Djonggi Dipasir //"
         }
       ],
       "eventsFacts": [
