@@ -1351,6 +1351,19 @@
           "ref": "I183*0a91b587-ae5b-4a21-9a08-76453d5d29cb"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I186*0c7e6ce9-3cd0-4fc0-8b5c-ea79b077295c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I185*b63aec7c-8eec-44fe-91c9-01aba57e3e86"
+        }
+      ],
+      "id": "F81*8614a88f-634c-43d9-acb3-3dbd19574e1c"
     }
   ],
   "head": {
@@ -5159,10 +5172,34 @@
           "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F81*8614a88f-634c-43d9-acb3-3dbd19574e1c"
+        }
+      ],
       "id": "I185*b63aec7c-8eec-44fe-91c9-01aba57e3e86",
       "names": [
         {
           "value": "Lamhot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F81*8614a88f-634c-43d9-acb3-3dbd19574e1c"
+        }
+      ],
+      "id": "I186*0c7e6ce9-3cd0-4fc0-8b5c-ea79b077295c",
+      "names": [
+        {
+          "value": "Nuel //"
         }
       ],
       "eventsFacts": [
