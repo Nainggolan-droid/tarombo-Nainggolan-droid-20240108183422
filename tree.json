@@ -2105,6 +2105,9 @@
       "childRefs": [
         {
           "ref": "I299*560ace36-4456-492b-8cba-2fb727c45559"
+        },
+        {
+          "ref": "I300*2b19eeaa-24e8-410e-a347-d2fc3fc446d2"
         }
       ],
       "husbandRefs": [
@@ -8272,6 +8275,25 @@
       "names": [
         {
           "value": "Ricard //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
+        }
+      ],
+      "id": "I300*2b19eeaa-24e8-410e-a347-d2fc3fc446d2",
+      "names": [
+        {
+          "value": "Dillo //"
         }
       ],
       "eventsFacts": [
