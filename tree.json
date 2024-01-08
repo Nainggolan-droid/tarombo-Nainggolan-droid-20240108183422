@@ -574,6 +574,9 @@
         },
         {
           "ref": "I94*6d808863-a699-4bf6-88c8-84161a22ac7e"
+        },
+        {
+          "ref": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e"
         }
       ],
       "husbandRefs": [
@@ -2545,6 +2548,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
+        }
+      ],
+      "id": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e",
+      "names": [
+        {
+          "value": "Betsumiar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
