@@ -1768,6 +1768,9 @@
         },
         {
           "ref": "I250*d46bea2c-86aa-410e-bf49-1fc54d7a9302"
+        },
+        {
+          "ref": "I251*45177caf-add4-4290-a201-f001fe61e42b"
         }
       ],
       "husbandRefs": [
@@ -6946,6 +6949,25 @@
         {
           "nick": "A.Friska",
           "value": "Maradu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
+        }
+      ],
+      "id": "I251*45177caf-add4-4290-a201-f001fe61e42b",
+      "names": [
+        {
+          "value": "Henri //"
         }
       ],
       "eventsFacts": [
