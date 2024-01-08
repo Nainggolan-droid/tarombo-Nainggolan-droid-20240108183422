@@ -1110,6 +1110,19 @@
         }
       ],
       "id": "F64*a0d1d4db-e08a-42f7-a1be-e54ccdd8f961"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I159*f56465ab-41a8-4ca4-8d53-c92de5effb05"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I158*6200201a-8d63-46fd-8d1d-0cc93d417656"
+        }
+      ],
+      "id": "F65*bdb0e670-3459-4c8b-8485-01fbb2892c79"
     }
   ],
   "head": {
@@ -4346,10 +4359,34 @@
           "ref": "F64*a0d1d4db-e08a-42f7-a1be-e54ccdd8f961"
         }
       ],
+      "fams": [
+        {
+          "ref": "F65*bdb0e670-3459-4c8b-8485-01fbb2892c79"
+        }
+      ],
       "id": "I158*6200201a-8d63-46fd-8d1d-0cc93d417656",
       "names": [
         {
           "value": "A.Pairing //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F65*bdb0e670-3459-4c8b-8485-01fbb2892c79"
+        }
+      ],
+      "id": "I159*f56465ab-41a8-4ca4-8d53-c92de5effb05",
+      "names": [
+        {
+          "value": "Op.Japaet //"
         }
       ],
       "eventsFacts": [
