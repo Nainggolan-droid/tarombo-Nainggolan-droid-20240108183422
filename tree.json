@@ -627,6 +627,19 @@
           "ref": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I98*c51b45df-95ec-48eb-9e96-8d7c0fd3d0d8"
+        }
+      ],
+      "id": "F35*bc45600a-d1e0-4c77-ab2a-01208f00df8d",
+      "wifeRefs": [
+        {
+          "ref": "I97*23c40d3c-731c-467e-9293-2299baa69e98"
+        }
+      ]
     }
   ],
   "head": {
@@ -2611,6 +2624,11 @@
           "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F35*bc45600a-d1e0-4c77-ab2a-01208f00df8d"
+        }
+      ],
       "id": "I97*23c40d3c-731c-467e-9293-2299baa69e98",
       "names": [
         {
@@ -2622,6 +2640,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F35*bc45600a-d1e0-4c77-ab2a-01208f00df8d"
+        }
+      ],
+      "id": "I98*c51b45df-95ec-48eb-9e96-8d7c0fd3d0d8",
+      "names": [
+        {
+          "value": " /Sinaga/"
         }
       ]
     }
