@@ -1042,6 +1042,9 @@
         },
         {
           "ref": "I148*42613997-6d49-40e4-a3db-6070d37f6db9"
+        },
+        {
+          "ref": "I149*46f8a138-ce4c-4a25-aabb-f907de6e521d"
         }
       ],
       "husbandRefs": [
@@ -4084,6 +4087,25 @@
       "names": [
         {
           "value": "Tahi Sumurung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I149*46f8a138-ce4c-4a25-aabb-f907de6e521d",
+      "names": [
+        {
+          "value": "Mombang Sailan //"
         }
       ],
       "eventsFacts": [
