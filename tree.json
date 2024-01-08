@@ -1927,6 +1927,9 @@
       "childRefs": [
         {
           "ref": "I273*cf481ef2-af26-409e-9348-370163aa368c"
+        },
+        {
+          "ref": "I274*7128bcd4-6e0a-4dcf-b81c-293f39a267a4"
         }
       ],
       "husbandRefs": [
@@ -7561,6 +7564,25 @@
       "names": [
         {
           "value": "Mery //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
+        }
+      ],
+      "id": "I274*7128bcd4-6e0a-4dcf-b81c-293f39a267a4",
+      "names": [
+        {
+          "value": "Tesa Ana //"
         }
       ],
       "eventsFacts": [
