@@ -1759,6 +1759,9 @@
         },
         {
           "ref": "I247*006c86e9-feff-4d56-b5cf-ba0ca67e4d14"
+        },
+        {
+          "ref": "I248*f1f54597-efe6-4af5-b014-75bfb7a9c23a"
         }
       ],
       "husbandRefs": [
@@ -6879,6 +6882,25 @@
       "names": [
         {
           "value": "Janter //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
+        }
+      ],
+      "id": "I248*f1f54597-efe6-4af5-b014-75bfb7a9c23a",
+      "names": [
+        {
+          "value": "Ramli //"
         }
       ],
       "eventsFacts": [
