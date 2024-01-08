@@ -1863,6 +1863,9 @@
         },
         {
           "ref": "I265*cfc7d973-294a-4989-a524-e434982584e3"
+        },
+        {
+          "ref": "I266*c36e5ec6-2583-4143-8e9b-26c39ad6ebab"
         }
       ],
       "husbandRefs": [
@@ -7348,6 +7351,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I266*c36e5ec6-2583-4143-8e9b-26c39ad6ebab",
+      "names": [
+        {
+          "value": "Rumanti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
