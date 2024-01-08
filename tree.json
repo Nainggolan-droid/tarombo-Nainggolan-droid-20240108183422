@@ -1051,6 +1051,9 @@
         },
         {
           "ref": "I151*48cd6cd9-181d-4eeb-b840-543984ad1d50"
+        },
+        {
+          "ref": "I152*2510b311-7d50-45d9-9f52-a54065be34da"
         }
       ],
       "husbandRefs": [
@@ -4150,6 +4153,25 @@
       "names": [
         {
           "value": "Op.Djonggi Dipasir //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I152*2510b311-7d50-45d9-9f52-a54065be34da",
+      "names": [
+        {
+          "value": "Op.Ulang Djudji //"
         }
       ],
       "eventsFacts": [
