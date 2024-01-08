@@ -1123,6 +1123,19 @@
         }
       ],
       "id": "F65*bdb0e670-3459-4c8b-8485-01fbb2892c79"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I160*2436b5ac-c18a-450c-aabe-fccaa1752c7f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I159*f56465ab-41a8-4ca4-8d53-c92de5effb05"
+        }
+      ],
+      "id": "F66*694b0af5-581d-46e8-9829-d68d6c8bbbda"
     }
   ],
   "head": {
@@ -4383,10 +4396,34 @@
           "ref": "F65*bdb0e670-3459-4c8b-8485-01fbb2892c79"
         }
       ],
+      "fams": [
+        {
+          "ref": "F66*694b0af5-581d-46e8-9829-d68d6c8bbbda"
+        }
+      ],
       "id": "I159*f56465ab-41a8-4ca4-8d53-c92de5effb05",
       "names": [
         {
           "value": "Op.Japaet //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F66*694b0af5-581d-46e8-9829-d68d6c8bbbda"
+        }
+      ],
+      "id": "I160*2436b5ac-c18a-450c-aabe-fccaa1752c7f",
+      "names": [
+        {
+          "value": "A.Japaet //"
         }
       ],
       "eventsFacts": [
