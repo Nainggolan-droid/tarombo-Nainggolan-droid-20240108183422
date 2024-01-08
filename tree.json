@@ -1298,6 +1298,9 @@
         },
         {
           "ref": "I181*71aa6051-14e5-4a83-a3ac-f7c326b30e66"
+        },
+        {
+          "ref": "I183*0a91b587-ae5b-4a21-9a08-76453d5d29cb"
         }
       ],
       "husbandRefs": [
@@ -5094,6 +5097,25 @@
       "names": [
         {
           "value": " /Limbong/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
+      "id": "I183*0a91b587-ae5b-4a21-9a08-76453d5d29cb",
+      "names": [
+        {
+          "value": "Helen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
