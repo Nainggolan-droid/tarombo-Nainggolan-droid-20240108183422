@@ -1659,6 +1659,9 @@
         },
         {
           "ref": "I227*6d525b24-1d2a-4507-a6ae-356218d42ad9"
+        },
+        {
+          "ref": "I228*0a173da5-c568-4114-bcd6-c3f6829d3ddb"
         }
       ],
       "husbandRefs": [
@@ -6379,6 +6382,25 @@
       "names": [
         {
           "value": "A.Sorna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
+        }
+      ],
+      "id": "I228*0a173da5-c568-4114-bcd6-c3f6829d3ddb",
+      "names": [
+        {
+          "value": "A.Naro //"
         }
       ],
       "eventsFacts": [
