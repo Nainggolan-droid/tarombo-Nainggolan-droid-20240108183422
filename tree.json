@@ -2100,6 +2100,19 @@
           "ref": "I296*fd3ad72e-019e-4327-9897-56135e73521a"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I299*560ace36-4456-492b-8cba-2fb727c45559"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I298*e7e12c01-3cd4-413f-95d5-572f53f2331a"
+        }
+      ],
+      "id": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
     }
   ],
   "head": {
@@ -8230,11 +8243,35 @@
           "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
+        }
+      ],
       "id": "I298*e7e12c01-3cd4-413f-95d5-572f53f2331a",
       "names": [
         {
           "nick": "A.Ricard",
           "value": "Pardon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
+        }
+      ],
+      "id": "I299*560ace36-4456-492b-8cba-2fb727c45559",
+      "names": [
+        {
+          "value": "Ricard //"
         }
       ],
       "eventsFacts": [
