@@ -1546,6 +1546,19 @@
         }
       ],
       "id": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I211*de09f17e-f36b-44b8-8aa7-33dd2a11062d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I197*1ca4c6fb-4b1b-4bb0-b995-f8866a5f8b6c"
+        }
+      ],
+      "id": "F93*2d757ea6-3d84-4237-ba0c-8aba651f40a1"
     }
   ],
   "head": {
@@ -5628,6 +5641,11 @@
           "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F93*2d757ea6-3d84-4237-ba0c-8aba651f40a1"
+        }
+      ],
       "id": "I197*1ca4c6fb-4b1b-4bb0-b995-f8866a5f8b6c",
       "names": [
         {
@@ -5894,6 +5912,25 @@
       "names": [
         {
           "value": "Krisman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F93*2d757ea6-3d84-4237-ba0c-8aba651f40a1"
+        }
+      ],
+      "id": "I211*de09f17e-f36b-44b8-8aa7-33dd2a11062d",
+      "names": [
+        {
+          "value": "A.Salim //"
         }
       ],
       "eventsFacts": [
