@@ -1872,6 +1872,9 @@
         },
         {
           "ref": "I270*562b3554-ac34-4e90-9e66-7c901ea071c7"
+        },
+        {
+          "ref": "I271*4e71dd59-c504-472b-9dc2-8e104f3d5d11"
         }
       ],
       "husbandRefs": [
@@ -7476,6 +7479,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I271*4e71dd59-c504-472b-9dc2-8e104f3d5d11",
+      "names": [
+        {
+          "value": "Rapmauli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
