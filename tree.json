@@ -1295,6 +1295,9 @@
       "childRefs": [
         {
           "ref": "I179*292da349-6ace-4a45-9113-62739b947840"
+        },
+        {
+          "ref": "I181*71aa6051-14e5-4a83-a3ac-f7c326b30e66"
         }
       ],
       "husbandRefs": [
@@ -5041,6 +5044,25 @@
       "names": [
         {
           "value": " /Sibarani/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
+      "id": "I181*71aa6051-14e5-4a83-a3ac-f7c326b30e66",
+      "names": [
+        {
+          "value": "Pattiana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
