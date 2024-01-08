@@ -506,6 +506,19 @@
         }
       ],
       "id": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I81*ecbdc959-033a-4c95-a727-b2df12679373"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I80*0fa81cfc-3fbf-429c-9281-6e83ad15a442"
+        }
+      ],
+      "id": "F28*f225009d-8220-4ce1-b4a1-7a216a365ee0"
     }
   ],
   "head": {
@@ -2151,6 +2164,11 @@
           "ref": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F28*f225009d-8220-4ce1-b4a1-7a216a365ee0"
+        }
+      ],
       "id": "I80*0fa81cfc-3fbf-429c-9281-6e83ad15a442",
       "names": [
         {
@@ -2162,6 +2180,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F28*f225009d-8220-4ce1-b4a1-7a216a365ee0"
+        }
+      ],
+      "id": "I81*ecbdc959-033a-4c95-a727-b2df12679373",
+      "names": [
+        {
+          "value": "Repina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
