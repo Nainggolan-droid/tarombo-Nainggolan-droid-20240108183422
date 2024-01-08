@@ -1602,6 +1602,9 @@
         },
         {
           "ref": "I218*e90e6f71-119e-4d39-b4fe-4e66dde99c26"
+        },
+        {
+          "ref": "I219*8eb559d2-e7ae-4d18-bdf2-936b35787651"
         }
       ],
       "husbandRefs": [
@@ -6136,6 +6139,25 @@
       "names": [
         {
           "value": "Parhalang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
+      "id": "I219*8eb559d2-e7ae-4d18-bdf2-936b35787651",
+      "names": [
+        {
+          "value": "Op.Pamotik //"
         }
       ],
       "eventsFacts": [
