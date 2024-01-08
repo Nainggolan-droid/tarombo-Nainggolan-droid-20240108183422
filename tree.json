@@ -1265,6 +1265,19 @@
         }
       ],
       "id": "F75*b0ed8aff-b960-46fd-b836-298325fa359c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I174*483320ec-2bfa-4dd9-9073-d1d87b35d0e5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I172*666f4366-89f6-4f87-bf86-fb99a09c85ef"
+        }
+      ],
+      "id": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
     }
   ],
   "head": {
@@ -4816,6 +4829,11 @@
           "ref": "F75*b0ed8aff-b960-46fd-b836-298325fa359c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
       "id": "I172*666f4366-89f6-4f87-bf86-fb99a09c85ef",
       "names": [
         {
@@ -4839,6 +4857,25 @@
       "names": [
         {
           "value": "Peter //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
+      "id": "I174*483320ec-2bfa-4dd9-9073-d1d87b35d0e5",
+      "names": [
+        {
+          "value": "Sikkat //"
         }
       ],
       "eventsFacts": [
