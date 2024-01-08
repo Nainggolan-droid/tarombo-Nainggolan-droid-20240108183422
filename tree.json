@@ -949,6 +949,9 @@
         },
         {
           "ref": "I137*e2ebf94f-ec2c-415e-90f0-ce8fed248476"
+        },
+        {
+          "ref": "I138*bd4a9105-06ea-4c5f-8f73-69cc04545d7e"
         }
       ],
       "husbandRefs": [
@@ -3752,6 +3755,25 @@
       "names": [
         {
           "value": "Op.Miantardolok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
+        }
+      ],
+      "id": "I138*bd4a9105-06ea-4c5f-8f73-69cc04545d7e",
+      "names": [
+        {
+          "value": "Op.Batu Lamak //"
         }
       ],
       "eventsFacts": [
