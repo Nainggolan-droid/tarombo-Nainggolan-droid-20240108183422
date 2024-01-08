@@ -1380,6 +1380,19 @@
           "ref": "I187*9601ac15-c113-428a-8b11-8b8267327eb3"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I189*ef53d551-c576-4c44-a941-5c5319e51f87"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I168*7efff20b-1373-4b73-9fae-3586afa38578"
+        }
+      ],
+      "id": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
     }
   ],
   "head": {
@@ -4851,6 +4864,11 @@
           "ref": "F72*fc20523c-3e66-43fe-9e18-a1eaa80494d2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
+        }
+      ],
       "id": "I168*7efff20b-1373-4b73-9fae-3586afa38578",
       "names": [
         {
@@ -5266,6 +5284,25 @@
       "names": [
         {
           "value": " /Pasaribu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
+        }
+      ],
+      "id": "I189*ef53d551-c576-4c44-a941-5c5319e51f87",
+      "names": [
+        {
+          "value": "Op.Bagur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
