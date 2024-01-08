@@ -1653,6 +1653,9 @@
       "childRefs": [
         {
           "ref": "I225*dbe02dcb-346b-48e9-b727-871ec41daeb2"
+        },
+        {
+          "ref": "I226*b1a04bb0-58d2-464f-8b7d-867de6fd66b4"
         }
       ],
       "husbandRefs": [
@@ -6335,6 +6338,25 @@
       "names": [
         {
           "value": "Op.Hopal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
+        }
+      ],
+      "id": "I226*b1a04bb0-58d2-464f-8b7d-867de6fd66b4",
+      "names": [
+        {
+          "value": "A.Hukkam //"
         }
       ],
       "eventsFacts": [
