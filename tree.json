@@ -868,6 +868,19 @@
         }
       ],
       "id": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I125*83200a53-188b-47dd-8837-b8069f9a89bf"
+        }
+      ],
+      "id": "F51*aae7a3b2-9ca2-4f37-b359-39e915d79a10",
+      "wifeRefs": [
+        {
+          "ref": "I124*1610f861-e746-4b5d-a4b0-4b5232acbdff"
+        }
+      ]
     }
   ],
   "head": {
@@ -3398,6 +3411,11 @@
           "ref": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F51*aae7a3b2-9ca2-4f37-b359-39e915d79a10"
+        }
+      ],
       "id": "I124*1610f861-e746-4b5d-a4b0-4b5232acbdff",
       "names": [
         {
@@ -3408,6 +3426,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F51*aae7a3b2-9ca2-4f37-b359-39e915d79a10"
+        }
+      ],
+      "id": "I125*83200a53-188b-47dd-8837-b8069f9a89bf",
+      "names": [
+        {
+          "value": " /Sigalingging/"
         }
       ]
     }
