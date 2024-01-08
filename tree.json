@@ -1083,6 +1083,9 @@
       "childRefs": [
         {
           "ref": "I155*fa17c0f4-7ade-4562-ac29-15ee1cdd0c5f"
+        },
+        {
+          "ref": "I156*9e019269-fa70-4e57-bf7a-9626ca899716"
         }
       ],
       "husbandRefs": [
@@ -4269,6 +4272,25 @@
       "names": [
         {
           "value": "Op.Pairing //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
+        }
+      ],
+      "id": "I156*9e019269-fa70-4e57-bf7a-9626ca899716",
+      "names": [
+        {
+          "value": "Op.Sobongguron //"
         }
       ],
       "eventsFacts": [
