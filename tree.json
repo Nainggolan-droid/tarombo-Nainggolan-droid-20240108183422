@@ -1276,6 +1276,9 @@
         },
         {
           "ref": "I176*a057a40f-edac-457a-a504-7f66ea8a7bfb"
+        },
+        {
+          "ref": "I177*9034f4ff-3480-47b7-a491-603765c783e5"
         }
       ],
       "husbandRefs": [
@@ -4921,6 +4924,25 @@
       "names": [
         {
           "value": "Sahatna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
+      "id": "I177*9034f4ff-3480-47b7-a491-603765c783e5",
+      "names": [
+        {
+          "value": "Pardamean //"
         }
       ],
       "eventsFacts": [
