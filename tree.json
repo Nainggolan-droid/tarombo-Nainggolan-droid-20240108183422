@@ -1949,6 +1949,9 @@
         },
         {
           "ref": "I277*a968912a-58e5-4311-82d6-0b90ab4a66ce"
+        },
+        {
+          "ref": "I278*e010a14f-7227-48ab-ab71-491eaa0990aa"
         }
       ],
       "husbandRefs": [
@@ -7664,6 +7667,25 @@
       "names": [
         {
           "value": "Merika //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+        }
+      ],
+      "id": "I278*e010a14f-7227-48ab-ab71-491eaa0990aa",
+      "names": [
+        {
+          "value": "Kordina //"
         }
       ],
       "eventsFacts": [
