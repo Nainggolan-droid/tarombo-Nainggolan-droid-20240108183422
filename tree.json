@@ -1301,6 +1301,9 @@
         },
         {
           "ref": "I183*0a91b587-ae5b-4a21-9a08-76453d5d29cb"
+        },
+        {
+          "ref": "I185*b63aec7c-8eec-44fe-91c9-01aba57e3e86"
         }
       ],
       "husbandRefs": [
@@ -5147,6 +5150,25 @@
       "names": [
         {
           "value": " /Sihombing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
+      "id": "I185*b63aec7c-8eec-44fe-91c9-01aba57e3e86",
+      "names": [
+        {
+          "value": "Lamhot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
