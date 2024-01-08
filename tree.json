@@ -498,6 +498,9 @@
       "childRefs": [
         {
           "ref": "I80*0fa81cfc-3fbf-429c-9281-6e83ad15a442"
+        },
+        {
+          "ref": "I82*dae7efb3-9466-4b8f-8b9d-0c0af5b7d393"
         }
       ],
       "husbandRefs": [
@@ -2199,6 +2202,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
+        }
+      ],
+      "id": "I82*dae7efb3-9466-4b8f-8b9d-0c0af5b7d393",
+      "names": [
+        {
+          "value": "Marasi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
