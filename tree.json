@@ -1516,6 +1516,9 @@
         },
         {
           "ref": "I206*e88625ba-62ed-4e48-abf0-58bd171315b5"
+        },
+        {
+          "ref": "I207*d0bd2c74-a214-4c92-8b32-22e02c190f3d"
         }
       ],
       "husbandRefs": [
@@ -5791,6 +5794,25 @@
       "names": [
         {
           "value": "Kander //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F91*7febbbaf-de5b-4c59-a388-879003547b38"
+        }
+      ],
+      "id": "I207*d0bd2c74-a214-4c92-8b32-22e02c190f3d",
+      "names": [
+        {
+          "value": "Pahala //"
         }
       ],
       "eventsFacts": [
