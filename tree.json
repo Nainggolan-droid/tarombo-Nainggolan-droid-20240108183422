@@ -1922,6 +1922,19 @@
           "ref": "I271*4e71dd59-c504-472b-9dc2-8e104f3d5d11"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I273*cf481ef2-af26-409e-9348-370163aa368c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I263*24cd9e4e-e7ba-4be9-ab9d-90d608a3ad3b"
+        }
+      ],
+      "id": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
     }
   ],
   "head": {
@@ -7349,6 +7362,11 @@
           "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
         }
       ],
+      "fams": [
+        {
+          "ref": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
+        }
+      ],
       "id": "I263*24cd9e4e-e7ba-4be9-ab9d-90d608a3ad3b",
       "names": [
         {
@@ -7530,6 +7548,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F112*18a3cac7-91da-420f-b567-957cc74416e6"
+        }
+      ],
+      "id": "I273*cf481ef2-af26-409e-9348-370163aa368c",
+      "names": [
+        {
+          "value": "Mery //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
