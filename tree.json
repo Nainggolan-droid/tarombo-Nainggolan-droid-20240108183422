@@ -1409,6 +1409,19 @@
         }
       ],
       "id": "F84*d6d85a54-1ae3-4954-a476-700541d29985"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I192*23ad81e5-d247-4f9a-aa6d-1b16c1260316"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I191*9abcc5ec-a854-414d-9635-27e2a8e424bb"
+        }
+      ],
+      "id": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
     }
   ],
   "head": {
@@ -5352,10 +5365,34 @@
           "ref": "F84*d6d85a54-1ae3-4954-a476-700541d29985"
         }
       ],
+      "fams": [
+        {
+          "ref": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
+        }
+      ],
       "id": "I191*9abcc5ec-a854-414d-9635-27e2a8e424bb",
       "names": [
         {
           "value": "Ap.Nagara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
+        }
+      ],
+      "id": "I192*23ad81e5-d247-4f9a-aa6d-1b16c1260316",
+      "names": [
+        {
+          "value": "Saniang //"
         }
       ],
       "eventsFacts": [
