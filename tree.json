@@ -1955,6 +1955,9 @@
         },
         {
           "ref": "I279*ef2a9c70-29ac-4881-8697-f357c9e2ab3f"
+        },
+        {
+          "ref": "I280*414bea14-0935-49a9-ad69-86eafa8fe6d1"
         }
       ],
       "husbandRefs": [
@@ -7714,6 +7717,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+        }
+      ],
+      "id": "I280*414bea14-0935-49a9-ad69-86eafa8fe6d1",
+      "names": [
+        {
+          "value": "Barita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
