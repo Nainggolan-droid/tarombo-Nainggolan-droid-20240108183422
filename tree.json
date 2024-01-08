@@ -450,6 +450,9 @@
       "childRefs": [
         {
           "ref": "I74*8a734f84-a391-48b0-a386-3eb07aa090e8"
+        },
+        {
+          "ref": "I75*a6a4b426-ac6f-4455-b4a7-abe36fd9fecb"
         }
       ],
       "husbandRefs": [
@@ -1983,6 +1986,25 @@
       "names": [
         {
           "value": "Kopon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F24*a8f86700-f336-43b8-85c9-787b9f077080"
+        }
+      ],
+      "id": "I75*a6a4b426-ac6f-4455-b4a7-abe36fd9fecb",
+      "names": [
+        {
+          "value": "Aman //"
         }
       ],
       "eventsFacts": [
