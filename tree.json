@@ -2183,6 +2183,19 @@
         }
       ],
       "id": "F126*6c113b27-2828-49bc-9b4c-c36a644d4b67"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I310*fbb82378-97b9-47f2-8f73-e3aa12cbb43a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I226*b1a04bb0-58d2-464f-8b7d-867de6fd66b4"
+        }
+      ],
+      "id": "F127*3cf9bd1c-c33e-44e0-8279-014a5f58f88f"
     }
   ],
   "head": {
@@ -6877,6 +6890,11 @@
           "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F127*3cf9bd1c-c33e-44e0-8279-014a5f58f88f"
+        }
+      ],
       "id": "I226*b1a04bb0-58d2-464f-8b7d-867de6fd66b4",
       "names": [
         {
@@ -8541,6 +8559,25 @@
       "names": [
         {
           "value": "Bagian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F127*3cf9bd1c-c33e-44e0-8279-014a5f58f88f"
+        }
+      ],
+      "id": "I310*fbb82378-97b9-47f2-8f73-e3aa12cbb43a",
+      "names": [
+        {
+          "value": "Martahan //"
         }
       ],
       "eventsFacts": [
