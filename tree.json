@@ -1039,6 +1039,9 @@
       "childRefs": [
         {
           "ref": "I147*6f727f3c-0702-428b-9619-24e769d3e2a3"
+        },
+        {
+          "ref": "I148*42613997-6d49-40e4-a3db-6070d37f6db9"
         }
       ],
       "husbandRefs": [
@@ -4062,6 +4065,25 @@
       "names": [
         {
           "value": "A.Sohagijangan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I148*42613997-6d49-40e4-a3db-6070d37f6db9",
+      "names": [
+        {
+          "value": "Tahi Sumurung //"
         }
       ],
       "eventsFacts": [
