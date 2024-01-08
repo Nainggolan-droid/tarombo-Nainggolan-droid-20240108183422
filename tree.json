@@ -1451,6 +1451,19 @@
         }
       ],
       "id": "F87*84577a8b-e050-4292-bb4e-4c1a1421278b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I196*abad85ae-f8a9-4bfb-ac2e-c1831562701a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I190*4b659e67-5ad7-4663-8aea-304a49bd78e4"
+        }
+      ],
+      "id": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
     }
   ],
   "head": {
@@ -5375,6 +5388,11 @@
           "ref": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
+        }
+      ],
       "id": "I190*4b659e67-5ad7-4663-8aea-304a49bd78e4",
       "names": [
         {
@@ -5489,6 +5507,25 @@
       "names": [
         {
           "value": "Rait //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
+        }
+      ],
+      "id": "I196*abad85ae-f8a9-4bfb-ac2e-c1831562701a",
+      "names": [
+        {
+          "value": "Op.Jaussa //"
         }
       ],
       "eventsFacts": [
