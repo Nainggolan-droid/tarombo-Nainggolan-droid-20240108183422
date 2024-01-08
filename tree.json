@@ -916,6 +916,19 @@
         }
       ],
       "id": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I131*538d0b9b-45da-4f4b-89ae-ee9360603679"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I128*69a26f07-31e5-4b02-b042-ae1a32baeb96"
+        }
+      ],
+      "id": "F54*1e579c52-a073-4ff0-86db-a0293c43d655"
     }
   ],
   "head": {
@@ -3525,6 +3538,11 @@
           "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
         }
       ],
+      "fams": [
+        {
+          "ref": "F54*1e579c52-a073-4ff0-86db-a0293c43d655"
+        }
+      ],
       "id": "I128*69a26f07-31e5-4b02-b042-ae1a32baeb96",
       "names": [
         {
@@ -3568,6 +3586,25 @@
         {
           "nick": "Rj.Mangosong",
           "value": "Op.Sohagijangan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F54*1e579c52-a073-4ff0-86db-a0293c43d655"
+        }
+      ],
+      "id": "I131*538d0b9b-45da-4f4b-89ae-ee9360603679",
+      "names": [
+        {
+          "value": "Ampan Jojang //"
         }
       ],
       "eventsFacts": [
