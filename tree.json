@@ -1974,6 +1974,9 @@
         },
         {
           "ref": "I282*f8cebbde-8282-4282-9e29-8bf6693f48f2"
+        },
+        {
+          "ref": "I283*1b4acac1-dbdb-4216-954e-dfa16d83016a"
         }
       ],
       "husbandRefs": [
@@ -7789,6 +7792,25 @@
       "names": [
         {
           "value": "Torgaji //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
+        }
+      ],
+      "id": "I283*1b4acac1-dbdb-4216-954e-dfa16d83016a",
+      "names": [
+        {
+          "value": "Jahira //"
         }
       ],
       "eventsFacts": [
