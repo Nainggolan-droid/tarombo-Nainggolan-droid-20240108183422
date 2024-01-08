@@ -744,6 +744,9 @@
       "childRefs": [
         {
           "ref": "I112*c51a9c15-fba1-472b-924a-52e14acb37c7"
+        },
+        {
+          "ref": "I114*1b374a55-7fbd-41ed-9d29-04cae240d8af"
         }
       ],
       "husbandRefs": [
@@ -3081,6 +3084,25 @@
       "names": [
         {
           "value": " /Saragi/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
+        }
+      ],
+      "id": "I114*1b374a55-7fbd-41ed-9d29-04cae240d8af",
+      "names": [
+        {
+          "value": "Elita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
