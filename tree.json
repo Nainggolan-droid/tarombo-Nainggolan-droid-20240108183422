@@ -905,6 +905,9 @@
         },
         {
           "ref": "I129*cbabc71d-148c-42ea-959b-a4d588e2c05f"
+        },
+        {
+          "ref": "I130*398511d8-637a-41ba-a7dd-7fb05b796857"
         }
       ],
       "husbandRefs": [
@@ -3545,6 +3548,25 @@
       "names": [
         {
           "value": "Op.Riam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
+        }
+      ],
+      "id": "I130*398511d8-637a-41ba-a7dd-7fb05b796857",
+      "names": [
+        {
+          "value": "Op.Sohagijangan //"
         }
       ],
       "eventsFacts": [
