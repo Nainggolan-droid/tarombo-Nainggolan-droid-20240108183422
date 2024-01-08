@@ -1993,6 +1993,9 @@
         },
         {
           "ref": "I288*34d6893d-e94f-41a1-b169-fb5f9130394f"
+        },
+        {
+          "ref": "I290*c46830d7-831c-4964-b884-cdfa39e11ddd"
         }
       ],
       "husbandRefs": [
@@ -7991,6 +7994,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I290*c46830d7-831c-4964-b884-cdfa39e11ddd",
+      "names": [
+        {
+          "value": "Sudin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
