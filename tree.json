@@ -1254,6 +1254,9 @@
       "childRefs": [
         {
           "ref": "I172*666f4366-89f6-4f87-bf86-fb99a09c85ef"
+        },
+        {
+          "ref": "I173*5372c4ca-4d6e-4c17-b6df-602cbf6e108a"
         }
       ],
       "husbandRefs": [
@@ -4817,6 +4820,25 @@
       "names": [
         {
           "value": "St.Marthin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F75*b0ed8aff-b960-46fd-b836-298325fa359c"
+        }
+      ],
+      "id": "I173*5372c4ca-4d6e-4c17-b6df-602cbf6e108a",
+      "names": [
+        {
+          "value": "Peter //"
         }
       ],
       "eventsFacts": [
