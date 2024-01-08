@@ -562,6 +562,9 @@
       "childRefs": [
         {
           "ref": "I88*4765b4a1-5391-4be7-bdf8-21eed8b4b392"
+        },
+        {
+          "ref": "I90*fc6e54ae-67e8-495e-b585-a7a49044bca1"
         }
       ],
       "husbandRefs": [
@@ -2423,6 +2426,25 @@
       "names": [
         {
           "value": " /Pakpahan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
+        }
+      ],
+      "id": "I90*fc6e54ae-67e8-495e-b585-a7a49044bca1",
+      "names": [
+        {
+          "value": "Tiurmaida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
