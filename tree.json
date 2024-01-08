@@ -1632,6 +1632,19 @@
         }
       ],
       "id": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I223*7a0292be-c9c9-45a0-aab6-8defc3f4767e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I220*df899f1a-1c0e-4ce0-93ff-59206ace637b"
+        }
+      ],
+      "id": "F98*b57ad7db-0226-4a3c-b37e-bba675e6250d"
     }
   ],
   "head": {
@@ -6197,6 +6210,11 @@
           "ref": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F98*b57ad7db-0226-4a3c-b37e-bba675e6250d"
+        }
+      ],
       "id": "I220*df899f1a-1c0e-4ce0-93ff-59206ace637b",
       "names": [
         {
@@ -6239,6 +6257,25 @@
       "names": [
         {
           "value": "Op.Batusokkal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F98*b57ad7db-0226-4a3c-b37e-bba675e6250d"
+        }
+      ],
+      "id": "I223*7a0292be-c9c9-45a0-aab6-8defc3f4767e",
+      "names": [
+        {
+          "value": "Sumatahut //"
         }
       ],
       "eventsFacts": [
