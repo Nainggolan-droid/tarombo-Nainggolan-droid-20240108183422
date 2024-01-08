@@ -1753,6 +1753,9 @@
         },
         {
           "ref": "I245*2bda1c07-264a-4d05-9c78-ab1573ed18c9"
+        },
+        {
+          "ref": "I246*db665dbb-6ec8-4bde-8c2c-8329567be142"
         }
       ],
       "husbandRefs": [
@@ -6841,6 +6844,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
+        }
+      ],
+      "id": "I246*db665dbb-6ec8-4bde-8c2c-8329567be142",
+      "names": [
+        {
+          "value": "Kabir //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
