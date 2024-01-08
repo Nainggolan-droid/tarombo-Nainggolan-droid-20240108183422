@@ -855,6 +855,19 @@
           "ref": "I122*1eed2a36-97db-4e12-955e-11625090e32d"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I124*1610f861-e746-4b5d-a4b0-4b5232acbdff"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I73*cf5ae1c1-bb07-44cb-b4c7-18506970964d"
+        }
+      ],
+      "id": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
     }
   ],
   "head": {
@@ -2377,6 +2390,11 @@
           "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
         }
       ],
+      "fams": [
+        {
+          "ref": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
+        }
+      ],
       "id": "I73*cf5ae1c1-bb07-44cb-b4c7-18506970964d",
       "names": [
         {
@@ -3371,6 +3389,25 @@
       "names": [
         {
           "value": " /Simanjuntak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F50*00aa94bf-a63d-49d2-91e1-95f29ef6fb5a"
+        }
+      ],
+      "id": "I124*1610f861-e746-4b5d-a4b0-4b5232acbdff",
+      "names": [
+        {
+          "value": "Nai.Sahat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
