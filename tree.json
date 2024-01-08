@@ -428,6 +428,9 @@
         },
         {
           "ref": "I70*09058b58-5d86-4312-b634-8c9788423566"
+        },
+        {
+          "ref": "I71*e2e50efa-7c8f-49e3-9fcc-a87c7bb5d865"
         }
       ],
       "husbandRefs": [
@@ -1880,6 +1883,25 @@
       "names": [
         {
           "value": "Uel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
+        }
+      ],
+      "id": "I71*e2e50efa-7c8f-49e3-9fcc-a87c7bb5d865",
+      "names": [
+        {
+          "value": "Gessor //"
         }
       ],
       "eventsFacts": [
