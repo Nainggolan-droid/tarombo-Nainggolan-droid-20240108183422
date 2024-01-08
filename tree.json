@@ -1162,6 +1162,19 @@
         }
       ],
       "id": "F68*e9ed2827-526c-4e50-81b2-12257b146ef0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I163*df9301c2-640b-458e-a369-c473f12dbe3d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I162*ea5c4f30-aaf3-4fe7-9b30-abd0fdbfde82"
+        }
+      ],
+      "id": "F69*5d8e166a-d5a0-4dea-9cd8-de1c40c4e6ee"
     }
   ],
   "head": {
@@ -4494,10 +4507,34 @@
           "ref": "F68*e9ed2827-526c-4e50-81b2-12257b146ef0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F69*5d8e166a-d5a0-4dea-9cd8-de1c40c4e6ee"
+        }
+      ],
       "id": "I162*ea5c4f30-aaf3-4fe7-9b30-abd0fdbfde82",
       "names": [
         {
           "value": "A.Taronggi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F69*5d8e166a-d5a0-4dea-9cd8-de1c40c4e6ee"
+        }
+      ],
+      "id": "I163*df9301c2-640b-458e-a369-c473f12dbe3d",
+      "names": [
+        {
+          "value": "A.Ambi //"
         }
       ],
       "eventsFacts": [
