@@ -1532,6 +1532,9 @@
       "childRefs": [
         {
           "ref": "I208*97803e4c-5024-422f-b618-423e85f7f2c8"
+        },
+        {
+          "ref": "I209*81624c8f-9237-4161-a2ca-c276208470ef"
         }
       ],
       "husbandRefs": [
@@ -5850,6 +5853,25 @@
       "names": [
         {
           "value": "Marhaum //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F92*ec95895d-d28e-457a-a99b-2be55583729c"
+        }
+      ],
+      "id": "I209*81624c8f-9237-4161-a2ca-c276208470ef",
+      "names": [
+        {
+          "value": "Parel //"
         }
       ],
       "eventsFacts": [
