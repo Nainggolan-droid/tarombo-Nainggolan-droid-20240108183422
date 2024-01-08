@@ -1459,6 +1459,9 @@
         },
         {
           "ref": "I197*1ca4c6fb-4b1b-4bb0-b995-f8866a5f8b6c"
+        },
+        {
+          "ref": "I198*fab1c4d7-25e6-4743-882e-37e1aa9f016f"
         }
       ],
       "husbandRefs": [
@@ -5548,6 +5551,25 @@
       "names": [
         {
           "value": "A.Salim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
+        }
+      ],
+      "id": "I198*fab1c4d7-25e6-4743-882e-37e1aa9f016f",
+      "names": [
+        {
+          "value": "Op.Mandor Babiat //"
         }
       ],
       "eventsFacts": [
