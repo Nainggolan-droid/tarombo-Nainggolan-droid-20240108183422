@@ -1700,6 +1700,9 @@
       "childRefs": [
         {
           "ref": "I234*fe03530b-e806-4b03-9bd8-00844f5c3047"
+        },
+        {
+          "ref": "I235*95265815-c6e6-40c8-9814-7c3c4006147a"
         }
       ],
       "husbandRefs": [
@@ -6563,6 +6566,25 @@
       "names": [
         {
           "value": "Luther //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F101*c2ea029f-ce49-415b-b7f7-e5a5e1ad83b8"
+        }
+      ],
+      "id": "I235*95265815-c6e6-40c8-9814-7c3c4006147a",
+      "names": [
+        {
+          "value": "Bangso //"
         }
       ],
       "eventsFacts": [
