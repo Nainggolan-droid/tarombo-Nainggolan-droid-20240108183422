@@ -813,6 +813,19 @@
           "ref": "I118*97033beb-58f0-404a-991a-956e29ae9e3a"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I120*9fa62b23-f0ec-4d54-a454-962c9ced31ba"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I72*49bf53cf-9e7f-4fdc-a132-e190d690d1e9"
+        }
+      ],
+      "id": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
     }
   ],
   "head": {
@@ -2311,6 +2324,11 @@
           "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
         }
       ],
+      "fams": [
+        {
+          "ref": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
+        }
+      ],
       "id": "I72*49bf53cf-9e7f-4fdc-a132-e190d690d1e9",
       "names": [
         {
@@ -3242,6 +3260,25 @@
       "names": [
         {
           "value": " /Simanjuntak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F47*49b596f5-2b48-457d-9915-0ad296daf2c2"
+        }
+      ],
+      "id": "I120*9fa62b23-f0ec-4d54-a454-962c9ced31ba",
+      "names": [
+        {
+          "value": "Sindar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
