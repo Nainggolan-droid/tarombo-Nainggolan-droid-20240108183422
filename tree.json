@@ -1065,6 +1065,19 @@
         }
       ],
       "id": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I154*0354af3c-cfd3-4802-aa18-828be7cf84c1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I8*f05de988-2290-4808-b39e-8380c951b34e"
+        }
+      ],
+      "id": "F62*a1225272-e940-412d-b6ed-73d4fa799897"
     }
   ],
   "head": {
@@ -1246,6 +1259,11 @@
       "famc": [
         {
           "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F62*a1225272-e940-412d-b6ed-73d4fa799897"
         }
       ],
       "id": "I8*f05de988-2290-4808-b39e-8380c951b34e",
@@ -4195,6 +4213,25 @@
       "names": [
         {
           "value": "Op.Siporhis Bululaga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F62*a1225272-e940-412d-b6ed-73d4fa799897"
+        }
+      ],
+      "id": "I154*0354af3c-cfd3-4802-aa18-828be7cf84c1",
+      "names": [
+        {
+          "value": "Panebur //"
         }
       ],
       "eventsFacts": [
