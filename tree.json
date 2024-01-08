@@ -1456,6 +1456,9 @@
       "childRefs": [
         {
           "ref": "I196*abad85ae-f8a9-4bfb-ac2e-c1831562701a"
+        },
+        {
+          "ref": "I197*1ca4c6fb-4b1b-4bb0-b995-f8866a5f8b6c"
         }
       ],
       "husbandRefs": [
@@ -5526,6 +5529,25 @@
       "names": [
         {
           "value": "Op.Jaussa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F88*7bc9aea4-049e-4c09-97b9-8b6329e8123b"
+        }
+      ],
+      "id": "I197*1ca4c6fb-4b1b-4bb0-b995-f8866a5f8b6c",
+      "names": [
+        {
+          "value": "A.Salim //"
         }
       ],
       "eventsFacts": [
