@@ -1279,6 +1279,9 @@
         },
         {
           "ref": "I177*9034f4ff-3480-47b7-a491-603765c783e5"
+        },
+        {
+          "ref": "I178*d5deff8c-d7b9-417c-b18f-bf11fa0338d8"
         }
       ],
       "husbandRefs": [
@@ -4943,6 +4946,25 @@
       "names": [
         {
           "value": "Pardamean //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
+      "id": "I178*d5deff8c-d7b9-417c-b18f-bf11fa0338d8",
+      "names": [
+        {
+          "value": "Sonar //"
         }
       ],
       "eventsFacts": [
