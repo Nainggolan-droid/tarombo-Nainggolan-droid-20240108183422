@@ -546,6 +546,9 @@
       "childRefs": [
         {
           "ref": "I86*9b8201de-5d16-4328-a064-a800d571dddc"
+        },
+        {
+          "ref": "I87*8d1aebea-f800-46fa-93ed-49381b4cce0c"
         }
       ],
       "husbandRefs": [
@@ -2327,6 +2330,25 @@
       "names": [
         {
           "value": "Erikben //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F30*53f2fe5e-fd96-4f41-a300-b5c1a351df95"
+        }
+      ],
+      "id": "I87*8d1aebea-f800-46fa-93ed-49381b4cce0c",
+      "names": [
+        {
+          "value": "Aslon //"
         }
       ],
       "eventsFacts": [
