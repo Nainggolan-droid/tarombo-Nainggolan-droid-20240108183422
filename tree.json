@@ -1725,6 +1725,9 @@
         },
         {
           "ref": "I239*773dfa8c-4ee1-40bb-bf48-602a5324c7c0"
+        },
+        {
+          "ref": "I240*471c5cfa-0b34-4b6e-9477-2a6f26cc921f"
         }
       ],
       "husbandRefs": [
@@ -6688,6 +6691,25 @@
       "names": [
         {
           "value": "Uba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*c6fc8492-af4c-40be-a080-2bd54335cb07"
+        }
+      ],
+      "id": "I240*471c5cfa-0b34-4b6e-9477-2a6f26cc921f",
+      "names": [
+        {
+          "value": "Dongan //"
         }
       ],
       "eventsFacts": [
