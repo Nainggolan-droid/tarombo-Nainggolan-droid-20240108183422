@@ -2196,6 +2196,19 @@
         }
       ],
       "id": "F127*3cf9bd1c-c33e-44e0-8279-014a5f58f88f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I311*5a34d247-a351-46eb-813b-6c202c1b49c9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I310*fbb82378-97b9-47f2-8f73-e3aa12cbb43a"
+        }
+      ],
+      "id": "F128*5cbf6d86-3f2f-4816-aaf0-69a4bde85a34"
     }
   ],
   "head": {
@@ -8574,10 +8587,34 @@
           "ref": "F127*3cf9bd1c-c33e-44e0-8279-014a5f58f88f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F128*5cbf6d86-3f2f-4816-aaf0-69a4bde85a34"
+        }
+      ],
       "id": "I310*fbb82378-97b9-47f2-8f73-e3aa12cbb43a",
       "names": [
         {
           "value": "Martahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F128*5cbf6d86-3f2f-4816-aaf0-69a4bde85a34"
+        }
+      ],
+      "id": "I311*5a34d247-a351-46eb-813b-6c202c1b49c9",
+      "names": [
+        {
+          "value": "A.Sidik //"
         }
       ],
       "eventsFacts": [
