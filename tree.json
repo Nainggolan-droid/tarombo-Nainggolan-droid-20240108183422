@@ -1869,6 +1869,9 @@
         },
         {
           "ref": "I268*96569484-740e-4fae-954c-5d32022584f3"
+        },
+        {
+          "ref": "I270*562b3554-ac34-4e90-9e66-7c901ea071c7"
         }
       ],
       "husbandRefs": [
@@ -7454,6 +7457,25 @@
       "names": [
         {
           "value": " /Sigalingging/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I270*562b3554-ac34-4e90-9e66-7c901ea071c7",
+      "names": [
+        {
+          "value": "Salmon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
