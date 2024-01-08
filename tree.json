@@ -2233,6 +2233,9 @@
         },
         {
           "ref": "I315*3ee0b0e7-a551-4f93-a907-6487168245d1"
+        },
+        {
+          "ref": "I316*22663cdb-160b-47df-bacb-781c05719121"
         }
       ],
       "husbandRefs": [
@@ -8733,6 +8736,25 @@
       "names": [
         {
           "value": "Mariam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F130*fb8c1905-c39f-424c-a974-e966099d8565"
+        }
+      ],
+      "id": "I316*22663cdb-160b-47df-bacb-781c05719121",
+      "names": [
+        {
+          "value": "Dapot //"
         }
       ],
       "eventsFacts": [
