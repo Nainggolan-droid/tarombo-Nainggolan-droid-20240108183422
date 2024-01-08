@@ -1675,6 +1675,9 @@
       "childRefs": [
         {
           "ref": "I229*b11f688f-ece2-457e-9954-7819f7659bbb"
+        },
+        {
+          "ref": "I230*b92352e4-caf4-45ec-9b7e-d9e02427249d"
         }
       ],
       "husbandRefs": [
@@ -6438,6 +6441,25 @@
       "names": [
         {
           "value": "A.Lima //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
+        }
+      ],
+      "id": "I230*b92352e4-caf4-45ec-9b7e-d9e02427249d",
+      "names": [
+        {
+          "value": "A.Nian //"
         }
       ],
       "eventsFacts": [
