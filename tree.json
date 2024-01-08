@@ -1998,6 +1998,19 @@
         }
       ],
       "id": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I285*c74a1197-bf92-4d98-bc92-b6379aecae91"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I284*68d929f2-0bbf-40aa-b1ac-8d4926f42649"
+        }
+      ],
+      "id": "F116*469b2f9c-d59d-4d73-bb45-f0d9f080ee8b"
     }
   ],
   "head": {
@@ -7845,6 +7858,11 @@
           "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F116*469b2f9c-d59d-4d73-bb45-f0d9f080ee8b"
+        }
+      ],
       "id": "I284*68d929f2-0bbf-40aa-b1ac-8d4926f42649",
       "names": [
         {
@@ -7856,6 +7874,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F116*469b2f9c-d59d-4d73-bb45-f0d9f080ee8b"
+        }
+      ],
+      "id": "I285*c74a1197-bf92-4d98-bc92-b6379aecae91",
+      "names": [
+        {
+          "value": "Tamaro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
