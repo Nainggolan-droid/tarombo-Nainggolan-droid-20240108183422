@@ -577,6 +577,9 @@
         },
         {
           "ref": "I95*cda9bd3e-0c14-40b3-8910-514a7dde4d5e"
+        },
+        {
+          "ref": "I97*23c40d3c-731c-467e-9293-2299baa69e98"
         }
       ],
       "husbandRefs": [
@@ -2599,6 +2602,25 @@
       "names": [
         {
           "value": " /Hutabarat/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
+        }
+      ],
+      "id": "I97*23c40d3c-731c-467e-9293-2299baa69e98",
+      "names": [
+        {
+          "value": "Verawati //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
