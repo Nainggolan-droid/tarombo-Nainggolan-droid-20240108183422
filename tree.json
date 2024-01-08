@@ -1149,6 +1149,19 @@
         }
       ],
       "id": "F67*90291412-bc00-4d0a-896e-5f4fb022c06c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I162*ea5c4f30-aaf3-4fe7-9b30-abd0fdbfde82"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I161*ab46d2ae-5e96-43f8-b655-e7f40a5d63a9"
+        }
+      ],
+      "id": "F68*e9ed2827-526c-4e50-81b2-12257b146ef0"
     }
   ],
   "head": {
@@ -4457,10 +4470,34 @@
           "ref": "F67*90291412-bc00-4d0a-896e-5f4fb022c06c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F68*e9ed2827-526c-4e50-81b2-12257b146ef0"
+        }
+      ],
       "id": "I161*ab46d2ae-5e96-43f8-b655-e7f40a5d63a9",
       "names": [
         {
           "value": "Op.Taronggi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F68*e9ed2827-526c-4e50-81b2-12257b146ef0"
+        }
+      ],
+      "id": "I162*ea5c4f30-aaf3-4fe7-9b30-abd0fdbfde82",
+      "names": [
+        {
+          "value": "A.Taronggi //"
         }
       ],
       "eventsFacts": [
