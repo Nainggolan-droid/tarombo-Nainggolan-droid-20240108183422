@@ -693,6 +693,9 @@
         },
         {
           "ref": "I105*4af9d74e-30f3-46d9-a849-18f656f436cd"
+        },
+        {
+          "ref": "I106*b14bf11e-fbf4-4d16-a844-3d6a7702a690"
         }
       ],
       "husbandRefs": [
@@ -2856,6 +2859,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F39*27dc6ab4-6cd7-45da-a17b-e49161bae73b"
+        }
+      ],
+      "id": "I106*b14bf11e-fbf4-4d16-a844-3d6a7702a690",
+      "names": [
+        {
+          "value": "Lamria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
