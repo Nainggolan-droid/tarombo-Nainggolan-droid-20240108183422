@@ -1985,6 +1985,19 @@
         }
       ],
       "id": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I284*68d929f2-0bbf-40aa-b1ac-8d4926f42649"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I283*1b4acac1-dbdb-4216-954e-dfa16d83016a"
+        }
+      ],
+      "id": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
     }
   ],
   "head": {
@@ -7807,11 +7820,35 @@
           "ref": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
         }
       ],
+      "fams": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
       "id": "I283*1b4acac1-dbdb-4216-954e-dfa16d83016a",
       "names": [
         {
           "nick": "Op.Yogi",
           "value": "Jahira //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I284*68d929f2-0bbf-40aa-b1ac-8d4926f42649",
+      "names": [
+        {
+          "value": "Albert //"
         }
       ],
       "eventsFacts": [
