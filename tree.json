@@ -453,6 +453,9 @@
         },
         {
           "ref": "I75*a6a4b426-ac6f-4455-b4a7-abe36fd9fecb"
+        },
+        {
+          "ref": "I76*8185a418-1e3b-4dc1-8290-6b80fc260236"
         }
       ],
       "husbandRefs": [
@@ -2005,6 +2008,25 @@
       "names": [
         {
           "value": "Aman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F24*a8f86700-f336-43b8-85c9-787b9f077080"
+        }
+      ],
+      "id": "I76*8185a418-1e3b-4dc1-8290-6b80fc260236",
+      "names": [
+        {
+          "value": "Binam //"
         }
       ],
       "eventsFacts": [
