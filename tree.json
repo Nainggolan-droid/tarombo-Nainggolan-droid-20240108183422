@@ -1966,6 +1966,19 @@
         }
       ],
       "id": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I281*5f1bce44-93aa-44df-80f5-13208bdb9717"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I230*b92352e4-caf4-45ec-9b7e-d9e02427249d"
+        }
+      ],
+      "id": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
     }
   ],
   "head": {
@@ -6741,6 +6754,11 @@
           "ref": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
+        }
+      ],
       "id": "I230*b92352e4-caf4-45ec-9b7e-d9e02427249d",
       "names": [
         {
@@ -7730,6 +7748,25 @@
       "names": [
         {
           "value": "Barita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
+        }
+      ],
+      "id": "I281*5f1bce44-93aa-44df-80f5-13208bdb9717",
+      "names": [
+        {
+          "value": "Manjua //"
         }
       ],
       "eventsFacts": [
