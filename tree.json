@@ -1290,6 +1290,19 @@
         }
       ],
       "id": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I179*292da349-6ace-4a45-9113-62739b947840"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I176*a057a40f-edac-457a-a504-7f66ea8a7bfb"
+        }
+      ],
+      "id": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
     }
   ],
   "head": {
@@ -4923,6 +4936,11 @@
           "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
       "id": "I176*a057a40f-edac-457a-a504-7f66ea8a7bfb",
       "names": [
         {
@@ -4973,6 +4991,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
+      "id": "I179*292da349-6ace-4a45-9113-62739b947840",
+      "names": [
+        {
+          "value": "Hotnida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
