@@ -897,6 +897,19 @@
           "ref": "I126*450acffd-b0f7-4e8d-ba8a-4a3692081067"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I128*69a26f07-31e5-4b02-b042-ae1a32baeb96"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I7*336ad41e-b5db-4f72-8d7f-a759e5bde9dc"
+        }
+      ],
+      "id": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
     }
   ],
   "head": {
@@ -1054,6 +1067,11 @@
       "famc": [
         {
           "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
         }
       ],
       "id": "I7*336ad41e-b5db-4f72-8d7f-a759e5bde9dc",
@@ -3492,6 +3510,25 @@
       "names": [
         {
           "value": " /Hutajulu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
+        }
+      ],
+      "id": "I128*69a26f07-31e5-4b02-b042-ae1a32baeb96",
+      "names": [
+        {
+          "value": "A.Ronggur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
