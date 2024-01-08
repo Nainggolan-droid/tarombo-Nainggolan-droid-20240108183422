@@ -960,6 +960,19 @@
         }
       ],
       "id": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I139*733d4faf-258b-4a79-be13-1638d46b0262"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I135*e2e239f6-64d7-457e-865d-7c7c7ad73d9d"
+        }
+      ],
+      "id": "F56*51038cd8-10b8-424a-a1c2-16392584c5e0"
     }
   ],
   "head": {
@@ -3713,6 +3726,11 @@
           "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F56*51038cd8-10b8-424a-a1c2-16392584c5e0"
+        }
+      ],
       "id": "I135*e2e239f6-64d7-457e-865d-7c7c7ad73d9d",
       "names": [
         {
@@ -3774,6 +3792,25 @@
       "names": [
         {
           "value": "Op.Batu Lamak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F56*51038cd8-10b8-424a-a1c2-16392584c5e0"
+        }
+      ],
+      "id": "I139*733d4faf-258b-4a79-be13-1638d46b0262",
+      "names": [
+        {
+          "value": "Op.Ujung Sahat //"
         }
       ],
       "eventsFacts": [
