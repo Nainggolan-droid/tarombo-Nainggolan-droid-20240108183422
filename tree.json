@@ -1414,6 +1414,9 @@
       "childRefs": [
         {
           "ref": "I192*23ad81e5-d247-4f9a-aa6d-1b16c1260316"
+        },
+        {
+          "ref": "I193*926e934f-8dfb-4623-bc77-a8d6acefa182"
         }
       ],
       "husbandRefs": [
@@ -5393,6 +5396,25 @@
       "names": [
         {
           "value": "Saniang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F85*8b8616ac-aeb4-41aa-a2a9-041b065df091"
+        }
+      ],
+      "id": "I193*926e934f-8dfb-4623-bc77-a8d6acefa182",
+      "names": [
+        {
+          "value": "Parael //"
         }
       ],
       "eventsFacts": [
