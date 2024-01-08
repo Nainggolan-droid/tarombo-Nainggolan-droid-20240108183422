@@ -1860,6 +1860,9 @@
         },
         {
           "ref": "I264*7b613318-d014-425a-ab07-6fdb7900f9ef"
+        },
+        {
+          "ref": "I265*cfc7d973-294a-4989-a524-e434982584e3"
         }
       ],
       "husbandRefs": [
@@ -7320,6 +7323,25 @@
         {
           "nick": "A.Feronika",
           "value": "Angkut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I265*cfc7d973-294a-4989-a524-e434982584e3",
+      "names": [
+        {
+          "value": "Kunto //"
         }
       ],
       "eventsFacts": [
