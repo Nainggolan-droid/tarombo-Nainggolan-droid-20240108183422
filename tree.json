@@ -1220,6 +1220,19 @@
         }
       ],
       "id": "F72*fc20523c-3e66-43fe-9e18-a1eaa80494d2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I169*30101497-d096-4e36-99e9-1881143383a2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I167*1154edd8-3ce2-41ae-9427-49e444bc293d"
+        }
+      ],
+      "id": "F73*188e01ab-2cde-4e13-8828-c72f38d8d0a9"
     }
   ],
   "head": {
@@ -4661,6 +4674,11 @@
           "ref": "F72*fc20523c-3e66-43fe-9e18-a1eaa80494d2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F73*188e01ab-2cde-4e13-8828-c72f38d8d0a9"
+        }
+      ],
       "id": "I167*1154edd8-3ce2-41ae-9427-49e444bc293d",
       "names": [
         {
@@ -4684,6 +4702,25 @@
       "names": [
         {
           "value": "Op.Bohang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F73*188e01ab-2cde-4e13-8828-c72f38d8d0a9"
+        }
+      ],
+      "id": "I169*30101497-d096-4e36-99e9-1881143383a2",
+      "names": [
+        {
+          "value": "Op.Sonar //"
         }
       ],
       "eventsFacts": [
