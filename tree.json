@@ -1,0 +1,1812 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*7acefc2c-5b25-44d0-9ecb-64812ad401c0"
+        },
+        {
+          "ref": "I3*b5e60dab-23c5-4f54-9f46-346bb0b8dec9"
+        },
+        {
+          "ref": "I4*aeb09e44-8ba6-4b9c-9ba7-16de55bed456"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*0700e504-f387-4613-b956-1d6b135be65b"
+        }
+      ],
+      "id": "F1*9da84a82-350b-4e82-a23b-ad29dbef910f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I5*5bf82c31-884a-4c99-8d43-dacea192b272"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I3*b5e60dab-23c5-4f54-9f46-346bb0b8dec9"
+        }
+      ],
+      "id": "F2*b4ed8da0-a497-480c-afb1-d86ae89c9fd0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I6*11f88464-c4fc-4eac-bd03-105b7e9cb1a4"
+        },
+        {
+          "ref": "I7*336ad41e-b5db-4f72-8d7f-a759e5bde9dc"
+        },
+        {
+          "ref": "I8*f05de988-2290-4808-b39e-8380c951b34e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I5*5bf82c31-884a-4c99-8d43-dacea192b272"
+        }
+      ],
+      "id": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I9*fc5a2f2a-ae17-41c7-bea1-29428129bf5b"
+        },
+        {
+          "ref": "I10*bfbf1605-3b86-49dd-b94e-5120d3467370"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I6*11f88464-c4fc-4eac-bd03-105b7e9cb1a4"
+        }
+      ],
+      "id": "F4*b70414fc-e790-492d-8d99-f72dd26b2bf4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I11*837ebfea-52bc-4d47-a8bc-490c67998024"
+        },
+        {
+          "ref": "I12*b8924fef-5ef1-4fae-b4ae-ba8d2d3bb408"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I9*fc5a2f2a-ae17-41c7-bea1-29428129bf5b"
+        }
+      ],
+      "id": "F5*41b706c6-96ca-49d0-a8ce-d71a0bf55664"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I13*8d4e1956-235b-45db-b809-c3c74002d4e9"
+        },
+        {
+          "ref": "I14*3db45a51-79dc-4abf-aabe-7f87457e8968"
+        },
+        {
+          "ref": "I15*d4a82f93-c315-4d2d-9284-15d1a3c1d934"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I11*837ebfea-52bc-4d47-a8bc-490c67998024"
+        }
+      ],
+      "id": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I16*37d26d92-ad43-4ad8-becb-7028d707e71e"
+        },
+        {
+          "ref": "I17*1ad456f2-e815-4d23-b53c-205453bf0293"
+        },
+        {
+          "ref": "I18*74b39912-2063-48f3-9bbe-7ae06df8ba94"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I13*8d4e1956-235b-45db-b809-c3c74002d4e9"
+        }
+      ],
+      "id": "F7*63f4c755-1d49-4654-8b37-18462c3d3f6e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I19*f2094454-07eb-41bd-a424-f0ba480ad2ed"
+        },
+        {
+          "ref": "I20*ca4e0d6f-5eab-4e5b-9a4f-8b1b8c7b22ed"
+        },
+        {
+          "ref": "I21*51d9f9e6-e40f-402a-8aed-bb425e41b6c7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I16*37d26d92-ad43-4ad8-becb-7028d707e71e"
+        }
+      ],
+      "id": "F8*c17f2ebb-0c94-4cf4-8f90-c3960ef1fc50"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I22*b5e5bd77-54f1-4543-8761-ed709a43c8ec"
+        },
+        {
+          "ref": "I23*37dc6923-8301-4520-8cbe-ec24dbea3036"
+        },
+        {
+          "ref": "I24*b2c0ff32-2101-41eb-b470-527316e0d832"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I20*ca4e0d6f-5eab-4e5b-9a4f-8b1b8c7b22ed"
+        }
+      ],
+      "id": "F9*f0abeddf-d18c-4357-8cba-4718e7a3a38c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I25*ad78f82d-67b0-4d34-9798-9bef347f17c9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I22*b5e5bd77-54f1-4543-8761-ed709a43c8ec"
+        }
+      ],
+      "id": "F10*4ef87bf7-90bb-46aa-95a6-d0467a59e6b2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I26*c4008dbe-faba-49cb-8cc1-31b89de64752"
+        },
+        {
+          "ref": "I27*ce4770b2-6571-4aba-8a5d-3728047344e0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I25*ad78f82d-67b0-4d34-9798-9bef347f17c9"
+        }
+      ],
+      "id": "F11*f23963ed-af58-462a-ab28-09179b0f4a83"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I28*6731e3fa-e645-40e0-812c-4f3f57c41a0c"
+        },
+        {
+          "ref": "I29*7963e6bd-d6ec-4a7f-93f9-e534caece1f4"
+        },
+        {
+          "ref": "I30*7dcba332-2247-4865-878a-bad726252e3e"
+        },
+        {
+          "ref": "I31*dd4ead59-1ea9-4098-af03-2f96d065cf7c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I21*51d9f9e6-e40f-402a-8aed-bb425e41b6c7"
+        }
+      ],
+      "id": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I32*af1ecbab-ba2b-4317-8088-1b9250781604"
+        },
+        {
+          "ref": "I33*3a602c2b-90eb-43cd-a89d-d7f69a4db211"
+        },
+        {
+          "ref": "I34*90823d9a-c149-4d1b-9bfc-399336d8828f"
+        },
+        {
+          "ref": "I35*4e094e00-8370-4fe3-885b-7cdcc69aef10"
+        },
+        {
+          "ref": "I36*638cb45e-2bc2-44ec-828f-d1e2e2726943"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I29*7963e6bd-d6ec-4a7f-93f9-e534caece1f4"
+        }
+      ],
+      "id": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I37*752e7ce1-979b-4ee9-88f5-cc35c38a89a5"
+        },
+        {
+          "ref": "I38*f04fb1e9-a062-44c7-9cbb-9e018cd3cb8b"
+        },
+        {
+          "ref": "I39*cc950c3b-6b50-4dfb-8662-17f171a01f93"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I34*90823d9a-c149-4d1b-9bfc-399336d8828f"
+        }
+      ],
+      "id": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I40*f49240ad-ef1d-4e98-a446-e3190f63ffe1"
+        },
+        {
+          "ref": "I41*69c901cf-1578-4dcf-b67f-65d5eee063ae"
+        },
+        {
+          "ref": "I42*76fdfc96-cd65-47e5-ba1c-b4bbf20df766"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I37*752e7ce1-979b-4ee9-88f5-cc35c38a89a5"
+        }
+      ],
+      "id": "F15*707c0e21-47c7-4621-849c-1f6107e93575"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I43*1863686c-03d9-490c-af09-07b2e34956ef"
+        },
+        {
+          "ref": "I44*c75f16b8-ec55-4525-a046-7bbd313bdb74"
+        },
+        {
+          "ref": "I45*e9c35a22-a8f2-4ae4-b179-dd5ca274f899"
+        },
+        {
+          "ref": "I46*a1a65259-7065-49aa-9584-805dc8c611d8"
+        },
+        {
+          "ref": "I47*2e85ab13-b665-46fb-be94-6271e70f1dfe"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I40*f49240ad-ef1d-4e98-a446-e3190f63ffe1"
+        }
+      ],
+      "id": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I48*987c9e43-145e-4238-900f-a7f35f3b0ed4"
+        },
+        {
+          "ref": "I49*98af9ed9-7188-47d8-b74f-b1079f1664b1"
+        },
+        {
+          "ref": "I50*0c87ce13-29af-4c15-935a-53f9ae7cfc8d"
+        },
+        {
+          "ref": "I51*05718f24-0911-4482-8845-45f7672981b8"
+        },
+        {
+          "ref": "I52*7e478bb4-6558-43db-822e-8ab40b3bc1b1"
+        },
+        {
+          "ref": "I53*490ca009-16bb-4b4b-9e92-fa195bafe09d"
+        },
+        {
+          "ref": "I55*78af2b01-c51b-4480-886f-bf236c7c1201"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I45*e9c35a22-a8f2-4ae4-b179-dd5ca274f899"
+        }
+      ],
+      "id": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I54*905a4a7c-39aa-4567-944b-ad6000e237c2"
+        }
+      ],
+      "id": "F18*0257b968-1c7a-414a-aaa7-ddebc2e2c6a8",
+      "wifeRefs": [
+        {
+          "ref": "I53*490ca009-16bb-4b4b-9e92-fa195bafe09d"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I56*17576364-1030-494e-8df7-4951b4f3ae7f"
+        }
+      ],
+      "id": "F19*64f4ae91-b8d7-44d1-be50-1c1954da6f58",
+      "wifeRefs": [
+        {
+          "ref": "I55*78af2b01-c51b-4480-886f-bf236c7c1201"
+        }
+      ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I57*8d3d2aa1-c894-4d75-ac6c-834ade9414f8"
+        },
+        {
+          "ref": "I58*45c41b69-90ae-40dd-b97f-8774ad3708e1"
+        },
+        {
+          "ref": "I59*d7187456-d645-4267-a757-9e8fa5627c46"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I52*7e478bb4-6558-43db-822e-8ab40b3bc1b1"
+        }
+      ],
+      "id": "F20*6177c7e1-b59f-4310-bb71-b3c5fcdda333"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I60*24ecf1a5-5074-425f-9afc-d02984f56129"
+        },
+        {
+          "ref": "I61*0bebfe8d-d818-4f37-8190-6891fa6d10ee"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I48*987c9e43-145e-4238-900f-a7f35f3b0ed4"
+        }
+      ],
+      "id": "F21*bdb91544-b26f-4dde-a8b7-2f03185eb0d9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I62*7be87fa0-ac6e-4642-9c7a-16646d44ffa0"
+        },
+        {
+          "ref": "I63*c8abed78-bef2-46b1-b5aa-3beb59270b8c"
+        },
+        {
+          "ref": "I64*b3bae3b1-8039-44df-97b7-7d7440808c4e"
+        },
+        {
+          "ref": "I65*73e33623-4094-4790-8fad-c7d3ab60835e"
+        },
+        {
+          "ref": "I66*7f5b625f-b3fa-4313-b653-c4f94cc9a5f7"
+        },
+        {
+          "ref": "I67*f08b3c3a-4ce8-479c-b2eb-0e7172dbd7e0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I30*7dcba332-2247-4865-878a-bad726252e3e"
+        }
+      ],
+      "id": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "17:09:59",
+      "value": "8 JAN 2024"
+    },
+    "file": "2.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Indonesian",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.3.5 (2839f2a)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*9da84a82-350b-4e82-a23b-ad29dbef910f"
+        }
+      ],
+      "id": "I1*0700e504-f387-4613-b956-1d6b135be65b",
+      "names": [
+        {
+          "value": "DATU PARULAS //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*9da84a82-350b-4e82-a23b-ad29dbef910f"
+        }
+      ],
+      "id": "I2*7acefc2c-5b25-44d0-9ecb-64812ad401c0",
+      "names": [
+        {
+          "value": "Talutuk //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*9da84a82-350b-4e82-a23b-ad29dbef910f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F2*b4ed8da0-a497-480c-afb1-d86ae89c9fd0"
+        }
+      ],
+      "id": "I3*b5e60dab-23c5-4f54-9f46-346bb0b8dec9",
+      "names": [
+        {
+          "value": "Toga Sahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*9da84a82-350b-4e82-a23b-ad29dbef910f"
+        }
+      ],
+      "id": "I4*aeb09e44-8ba6-4b9c-9ba7-16de55bed456",
+      "names": [
+        {
+          "value": "Sabungan Raja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*b4ed8da0-a497-480c-afb1-d86ae89c9fd0"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "id": "I5*5bf82c31-884a-4c99-8d43-dacea192b272",
+      "names": [
+        {
+          "nick": "Op.Somanimbil",
+          "value": "Si Balanga Bosi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F4*b70414fc-e790-492d-8d99-f72dd26b2bf4"
+        }
+      ],
+      "id": "I6*11f88464-c4fc-4eac-bd03-105b7e9cb1a4",
+      "names": [
+        {
+          "value": "Amani Parulas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "id": "I7*336ad41e-b5db-4f72-8d7f-a759e5bde9dc",
+      "names": [
+        {
+          "value": "Op.Ronggur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
+        }
+      ],
+      "id": "I8*f05de988-2290-4808-b39e-8380c951b34e",
+      "names": [
+        {
+          "value": "Raja Moba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*b70414fc-e790-492d-8d99-f72dd26b2bf4"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F5*41b706c6-96ca-49d0-a8ce-d71a0bf55664"
+        }
+      ],
+      "id": "I9*fc5a2f2a-ae17-41c7-bea1-29428129bf5b",
+      "names": [
+        {
+          "value": "Op.Balikunda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*b70414fc-e790-492d-8d99-f72dd26b2bf4"
+        }
+      ],
+      "id": "I10*bfbf1605-3b86-49dd-b94e-5120d3467370",
+      "names": [
+        {
+          "value": "Op.Batuguru //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*41b706c6-96ca-49d0-a8ce-d71a0bf55664"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+        }
+      ],
+      "id": "I11*837ebfea-52bc-4d47-a8bc-490c67998024",
+      "names": [
+        {
+          "nick": "Op.Pangarisan",
+          "value": "Ampangarisan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*41b706c6-96ca-49d0-a8ce-d71a0bf55664"
+        }
+      ],
+      "id": "I12*b8924fef-5ef1-4fae-b4ae-ba8d2d3bb408",
+      "names": [
+        {
+          "value": "Op.Somanimbil II //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F7*63f4c755-1d49-4654-8b37-18462c3d3f6e"
+        }
+      ],
+      "id": "I13*8d4e1956-235b-45db-b809-c3c74002d4e9",
+      "names": [
+        {
+          "value": "Amani Pangarisan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+        }
+      ],
+      "id": "I14*3db45a51-79dc-4abf-aabe-7f87457e8968",
+      "names": [
+        {
+          "value": "Op.Sangangna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+        }
+      ],
+      "id": "I15*d4a82f93-c315-4d2d-9284-15d1a3c1d934",
+      "names": [
+        {
+          "value": "Appaturla //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*63f4c755-1d49-4654-8b37-18462c3d3f6e"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F8*c17f2ebb-0c94-4cf4-8f90-c3960ef1fc50"
+        }
+      ],
+      "id": "I16*37d26d92-ad43-4ad8-becb-7028d707e71e",
+      "names": [
+        {
+          "value": "Apparukkat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*63f4c755-1d49-4654-8b37-18462c3d3f6e"
+        }
+      ],
+      "id": "I17*1ad456f2-e815-4d23-b53c-205453bf0293",
+      "names": [
+        {
+          "value": "Op.Pulo Nagodang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*63f4c755-1d49-4654-8b37-18462c3d3f6e"
+        }
+      ],
+      "id": "I18*74b39912-2063-48f3-9bbe-7ae06df8ba94",
+      "names": [
+        {
+          "value": "Batta Radja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*c17f2ebb-0c94-4cf4-8f90-c3960ef1fc50"
+        }
+      ],
+      "id": "I19*f2094454-07eb-41bd-a424-f0ba480ad2ed",
+      "names": [
+        {
+          "value": "Guru Mangaraja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*c17f2ebb-0c94-4cf4-8f90-c3960ef1fc50"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F9*f0abeddf-d18c-4357-8cba-4718e7a3a38c"
+        }
+      ],
+      "id": "I20*ca4e0d6f-5eab-4e5b-9a4f-8b1b8c7b22ed",
+      "names": [
+        {
+          "value": "Op.Bahal Gadja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*c17f2ebb-0c94-4cf4-8f90-c3960ef1fc50"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+        }
+      ],
+      "id": "I21*51d9f9e6-e40f-402a-8aed-bb425e41b6c7",
+      "names": [
+        {
+          "value": "Op.Buntulan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*f0abeddf-d18c-4357-8cba-4718e7a3a38c"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F10*4ef87bf7-90bb-46aa-95a6-d0467a59e6b2"
+        }
+      ],
+      "id": "I22*b5e5bd77-54f1-4543-8761-ed709a43c8ec",
+      "names": [
+        {
+          "value": "Op.Ranjo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*f0abeddf-d18c-4357-8cba-4718e7a3a38c"
+        }
+      ],
+      "id": "I23*37dc6923-8301-4520-8cbe-ec24dbea3036",
+      "names": [
+        {
+          "value": "Op.Somandadu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*f0abeddf-d18c-4357-8cba-4718e7a3a38c"
+        }
+      ],
+      "id": "I24*b2c0ff32-2101-41eb-b470-527316e0d832",
+      "names": [
+        {
+          "value": "Op.Sohaguluton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*4ef87bf7-90bb-46aa-95a6-d0467a59e6b2"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F11*f23963ed-af58-462a-ab28-09179b0f4a83"
+        }
+      ],
+      "id": "I25*ad78f82d-67b0-4d34-9798-9bef347f17c9",
+      "names": [
+        {
+          "value": "Op.Paragat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F11*f23963ed-af58-462a-ab28-09179b0f4a83"
+        }
+      ],
+      "id": "I26*c4008dbe-faba-49cb-8cc1-31b89de64752",
+      "names": [
+        {
+          "value": "Op.Goppar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F11*f23963ed-af58-462a-ab28-09179b0f4a83"
+        }
+      ],
+      "id": "I27*ce4770b2-6571-4aba-8a5d-3728047344e0",
+      "names": [
+        {
+          "value": "A.Jawakin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+        }
+      ],
+      "id": "I28*6731e3fa-e645-40e0-812c-4f3f57c41a0c",
+      "names": [
+        {
+          "value": "Op.Ruma Gadja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "id": "I29*7963e6bd-d6ec-4a7f-93f9-e534caece1f4",
+      "names": [
+        {
+          "value": "Ampamahar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I30*7dcba332-2247-4865-878a-bad726252e3e",
+      "names": [
+        {
+          "value": "Appangarisan II //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*65028ae5-f703-4aef-ad4d-59164492b91e"
+        }
+      ],
+      "id": "I31*dd4ead59-1ea9-4098-af03-2f96d065cf7c",
+      "names": [
+        {
+          "value": "Apparante Bosi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "id": "I32*af1ecbab-ba2b-4317-8088-1b9250781604",
+      "names": [
+        {
+          "value": "Op.Galasa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "id": "I33*3a602c2b-90eb-43cd-a89d-d7f69a4db211",
+      "names": [
+        {
+          "value": "Op.Sinomba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+        }
+      ],
+      "id": "I34*90823d9a-c149-4d1b-9bfc-399336d8828f",
+      "names": [
+        {
+          "value": "Op.Soungkiton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "id": "I35*4e094e00-8370-4fe3-885b-7cdcc69aef10",
+      "names": [
+        {
+          "value": "Op.Sugar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*5970b830-e0f8-42d9-b2b9-a4ce57358e88"
+        }
+      ],
+      "id": "I36*638cb45e-2bc2-44ec-828f-d1e2e2726943",
+      "names": [
+        {
+          "value": "Op.Unjur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F15*707c0e21-47c7-4621-849c-1f6107e93575"
+        }
+      ],
+      "id": "I37*752e7ce1-979b-4ee9-88f5-cc35c38a89a5",
+      "names": [
+        {
+          "value": "A.Soungkiton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+        }
+      ],
+      "id": "I38*f04fb1e9-a062-44c7-9cbb-9e018cd3cb8b",
+      "names": [
+        {
+          "value": "Op.Sogit //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+        }
+      ],
+      "id": "I39*cc950c3b-6b50-4dfb-8662-17f171a01f93",
+      "names": [
+        {
+          "value": "Op.Jongga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*707c0e21-47c7-4621-849c-1f6107e93575"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "id": "I40*f49240ad-ef1d-4e98-a446-e3190f63ffe1",
+      "names": [
+        {
+          "value": "Op.Paian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*707c0e21-47c7-4621-849c-1f6107e93575"
+        }
+      ],
+      "id": "I41*69c901cf-1578-4dcf-b67f-65d5eee063ae",
+      "names": [
+        {
+          "value": "Op.Sondang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*707c0e21-47c7-4621-849c-1f6107e93575"
+        }
+      ],
+      "id": "I42*76fdfc96-cd65-47e5-ba1c-b4bbf20df766",
+      "names": [
+        {
+          "value": "A.Dalena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "id": "I43*1863686c-03d9-490c-af09-07b2e34956ef",
+      "names": [
+        {
+          "value": "Op.Bonardo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "id": "I44*c75f16b8-ec55-4525-a046-7bbd313bdb74",
+      "names": [
+        {
+          "value": "Op.Rolekson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "id": "I45*e9c35a22-a8f2-4ae4-b179-dd5ca274f899",
+      "names": [
+        {
+          "value": "Op.Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "id": "I46*a1a65259-7065-49aa-9584-805dc8c611d8",
+      "names": [
+        {
+          "value": "Op.Betris //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F16*1270b0d3-badf-4491-9c19-b43a44d76bdd"
+        }
+      ],
+      "id": "I47*2e85ab13-b665-46fb-be94-6271e70f1dfe",
+      "names": [
+        {
+          "value": "A.Arianto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F21*bdb91544-b26f-4dde-a8b7-2f03185eb0d9"
+        }
+      ],
+      "id": "I48*987c9e43-145e-4238-900f-a7f35f3b0ed4",
+      "names": [
+        {
+          "value": "A.Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "id": "I49*98af9ed9-7188-47d8-b74f-b1079f1664b1",
+      "names": [
+        {
+          "value": "A.Christian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "id": "I50*0c87ce13-29af-4c15-935a-53f9ae7cfc8d",
+      "names": [
+        {
+          "value": "A.Remalia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "id": "I51*05718f24-0911-4482-8845-45f7672981b8",
+      "names": [
+        {
+          "value": "A.Jhones //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F20*6177c7e1-b59f-4310-bb71-b3c5fcdda333"
+        }
+      ],
+      "id": "I52*7e478bb4-6558-43db-822e-8ab40b3bc1b1",
+      "names": [
+        {
+          "value": "A.Lemuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F18*0257b968-1c7a-414a-aaa7-ddebc2e2c6a8"
+        }
+      ],
+      "id": "I53*490ca009-16bb-4b4b-9e92-fa195bafe09d",
+      "names": [
+        {
+          "value": "Nai.Ivan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F18*0257b968-1c7a-414a-aaa7-ddebc2e2c6a8"
+        }
+      ],
+      "id": "I54*905a4a7c-39aa-4567-944b-ad6000e237c2",
+      "names": [
+        {
+          "value": " /Panjaitan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*a3c6450b-8739-4a35-88b9-8da48d1671cf"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F19*64f4ae91-b8d7-44d1-be50-1c1954da6f58"
+        }
+      ],
+      "id": "I55*78af2b01-c51b-4480-886f-bf236c7c1201",
+      "names": [
+        {
+          "value": "Nai.Daniel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F19*64f4ae91-b8d7-44d1-be50-1c1954da6f58"
+        }
+      ],
+      "id": "I56*17576364-1030-494e-8df7-4951b4f3ae7f",
+      "names": [
+        {
+          "value": " /Limbong/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*6177c7e1-b59f-4310-bb71-b3c5fcdda333"
+        }
+      ],
+      "id": "I57*8d3d2aa1-c894-4d75-ac6c-834ade9414f8",
+      "names": [
+        {
+          "value": "Lemuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*6177c7e1-b59f-4310-bb71-b3c5fcdda333"
+        }
+      ],
+      "id": "I58*45c41b69-90ae-40dd-b97f-8774ad3708e1",
+      "names": [
+        {
+          "value": "Mikhael //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*6177c7e1-b59f-4310-bb71-b3c5fcdda333"
+        }
+      ],
+      "id": "I59*d7187456-d645-4267-a757-9e8fa5627c46",
+      "names": [
+        {
+          "value": "Jordan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F21*bdb91544-b26f-4dde-a8b7-2f03185eb0d9"
+        }
+      ],
+      "id": "I60*24ecf1a5-5074-425f-9afc-d02984f56129",
+      "names": [
+        {
+          "value": "Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F21*bdb91544-b26f-4dde-a8b7-2f03185eb0d9"
+        }
+      ],
+      "id": "I61*0bebfe8d-d818-4f37-8190-6891fa6d10ee",
+      "names": [
+        {
+          "value": "Randi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I62*7be87fa0-ac6e-4642-9c7a-16646d44ffa0",
+      "names": [
+        {
+          "value": "Op.Rajaugan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I63*c8abed78-bef2-46b1-b5aa-3beb59270b8c",
+      "names": [
+        {
+          "value": "Op.Harajaon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I64*b3bae3b1-8039-44df-97b7-7d7440808c4e",
+      "names": [
+        {
+          "value": "Op.Marhuarar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I65*73e33623-4094-4790-8fad-c7d3ab60835e",
+      "names": [
+        {
+          "value": "Op.Simabung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I66*7f5b625f-b3fa-4313-b653-c4f94cc9a5f7",
+      "names": [
+        {
+          "value": "Op.Sanggam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "id": "I67*f08b3c3a-4ce8-479c-b2eb-0e7172dbd7e0",
+      "names": [
+        {
+          "value": "Ampangaloni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
