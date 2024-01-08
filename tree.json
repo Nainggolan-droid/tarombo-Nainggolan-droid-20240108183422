@@ -1304,6 +1304,9 @@
         },
         {
           "ref": "I185*b63aec7c-8eec-44fe-91c9-01aba57e3e86"
+        },
+        {
+          "ref": "I187*9601ac15-c113-428a-8b11-8b8267327eb3"
         }
       ],
       "husbandRefs": [
@@ -5207,6 +5210,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F77*561d85cd-79c7-4320-baf0-726fe37019c8"
+        }
+      ],
+      "id": "I187*9601ac15-c113-428a-8b11-8b8267327eb3",
+      "names": [
+        {
+          "value": "Ester //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
