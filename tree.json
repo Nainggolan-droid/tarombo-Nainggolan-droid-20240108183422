@@ -690,6 +690,9 @@
       "childRefs": [
         {
           "ref": "I104*ea74c631-f03d-456e-b0cc-58ac9549b9b0"
+        },
+        {
+          "ref": "I105*4af9d74e-30f3-46d9-a849-18f656f436cd"
         }
       ],
       "husbandRefs": [
@@ -2833,6 +2836,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F39*27dc6ab4-6cd7-45da-a17b-e49161bae73b"
+        }
+      ],
+      "id": "I105*4af9d74e-30f3-46d9-a849-18f656f436cd",
+      "names": [
+        {
+          "value": "Eduard //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
