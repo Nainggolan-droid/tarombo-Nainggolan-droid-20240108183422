@@ -640,6 +640,19 @@
           "ref": "I97*23c40d3c-731c-467e-9293-2299baa69e98"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I99*53bf18c9-9d73-48c1-8cc2-aaf5e71b0696"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I92*babe283c-a722-46c8-9114-c253956e61a9"
+        }
+      ],
+      "id": "F36*4554c7ee-a4d9-4933-baca-d56f27c27126"
     }
   ],
   "head": {
@@ -2526,6 +2539,11 @@
           "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F36*4554c7ee-a4d9-4933-baca-d56f27c27126"
+        }
+      ],
       "id": "I92*babe283c-a722-46c8-9114-c253956e61a9",
       "names": [
         {
@@ -2653,6 +2671,25 @@
       "names": [
         {
           "value": " /Sinaga/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F36*4554c7ee-a4d9-4933-baca-d56f27c27126"
+        }
+      ],
+      "id": "I99*53bf18c9-9d73-48c1-8cc2-aaf5e71b0696",
+      "names": [
+        {
+          "value": "Jefri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
