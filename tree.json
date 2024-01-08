@@ -528,6 +528,19 @@
         }
       ],
       "id": "F28*f225009d-8220-4ce1-b4a1-7a216a365ee0"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I85*c41ff1a8-4b57-4f0a-a335-b9c948d0c46f"
+        }
+      ],
+      "id": "F29*22fa9b3d-f92a-410d-a760-7b0aa920c39a",
+      "wifeRefs": [
+        {
+          "ref": "I84*af8547c6-d17b-4e2b-a5cc-f129088152aa"
+        }
+      ]
     }
   ],
   "head": {
@@ -2255,6 +2268,11 @@
           "ref": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F29*22fa9b3d-f92a-410d-a760-7b0aa920c39a"
+        }
+      ],
       "id": "I84*af8547c6-d17b-4e2b-a5cc-f129088152aa",
       "names": [
         {
@@ -2265,6 +2283,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F29*22fa9b3d-f92a-410d-a760-7b0aa920c39a"
+        }
+      ],
+      "id": "I85*c41ff1a8-4b57-4f0a-a335-b9c948d0c46f",
+      "names": [
+        {
+          "value": " /Panggabean/"
         }
       ]
     }
