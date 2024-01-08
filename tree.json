@@ -1706,6 +1706,9 @@
         },
         {
           "ref": "I236*90f72639-4bf6-4162-ba52-2828fab3ec47"
+        },
+        {
+          "ref": "I237*28a725be-eeaa-48a8-8f50-d7f435a9b13c"
         }
       ],
       "husbandRefs": [
@@ -6607,6 +6610,25 @@
       "names": [
         {
           "value": "Jainar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F101*c2ea029f-ce49-415b-b7f7-e5a5e1ad83b8"
+        }
+      ],
+      "id": "I237*28a725be-eeaa-48a8-8f50-d7f435a9b13c",
+      "names": [
+        {
+          "value": "Pikkir //"
         }
       ],
       "eventsFacts": [
