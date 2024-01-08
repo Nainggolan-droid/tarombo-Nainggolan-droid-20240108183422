@@ -1971,6 +1971,9 @@
       "childRefs": [
         {
           "ref": "I281*5f1bce44-93aa-44df-80f5-13208bdb9717"
+        },
+        {
+          "ref": "I282*f8cebbde-8282-4282-9e29-8bf6693f48f2"
         }
       ],
       "husbandRefs": [
@@ -7767,6 +7770,25 @@
       "names": [
         {
           "value": "Manjua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F114*f9057e86-d196-4369-9597-8fa59e25f352"
+        }
+      ],
+      "id": "I282*f8cebbde-8282-4282-9e29-8bf6693f48f2",
+      "names": [
+        {
+          "value": "Torgaji //"
         }
       ],
       "eventsFacts": [
