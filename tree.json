@@ -1078,6 +1078,19 @@
         }
       ],
       "id": "F62*a1225272-e940-412d-b6ed-73d4fa799897"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I155*fa17c0f4-7ade-4562-ac29-15ee1cdd0c5f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I154*0354af3c-cfd3-4802-aa18-828be7cf84c1"
+        }
+      ],
+      "id": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
     }
   ],
   "head": {
@@ -4228,10 +4241,34 @@
           "ref": "F62*a1225272-e940-412d-b6ed-73d4fa799897"
         }
       ],
+      "fams": [
+        {
+          "ref": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
+        }
+      ],
       "id": "I154*0354af3c-cfd3-4802-aa18-828be7cf84c1",
       "names": [
         {
           "value": "Panebur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
+        }
+      ],
+      "id": "I155*fa17c0f4-7ade-4562-ac29-15ee1cdd0c5f",
+      "names": [
+        {
+          "value": "Op.Pairing //"
         }
       ],
       "eventsFacts": [
