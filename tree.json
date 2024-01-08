@@ -1270,6 +1270,9 @@
       "childRefs": [
         {
           "ref": "I174*483320ec-2bfa-4dd9-9073-d1d87b35d0e5"
+        },
+        {
+          "ref": "I175*2097b537-6e71-48d0-8db5-c8febfba5610"
         }
       ],
       "husbandRefs": [
@@ -4876,6 +4879,25 @@
       "names": [
         {
           "value": "Sikkat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
+      "id": "I175*2097b537-6e71-48d0-8db5-c8febfba5610",
+      "names": [
+        {
+          "value": "Taripar //"
         }
       ],
       "eventsFacts": [
