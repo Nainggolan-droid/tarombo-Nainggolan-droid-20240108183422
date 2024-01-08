@@ -739,6 +739,19 @@
         }
       ],
       "id": "F41*6ae108fc-d7a3-4067-9087-55e681f8ee4c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I112*c51a9c15-fba1-472b-924a-52e14acb37c7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I71*e2e50efa-7c8f-49e3-9fcc-a87c7bb5d865"
+        }
+      ],
+      "id": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
     }
   ],
   "head": {
@@ -2213,6 +2226,11 @@
           "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
         }
       ],
+      "fams": [
+        {
+          "ref": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
+        }
+      ],
       "id": "I71*e2e50efa-7c8f-49e3-9fcc-a87c7bb5d865",
       "names": [
         {
@@ -3012,6 +3030,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F42*b349de6d-a26f-4e0a-ad34-52af2d3421ce"
+        }
+      ],
+      "id": "I112*c51a9c15-fba1-472b-924a-52e14acb37c7",
+      "names": [
+        {
+          "value": "Rentiana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
