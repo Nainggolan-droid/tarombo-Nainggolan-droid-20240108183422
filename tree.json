@@ -568,6 +568,9 @@
         },
         {
           "ref": "I92*babe283c-a722-46c8-9114-c253956e61a9"
+        },
+        {
+          "ref": "I93*7f467af5-ef57-411b-8da9-05ecc5c5e6c9"
         }
       ],
       "husbandRefs": [
@@ -2493,6 +2496,25 @@
         {
           "nick": "A.Jefri",
           "value": "Marada //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
+        }
+      ],
+      "id": "I93*7f467af5-ef57-411b-8da9-05ecc5c5e6c9",
+      "names": [
+        {
+          "value": "Maruli //"
         }
       ],
       "eventsFacts": [
