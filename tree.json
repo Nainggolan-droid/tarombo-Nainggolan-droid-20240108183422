@@ -1086,6 +1086,9 @@
         },
         {
           "ref": "I156*9e019269-fa70-4e57-bf7a-9626ca899716"
+        },
+        {
+          "ref": "I157*9312c8a6-70f6-41d0-8132-a202afbd91fa"
         }
       ],
       "husbandRefs": [
@@ -4291,6 +4294,25 @@
       "names": [
         {
           "value": "Op.Sobongguron //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F63*4900ed40-486b-4c12-8acf-bf9e341a9c4b"
+        }
+      ],
+      "id": "I157*9312c8a6-70f6-41d0-8132-a202afbd91fa",
+      "names": [
+        {
+          "value": "Pandapot Raja //"
         }
       ],
       "eventsFacts": [
