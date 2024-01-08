@@ -2006,6 +2006,9 @@
         },
         {
           "ref": "I286*a5ef0c1e-49b4-4057-966d-6c936d4a5290"
+        },
+        {
+          "ref": "I287*589d29d3-12f2-4f60-b8c5-e302aaa01a43"
         }
       ],
       "husbandRefs": [
@@ -7909,6 +7912,25 @@
       "names": [
         {
           "value": "Yogi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F116*469b2f9c-d59d-4d73-bb45-f0d9f080ee8b"
+        }
+      ],
+      "id": "I287*589d29d3-12f2-4f60-b8c5-e302aaa01a43",
+      "names": [
+        {
+          "value": "Hotman //"
         }
       ],
       "eventsFacts": [
