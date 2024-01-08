@@ -938,6 +938,19 @@
         }
       ],
       "id": "F54*1e579c52-a073-4ff0-86db-a0293c43d655"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I135*e2e239f6-64d7-457e-865d-7c7c7ad73d9d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I129*cbabc71d-148c-42ea-959b-a4d588e2c05f"
+        }
+      ],
+      "id": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
     }
   ],
   "head": {
@@ -3571,6 +3584,11 @@
           "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
         }
       ],
+      "fams": [
+        {
+          "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
+        }
+      ],
       "id": "I129*cbabc71d-148c-42ea-959b-a4d588e2c05f",
       "names": [
         {
@@ -3671,6 +3689,25 @@
       "names": [
         {
           "value": "Ampangalibas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
+        }
+      ],
+      "id": "I135*e2e239f6-64d7-457e-865d-7c7c7ad73d9d",
+      "names": [
+        {
+          "value": "Op.Badja //"
         }
       ],
       "eventsFacts": [
