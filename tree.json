@@ -1996,6 +1996,9 @@
         },
         {
           "ref": "I290*c46830d7-831c-4964-b884-cdfa39e11ddd"
+        },
+        {
+          "ref": "I292*ca332ec3-4251-416f-8dc9-2b8eb6e5143a"
         }
       ],
       "husbandRefs": [
@@ -8045,6 +8048,25 @@
       "names": [
         {
           "value": "Muti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I292*ca332ec3-4251-416f-8dc9-2b8eb6e5143a",
+      "names": [
+        {
+          "value": "Bunganur //"
         }
       ],
       "eventsFacts": [
