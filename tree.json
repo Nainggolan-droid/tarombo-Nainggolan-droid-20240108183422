@@ -2170,6 +2170,19 @@
         }
       ],
       "id": "F125*f22d78c8-a26f-4532-8d06-8343ca0cfa50"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I309*ec88bf7b-7fa4-4852-bc29-d4f4b2d4b601"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I233*b6a3ae79-c32f-41af-9915-fc6edc82b874"
+        }
+      ],
+      "id": "F126*6c113b27-2828-49bc-9b4c-c36a644d4b67"
     }
   ],
   "head": {
@@ -7012,6 +7025,11 @@
           "ref": "F100*ec8ac63d-2f43-4d6a-b5b6-86d6b6ffb35a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F126*6c113b27-2828-49bc-9b4c-c36a644d4b67"
+        }
+      ],
       "id": "I233*b6a3ae79-c32f-41af-9915-fc6edc82b874",
       "names": [
         {
@@ -8504,6 +8522,25 @@
       "names": [
         {
           "value": "Kornelus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F126*6c113b27-2828-49bc-9b4c-c36a644d4b67"
+        }
+      ],
+      "id": "I309*ec88bf7b-7fa4-4852-bc29-d4f4b2d4b601",
+      "names": [
+        {
+          "value": "Bagian //"
         }
       ],
       "eventsFacts": [
