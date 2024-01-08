@@ -1874,6 +1874,19 @@
         }
       ],
       "id": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I267*02a55df0-14de-412b-abe6-606b340f0852"
+        }
+      ],
+      "id": "F109*62964470-5a0e-40cd-9f5c-f3ba03e81f95",
+      "wifeRefs": [
+        {
+          "ref": "I266*c36e5ec6-2583-4143-8e9b-26c39ad6ebab"
+        }
+      ]
     }
   ],
   "head": {
@@ -7360,6 +7373,11 @@
           "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
         }
       ],
+      "fams": [
+        {
+          "ref": "F109*62964470-5a0e-40cd-9f5c-f3ba03e81f95"
+        }
+      ],
       "id": "I266*c36e5ec6-2583-4143-8e9b-26c39ad6ebab",
       "names": [
         {
@@ -7370,6 +7388,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F109*62964470-5a0e-40cd-9f5c-f3ba03e81f95"
+        }
+      ],
+      "id": "I267*02a55df0-14de-412b-abe6-606b340f0852",
+      "names": [
+        {
+          "value": " /Pasaribu/"
         }
       ]
     }
