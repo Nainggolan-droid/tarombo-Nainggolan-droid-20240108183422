@@ -1021,6 +1021,19 @@
         }
       ],
       "id": "F59*2d34f90f-f7eb-4c15-818f-03f856d08152"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I146*31010f52-caca-41b3-b05a-e3f93d301481"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I138*bd4a9105-06ea-4c5f-8f73-69cc04545d7e"
+        }
+      ],
+      "id": "F60*07740add-8a90-438a-b522-bbb358682da7"
     }
   ],
   "head": {
@@ -3846,6 +3859,11 @@
           "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F60*07740add-8a90-438a-b522-bbb358682da7"
+        }
+      ],
       "id": "I138*bd4a9105-06ea-4c5f-8f73-69cc04545d7e",
       "names": [
         {
@@ -3988,6 +4006,25 @@
       "names": [
         {
           "value": "Ampar Golek //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F60*07740add-8a90-438a-b522-bbb358682da7"
+        }
+      ],
+      "id": "I146*31010f52-caca-41b3-b05a-e3f93d301481",
+      "names": [
+        {
+          "value": "Op.Sende //"
         }
       ],
       "eventsFacts": [
