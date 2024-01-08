@@ -1175,6 +1175,19 @@
         }
       ],
       "id": "F69*5d8e166a-d5a0-4dea-9cd8-de1c40c4e6ee"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I164*7d9a1657-cde4-4c33-8f2e-bed954273309"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I163*df9301c2-640b-458e-a369-c473f12dbe3d"
+        }
+      ],
+      "id": "F70*5e58cd90-b1e1-4d04-962f-58eeff418a4b"
     }
   ],
   "head": {
@@ -4531,10 +4544,34 @@
           "ref": "F69*5d8e166a-d5a0-4dea-9cd8-de1c40c4e6ee"
         }
       ],
+      "fams": [
+        {
+          "ref": "F70*5e58cd90-b1e1-4d04-962f-58eeff418a4b"
+        }
+      ],
       "id": "I163*df9301c2-640b-458e-a369-c473f12dbe3d",
       "names": [
         {
           "value": "A.Ambi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F70*5e58cd90-b1e1-4d04-962f-58eeff418a4b"
+        }
+      ],
+      "id": "I164*7d9a1657-cde4-4c33-8f2e-bed954273309",
+      "names": [
+        {
+          "value": "Togani //"
         }
       ],
       "eventsFacts": [
