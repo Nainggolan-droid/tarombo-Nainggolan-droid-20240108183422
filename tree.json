@@ -1621,6 +1621,9 @@
         },
         {
           "ref": "I221*64d0d5c6-ce4e-430d-aaa6-a51ee57e484f"
+        },
+        {
+          "ref": "I222*a044c856-090a-48dc-b2a5-262fa47a2d54"
         }
       ],
       "husbandRefs": [
@@ -6217,6 +6220,25 @@
       "names": [
         {
           "value": "A.Gasal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
+        }
+      ],
+      "id": "I222*a044c856-090a-48dc-b2a5-262fa47a2d54",
+      "names": [
+        {
+          "value": "Op.Batusokkal //"
         }
       ],
       "eventsFacts": [
