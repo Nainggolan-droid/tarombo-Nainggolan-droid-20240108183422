@@ -1762,6 +1762,9 @@
         },
         {
           "ref": "I248*f1f54597-efe6-4af5-b014-75bfb7a9c23a"
+        },
+        {
+          "ref": "I249*301b34c7-6574-45cd-8625-940f1b772f65"
         }
       ],
       "husbandRefs": [
@@ -6907,6 +6910,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*18f7c8eb-66ba-4688-ae06-1b8c819c6bb1"
+        }
+      ],
+      "id": "I249*301b34c7-6574-45cd-8625-940f1b772f65",
+      "names": [
+        {
+          "value": "Nurhaida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
