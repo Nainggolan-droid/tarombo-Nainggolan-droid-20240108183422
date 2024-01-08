@@ -978,6 +978,9 @@
       "childRefs": [
         {
           "ref": "I140*a7ac42db-c88d-48d2-b7a6-91c1e539f997"
+        },
+        {
+          "ref": "I141*a4592382-7994-4e45-bc60-5f0c5aa9b85d"
         }
       ],
       "husbandRefs": [
@@ -3848,6 +3851,25 @@
       "names": [
         {
           "value": "Op.Morga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
+        }
+      ],
+      "id": "I141*a4592382-7994-4e45-bc60-5f0c5aa9b85d",
+      "names": [
+        {
+          "value": "Op.Tenggal //"
         }
       ],
       "eventsFacts": [
