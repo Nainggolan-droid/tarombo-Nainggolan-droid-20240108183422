@@ -1577,6 +1577,9 @@
       "childRefs": [
         {
           "ref": "I213*46bba629-dacf-4997-99f5-dceb6f950dcf"
+        },
+        {
+          "ref": "I214*98025cf5-a338-4b61-890b-ec98d7894e71"
         }
       ],
       "husbandRefs": [
@@ -6005,6 +6008,25 @@
       "names": [
         {
           "value": "Mateus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
+        }
+      ],
+      "id": "I214*98025cf5-a338-4b61-890b-ec98d7894e71",
+      "names": [
+        {
+          "value": "Liga //"
         }
       ],
       "eventsFacts": [
