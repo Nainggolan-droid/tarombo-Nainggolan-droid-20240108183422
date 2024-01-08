@@ -2108,6 +2108,9 @@
         },
         {
           "ref": "I300*2b19eeaa-24e8-410e-a347-d2fc3fc446d2"
+        },
+        {
+          "ref": "I301*4638f5c1-7503-4ddc-98d2-23a949d8b688"
         }
       ],
       "husbandRefs": [
@@ -8294,6 +8297,25 @@
       "names": [
         {
           "value": "Dillo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F122*0d0bdb61-8a90-4d85-af4c-c78d79aca083"
+        }
+      ],
+      "id": "I301*4638f5c1-7503-4ddc-98d2-23a949d8b688",
+      "names": [
+        {
+          "value": "Audie //"
         }
       ],
       "eventsFacts": [
