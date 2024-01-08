@@ -1580,6 +1580,9 @@
         },
         {
           "ref": "I214*98025cf5-a338-4b61-890b-ec98d7894e71"
+        },
+        {
+          "ref": "I215*4493cceb-baff-46dd-b3bf-fbf35ce308a6"
         }
       ],
       "husbandRefs": [
@@ -6027,6 +6030,25 @@
       "names": [
         {
           "value": "Liga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
+        }
+      ],
+      "id": "I215*4493cceb-baff-46dd-b3bf-fbf35ce308a6",
+      "names": [
+        {
+          "value": "Pola //"
         }
       ],
       "eventsFacts": [
