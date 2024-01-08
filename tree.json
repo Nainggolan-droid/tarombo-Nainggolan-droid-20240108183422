@@ -2011,6 +2011,9 @@
         },
         {
           "ref": "I303*1628d91f-87e0-4eaf-ae15-d20879862ba8"
+        },
+        {
+          "ref": "I305*bf191a9e-0f49-463b-9fee-ee6f7d867721"
         }
       ],
       "husbandRefs": [
@@ -8398,6 +8401,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I305*bf191a9e-0f49-463b-9fee-ee6f7d867721",
+      "names": [
+        {
+          "value": "Relida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
