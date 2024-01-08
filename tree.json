@@ -2257,6 +2257,19 @@
         }
       ],
       "id": "F131*eaf23bc9-9892-4bf1-aceb-042154583890"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I318*227e336a-3769-4dd5-8dc3-9727dae5efa8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I228*0a173da5-c568-4114-bcd6-c3f6829d3ddb"
+        }
+      ],
+      "id": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
     }
   ],
   "head": {
@@ -6999,6 +7012,11 @@
           "ref": "F99*4fdbbb4e-5533-4cd8-aba1-abefefa0893d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
+        }
+      ],
       "id": "I228*0a173da5-c568-4114-bcd6-c3f6829d3ddb",
       "names": [
         {
@@ -8792,6 +8810,25 @@
       "names": [
         {
           "value": "Daniel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
+        }
+      ],
+      "id": "I318*227e336a-3769-4dd5-8dc3-9727dae5efa8",
+      "names": [
+        {
+          "value": "A.Mula //"
         }
       ],
       "eventsFacts": [
