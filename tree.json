@@ -1438,6 +1438,19 @@
         }
       ],
       "id": "F86*fdb640ce-fce1-450b-b888-86e4fdf8ce88"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I195*b14500ac-a9dc-4cde-af87-fd7ba59dcbfc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I194*dd1e652f-a1a8-4e11-994b-dd062b3d898e"
+        }
+      ],
+      "id": "F87*84577a8b-e050-4292-bb4e-4c1a1421278b"
     }
   ],
   "head": {
@@ -5448,10 +5461,34 @@
           "ref": "F86*fdb640ce-fce1-450b-b888-86e4fdf8ce88"
         }
       ],
+      "fams": [
+        {
+          "ref": "F87*84577a8b-e050-4292-bb4e-4c1a1421278b"
+        }
+      ],
       "id": "I194*dd1e652f-a1a8-4e11-994b-dd062b3d898e",
       "names": [
         {
           "value": "Piter //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F87*84577a8b-e050-4292-bb4e-4c1a1421278b"
+        }
+      ],
+      "id": "I195*b14500ac-a9dc-4cde-af87-fd7ba59dcbfc",
+      "names": [
+        {
+          "value": "Rait //"
         }
       ],
       "eventsFacts": [
