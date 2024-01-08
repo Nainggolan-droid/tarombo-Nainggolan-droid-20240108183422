@@ -1008,6 +1008,19 @@
         }
       ],
       "id": "F58*c38abefc-65b7-40aa-9c61-fcdc6ce085b5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I145*8ceddc87-a851-4374-a8ab-e774d42adc52"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I137*e2ebf94f-ec2c-415e-90f0-ce8fed248476"
+        }
+      ],
+      "id": "F59*2d34f90f-f7eb-4c15-818f-03f856d08152"
     }
   ],
   "head": {
@@ -3809,6 +3822,11 @@
           "ref": "F55*6f37c4ba-0fb4-4313-9a08-803f87cea18a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F59*2d34f90f-f7eb-4c15-818f-03f856d08152"
+        }
+      ],
       "id": "I137*e2ebf94f-ec2c-415e-90f0-ce8fed248476",
       "names": [
         {
@@ -3951,6 +3969,25 @@
       "names": [
         {
           "value": "A.Rapit //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F59*2d34f90f-f7eb-4c15-818f-03f856d08152"
+        }
+      ],
+      "id": "I145*8ceddc87-a851-4374-a8ab-e774d42adc52",
+      "names": [
+        {
+          "value": "Ampar Golek //"
         }
       ],
       "eventsFacts": [
