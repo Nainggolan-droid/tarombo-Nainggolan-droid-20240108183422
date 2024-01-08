@@ -2014,6 +2014,9 @@
         },
         {
           "ref": "I305*bf191a9e-0f49-463b-9fee-ee6f7d867721"
+        },
+        {
+          "ref": "I307*213910dc-a995-4243-9441-93877b9bf8b0"
         }
       ],
       "husbandRefs": [
@@ -8451,6 +8454,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F115*efb70c87-875d-4b0f-a4e1-962c66a1a1bc"
+        }
+      ],
+      "id": "I307*213910dc-a995-4243-9441-93877b9bf8b0",
+      "names": [
+        {
+          "value": "Tionar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
