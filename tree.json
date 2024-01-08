@@ -1946,6 +1946,9 @@
       "childRefs": [
         {
           "ref": "I276*3dcc0ce2-a8b8-48fe-9488-fdbe6dfae7da"
+        },
+        {
+          "ref": "I277*a968912a-58e5-4311-82d6-0b90ab4a66ce"
         }
       ],
       "husbandRefs": [
@@ -7642,6 +7645,25 @@
       "names": [
         {
           "value": "Ria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F113*c9069442-aeb7-4455-83cd-78a65edfdf38"
+        }
+      ],
+      "id": "I277*a968912a-58e5-4311-82d6-0b90ab4a66ce",
+      "names": [
+        {
+          "value": "Merika //"
         }
       ],
       "eventsFacts": [
