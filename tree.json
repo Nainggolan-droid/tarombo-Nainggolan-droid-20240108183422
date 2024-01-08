@@ -1572,6 +1572,19 @@
         }
       ],
       "id": "F94*72ad400e-cb3d-4f08-9c73-fbfa6590e6de"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I213*46bba629-dacf-4997-99f5-dceb6f950dcf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I212*00ef00bd-888c-4183-9e75-4c5e45921ce3"
+        }
+      ],
+      "id": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
     }
   ],
   "head": {
@@ -5964,10 +5977,34 @@
           "ref": "F94*72ad400e-cb3d-4f08-9c73-fbfa6590e6de"
         }
       ],
+      "fams": [
+        {
+          "ref": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
+        }
+      ],
       "id": "I212*00ef00bd-888c-4183-9e75-4c5e45921ce3",
       "names": [
         {
           "value": "Jaholi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F95*ee962d27-972c-40fe-8fdc-612ab6bff180"
+        }
+      ],
+      "id": "I213*46bba629-dacf-4997-99f5-dceb6f950dcf",
+      "names": [
+        {
+          "value": "Mateus //"
         }
       ],
       "eventsFacts": [
