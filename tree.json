@@ -1034,6 +1034,19 @@
         }
       ],
       "id": "F60*07740add-8a90-438a-b522-bbb358682da7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I147*6f727f3c-0702-428b-9619-24e769d3e2a3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I130*398511d8-637a-41ba-a7dd-7fb05b796857"
+        }
+      ],
+      "id": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
     }
   ],
   "head": {
@@ -3691,6 +3704,11 @@
           "ref": "F53*f2a9d4a2-9d0b-4dd4-b129-e037f4e1e9fa"
         }
       ],
+      "fams": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
       "id": "I130*398511d8-637a-41ba-a7dd-7fb05b796857",
       "names": [
         {
@@ -4025,6 +4043,25 @@
       "names": [
         {
           "value": "Op.Sende //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F61*66bb23b6-47ba-4016-b991-e01d0bef1f50"
+        }
+      ],
+      "id": "I147*6f727f3c-0702-428b-9619-24e769d3e2a3",
+      "names": [
+        {
+          "value": "A.Sohagijangan //"
         }
       ],
       "eventsFacts": [
