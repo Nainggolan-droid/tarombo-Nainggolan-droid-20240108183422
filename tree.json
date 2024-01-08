@@ -1857,6 +1857,9 @@
         },
         {
           "ref": "I263*24cd9e4e-e7ba-4be9-ab9d-90d608a3ad3b"
+        },
+        {
+          "ref": "I264*7b613318-d014-425a-ab07-6fdb7900f9ef"
         }
       ],
       "husbandRefs": [
@@ -7297,6 +7300,25 @@
         {
           "nick": "A.Mery",
           "value": "Gendut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I264*7b613318-d014-425a-ab07-6fdb7900f9ef",
+      "names": [
+        {
+          "value": "Angkut //"
         }
       ],
       "eventsFacts": [
