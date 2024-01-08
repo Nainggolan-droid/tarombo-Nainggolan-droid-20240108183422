@@ -1507,6 +1507,9 @@
       "childRefs": [
         {
           "ref": "I203*9bc91796-89e1-41be-b1f6-b1e6d5175866"
+        },
+        {
+          "ref": "I204*37eeb374-0a69-4782-844a-7c463cc7461c"
         }
       ],
       "husbandRefs": [
@@ -5725,6 +5728,25 @@
       "names": [
         {
           "value": "Ferdinan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F91*7febbbaf-de5b-4c59-a388-879003547b38"
+        }
+      ],
+      "id": "I204*37eeb374-0a69-4782-844a-7c463cc7461c",
+      "names": [
+        {
+          "value": "Kasi //"
         }
       ],
       "eventsFacts": [
