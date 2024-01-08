@@ -493,6 +493,19 @@
           "ref": "I77*ff15e3a9-46f8-4944-978d-fd88e1065bf9"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I80*0fa81cfc-3fbf-429c-9281-6e83ad15a442"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I75*a6a4b426-ac6f-4455-b4a7-abe36fd9fecb"
+        }
+      ],
+      "id": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
     }
   ],
   "head": {
@@ -2038,6 +2051,11 @@
           "ref": "F24*a8f86700-f336-43b8-85c9-787b9f077080"
         }
       ],
+      "fams": [
+        {
+          "ref": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
+        }
+      ],
       "id": "I75*a6a4b426-ac6f-4455-b4a7-abe36fd9fecb",
       "names": [
         {
@@ -2118,6 +2136,25 @@
       "names": [
         {
           "value": "Hasiholan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F27*0008826b-c32b-476f-969d-63395d6cec8e"
+        }
+      ],
+      "id": "I80*0fa81cfc-3fbf-429c-9281-6e83ad15a442",
+      "names": [
+        {
+          "value": "Viktor //"
         }
       ],
       "eventsFacts": [
