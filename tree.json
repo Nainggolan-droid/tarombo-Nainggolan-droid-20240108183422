@@ -1233,6 +1233,19 @@
         }
       ],
       "id": "F73*188e01ab-2cde-4e13-8828-c72f38d8d0a9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I170*4c4153bd-3214-4362-acab-82a1b4040c73"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I169*30101497-d096-4e36-99e9-1881143383a2"
+        }
+      ],
+      "id": "F74*8176d13b-6eab-4bbd-96f8-e5413b983d78"
     }
   ],
   "head": {
@@ -4717,10 +4730,34 @@
           "ref": "F73*188e01ab-2cde-4e13-8828-c72f38d8d0a9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F74*8176d13b-6eab-4bbd-96f8-e5413b983d78"
+        }
+      ],
       "id": "I169*30101497-d096-4e36-99e9-1881143383a2",
       "names": [
         {
           "value": "Op.Sonar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F74*8176d13b-6eab-4bbd-96f8-e5413b983d78"
+        }
+      ],
+      "id": "I170*4c4153bd-3214-4362-acab-82a1b4040c73",
+      "names": [
+        {
+          "value": "Op.Galogat //"
         }
       ],
       "eventsFacts": [
