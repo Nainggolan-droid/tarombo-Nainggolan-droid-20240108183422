@@ -2244,6 +2244,19 @@
         }
       ],
       "id": "F130*fb8c1905-c39f-424c-a974-e966099d8565"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I317*c1da44de-2d19-44f5-bfe7-b923f737ff0e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I313*b6d68657-f0c1-4736-9f4e-2e4b3fa4f4be"
+        }
+      ],
+      "id": "F131*eaf23bc9-9892-4bf1-aceb-042154583890"
     }
   ],
   "head": {
@@ -8694,6 +8707,11 @@
           "ref": "F129*7c50d0c5-7f36-4650-a922-faaf8a3af1b8"
         }
       ],
+      "fams": [
+        {
+          "ref": "F131*eaf23bc9-9892-4bf1-aceb-042154583890"
+        }
+      ],
       "id": "I313*b6d68657-f0c1-4736-9f4e-2e4b3fa4f4be",
       "names": [
         {
@@ -8755,6 +8773,25 @@
       "names": [
         {
           "value": "Dapot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F131*eaf23bc9-9892-4bf1-aceb-042154583890"
+        }
+      ],
+      "id": "I317*c1da44de-2d19-44f5-bfe7-b923f737ff0e",
+      "names": [
+        {
+          "value": "Daniel //"
         }
       ],
       "eventsFacts": [
