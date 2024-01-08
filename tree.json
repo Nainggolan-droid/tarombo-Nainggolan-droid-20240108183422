@@ -685,6 +685,19 @@
           "ref": "I102*513da9db-0376-4c59-84a7-60f2107f126d"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I104*ea74c631-f03d-456e-b0cc-58ac9549b9b0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I93*7f467af5-ef57-411b-8da9-05ecc5c5e6c9"
+        }
+      ],
+      "id": "F39*27dc6ab4-6cd7-45da-a17b-e49161bae73b"
     }
   ],
   "head": {
@@ -2596,6 +2609,11 @@
           "ref": "F31*fe3b18b4-62f2-4d73-9f7c-f4ca28469ff4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F39*27dc6ab4-6cd7-45da-a17b-e49161bae73b"
+        }
+      ],
       "id": "I93*7f467af5-ef57-411b-8da9-05ecc5c5e6c9",
       "names": [
         {
@@ -2796,6 +2814,25 @@
       "names": [
         {
           "value": " /....../"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F39*27dc6ab4-6cd7-45da-a17b-e49161bae73b"
+        }
+      ],
+      "id": "I104*ea74c631-f03d-456e-b0cc-58ac9549b9b0",
+      "names": [
+        {
+          "value": "Emmal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
