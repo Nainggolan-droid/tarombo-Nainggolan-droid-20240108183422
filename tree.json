@@ -541,6 +541,19 @@
           "ref": "I84*af8547c6-d17b-4e2b-a5cc-f129088152aa"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I86*9b8201de-5d16-4328-a064-a800d571dddc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I69*50996825-5164-423e-8028-9a1917f81664"
+        }
+      ],
+      "id": "F30*53f2fe5e-fd96-4f41-a300-b5c1a351df95"
     }
   ],
   "head": {
@@ -1967,6 +1980,11 @@
           "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
         }
       ],
+      "fams": [
+        {
+          "ref": "F30*53f2fe5e-fd96-4f41-a300-b5c1a351df95"
+        }
+      ],
       "id": "I69*50996825-5164-423e-8028-9a1917f81664",
       "names": [
         {
@@ -2296,6 +2314,25 @@
       "names": [
         {
           "value": " /Panggabean/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F30*53f2fe5e-fd96-4f41-a300-b5c1a351df95"
+        }
+      ],
+      "id": "I86*9b8201de-5d16-4328-a064-a800d571dddc",
+      "names": [
+        {
+          "value": "Erikben //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
