@@ -2230,6 +2230,9 @@
       "childRefs": [
         {
           "ref": "I314*166083c0-c47d-4198-9283-3773b8f088f0"
+        },
+        {
+          "ref": "I315*3ee0b0e7-a551-4f93-a907-6487168245d1"
         }
       ],
       "husbandRefs": [
@@ -8711,6 +8714,25 @@
       "names": [
         {
           "value": "Guru //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F130*fb8c1905-c39f-424c-a974-e966099d8565"
+        }
+      ],
+      "id": "I315*3ee0b0e7-a551-4f93-a907-6487168245d1",
+      "names": [
+        {
+          "value": "Mariam //"
         }
       ],
       "eventsFacts": [
