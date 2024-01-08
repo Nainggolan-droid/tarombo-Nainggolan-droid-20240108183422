@@ -1396,6 +1396,19 @@
         }
       ],
       "id": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I191*9abcc5ec-a854-414d-9635-27e2a8e424bb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I189*ef53d551-c576-4c44-a941-5c5319e51f87"
+        }
+      ],
+      "id": "F84*d6d85a54-1ae3-4954-a476-700541d29985"
     }
   ],
   "head": {
@@ -5296,6 +5309,11 @@
           "ref": "F83*0bfc1d9d-864d-410a-9ffe-aa58f17091e7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F84*d6d85a54-1ae3-4954-a476-700541d29985"
+        }
+      ],
       "id": "I189*ef53d551-c576-4c44-a941-5c5319e51f87",
       "names": [
         {
@@ -5319,6 +5337,25 @@
       "names": [
         {
           "value": "Op.Jauban //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F84*d6d85a54-1ae3-4954-a476-700541d29985"
+        }
+      ],
+      "id": "I191*9abcc5ec-a854-414d-9635-27e2a8e424bb",
+      "names": [
+        {
+          "value": "Ap.Nagara //"
         }
       ],
       "eventsFacts": [
