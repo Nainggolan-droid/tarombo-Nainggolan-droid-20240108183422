@@ -1734,6 +1734,9 @@
         },
         {
           "ref": "I242*9fa43e47-d5f4-40a8-8f89-79c4bcbcdb63"
+        },
+        {
+          "ref": "I243*80c2351e-f09d-4eb1-84ca-15c6265779dd"
         }
       ],
       "husbandRefs": [
@@ -6760,6 +6763,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*c6fc8492-af4c-40be-a080-2bd54335cb07"
+        }
+      ],
+      "id": "I243*80c2351e-f09d-4eb1-84ca-15c6265779dd",
+      "names": [
+        {
+          "value": "Umpan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
