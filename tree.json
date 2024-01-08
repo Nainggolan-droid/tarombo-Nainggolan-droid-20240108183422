@@ -1787,6 +1787,9 @@
       "childRefs": [
         {
           "ref": "I253*61c62580-17b3-49ad-a70a-321b5262e2eb"
+        },
+        {
+          "ref": "I255*1270230a-1b3c-415d-8933-d7fd2cca3ca9"
         }
       ],
       "husbandRefs": [
@@ -7065,6 +7068,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F104*d0ea0231-9c76-4c0d-a0fc-bbe7bac0a003"
+        }
+      ],
+      "id": "I255*1270230a-1b3c-415d-8933-d7fd2cca3ca9",
+      "names": [
+        {
+          "value": "Supriando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
