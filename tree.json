@@ -984,6 +984,9 @@
         },
         {
           "ref": "I142*d4163c39-15bc-4b89-9856-00f9e9863398"
+        },
+        {
+          "ref": "I144*bafe1d3e-8258-41b6-9fef-38595589dfdd"
         }
       ],
       "husbandRefs": [
@@ -3929,6 +3932,25 @@
       "names": [
         {
           "value": "Op.Sigop //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F57*5fb94d59-5ad9-419b-844b-c218f5e7170a"
+        }
+      ],
+      "id": "I144*bafe1d3e-8258-41b6-9fef-38595589dfdd",
+      "names": [
+        {
+          "value": "A.Rapit //"
         }
       ],
       "eventsFacts": [
