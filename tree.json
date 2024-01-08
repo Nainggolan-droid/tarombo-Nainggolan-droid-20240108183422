@@ -1866,6 +1866,9 @@
         },
         {
           "ref": "I266*c36e5ec6-2583-4143-8e9b-26c39ad6ebab"
+        },
+        {
+          "ref": "I268*96569484-740e-4fae-954c-5d32022584f3"
         }
       ],
       "husbandRefs": [
@@ -7401,6 +7404,25 @@
       "names": [
         {
           "value": " /Pasaribu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F108*b0b024ff-855e-4c14-9eb7-37d2f8a913ff"
+        }
+      ],
+      "id": "I268*96569484-740e-4fae-954c-5d32022584f3",
+      "names": [
+        {
+          "value": "Risma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
