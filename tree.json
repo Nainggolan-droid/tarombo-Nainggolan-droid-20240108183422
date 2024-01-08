@@ -1599,6 +1599,9 @@
         },
         {
           "ref": "I217*2714fa2d-05de-4304-8a6d-be7f7c1d9c90"
+        },
+        {
+          "ref": "I218*e90e6f71-119e-4d39-b4fe-4e66dde99c26"
         }
       ],
       "husbandRefs": [
@@ -6114,6 +6117,25 @@
       "names": [
         {
           "value": "Ap.Bunga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
+      "id": "I218*e90e6f71-119e-4d39-b4fe-4e66dde99c26",
+      "names": [
+        {
+          "value": "Parhalang //"
         }
       ],
       "eventsFacts": [
