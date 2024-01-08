@@ -434,6 +434,9 @@
         },
         {
           "ref": "I72*49bf53cf-9e7f-4fdc-a132-e190d690d1e9"
+        },
+        {
+          "ref": "I73*cf5ae1c1-bb07-44cb-b4c7-18506970964d"
         }
       ],
       "husbandRefs": [
@@ -1924,6 +1927,25 @@
       "names": [
         {
           "value": "Dantir //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*2b09a730-780e-49d0-b423-5f3e521414df"
+        }
+      ],
+      "id": "I73*cf5ae1c1-bb07-44cb-b4c7-18506970964d",
+      "names": [
+        {
+          "value": "Dannis //"
         }
       ],
       "eventsFacts": [
