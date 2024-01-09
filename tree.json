@@ -2598,6 +2598,19 @@
           "ref": "I363*e1756443-c314-4c07-a2a4-8f4d6f5768aa"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I365*05c91573-aa5e-4fda-9557-7a4bc6bde35e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I360*602882e6-b664-4286-985a-4c64aa50696a"
+        }
+      ],
+      "id": "F152*af0d28dd-f022-4c72-b4d9-359014ec6432"
     }
   ],
   "head": {
@@ -10037,6 +10050,11 @@
           "ref": "F150*939cf07b-55ad-4f47-8b18-6a0b80e8cb1d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F152*af0d28dd-f022-4c72-b4d9-359014ec6432"
+        }
+      ],
       "id": "I360*602882e6-b664-4286-985a-4c64aa50696a",
       "names": [
         {
@@ -10126,6 +10144,25 @@
       "names": [
         {
           "value": " /Gultom/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F152*af0d28dd-f022-4c72-b4d9-359014ec6432"
+        }
+      ],
+      "id": "I365*05c91573-aa5e-4fda-9557-7a4bc6bde35e",
+      "names": [
+        {
+          "value": "Jonatan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
