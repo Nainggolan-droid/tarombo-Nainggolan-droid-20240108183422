@@ -2301,6 +2301,19 @@
         }
       ],
       "id": "F133*282f5a81-879b-47af-9805-3e40734bcee9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I326*8628ffd5-e353-4c97-9265-5d7914e12b84"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I324*2bd85333-b97d-4846-b753-fe9e41781d67"
+        }
+      ],
+      "id": "F134*cbb7c5b4-b178-42aa-8472-a784eefbb40f"
     }
   ],
   "head": {
@@ -8975,6 +8988,11 @@
           "ref": "F133*282f5a81-879b-47af-9805-3e40734bcee9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F134*cbb7c5b4-b178-42aa-8472-a784eefbb40f"
+        }
+      ],
       "id": "I324*2bd85333-b97d-4846-b753-fe9e41781d67",
       "names": [
         {
@@ -8999,6 +9017,25 @@
       "names": [
         {
           "value": "Tolong //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F134*cbb7c5b4-b178-42aa-8472-a784eefbb40f"
+        }
+      ],
+      "id": "I326*8628ffd5-e353-4c97-9265-5d7914e12b84",
+      "names": [
+        {
+          "value": "Olopan //"
         }
       ],
       "eventsFacts": [
