@@ -2322,6 +2322,9 @@
         },
         {
           "ref": "I328*ba4a000e-af43-4e3a-a32c-57e7b0496886"
+        },
+        {
+          "ref": "I330*8259bf36-1256-4bcf-aaac-1f37c4700d28"
         }
       ],
       "husbandRefs": [
@@ -9133,6 +9136,25 @@
       "names": [
         {
           "value": " /Sihombing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F135*45a21ff8-e11b-4465-a2ee-f159c54c5394"
+        }
+      ],
+      "id": "I330*8259bf36-1256-4bcf-aaac-1f37c4700d28",
+      "names": [
+        {
+          "value": "Maya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
