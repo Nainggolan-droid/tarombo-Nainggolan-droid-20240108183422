@@ -2496,6 +2496,19 @@
         }
       ],
       "id": "F145*807a69e0-f68e-4b98-8c0e-6efe93c9750c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I351*a03391a8-438d-497e-a764-0b3d5eb5f5c5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I224*9799b4f5-a93d-474f-a558-331eed7b1027"
+        }
+      ],
+      "id": "F146*8e7b370b-0bb3-4740-b734-79441f0d3615"
     }
   ],
   "head": {
@@ -7147,6 +7160,11 @@
           "ref": "F98*b57ad7db-0226-4a3c-b37e-bba675e6250d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F146*8e7b370b-0bb3-4740-b734-79441f0d3615"
+        }
+      ],
       "id": "I224*9799b4f5-a93d-474f-a558-331eed7b1027",
       "names": [
         {
@@ -9722,6 +9740,25 @@
       "names": [
         {
           "value": "Garang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F146*8e7b370b-0bb3-4740-b734-79441f0d3615"
+        }
+      ],
+      "id": "I351*a03391a8-438d-497e-a764-0b3d5eb5f5c5",
+      "names": [
+        {
+          "value": "A.Tamba //"
         }
       ],
       "eventsFacts": [
