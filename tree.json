@@ -2552,6 +2552,9 @@
         },
         {
           "ref": "I358*d66d6135-4c0e-4aed-a5c1-c8bb61487b44"
+        },
+        {
+          "ref": "I359*c1f84916-7d13-4eb5-b8dd-ea4ca7e316f6"
         }
       ],
       "husbandRefs": [
@@ -9960,6 +9963,25 @@
       "names": [
         {
           "value": "Robinsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F149*6d502c98-27af-41e4-b7eb-588b4c616403"
+        }
+      ],
+      "id": "I359*c1f84916-7d13-4eb5-b8dd-ea4ca7e316f6",
+      "names": [
+        {
+          "value": "Rapolmas //"
         }
       ],
       "eventsFacts": [
