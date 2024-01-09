@@ -2470,6 +2470,19 @@
         }
       ],
       "id": "F143*ed339895-5930-4343-af3b-1c6e3a48fa3f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I349*2efd8151-2d2f-4dcf-9d94-f7b1ba2d83ea"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I347*8b80da73-a274-442f-8b5c-1d242fa04e9c"
+        }
+      ],
+      "id": "F144*e1ad4f44-b6ec-4994-a26d-bafc452b9389"
     }
   ],
   "head": {
@@ -9625,6 +9638,11 @@
           "ref": "F143*ed339895-5930-4343-af3b-1c6e3a48fa3f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F144*e1ad4f44-b6ec-4994-a26d-bafc452b9389"
+        }
+      ],
       "id": "I347*8b80da73-a274-442f-8b5c-1d242fa04e9c",
       "names": [
         {
@@ -9648,6 +9666,25 @@
       "names": [
         {
           "value": "Gomos //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F144*e1ad4f44-b6ec-4994-a26d-bafc452b9389"
+        }
+      ],
+      "id": "I349*2efd8151-2d2f-4dcf-9d94-f7b1ba2d83ea",
+      "names": [
+        {
+          "value": "Pdt.Philip //"
         }
       ],
       "eventsFacts": [
