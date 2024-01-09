@@ -2394,6 +2394,19 @@
         }
       ],
       "id": "F139*bffa1d65-61e5-4d1b-ad03-f51408d65e5c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I337*806c2153-8978-4bb0-b698-5afb78180e3d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I336*55ec6b6e-9e76-439c-9522-edb9b4657531"
+        }
+      ],
+      "id": "F140*bb8031e3-9d10-4dc7-a1ab-6c02b3af887f"
     }
   ],
   "head": {
@@ -9318,10 +9331,34 @@
           "ref": "F139*bffa1d65-61e5-4d1b-ad03-f51408d65e5c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F140*bb8031e3-9d10-4dc7-a1ab-6c02b3af887f"
+        }
+      ],
       "id": "I336*55ec6b6e-9e76-439c-9522-edb9b4657531",
       "names": [
         {
           "value": "Donok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F140*bb8031e3-9d10-4dc7-a1ab-6c02b3af887f"
+        }
+      ],
+      "id": "I337*806c2153-8978-4bb0-b698-5afb78180e3d",
+      "names": [
+        {
+          "value": "Djannes //"
         }
       ],
       "eventsFacts": [
