@@ -2265,6 +2265,9 @@
         },
         {
           "ref": "I319*4b5026fa-7e6d-452f-a6b6-284582f39946"
+        },
+        {
+          "ref": "I320*e50b93be-cdad-4c35-8bf2-841f075c464b"
         }
       ],
       "husbandRefs": [
@@ -2283,7 +2286,7 @@
       "time": "17:09:59",
       "value": "8 JAN 2024"
     },
-    "file": "5.json",
+    "file": "2.json",
     "gedc": {
       "form": "LINEAGE-LINKED",
       "vers": "5.5.1"
@@ -2291,7 +2294,7 @@
     "lang": "Indonesian",
     "sour": {
       "name": "Tarombo",
-      "value": "FAMILY_GEM",
+      "value": "TAROMBO",
       "vers": "0.3.5 (2839f2a)"
     }
   },
@@ -8851,6 +8854,25 @@
       "names": [
         {
           "value": "Md.Darius //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
+        }
+      ],
+      "id": "I320*e50b93be-cdad-4c35-8bf2-841f075c464b",
+      "names": [
+        {
+          "value": "A.Motor //"
         }
       ],
       "eventsFacts": [
