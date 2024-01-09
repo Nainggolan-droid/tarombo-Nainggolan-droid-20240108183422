@@ -2421,6 +2421,9 @@
         },
         {
           "ref": "I343*e95fff9c-6338-4176-ab37-2099d370a8f1"
+        },
+        {
+          "ref": "I344*9cae59ed-69c5-461d-9dee-af41a49adb13"
         }
       ],
       "husbandRefs": [
@@ -9523,6 +9526,25 @@
       "names": [
         {
           "value": "Ratno //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*4c8a2924-be1b-4477-8983-6148c782ceea"
+        }
+      ],
+      "id": "I344*9cae59ed-69c5-461d-9dee-af41a49adb13",
+      "names": [
+        {
+          "value": "Rainer //"
         }
       ],
       "eventsFacts": [
