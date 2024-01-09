@@ -2328,6 +2328,9 @@
         },
         {
           "ref": "I332*4f5b925c-2160-42f0-a9ad-96c3d0bad4af"
+        },
+        {
+          "ref": "I334*f2642856-8a44-45b7-8e0c-65616397aa5d"
         }
       ],
       "husbandRefs": [
@@ -9241,6 +9244,25 @@
       "names": [
         {
           "value": "Gavy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F135*45a21ff8-e11b-4465-a2ee-f159c54c5394"
+        }
+      ],
+      "id": "I334*f2642856-8a44-45b7-8e0c-65616397aa5d",
+      "names": [
+        {
+          "value": "Lasny //"
         }
       ],
       "eventsFacts": [
