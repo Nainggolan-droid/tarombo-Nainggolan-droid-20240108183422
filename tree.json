@@ -2657,6 +2657,9 @@
         },
         {
           "ref": "I373*4c6fd152-e701-4ab4-946d-725dfb558c1c"
+        },
+        {
+          "ref": "I374*72064b35-bfae-457d-8e79-49fa12513919"
         }
       ],
       "husbandRefs": [
@@ -10382,6 +10385,25 @@
       "names": [
         {
           "value": "Brata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F155*205a3492-f42e-4a75-a617-fb9956e0e9af"
+        }
+      ],
+      "id": "I374*72064b35-bfae-457d-8e79-49fa12513919",
+      "names": [
+        {
+          "value": "Joel //"
         }
       ],
       "eventsFacts": [
