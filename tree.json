@@ -2622,6 +2622,9 @@
       "childRefs": [
         {
           "ref": "I368*45400137-50e2-461c-8c44-11323acfb8d0"
+        },
+        {
+          "ref": "I369*dd518658-3813-4674-a6d2-3428f08dcbad"
         }
       ],
       "husbandRefs": [
@@ -10238,6 +10241,25 @@
       "names": [
         {
           "value": "Nathan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F153*6b56d7d9-6c2e-48a3-b22f-c32ad0718f41"
+        }
+      ],
+      "id": "I369*dd518658-3813-4674-a6d2-3428f08dcbad",
+      "names": [
+        {
+          "value": "Edgar //"
         }
       ],
       "eventsFacts": [
