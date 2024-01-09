@@ -2407,6 +2407,19 @@
         }
       ],
       "id": "F140*bb8031e3-9d10-4dc7-a1ab-6c02b3af887f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I338*1334171f-a55c-4d11-9644-cc98c02bdaee"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I337*806c2153-8978-4bb0-b698-5afb78180e3d"
+        }
+      ],
+      "id": "F141*4c8a2924-be1b-4477-8983-6148c782ceea"
     }
   ],
   "head": {
@@ -9355,11 +9368,35 @@
           "ref": "F140*bb8031e3-9d10-4dc7-a1ab-6c02b3af887f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F141*4c8a2924-be1b-4477-8983-6148c782ceea"
+        }
+      ],
       "id": "I337*806c2153-8978-4bb0-b698-5afb78180e3d",
       "names": [
         {
           "nick": "Op.Jonesh",
           "value": "Djannes //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*4c8a2924-be1b-4477-8983-6148c782ceea"
+        }
+      ],
+      "id": "I338*1334171f-a55c-4d11-9644-cc98c02bdaee",
+      "names": [
+        {
+          "value": "Charly //"
         }
       ],
       "eventsFacts": [
