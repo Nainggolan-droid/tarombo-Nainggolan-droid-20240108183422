@@ -2425,6 +2425,9 @@
       "childRefs": [
         {
           "ref": "I339*274f49a7-d9ef-42df-b728-9de2cd7b1936"
+        },
+        {
+          "ref": "I340*69197dd8-6e89-42a9-b72f-e81ceb7c5de8"
         }
       ],
       "husbandRefs": [
@@ -9435,6 +9438,25 @@
       "names": [
         {
           "value": "Jonesh //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F142*4717fc36-4433-47e6-b628-7a766d78cec4"
+        }
+      ],
+      "id": "I340*69197dd8-6e89-42a9-b72f-e81ceb7c5de8",
+      "names": [
+        {
+          "value": "Mikael //"
         }
       ],
       "eventsFacts": [
