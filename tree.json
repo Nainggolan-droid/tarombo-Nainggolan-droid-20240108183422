@@ -2290,6 +2290,9 @@
         },
         {
           "ref": "I324*2bd85333-b97d-4846-b753-fe9e41781d67"
+        },
+        {
+          "ref": "I325*9ff8912d-203d-4df1-bc1a-b8fc58a196f0"
         }
       ],
       "husbandRefs": [
@@ -8977,6 +8980,25 @@
         {
           "nick": "Op.Maruli",
           "value": "Tongon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F133*282f5a81-879b-47af-9805-3e40734bcee9"
+        }
+      ],
+      "id": "I325*9ff8912d-203d-4df1-bc1a-b8fc58a196f0",
+      "names": [
+        {
+          "value": "Tolong //"
         }
       ],
       "eventsFacts": [
