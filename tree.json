@@ -2549,6 +2549,9 @@
       "childRefs": [
         {
           "ref": "I357*b0186c99-6976-4f0c-83b1-1162fe7e2e3a"
+        },
+        {
+          "ref": "I358*d66d6135-4c0e-4aed-a5c1-c8bb61487b44"
         }
       ],
       "husbandRefs": [
@@ -9938,6 +9941,25 @@
         {
           "nick": "Op.Jonatan",
           "value": "Okner //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F149*6d502c98-27af-41e4-b7eb-588b4c616403"
+        }
+      ],
+      "id": "I358*d66d6135-4c0e-4aed-a5c1-c8bb61487b44",
+      "names": [
+        {
+          "value": "Robinsar //"
         }
       ],
       "eventsFacts": [
