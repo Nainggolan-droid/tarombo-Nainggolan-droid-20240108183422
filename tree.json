@@ -2459,6 +2459,9 @@
         },
         {
           "ref": "I347*8b80da73-a274-442f-8b5c-1d242fa04e9c"
+        },
+        {
+          "ref": "I348*09d05292-d8b1-40cc-82b1-8ac9a3249c0f"
         }
       ],
       "husbandRefs": [
@@ -9626,6 +9629,25 @@
       "names": [
         {
           "value": "Engkol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F143*ed339895-5930-4343-af3b-1c6e3a48fa3f"
+        }
+      ],
+      "id": "I348*09d05292-d8b1-40cc-82b1-8ac9a3249c0f",
+      "names": [
+        {
+          "value": "Gomos //"
         }
       ],
       "eventsFacts": [
