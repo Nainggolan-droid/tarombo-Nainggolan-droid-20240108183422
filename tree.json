@@ -2483,6 +2483,19 @@
         }
       ],
       "id": "F144*e1ad4f44-b6ec-4994-a26d-bafc452b9389"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I350*17e449a2-8ae3-47ca-9be1-cf716ceaa9cc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I321*5a1c7f17-6dff-400f-8bbe-007856d38baa"
+        }
+      ],
+      "id": "F145*807a69e0-f68e-4b98-8c0e-6efe93c9750c"
     }
   ],
   "head": {
@@ -9110,6 +9123,11 @@
           "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
         }
       ],
+      "fams": [
+        {
+          "ref": "F145*807a69e0-f68e-4b98-8c0e-6efe93c9750c"
+        }
+      ],
       "id": "I321*5a1c7f17-6dff-400f-8bbe-007856d38baa",
       "names": [
         {
@@ -9685,6 +9703,25 @@
       "names": [
         {
           "value": "Pdt.Philip //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F145*807a69e0-f68e-4b98-8c0e-6efe93c9750c"
+        }
+      ],
+      "id": "I350*17e449a2-8ae3-47ca-9be1-cf716ceaa9cc",
+      "names": [
+        {
+          "value": "Garang //"
         }
       ],
       "eventsFacts": [
