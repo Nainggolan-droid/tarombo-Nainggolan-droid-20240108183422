@@ -2314,6 +2314,19 @@
         }
       ],
       "id": "F134*cbb7c5b4-b178-42aa-8472-a784eefbb40f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I327*5ad208ef-f996-4179-a056-0bab827a86f7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I326*8628ffd5-e353-4c97-9265-5d7914e12b84"
+        }
+      ],
+      "id": "F135*45a21ff8-e11b-4465-a2ee-f159c54c5394"
     }
   ],
   "head": {
@@ -9032,11 +9045,35 @@
           "ref": "F134*cbb7c5b4-b178-42aa-8472-a784eefbb40f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F135*45a21ff8-e11b-4465-a2ee-f159c54c5394"
+        }
+      ],
       "id": "I326*8628ffd5-e353-4c97-9265-5d7914e12b84",
       "names": [
         {
           "nick": "A.Maruli",
           "value": "Olopan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F135*45a21ff8-e11b-4465-a2ee-f159c54c5394"
+        }
+      ],
+      "id": "I327*5ad208ef-f996-4179-a056-0bab827a86f7",
+      "names": [
+        {
+          "value": "Maruli //"
         }
       ],
       "eventsFacts": [
