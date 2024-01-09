@@ -2412,6 +2412,9 @@
       "childRefs": [
         {
           "ref": "I338*1334171f-a55c-4d11-9644-cc98c02bdaee"
+        },
+        {
+          "ref": "I341*20dd4b85-9bbd-486a-b3cc-879cafdb0ed0"
         }
       ],
       "husbandRefs": [
@@ -9457,6 +9460,25 @@
       "names": [
         {
           "value": "Mikael //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*4c8a2924-be1b-4477-8983-6148c782ceea"
+        }
+      ],
+      "id": "I341*20dd4b85-9bbd-486a-b3cc-879cafdb0ed0",
+      "names": [
+        {
+          "value": "Fabioniko //"
         }
       ],
       "eventsFacts": [
