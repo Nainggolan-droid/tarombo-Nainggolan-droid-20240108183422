@@ -2617,6 +2617,19 @@
         }
       ],
       "id": "F152*af0d28dd-f022-4c72-b4d9-359014ec6432"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I368*45400137-50e2-461c-8c44-11323acfb8d0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I361*a84f5f34-3db6-4b2f-b252-ba4f804a27ea"
+        }
+      ],
+      "id": "F153*6b56d7d9-6c2e-48a3-b22f-c32ad0718f41"
     }
   ],
   "head": {
@@ -10081,6 +10094,11 @@
           "ref": "F150*939cf07b-55ad-4f47-8b18-6a0b80e8cb1d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F153*6b56d7d9-6c2e-48a3-b22f-c32ad0718f41"
+        }
+      ],
       "id": "I361*a84f5f34-3db6-4b2f-b252-ba4f804a27ea",
       "names": [
         {
@@ -10207,6 +10225,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F153*6b56d7d9-6c2e-48a3-b22f-c32ad0718f41"
+        }
+      ],
+      "id": "I368*45400137-50e2-461c-8c44-11323acfb8d0",
+      "names": [
+        {
+          "value": "Nathan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
