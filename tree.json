@@ -2271,6 +2271,9 @@
         },
         {
           "ref": "I321*5a1c7f17-6dff-400f-8bbe-007856d38baa"
+        },
+        {
+          "ref": "I322*578cc11a-030e-44c8-84a3-294aa54567f1"
         }
       ],
       "husbandRefs": [
@@ -8895,6 +8898,25 @@
       "names": [
         {
           "value": "Tipang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F132*9b3c9327-28a5-4fe9-a953-75f5147db726"
+        }
+      ],
+      "id": "I322*578cc11a-030e-44c8-84a3-294aa54567f1",
+      "names": [
+        {
+          "value": "Gomar //"
         }
       ],
       "eventsFacts": [
