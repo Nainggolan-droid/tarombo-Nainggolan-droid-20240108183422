@@ -2654,6 +2654,9 @@
       "childRefs": [
         {
           "ref": "I372*76d09510-0673-4d5b-96eb-314e1c1a4f70"
+        },
+        {
+          "ref": "I373*4c6fd152-e701-4ab4-946d-725dfb558c1c"
         }
       ],
       "husbandRefs": [
@@ -10366,6 +10369,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F155*205a3492-f42e-4a75-a617-fb9956e0e9af"
+        }
+      ],
+      "id": "I373*4c6fd152-e701-4ab4-946d-725dfb558c1c",
+      "names": [
+        {
+          "value": "Brata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
