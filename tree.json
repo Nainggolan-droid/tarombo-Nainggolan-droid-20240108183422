@@ -2703,6 +2703,19 @@
         }
       ],
       "id": "F157*09d452c7-3380-44c3-8ca0-f1c511cab1df"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I380*a4ba2229-dcd9-41b3-9b69-08110fcbb519"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I356*2210eb9e-ac0f-44b1-b3e8-e8810e341bb4"
+        }
+      ],
+      "id": "F158*4ee2b5d1-1d21-4ec1-a07b-1aaa2a5b5016"
     }
   ],
   "head": {
@@ -10065,6 +10078,11 @@
           "ref": "F148*1fd74f37-2792-45b9-8ee9-961dcac79a8c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F158*4ee2b5d1-1d21-4ec1-a07b-1aaa2a5b5016"
+        }
+      ],
       "id": "I356*2210eb9e-ac0f-44b1-b3e8-e8810e341bb4",
       "names": [
         {
@@ -10544,6 +10562,25 @@
       "names": [
         {
           "value": "Arnold //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F158*4ee2b5d1-1d21-4ec1-a07b-1aaa2a5b5016"
+        }
+      ],
+      "id": "I380*a4ba2229-dcd9-41b3-9b69-08110fcbb519",
+      "names": [
+        {
+          "value": "Jahotman //"
         }
       ],
       "eventsFacts": [
