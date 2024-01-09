@@ -2456,6 +2456,9 @@
         },
         {
           "ref": "I346*6e3f0733-e0bd-4520-a86f-7a681cc81725"
+        },
+        {
+          "ref": "I347*8b80da73-a274-442f-8b5c-1d242fa04e9c"
         }
       ],
       "husbandRefs": [
@@ -9604,6 +9607,25 @@
       "names": [
         {
           "value": "Junggal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F143*ed339895-5930-4343-af3b-1c6e3a48fa3f"
+        }
+      ],
+      "id": "I347*8b80da73-a274-442f-8b5c-1d242fa04e9c",
+      "names": [
+        {
+          "value": "Engkol //"
         }
       ],
       "eventsFacts": [
