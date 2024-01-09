@@ -2383,6 +2383,9 @@
       "childRefs": [
         {
           "ref": "I335*e1a22f91-8515-4f2e-a15a-097cf0d883f6"
+        },
+        {
+          "ref": "I336*55ec6b6e-9e76-439c-9522-edb9b4657531"
         }
       ],
       "husbandRefs": [
@@ -9300,6 +9303,25 @@
       "names": [
         {
           "value": "Selamat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F139*bffa1d65-61e5-4d1b-ad03-f51408d65e5c"
+        }
+      ],
+      "id": "I336*55ec6b6e-9e76-439c-9522-edb9b4657531",
+      "names": [
+        {
+          "value": "Donok //"
         }
       ],
       "eventsFacts": [
