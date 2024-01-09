@@ -2568,6 +2568,9 @@
       "childRefs": [
         {
           "ref": "I360*602882e6-b664-4286-985a-4c64aa50696a"
+        },
+        {
+          "ref": "I361*a84f5f34-3db6-4b2f-b252-ba4f804a27ea"
         }
       ],
       "husbandRefs": [
@@ -10020,6 +10023,25 @@
         {
           "nick": "A.Jonatan",
           "value": "Tony Halomoan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F150*939cf07b-55ad-4f47-8b18-6a0b80e8cb1d"
+        }
+      ],
+      "id": "I361*a84f5f34-3db6-4b2f-b252-ba4f804a27ea",
+      "names": [
+        {
+          "value": "Togu //"
         }
       ],
       "eventsFacts": [
