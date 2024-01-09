@@ -2671,6 +2671,19 @@
         }
       ],
       "id": "F155*205a3492-f42e-4a75-a617-fb9956e0e9af"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I376*2c88e0ca-c4e8-4e44-b27d-4bae7e3316c9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I359*c1f84916-7d13-4eb5-b8dd-ea4ca7e316f6"
+        }
+      ],
+      "id": "F156*ad6c97c3-e82e-4678-91d4-467cadfc78e7"
     }
   ],
   "head": {
@@ -10096,6 +10109,11 @@
           "ref": "F149*6d502c98-27af-41e4-b7eb-588b4c616403"
         }
       ],
+      "fams": [
+        {
+          "ref": "F156*ad6c97c3-e82e-4678-91d4-467cadfc78e7"
+        }
+      ],
       "id": "I359*c1f84916-7d13-4eb5-b8dd-ea4ca7e316f6",
       "names": [
         {
@@ -10426,6 +10444,25 @@
       "names": [
         {
           "value": "Lie //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F156*ad6c97c3-e82e-4678-91d4-467cadfc78e7"
+        }
+      ],
+      "id": "I376*2c88e0ca-c4e8-4e44-b27d-4bae7e3316c9",
+      "names": [
+        {
+          "value": "Saut //"
         }
       ],
       "eventsFacts": [
