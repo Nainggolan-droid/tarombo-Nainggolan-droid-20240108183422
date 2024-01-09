@@ -2571,6 +2571,9 @@
         },
         {
           "ref": "I361*a84f5f34-3db6-4b2f-b252-ba4f804a27ea"
+        },
+        {
+          "ref": "I362*4b9355b2-5820-4622-987d-a68942f63220"
         }
       ],
       "husbandRefs": [
@@ -10043,6 +10046,25 @@
         {
           "nick": "A.Nathan",
           "value": "Togu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F150*939cf07b-55ad-4f47-8b18-6a0b80e8cb1d"
+        }
+      ],
+      "id": "I362*4b9355b2-5820-4622-987d-a68942f63220",
+      "names": [
+        {
+          "value": "Tomson //"
         }
       ],
       "eventsFacts": [
