@@ -2692,6 +2692,9 @@
       "childRefs": [
         {
           "ref": "I378*c7a52ad7-40de-4531-9111-2797bc760caf"
+        },
+        {
+          "ref": "I379*3d927fac-721d-4144-9c66-fa973e0b85a0"
         }
       ],
       "husbandRefs": [
@@ -10522,6 +10525,25 @@
       "names": [
         {
           "value": "Albon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F157*09d452c7-3380-44c3-8ca0-f1c511cab1df"
+        }
+      ],
+      "id": "I379*3d927fac-721d-4144-9c66-fa973e0b85a0",
+      "names": [
+        {
+          "value": "Arnold //"
         }
       ],
       "eventsFacts": [
