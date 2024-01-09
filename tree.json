@@ -2708,6 +2708,9 @@
       "childRefs": [
         {
           "ref": "I380*a4ba2229-dcd9-41b3-9b69-08110fcbb519"
+        },
+        {
+          "ref": "I381*74356911-beb4-418d-a439-3cb2a8c01a51"
         }
       ],
       "husbandRefs": [
@@ -10591,6 +10594,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F158*4ee2b5d1-1d21-4ec1-a07b-1aaa2a5b5016"
+        }
+      ],
+      "id": "I381*74356911-beb4-418d-a439-3cb2a8c01a51",
+      "names": [
+        {
+          "value": "Riston //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
