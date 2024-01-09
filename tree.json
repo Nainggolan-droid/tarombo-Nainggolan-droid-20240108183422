@@ -2727,6 +2727,9 @@
       "childRefs": [
         {
           "ref": "I383*22d625b8-d32d-4539-898a-1b187cad9c8c"
+        },
+        {
+          "ref": "I384*4d07330e-2860-490e-b529-236c30866d38"
         }
       ],
       "husbandRefs": [
@@ -10666,6 +10669,25 @@
       "names": [
         {
           "value": "Jansen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F159*8f764e10-80c2-491e-8b3b-4b5cb17356b2"
+        }
+      ],
+      "id": "I384*4d07330e-2860-490e-b529-236c30866d38",
+      "names": [
+        {
+          "value": "Ludin //"
         }
       ],
       "eventsFacts": [
