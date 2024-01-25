@@ -2964,6 +2964,19 @@
           "ref": "I414*49f7d592-463d-4f40-ade0-86f78d82644d"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I417*e120a363-cbe9-45fc-a966-f3ffd087224b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I410*127cc5af-6809-4ed7-bad5-018c0d5102b7"
+        }
+      ],
+      "id": "F173*a2b31176-534e-4639-bab4-9bf35a87cd2c"
     }
   ],
   "head": {
@@ -11440,6 +11453,11 @@
           "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
         }
       ],
+      "fams": [
+        {
+          "ref": "F173*a2b31176-534e-4639-bab4-9bf35a87cd2c"
+        }
+      ],
       "id": "I410*127cc5af-6809-4ed7-bad5-018c0d5102b7",
       "names": [
         {
@@ -11570,6 +11588,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F173*a2b31176-534e-4639-bab4-9bf35a87cd2c"
+        }
+      ],
+      "id": "I417*e120a363-cbe9-45fc-a966-f3ffd087224b",
+      "names": [
+        {
+          "value": "Maria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
