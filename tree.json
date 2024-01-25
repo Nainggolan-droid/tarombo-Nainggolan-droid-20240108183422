@@ -2853,6 +2853,9 @@
         },
         {
           "ref": "I408*a529ffb3-51ca-498d-8684-c5c1795de9d5"
+        },
+        {
+          "ref": "I410*127cc5af-6809-4ed7-bad5-018c0d5102b7"
         }
       ],
       "husbandRefs": [
@@ -11380,6 +11383,19 @@
       "names": [
         {
           "value": " /Manalu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
+        }
+      ],
+      "id": "I410*127cc5af-6809-4ed7-bad5-018c0d5102b7",
+      "names": [
+        {
+          "value": "Iriyanto //"
         }
       ]
     }
