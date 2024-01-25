@@ -3546,6 +3546,19 @@
         }
       ],
       "id": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I501*e1913670-cac4-417c-b84f-5c94d26b9849"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I500*41f17fab-7fe2-4e63-9251-c7d5040f8a80"
+        }
+      ],
+      "id": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
     }
   ],
   "head": {
@@ -13861,6 +13874,11 @@
           "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
+        }
+      ],
       "id": "I500*41f17fab-7fe2-4e63-9251-c7d5040f8a80",
       "names": [
         {
@@ -13871,6 +13889,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
+        }
+      ],
+      "id": "I501*e1913670-cac4-417c-b84f-5c94d26b9849",
+      "names": [
+        {
+          "value": "Krista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
