@@ -2822,6 +2822,9 @@
         },
         {
           "ref": "I398*34673875-1b41-4fce-a6e3-e2036c0c0244"
+        },
+        {
+          "ref": "I399*2e0a5c0b-df7d-4c88-8b11-4d5dcb9355a8"
         }
       ],
       "husbandRefs": [
@@ -11075,6 +11078,25 @@
       "names": [
         {
           "value": "Kostan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F164*a1691fd3-3e98-4164-a825-79dc83418e39"
+        }
+      ],
+      "id": "I399*2e0a5c0b-df7d-4c88-8b11-4d5dcb9355a8",
+      "names": [
+        {
+          "value": "Baginda //"
         }
       ],
       "eventsFacts": [
