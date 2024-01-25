@@ -2762,6 +2762,9 @@
         },
         {
           "ref": "I388*d92ceca4-1d8d-4522-a57b-064da38b7982"
+        },
+        {
+          "ref": "I389*6897b568-0814-401d-96a9-5f7415d25109"
         }
       ],
       "husbandRefs": [
@@ -10806,6 +10809,25 @@
       "names": [
         {
           "value": "Op.Botoran //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
+      "id": "I389*6897b568-0814-401d-96a9-5f7415d25109",
+      "names": [
+        {
+          "value": "Ap.Tutahan //"
         }
       ],
       "eventsFacts": [
