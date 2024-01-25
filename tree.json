@@ -3268,6 +3268,9 @@
         },
         {
           "ref": "I460*6aae4b17-57cc-4b8c-9875-e340cd57997b"
+        },
+        {
+          "ref": "I461*e9e984a0-dc91-4d41-8153-e28e871d0f0a"
         }
       ],
       "husbandRefs": [
@@ -12764,6 +12767,25 @@
         {
           "nick": "A.Lasman",
           "value": "Kurus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+        }
+      ],
+      "id": "I461*e9e984a0-dc91-4d41-8153-e28e871d0f0a",
+      "names": [
+        {
+          "value": "Buser //"
         }
       ],
       "eventsFacts": [
