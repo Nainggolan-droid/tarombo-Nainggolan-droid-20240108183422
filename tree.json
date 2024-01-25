@@ -3221,6 +3221,9 @@
         },
         {
           "ref": "I451*8accaf87-0e31-41f0-b0f8-7a177e3f8414"
+        },
+        {
+          "ref": "I452*d1d18a09-c943-4ce9-b90b-5a2ec6b3d814"
         }
       ],
       "husbandRefs": [
@@ -12531,6 +12534,25 @@
         {
           "nick": "Op.Manahan Laut",
           "value": "Gr.Kasianus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
+        }
+      ],
+      "id": "I452*d1d18a09-c943-4ce9-b90b-5a2ec6b3d814",
+      "names": [
+        {
+          "value": "Mulia //"
         }
       ],
       "eventsFacts": [
