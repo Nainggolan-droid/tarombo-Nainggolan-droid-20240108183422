@@ -2859,6 +2859,9 @@
         },
         {
           "ref": "I411*5c30652e-8158-44ee-a46c-77daa2848741"
+        },
+        {
+          "ref": "I413*50b81d16-4ff3-4724-a799-69ad59d03ade"
         }
       ],
       "husbandRefs": [
@@ -11456,6 +11459,25 @@
       "names": [
         {
           "value": " /Simarmata/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
+        }
+      ],
+      "id": "I413*50b81d16-4ff3-4724-a799-69ad59d03ade",
+      "names": [
+        {
+          "value": "Dermawan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
