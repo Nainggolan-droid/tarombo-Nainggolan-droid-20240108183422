@@ -2850,6 +2850,9 @@
         },
         {
           "ref": "I407*46af7f08-5d20-44aa-9df2-4293f7737433"
+        },
+        {
+          "ref": "I408*a529ffb3-51ca-498d-8684-c5c1795de9d5"
         }
       ],
       "husbandRefs": [
@@ -11326,6 +11329,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
+        }
+      ],
+      "id": "I408*a529ffb3-51ca-498d-8684-c5c1795de9d5",
+      "names": [
+        {
+          "value": "Ernawati //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
