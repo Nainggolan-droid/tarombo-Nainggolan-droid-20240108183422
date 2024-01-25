@@ -3379,6 +3379,9 @@
       "childRefs": [
         {
           "ref": "I477*ca79074f-a4f4-4ce2-bb49-a13883d59ad7"
+        },
+        {
+          "ref": "I478*b66aea98-0f72-4b15-a4f0-8c18b6a37683"
         }
       ],
       "husbandRefs": [
@@ -13229,6 +13232,25 @@
       "names": [
         {
           "value": "Shopia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F196*3d34a3f8-86c4-436c-b743-9b5912bd53ee"
+        }
+      ],
+      "id": "I478*b66aea98-0f72-4b15-a4f0-8c18b6a37683",
+      "names": [
+        {
+          "value": "Fio //"
         }
       ],
       "eventsFacts": [
