@@ -2995,6 +2995,9 @@
       "childRefs": [
         {
           "ref": "I419*b6ce23ae-80d9-43c3-87eb-f2c0732c75f8"
+        },
+        {
+          "ref": "I421*5ffca8f6-b893-4356-9916-34a6cff415aa"
         }
       ],
       "husbandRefs": [
@@ -11707,6 +11710,25 @@
       "names": [
         {
           "value": "Adi //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F175*e06bcdf6-1929-4801-80ad-4fe9a06de2ba"
+        }
+      ],
+      "id": "I421*5ffca8f6-b893-4356-9916-34a6cff415aa",
+      "names": [
+        {
+          "value": "Entin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
