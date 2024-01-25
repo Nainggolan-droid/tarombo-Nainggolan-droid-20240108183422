@@ -3520,6 +3520,19 @@
         }
       ],
       "id": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I499*ab1cc639-4aff-4d69-a5de-c33eba5ba519"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I495*4a8e67b8-f36d-413e-8e88-b8595400399c"
+        }
+      ],
+      "id": "F204*b1bdd065-dd67-4cfa-862a-0e55eee760ff"
     }
   ],
   "head": {
@@ -13730,6 +13743,11 @@
           "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F204*b1bdd065-dd67-4cfa-862a-0e55eee760ff"
+        }
+      ],
       "id": "I495*4a8e67b8-f36d-413e-8e88-b8595400399c",
       "names": [
         {
@@ -13791,6 +13809,25 @@
       "names": [
         {
           "value": "A.Titin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F204*b1bdd065-dd67-4cfa-862a-0e55eee760ff"
+        }
+      ],
+      "id": "I499*ab1cc639-4aff-4d69-a5de-c33eba5ba519",
+      "names": [
+        {
+          "value": "Nando //"
         }
       ],
       "eventsFacts": [
