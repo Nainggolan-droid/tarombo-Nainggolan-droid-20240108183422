@@ -3390,6 +3390,19 @@
         }
       ],
       "id": "F196*3d34a3f8-86c4-436c-b743-9b5912bd53ee"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I479*abca3424-5efb-4964-b804-be46034a6c1d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I465*5f5b2af5-e4d5-4113-96f6-9ba930ac7665"
+        }
+      ],
+      "id": "F197*e9a9782f-025a-4a86-8311-aa8cbfd772ac"
     }
   ],
   "head": {
@@ -12986,6 +12999,11 @@
           "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F197*e9a9782f-025a-4a86-8311-aa8cbfd772ac"
+        }
+      ],
       "id": "I465*5f5b2af5-e4d5-4113-96f6-9ba930ac7665",
       "names": [
         {
@@ -13251,6 +13269,25 @@
       "names": [
         {
           "value": "Fio //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F197*e9a9782f-025a-4a86-8311-aa8cbfd772ac"
+        }
+      ],
+      "id": "I479*abca3424-5efb-4964-b804-be46034a6c1d",
+      "names": [
+        {
+          "value": "Lasma //"
         }
       ],
       "eventsFacts": [
