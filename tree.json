@@ -3092,6 +3092,9 @@
         },
         {
           "ref": "I442*84a2475d-a54d-46c7-8b06-714551265ce3"
+        },
+        {
+          "ref": "I443*6824bb2a-2be9-447a-ba86-bd89a2f3223f"
         }
       ],
       "husbandRefs": [
@@ -12273,6 +12276,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F179*36050af9-2b0f-42bb-9199-583d117882ff"
+        }
+      ],
+      "id": "I443*6824bb2a-2be9-447a-ba86-bd89a2f3223f",
+      "names": [
+        {
+          "value": "Dona //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
