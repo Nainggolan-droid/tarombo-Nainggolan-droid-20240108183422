@@ -3699,6 +3699,9 @@
       "childRefs": [
         {
           "ref": "I527*e73469de-f847-472c-a25c-5b62495d3904"
+        },
+        {
+          "ref": "I528*f6ceb924-436a-49dc-b913-10675a26ca93"
         }
       ],
       "husbandRefs": [
@@ -14573,6 +14576,25 @@
       "names": [
         {
           "value": "Abigail //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F213*acc342ef-36b7-42b4-8249-f9362584f971"
+        }
+      ],
+      "id": "I528*f6ceb924-436a-49dc-b913-10675a26ca93",
+      "names": [
+        {
+          "value": "Febe //"
         }
       ],
       "eventsFacts": [
