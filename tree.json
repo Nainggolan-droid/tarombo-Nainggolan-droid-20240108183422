@@ -2794,6 +2794,9 @@
       "childRefs": [
         {
           "ref": "I392*8499763b-6030-4767-a6f9-f349a7e53d75"
+        },
+        {
+          "ref": "I393*cc6354f6-4e99-4fb3-a2e4-f667faf49d57"
         }
       ],
       "husbandRefs": [
@@ -10924,6 +10927,25 @@
       "names": [
         {
           "value": "Jairus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I393*cc6354f6-4e99-4fb3-a2e4-f667faf49d57",
+      "names": [
+        {
+          "value": "Gornong //"
         }
       ],
       "eventsFacts": [
