@@ -3290,6 +3290,9 @@
         },
         {
           "ref": "I464*6cd61075-29a6-4c30-b9f3-208433978a84"
+        },
+        {
+          "ref": "I465*5f5b2af5-e4d5-4113-96f6-9ba930ac7665"
         }
       ],
       "husbandRefs": [
@@ -12869,6 +12872,25 @@
         {
           "nick": "Op.Hamonangan",
           "value": "Sidin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
+        }
+      ],
+      "id": "I465*5f5b2af5-e4d5-4113-96f6-9ba930ac7665",
+      "names": [
+        {
+          "value": "Busmin //"
         }
       ],
       "eventsFacts": [
