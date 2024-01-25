@@ -2759,6 +2759,9 @@
         },
         {
           "ref": "I387*e1782fe3-5de7-4ab7-b00a-19e503cd0251"
+        },
+        {
+          "ref": "I388*d92ceca4-1d8d-4522-a57b-064da38b7982"
         }
       ],
       "husbandRefs": [
@@ -10784,6 +10787,25 @@
       "names": [
         {
           "value": "Op.Tua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
+      "id": "I388*d92ceca4-1d8d-4522-a57b-064da38b7982",
+      "names": [
+        {
+          "value": "Op.Botoran //"
         }
       ],
       "eventsFacts": [
