@@ -2738,6 +2738,19 @@
         }
       ],
       "id": "F159*8f764e10-80c2-491e-8b3b-4b5cb17356b2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I385*3a56a6f8-1cba-458d-be4f-b3333a66cae5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I221*64d0d5c6-ce4e-430d-aaa6-a51ee57e484f"
+        }
+      ],
+      "id": "F160*de0b7ddd-23c5-4522-b998-f22875165313"
     }
   ],
   "head": {
@@ -7327,6 +7340,11 @@
           "ref": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F160*de0b7ddd-23c5-4522-b998-f22875165313"
+        }
+      ],
       "id": "I221*64d0d5c6-ce4e-430d-aaa6-a51ee57e484f",
       "names": [
         {
@@ -10688,6 +10706,25 @@
       "names": [
         {
           "value": "Ludin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F160*de0b7ddd-23c5-4522-b998-f22875165313"
+        }
+      ],
+      "id": "I385*3a56a6f8-1cba-458d-be4f-b3333a66cae5",
+      "names": [
+        {
+          "value": "Op.Sodopaon //"
         }
       ],
       "eventsFacts": [
