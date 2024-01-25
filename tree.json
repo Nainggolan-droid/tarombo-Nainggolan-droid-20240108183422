@@ -3304,6 +3304,19 @@
         }
       ],
       "id": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I467*ac4d6992-7b50-454f-b2ed-8a6260106c78"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I463*39b83a7f-ee62-4e63-9025-3f2146963021"
+        }
+      ],
+      "id": "F192*4a784857-6ff0-48f4-b4f1-c79e82f0d00d"
     }
   ],
   "head": {
@@ -12850,6 +12863,11 @@
           "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F192*4a784857-6ff0-48f4-b4f1-c79e82f0d00d"
+        }
+      ],
       "id": "I463*39b83a7f-ee62-4e63-9025-3f2146963021",
       "names": [
         {
@@ -12915,6 +12933,25 @@
         {
           "nick": "A.Haposan",
           "value": "Manganar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F192*4a784857-6ff0-48f4-b4f1-c79e82f0d00d"
+        }
+      ],
+      "id": "I467*ac4d6992-7b50-454f-b2ed-8a6260106c78",
+      "names": [
+        {
+          "value": "Bonar //"
         }
       ],
       "eventsFacts": [
