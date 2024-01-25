@@ -3395,6 +3395,9 @@
       "childRefs": [
         {
           "ref": "I479*abca3424-5efb-4964-b804-be46034a6c1d"
+        },
+        {
+          "ref": "I480*d4d1b91c-dff2-4f74-8207-73f21114cc64"
         }
       ],
       "husbandRefs": [
@@ -13294,6 +13297,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F197*e9a9782f-025a-4a86-8311-aa8cbfd772ac"
+        }
+      ],
+      "id": "I480*d4d1b91c-dff2-4f74-8207-73f21114cc64",
+      "names": [
+        {
+          "value": "Roy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
