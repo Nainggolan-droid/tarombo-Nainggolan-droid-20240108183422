@@ -2756,6 +2756,9 @@
       "childRefs": [
         {
           "ref": "I386*a064b689-c103-4e30-986f-5048e4150dcd"
+        },
+        {
+          "ref": "I387*e1782fe3-5de7-4ab7-b00a-19e503cd0251"
         }
       ],
       "husbandRefs": [
@@ -10762,6 +10765,25 @@
       "names": [
         {
           "value": "A.Sodopaon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
+      "id": "I387*e1782fe3-5de7-4ab7-b00a-19e503cd0251",
+      "names": [
+        {
+          "value": "Op.Tua //"
         }
       ],
       "eventsFacts": [
