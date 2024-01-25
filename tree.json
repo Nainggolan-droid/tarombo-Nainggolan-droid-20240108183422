@@ -3481,6 +3481,9 @@
         },
         {
           "ref": "I491*a80a5f08-ad08-4938-ae87-01149f029f66"
+        },
+        {
+          "ref": "I492*8c9d08ba-9194-4484-94b8-7b58ac768ac0"
         }
       ],
       "husbandRefs": [
@@ -13622,6 +13625,25 @@
       "names": [
         {
           "value": "Op.Robin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
+        }
+      ],
+      "id": "I492*8c9d08ba-9194-4484-94b8-7b58ac768ac0",
+      "names": [
+        {
+          "value": "Op.Josua //"
         }
       ],
       "eventsFacts": [
