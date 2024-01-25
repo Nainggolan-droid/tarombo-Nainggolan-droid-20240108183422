@@ -3604,6 +3604,9 @@
         },
         {
           "ref": "I512*dc09ad37-a1b1-4110-b06e-59a4876d8490"
+        },
+        {
+          "ref": "I513*c7100c82-725a-4dae-bae7-dba920330cbf"
         }
       ],
       "husbandRefs": [
@@ -14168,6 +14171,25 @@
       "names": [
         {
           "value": "A.Abigail //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F208*cf4ecc1c-b2e5-4146-905a-453b7303dd05"
+        }
+      ],
+      "id": "I513*c7100c82-725a-4dae-bae7-dba920330cbf",
+      "names": [
+        {
+          "value": "A.Cello //"
         }
       ],
       "eventsFacts": [
