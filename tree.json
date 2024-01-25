@@ -3325,6 +3325,9 @@
       "childRefs": [
         {
           "ref": "I469*45cab470-1b02-4ee7-9311-45367d487ac8"
+        },
+        {
+          "ref": "I470*3f0f0a00-65c6-4f3f-8455-403a4effda1d"
         }
       ],
       "husbandRefs": [
@@ -13012,6 +13015,25 @@
         {
           "nick": "A.Hamonangan",
           "value": "Santos //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+        }
+      ],
+      "id": "I470*3f0f0a00-65c6-4f3f-8455-403a4effda1d",
+      "names": [
+        {
+          "value": "Pdt.Herman //"
         }
       ],
       "eventsFacts": [
