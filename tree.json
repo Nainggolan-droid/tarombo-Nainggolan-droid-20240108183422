@@ -3309,6 +3309,9 @@
       "childRefs": [
         {
           "ref": "I467*ac4d6992-7b50-454f-b2ed-8a6260106c78"
+        },
+        {
+          "ref": "I468*73efe65d-fc23-4033-bc6c-27ffc2853659"
         }
       ],
       "husbandRefs": [
@@ -12952,6 +12955,25 @@
       "names": [
         {
           "value": "Bonar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F192*4a784857-6ff0-48f4-b4f1-c79e82f0d00d"
+        }
+      ],
+      "id": "I468*73efe65d-fc23-4033-bc6c-27ffc2853659",
+      "names": [
+        {
+          "value": "Hisar //"
         }
       ],
       "eventsFacts": [
