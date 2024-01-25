@@ -3181,6 +3181,19 @@
         }
       ],
       "id": "F185*5bd1c848-c646-438f-aca4-09914d109135"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I446*732c8ec9-510b-437d-96ca-4079932cdff9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I399*2e0a5c0b-df7d-4c88-8b11-4d5dcb9355a8"
+        }
+      ],
+      "id": "F186*de6b5baf-ab6b-45de-a2ce-ca6feeff3f56"
     }
   ],
   "head": {
@@ -11456,6 +11469,11 @@
           "ref": "F164*a1691fd3-3e98-4164-a825-79dc83418e39"
         }
       ],
+      "fams": [
+        {
+          "ref": "F186*de6b5baf-ab6b-45de-a2ce-ca6feeff3f56"
+        }
+      ],
       "id": "I399*2e0a5c0b-df7d-4c88-8b11-4d5dcb9355a8",
       "names": [
         {
@@ -12363,6 +12381,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F186*de6b5baf-ab6b-45de-a2ce-ca6feeff3f56"
+        }
+      ],
+      "id": "I446*732c8ec9-510b-437d-96ca-4079932cdff9",
+      "names": [
+        {
+          "value": "Upi //"
         }
       ]
     }
