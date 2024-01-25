@@ -3086,6 +3086,9 @@
         },
         {
           "ref": "I439*8819e064-38ea-4dd7-a43a-ef766d49b56b"
+        },
+        {
+          "ref": "I441*cd5cb589-133a-4865-9841-99baf8c55260"
         }
       ],
       "husbandRefs": [
@@ -12229,6 +12232,25 @@
       "names": [
         {
           "value": " /Turnip/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F179*36050af9-2b0f-42bb-9199-583d117882ff"
+        }
+      ],
+      "id": "I441*cd5cb589-133a-4865-9841-99baf8c55260",
+      "names": [
+        {
+          "value": "Ganda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
