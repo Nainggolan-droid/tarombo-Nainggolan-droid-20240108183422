@@ -3077,6 +3077,9 @@
         },
         {
           "ref": "I436*fbd6a065-deec-470c-96ea-ef3bfcf818f8"
+        },
+        {
+          "ref": "I437*ea5e7247-fbf3-4187-9f69-f9518d50b849"
         }
       ],
       "husbandRefs": [
@@ -12126,6 +12129,25 @@
       "names": [
         {
           "value": "Parlin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F179*36050af9-2b0f-42bb-9199-583d117882ff"
+        }
+      ],
+      "id": "I437*ea5e7247-fbf3-4187-9f69-f9518d50b849",
+      "names": [
+        {
+          "value": "Hotman //"
         }
       ],
       "eventsFacts": [
