@@ -3509,6 +3509,9 @@
         },
         {
           "ref": "I497*34c8850e-b3f2-4be6-922c-b1cff52efdcf"
+        },
+        {
+          "ref": "I498*6b12e023-366f-4d90-8651-f57596dbd569"
         }
       ],
       "husbandRefs": [
@@ -13769,6 +13772,25 @@
       "names": [
         {
           "value": "A.Candra //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
+        }
+      ],
+      "id": "I498*6b12e023-366f-4d90-8651-f57596dbd569",
+      "names": [
+        {
+          "value": "A.Titin //"
         }
       ],
       "eventsFacts": [
