@@ -3830,6 +3830,9 @@
       "childRefs": [
         {
           "ref": "I545*785efaf4-9fb0-43e8-915f-1dd6186fb3a0"
+        },
+        {
+          "ref": "I546*78571687-fd00-45b1-9b2c-06ccc61d8ef3"
         }
       ],
       "husbandRefs": [
@@ -15067,6 +15070,25 @@
       "names": [
         {
           "value": "Op.Antar Malu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
+      "id": "I546*78571687-fd00-45b1-9b2c-06ccc61d8ef3",
+      "names": [
+        {
+          "value": "Op.Poltahan //"
         }
       ],
       "eventsFacts": [
