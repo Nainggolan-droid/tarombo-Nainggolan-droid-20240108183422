@@ -3811,6 +3811,9 @@
         },
         {
           "ref": "I542*704f14fc-ce08-4790-90a5-f0431aad1231"
+        },
+        {
+          "ref": "I543*98acf49f-4c04-468f-8be5-4234519bbb31"
         }
       ],
       "husbandRefs": [
@@ -14986,6 +14989,25 @@
       "names": [
         {
           "value": "Appakaut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
+        }
+      ],
+      "id": "I543*98acf49f-4c04-468f-8be5-4234519bbb31",
+      "names": [
+        {
+          "value": "Appasingir //"
         }
       ],
       "eventsFacts": [
