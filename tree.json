@@ -3033,6 +3033,9 @@
         },
         {
           "ref": "I425*4547d923-6a5e-44e8-b82b-d427c0173e79"
+        },
+        {
+          "ref": "I428*0c98c8a7-bc47-4a71-b299-1966f8af8f2f"
         }
       ],
       "husbandRefs": [
@@ -11886,6 +11889,25 @@
       "names": [
         {
           "value": "Ucok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F177*9790fc03-b1c5-4137-b19a-49716f66203e"
+        }
+      ],
+      "id": "I428*0c98c8a7-bc47-4a71-b299-1966f8af8f2f",
+      "names": [
+        {
+          "value": "Julius //"
         }
       ],
       "eventsFacts": [
