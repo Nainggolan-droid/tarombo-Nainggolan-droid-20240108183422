@@ -2844,6 +2844,9 @@
         },
         {
           "ref": "I404*7d36e57d-ec2a-474c-823b-a2a51dfb5927"
+        },
+        {
+          "ref": "I406*7d0058db-c1e9-4399-b4c9-3b454d296d4b"
         }
       ],
       "husbandRefs": [
@@ -11281,6 +11284,25 @@
       "names": [
         {
           "value": " /Tamba/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
+        }
+      ],
+      "id": "I406*7d0058db-c1e9-4399-b4c9-3b454d296d4b",
+      "names": [
+        {
+          "value": "Rinto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
