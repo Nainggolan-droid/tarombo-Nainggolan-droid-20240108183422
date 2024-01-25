@@ -2819,6 +2819,9 @@
         },
         {
           "ref": "I397*593cb5c3-9814-4203-8ba3-1213564f7d4a"
+        },
+        {
+          "ref": "I398*34673875-1b41-4fce-a6e3-e2036c0c0244"
         }
       ],
       "husbandRefs": [
@@ -11053,6 +11056,25 @@
         {
           "nick": "A.Duma",
           "value": "Angkus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F164*a1691fd3-3e98-4164-a825-79dc83418e39"
+        }
+      ],
+      "id": "I398*34673875-1b41-4fce-a6e3-e2036c0c0244",
+      "names": [
+        {
+          "value": "Kostan //"
         }
       ],
       "eventsFacts": [
