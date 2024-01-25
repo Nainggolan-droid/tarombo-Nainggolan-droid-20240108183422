@@ -3254,6 +3254,19 @@
         }
       ],
       "id": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I457*13d7b326-c704-41da-aa5c-392bb9a48ff6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I449*80770bc3-993f-4b72-86a1-d4cc84e5eebe"
+        }
+      ],
+      "id": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
     }
   ],
   "head": {
@@ -12516,6 +12529,11 @@
           "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+        }
+      ],
       "id": "I449*80770bc3-993f-4b72-86a1-d4cc84e5eebe",
       "names": [
         {
@@ -12657,6 +12675,25 @@
       "names": [
         {
           "value": "Ampangardak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+        }
+      ],
+      "id": "I457*13d7b326-c704-41da-aa5c-392bb9a48ff6",
+      "names": [
+        {
+          "value": "A.Lagat //"
         }
       ],
       "eventsFacts": [
