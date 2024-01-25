@@ -2773,6 +2773,19 @@
         }
       ],
       "id": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I390*7c7fdcaf-f08d-4c24-8eb8-9824cf184d57"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I386*a064b689-c103-4e30-986f-5048e4150dcd"
+        }
+      ],
+      "id": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
     }
   ],
   "head": {
@@ -10767,6 +10780,11 @@
           "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+        }
+      ],
       "id": "I386*a064b689-c103-4e30-986f-5048e4150dcd",
       "names": [
         {
@@ -10828,6 +10846,25 @@
       "names": [
         {
           "value": "Ap.Tutahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+        }
+      ],
+      "id": "I390*7c7fdcaf-f08d-4c24-8eb8-9824cf184d57",
+      "names": [
+        {
+          "value": "Op.Pangarata //"
         }
       ],
       "eventsFacts": [
