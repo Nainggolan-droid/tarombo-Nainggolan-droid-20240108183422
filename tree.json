@@ -3320,6 +3320,19 @@
         }
       ],
       "id": "F192*4a784857-6ff0-48f4-b4f1-c79e82f0d00d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I469*45cab470-1b02-4ee7-9311-45367d487ac8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I464*6cd61075-29a6-4c30-b9f3-208433978a84"
+        }
+      ],
+      "id": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
     }
   ],
   "head": {
@@ -12891,6 +12904,11 @@
           "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+        }
+      ],
       "id": "I464*6cd61075-29a6-4c30-b9f3-208433978a84",
       "names": [
         {
@@ -12974,6 +12992,25 @@
       "names": [
         {
           "value": "Hisar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+        }
+      ],
+      "id": "I469*45cab470-1b02-4ee7-9311-45367d487ac8",
+      "names": [
+        {
+          "value": "Santos //"
         }
       ],
       "eventsFacts": [
