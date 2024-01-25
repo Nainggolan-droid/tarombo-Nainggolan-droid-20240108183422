@@ -3610,9 +3610,6 @@
         },
         {
           "ref": "I514*c3ca41b6-21a0-49d7-b3a2-73b62b0a8cc9"
-        },
-        {
-          "ref": "I526*fcf19b24-270b-4cf6-88e7-5b4a51a9f78a"
         }
       ],
       "husbandRefs": [
@@ -14583,25 +14580,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F208*cf4ecc1c-b2e5-4146-905a-453b7303dd05"
-        }
-      ],
-      "id": "I526*fcf19b24-270b-4cf6-88e7-5b4a51a9f78a",
-      "names": [
-        {
-          "value": "Abigail //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     },
