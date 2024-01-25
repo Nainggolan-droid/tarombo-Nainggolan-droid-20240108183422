@@ -3833,6 +3833,9 @@
         },
         {
           "ref": "I546*78571687-fd00-45b1-9b2c-06ccc61d8ef3"
+        },
+        {
+          "ref": "I547*7bced1ce-bf3a-4516-b03b-49cf2785c1c7"
         }
       ],
       "husbandRefs": [
@@ -15089,6 +15092,25 @@
       "names": [
         {
           "value": "Op.Poltahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
+      "id": "I547*7bced1ce-bf3a-4516-b03b-49cf2785c1c7",
+      "names": [
+        {
+          "value": "Op.Saudara //"
         }
       ],
       "eventsFacts": [
