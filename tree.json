@@ -3194,6 +3194,17 @@
         }
       ],
       "id": "F186*de6b5baf-ab6b-45de-a2ce-ca6feeff3f56"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I446*732c8ec9-510b-437d-96ca-4079932cdff9"
+        },
+        {
+          "ref": "I447*dc2763f0-e3cc-4b11-b6d6-0bd8174fd2b8"
+        }
+      ],
+      "id": "F187*81360f86-b980-4203-8f3c-75f87c43d000"
     }
   ],
   "head": {
@@ -12390,10 +12401,28 @@
           "ref": "F186*de6b5baf-ab6b-45de-a2ce-ca6feeff3f56"
         }
       ],
+      "fams": [
+        {
+          "ref": "F187*81360f86-b980-4203-8f3c-75f87c43d000"
+        }
+      ],
       "id": "I446*732c8ec9-510b-437d-96ca-4079932cdff9",
       "names": [
         {
           "value": "Upi //"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F187*81360f86-b980-4203-8f3c-75f87c43d000"
+        }
+      ],
+      "id": "I447*dc2763f0-e3cc-4b11-b6d6-0bd8174fd2b8",
+      "names": [
+        {
+          "value": " /Padang/"
         }
       ]
     }
