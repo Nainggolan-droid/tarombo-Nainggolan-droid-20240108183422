@@ -3459,6 +3459,9 @@
       "childRefs": [
         {
           "ref": "I487*5a2a2e38-5a80-48d6-933e-a338b770f462"
+        },
+        {
+          "ref": "I488*f232c444-0200-412f-9f3c-153f85afda0c"
         }
       ],
       "husbandRefs": [
@@ -13519,6 +13522,25 @@
       "names": [
         {
           "value": "Op.Jinur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F201*5b94d0f5-672b-43f7-9dbe-2dc8a3010a59"
+        }
+      ],
+      "id": "I488*f232c444-0200-412f-9f3c-153f85afda0c",
+      "names": [
+        {
+          "value": "Op.Medi //"
         }
       ],
       "eventsFacts": [
