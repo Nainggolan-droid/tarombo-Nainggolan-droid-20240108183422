@@ -3767,6 +3767,9 @@
       "childRefs": [
         {
           "ref": "I534*d7599b18-b96d-4239-9331-f081c42a2df6"
+        },
+        {
+          "ref": "I535*ef3c4c50-141c-4e5c-a505-8fb8f10a4b9d"
         }
       ],
       "husbandRefs": [
@@ -14780,6 +14783,25 @@
       "names": [
         {
           "value": "Apparhalang Batu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F218*e0a0858c-1b01-4ad8-a545-90b166372d8e"
+        }
+      ],
+      "id": "I535*ef3c4c50-141c-4e5c-a505-8fb8f10a4b9d",
+      "names": [
+        {
+          "value": "Op.Dari Setan //"
         }
       ],
       "eventsFacts": [
