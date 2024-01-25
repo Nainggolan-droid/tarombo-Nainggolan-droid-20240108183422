@@ -2789,6 +2789,19 @@
         }
       ],
       "id": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I392*8499763b-6030-4767-a6f9-f349a7e53d75"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I390*7c7fdcaf-f08d-4c24-8eb8-9824cf184d57"
+        }
+      ],
+      "id": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
     }
   ],
   "head": {
@@ -10864,6 +10877,11 @@
           "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
         }
       ],
+      "fams": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
       "id": "I390*7c7fdcaf-f08d-4c24-8eb8-9824cf184d57",
       "names": [
         {
@@ -10887,6 +10905,25 @@
       "names": [
         {
           "value": "Op.Datik //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I392*8499763b-6030-4767-a6f9-f349a7e53d75",
+      "names": [
+        {
+          "value": "Jairus //"
         }
       ],
       "eventsFacts": [
