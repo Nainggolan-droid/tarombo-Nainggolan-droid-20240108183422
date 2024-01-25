@@ -3218,6 +3218,9 @@
         },
         {
           "ref": "I450*0bc22d1a-f8f8-40f3-aa3e-016ce6a3faec"
+        },
+        {
+          "ref": "I451*8accaf87-0e31-41f0-b0f8-7a177e3f8414"
         }
       ],
       "husbandRefs": [
@@ -12508,6 +12511,25 @@
         {
           "nick": "Op.Mangatas",
           "value": "Jaitam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
+        }
+      ],
+      "id": "I451*8accaf87-0e31-41f0-b0f8-7a177e3f8414",
+      "names": [
+        {
+          "value": "Gr.Kasianus //"
         }
       ],
       "eventsFacts": [
