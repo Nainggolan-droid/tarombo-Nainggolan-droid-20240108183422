@@ -3022,6 +3022,19 @@
           "ref": "I419*b6ce23ae-80d9-43c3-87eb-f2c0732c75f8"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I423*3a6a61e3-dca9-4b69-8ba6-93bf723fb5a1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I406*7d0058db-c1e9-4399-b4c9-3b454d296d4b"
+        }
+      ],
+      "id": "F177*9790fc03-b1c5-4137-b19a-49716f66203e"
     }
   ],
   "head": {
@@ -11421,6 +11434,11 @@
           "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
         }
       ],
+      "fams": [
+        {
+          "ref": "F177*9790fc03-b1c5-4137-b19a-49716f66203e"
+        }
+      ],
       "id": "I406*7d0058db-c1e9-4399-b4c9-3b454d296d4b",
       "names": [
         {
@@ -11745,6 +11763,25 @@
       "names": [
         {
           "value": "Zunito //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F177*9790fc03-b1c5-4137-b19a-49716f66203e"
+        }
+      ],
+      "id": "I423*3a6a61e3-dca9-4b69-8ba6-93bf723fb5a1",
+      "names": [
+        {
+          "value": "Herman //"
         }
       ],
       "eventsFacts": [
