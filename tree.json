@@ -3293,6 +3293,9 @@
         },
         {
           "ref": "I465*5f5b2af5-e4d5-4113-96f6-9ba930ac7665"
+        },
+        {
+          "ref": "I466*080f4d8e-85d6-4eef-bc5d-82fb490c6ff1"
         }
       ],
       "husbandRefs": [
@@ -12892,6 +12895,25 @@
         {
           "nick": "A.Lasma",
           "value": "Busmin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
+        }
+      ],
+      "id": "I466*080f4d8e-85d6-4eef-bc5d-82fb490c6ff1",
+      "names": [
+        {
+          "value": "Manganar //"
         }
       ],
       "eventsFacts": [
