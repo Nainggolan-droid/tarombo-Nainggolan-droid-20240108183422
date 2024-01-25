@@ -3664,6 +3664,9 @@
         },
         {
           "ref": "I522*17559dea-5e7c-4933-874d-773e62e5f1b7"
+        },
+        {
+          "ref": "I523*d1a887c1-01e8-45d5-b8e9-7549dbb58090"
         }
       ],
       "husbandRefs": [
@@ -14433,6 +14436,25 @@
       "names": [
         {
           "value": "Joshep //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F211*0ab32197-4ba5-4937-bfdf-1b258f2fbfdb"
+        }
+      ],
+      "id": "I523*d1a887c1-01e8-45d5-b8e9-7549dbb58090",
+      "names": [
+        {
+          "value": "Joey //"
         }
       ],
       "eventsFacts": [
