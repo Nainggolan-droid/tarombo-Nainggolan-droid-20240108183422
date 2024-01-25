@@ -3089,6 +3089,9 @@
         },
         {
           "ref": "I441*cd5cb589-133a-4865-9841-99baf8c55260"
+        },
+        {
+          "ref": "I442*84a2475d-a54d-46c7-8b06-714551265ce3"
         }
       ],
       "husbandRefs": [
@@ -12245,6 +12248,25 @@
       "names": [
         {
           "value": "Ganda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F179*36050af9-2b0f-42bb-9199-583d117882ff"
+        }
+      ],
+      "id": "I442*84a2475d-a54d-46c7-8b06-714551265ce3",
+      "names": [
+        {
+          "value": "Godang //"
         }
       ],
       "eventsFacts": [
