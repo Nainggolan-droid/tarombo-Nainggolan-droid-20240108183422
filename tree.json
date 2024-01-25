@@ -3237,6 +3237,9 @@
       "childRefs": [
         {
           "ref": "I453*32c5313f-2261-43f8-b441-07ad1c9ad458"
+        },
+        {
+          "ref": "I454*984e1774-6fe1-4d65-aa61-682bbada9b4c"
         }
       ],
       "husbandRefs": [
@@ -12591,6 +12594,25 @@
       "names": [
         {
           "value": "Harajaon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
+        }
+      ],
+      "id": "I454*984e1774-6fe1-4d65-aa61-682bbada9b4c",
+      "names": [
+        {
+          "value": "Siar //"
         }
       ],
       "eventsFacts": [
