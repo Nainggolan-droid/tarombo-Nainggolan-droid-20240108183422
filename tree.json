@@ -3781,6 +3781,19 @@
         }
       ],
       "id": "F218*e0a0858c-1b01-4ad8-a545-90b166372d8e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I537*8c571606-17df-42f0-941d-86bf8f9ba734"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I534*d7599b18-b96d-4239-9331-f081c42a2df6"
+        }
+      ],
+      "id": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
     }
   ],
   "head": {
@@ -14782,6 +14795,11 @@
           "ref": "F218*e0a0858c-1b01-4ad8-a545-90b166372d8e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
+        }
+      ],
       "id": "I534*d7599b18-b96d-4239-9331-f081c42a2df6",
       "names": [
         {
@@ -14824,6 +14842,25 @@
       "names": [
         {
           "value": "Op.Sabungan Bosi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
+        }
+      ],
+      "id": "I537*8c571606-17df-42f0-941d-86bf8f9ba734",
+      "names": [
+        {
+          "value": "Op.Debata Uluan //"
         }
       ],
       "eventsFacts": [
