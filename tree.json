@@ -3786,6 +3786,9 @@
       "childRefs": [
         {
           "ref": "I537*8c571606-17df-42f0-941d-86bf8f9ba734"
+        },
+        {
+          "ref": "I538*60643c57-fa6e-44b7-8a60-c73325176dc3"
         }
       ],
       "husbandRefs": [
@@ -14861,6 +14864,25 @@
       "names": [
         {
           "value": "Op.Debata Uluan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
+        }
+      ],
+      "id": "I538*60643c57-fa6e-44b7-8a60-c73325176dc3",
+      "names": [
+        {
+          "value": "Appamanggar //"
         }
       ],
       "eventsFacts": [
