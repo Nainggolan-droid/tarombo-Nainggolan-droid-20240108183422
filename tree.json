@@ -3360,6 +3360,9 @@
       "childRefs": [
         {
           "ref": "I474*94087479-72ab-4906-9089-38b2af1a0610"
+        },
+        {
+          "ref": "I475*76098816-3729-4227-8880-b01ff6fa4c98"
         }
       ],
       "husbandRefs": [
@@ -13147,6 +13150,25 @@
       "names": [
         {
           "value": "Hamonangan Saviero //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F195*1d3e6ad4-7b4d-49be-adee-3f8f0281be78"
+        }
+      ],
+      "id": "I475*76098816-3729-4227-8880-b01ff6fa4c98",
+      "names": [
+        {
+          "value": "Bram Thara //"
         }
       ],
       "eventsFacts": [
