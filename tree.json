@@ -3265,6 +3265,9 @@
         },
         {
           "ref": "I459*74bd6605-a724-4edf-b0d9-33cb104cd4ea"
+        },
+        {
+          "ref": "I460*6aae4b17-57cc-4b8c-9875-e340cd57997b"
         }
       ],
       "husbandRefs": [
@@ -12741,6 +12744,25 @@
         {
           "nick": "A.Guasa",
           "value": "Liat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+        }
+      ],
+      "id": "I460*6aae4b17-57cc-4b8c-9875-e340cd57997b",
+      "names": [
+        {
+          "value": "Kurus //"
         }
       ],
       "eventsFacts": [
