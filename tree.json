@@ -3495,6 +3495,19 @@
         }
       ],
       "id": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I494*b13efd81-cf71-4413-a9da-3416af2702a3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I490*b853cdaf-b8fd-490d-939e-caaceaede6b6"
+        }
+      ],
+      "id": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
     }
   ],
   "head": {
@@ -13605,6 +13618,11 @@
           "ref": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
         }
       ],
+      "fams": [
+        {
+          "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
+        }
+      ],
       "id": "I490*b853cdaf-b8fd-490d-939e-caaceaede6b6",
       "names": [
         {
@@ -13666,6 +13684,25 @@
       "names": [
         {
           "value": "A.Parenggan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
+        }
+      ],
+      "id": "I494*b13efd81-cf71-4413-a9da-3416af2702a3",
+      "names": [
+        {
+          "value": "Op.Krista //"
         }
       ],
       "eventsFacts": [
