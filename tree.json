@@ -3533,6 +3533,19 @@
         }
       ],
       "id": "F204*b1bdd065-dd67-4cfa-862a-0e55eee760ff"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I500*41f17fab-7fe2-4e63-9251-c7d5040f8a80"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I494*b13efd81-cf71-4413-a9da-3416af2702a3"
+        }
+      ],
+      "id": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
     }
   ],
   "head": {
@@ -13724,6 +13737,11 @@
           "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
+        }
+      ],
       "id": "I494*b13efd81-cf71-4413-a9da-3416af2702a3",
       "names": [
         {
@@ -13828,6 +13846,25 @@
       "names": [
         {
           "value": "Nando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
+        }
+      ],
+      "id": "I500*41f17fab-7fe2-4e63-9251-c7d5040f8a80",
+      "names": [
+        {
+          "value": "A.Krista //"
         }
       ],
       "eventsFacts": [
