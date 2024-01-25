@@ -2751,6 +2751,19 @@
         }
       ],
       "id": "F160*de0b7ddd-23c5-4522-b998-f22875165313"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I386*a064b689-c103-4e30-986f-5048e4150dcd"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I385*3a56a6f8-1cba-458d-be4f-b3333a66cae5"
+        }
+      ],
+      "id": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
     }
   ],
   "head": {
@@ -10721,10 +10734,34 @@
           "ref": "F160*de0b7ddd-23c5-4522-b998-f22875165313"
         }
       ],
+      "fams": [
+        {
+          "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
       "id": "I385*3a56a6f8-1cba-458d-be4f-b3333a66cae5",
       "names": [
         {
           "value": "Op.Sodopaon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
+      "id": "I386*a064b689-c103-4e30-986f-5048e4150dcd",
+      "names": [
+        {
+          "value": "A.Sodopaon //"
         }
       ],
       "eventsFacts": [
