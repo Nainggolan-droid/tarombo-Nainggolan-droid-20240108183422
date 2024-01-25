@@ -2841,6 +2841,9 @@
         },
         {
           "ref": "I402*6eb4f0da-8d4f-4f6d-a63f-ef8b39ec4495"
+        },
+        {
+          "ref": "I404*7d36e57d-ec2a-474c-823b-a2a51dfb5927"
         }
       ],
       "husbandRefs": [
@@ -11227,6 +11230,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
+        }
+      ],
+      "id": "I404*7d36e57d-ec2a-474c-823b-a2a51dfb5927",
+      "names": [
+        {
+          "value": "Renville //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
