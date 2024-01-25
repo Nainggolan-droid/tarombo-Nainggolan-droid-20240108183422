@@ -3805,6 +3805,9 @@
       "childRefs": [
         {
           "ref": "I540*2718871f-dacb-441c-9e29-d3b8103f2861"
+        },
+        {
+          "ref": "I541*463eafc4-83d3-4813-ac99-189f5cdc7661"
         }
       ],
       "husbandRefs": [
@@ -14942,6 +14945,25 @@
       "names": [
         {
           "value": "A.Sangangna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
+        }
+      ],
+      "id": "I541*463eafc4-83d3-4813-ac99-189f5cdc7661",
+      "names": [
+        {
+          "value": "Op.Timbo //"
         }
       ],
       "eventsFacts": [
