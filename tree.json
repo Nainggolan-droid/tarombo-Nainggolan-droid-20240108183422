@@ -3207,6 +3207,19 @@
           "ref": "I446*732c8ec9-510b-437d-96ca-4079932cdff9"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I448*f863f639-9abb-418a-b2a0-9c467f5a6389"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I63*c8abed78-bef2-46b1-b5aa-3beb59270b8c"
+        }
+      ],
+      "id": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
     }
   ],
   "head": {
@@ -3217,7 +3230,7 @@
       "time": "17:09:59",
       "value": "8 JAN 2024"
     },
-    "file": "5.json",
+    "file": "2.json",
     "gedc": {
       "form": "LINEAGE-LINKED",
       "vers": "5.5.1"
@@ -3225,7 +3238,7 @@
     "lang": "Indonesian",
     "sour": {
       "name": "Tarombo",
-      "value": "FAMILY_GEM",
+      "value": "TAROMBO",
       "vers": "0.3.5 (2839f2a)"
     }
   },
@@ -4522,6 +4535,11 @@
       "famc": [
         {
           "ref": "F22*fd28dcf3-2f0d-4a2e-88d8-cad3c787fbde"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
         }
       ],
       "id": "I63*c8abed78-bef2-46b1-b5aa-3beb59270b8c",
@@ -12431,6 +12449,25 @@
       "names": [
         {
           "value": " /Padang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
+        }
+      ],
+      "id": "I448*f863f639-9abb-418a-b2a0-9c467f5a6389",
+      "names": [
+        {
+          "value": "A.Harajaon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
