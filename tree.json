@@ -2778,6 +2778,9 @@
       "childRefs": [
         {
           "ref": "I390*7c7fdcaf-f08d-4c24-8eb8-9824cf184d57"
+        },
+        {
+          "ref": "I391*bd2d0c72-20b2-4337-8e20-5047ea667e85"
         }
       ],
       "husbandRefs": [
@@ -10865,6 +10868,25 @@
       "names": [
         {
           "value": "Op.Pangarata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+        }
+      ],
+      "id": "I391*bd2d0c72-20b2-4337-8e20-5047ea667e85",
+      "names": [
+        {
+          "value": "Op.Datik //"
         }
       ],
       "eventsFacts": [
