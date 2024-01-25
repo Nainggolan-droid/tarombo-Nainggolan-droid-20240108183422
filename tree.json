@@ -3800,6 +3800,19 @@
         }
       ],
       "id": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I540*2718871f-dacb-441c-9e29-d3b8103f2861"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I14*3db45a51-79dc-4abf-aabe-7f87457e8968"
+        }
+      ],
+      "id": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
     }
   ],
   "head": {
@@ -4116,6 +4129,11 @@
       "famc": [
         {
           "ref": "F6*21c897b2-160c-4f1d-8da9-d410ecf87c85"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
         }
       ],
       "id": "I14*3db45a51-79dc-4abf-aabe-7f87457e8968",
@@ -14905,6 +14923,25 @@
       "names": [
         {
           "value": "Op.Galung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
+        }
+      ],
+      "id": "I540*2718871f-dacb-441c-9e29-d3b8103f2861",
+      "names": [
+        {
+          "value": "A.Sangangna //"
         }
       ],
       "eventsFacts": [
