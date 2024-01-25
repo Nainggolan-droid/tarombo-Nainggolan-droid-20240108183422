@@ -3259,6 +3259,9 @@
       "childRefs": [
         {
           "ref": "I457*13d7b326-c704-41da-aa5c-392bb9a48ff6"
+        },
+        {
+          "ref": "I458*dc168df1-ba9b-4698-817a-eb39180a99af"
         }
       ],
       "husbandRefs": [
@@ -12695,6 +12698,25 @@
         {
           "nick": "Op.Bonar",
           "value": "A.Lagat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+        }
+      ],
+      "id": "I458*dc168df1-ba9b-4698-817a-eb39180a99af",
+      "names": [
+        {
+          "value": "Pokan //"
         }
       ],
       "eventsFacts": [
