@@ -3470,6 +3470,19 @@
         }
       ],
       "id": "F201*5b94d0f5-672b-43f7-9dbe-2dc8a3010a59"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I489*615c9141-c034-4368-b25e-5794cc0feba3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I487*5a2a2e38-5a80-48d6-933e-a338b770f462"
+        }
+      ],
+      "id": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
     }
   ],
   "head": {
@@ -13518,6 +13531,11 @@
           "ref": "F201*5b94d0f5-672b-43f7-9dbe-2dc8a3010a59"
         }
       ],
+      "fams": [
+        {
+          "ref": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
+        }
+      ],
       "id": "I487*5a2a2e38-5a80-48d6-933e-a338b770f462",
       "names": [
         {
@@ -13541,6 +13559,25 @@
       "names": [
         {
           "value": "Op.Medi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
+        }
+      ],
+      "id": "I489*615c9141-c034-4368-b25e-5794cc0feba3",
+      "names": [
+        {
+          "value": "Op.Gaber //"
         }
       ],
       "eventsFacts": [
