@@ -3282,6 +3282,19 @@
         }
       ],
       "id": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I463*39b83a7f-ee62-4e63-9025-3f2146963021"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I457*13d7b326-c704-41da-aa5c-392bb9a48ff6"
+        }
+      ],
+      "id": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
     }
   ],
   "head": {
@@ -12705,6 +12718,11 @@
           "ref": "F190*546d9742-8c6a-4929-9cf7-9c5f8e00cfae"
         }
       ],
+      "fams": [
+        {
+          "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
+        }
+      ],
       "id": "I457*13d7b326-c704-41da-aa5c-392bb9a48ff6",
       "names": [
         {
@@ -12808,6 +12826,25 @@
       "names": [
         {
           "value": "Sebul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F191*859e6577-3a88-4fb2-974c-0948a72edcfc"
+        }
+      ],
+      "id": "I463*39b83a7f-ee62-4e63-9025-3f2146963021",
+      "names": [
+        {
+          "value": "Tahan //"
         }
       ],
       "eventsFacts": [
