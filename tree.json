@@ -2940,6 +2940,9 @@
       "childRefs": [
         {
           "ref": "I414*49f7d592-463d-4f40-ade0-86f78d82644d"
+        },
+        {
+          "ref": "I416*b0379cd5-057c-4027-8224-74c5e15a1e1a"
         }
       ],
       "husbandRefs": [
@@ -11548,6 +11551,25 @@
       "names": [
         {
           "value": " /Manalu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F171*243a1dd8-24c2-4b92-948f-c6a1985eb075"
+        }
+      ],
+      "id": "I416*b0379cd5-057c-4027-8224-74c5e15a1e1a",
+      "names": [
+        {
+          "value": "Zefanya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
