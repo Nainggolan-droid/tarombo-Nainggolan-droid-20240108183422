@@ -3243,6 +3243,9 @@
         },
         {
           "ref": "I455*c8f0c791-1342-41f5-870e-59dff711f496"
+        },
+        {
+          "ref": "I456*7d55da92-7fd8-4697-9061-91a33ce7a038"
         }
       ],
       "husbandRefs": [
@@ -12635,6 +12638,25 @@
       "names": [
         {
           "value": "Taganing //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
+        }
+      ],
+      "id": "I456*7d55da92-7fd8-4697-9061-91a33ce7a038",
+      "names": [
+        {
+          "value": "Ampangardak //"
         }
       ],
       "eventsFacts": [
