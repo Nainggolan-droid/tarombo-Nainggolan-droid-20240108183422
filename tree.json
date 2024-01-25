@@ -3328,6 +3328,9 @@
         },
         {
           "ref": "I470*3f0f0a00-65c6-4f3f-8455-403a4effda1d"
+        },
+        {
+          "ref": "I471*14e39311-0ee7-464d-b8ca-4bb9247ae232"
         }
       ],
       "husbandRefs": [
@@ -13040,6 +13043,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+        }
+      ],
+      "id": "I471*14e39311-0ee7-464d-b8ca-4bb9247ae232",
+      "names": [
+        {
+          "value": "Rumisi Noverty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
