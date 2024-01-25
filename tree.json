@@ -3232,6 +3232,19 @@
         }
       ],
       "id": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I453*32c5313f-2261-43f8-b441-07ad1c9ad458"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I448*f863f639-9abb-418a-b2a0-9c467f5a6389"
+        }
+      ],
+      "id": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
     }
   ],
   "head": {
@@ -12470,6 +12483,11 @@
           "ref": "F188*f57ec16f-60a4-4b95-8902-fd0b13655deb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
+        }
+      ],
       "id": "I448*f863f639-9abb-418a-b2a0-9c467f5a6389",
       "names": [
         {
@@ -12554,6 +12572,25 @@
         {
           "nick": "Op.Manto",
           "value": "Mulia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F189*5182736e-b75a-480f-bc69-f4feea1d103f"
+        }
+      ],
+      "id": "I453*32c5313f-2261-43f8-b441-07ad1c9ad458",
+      "names": [
+        {
+          "value": "Harajaon //"
         }
       ],
       "eventsFacts": [
