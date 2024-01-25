@@ -3331,6 +3331,9 @@
         },
         {
           "ref": "I471*14e39311-0ee7-464d-b8ca-4bb9247ae232"
+        },
+        {
+          "ref": "I473*0503d691-e148-49a3-862b-61e664b69305"
         }
       ],
       "husbandRefs": [
@@ -3339,6 +3342,19 @@
         }
       ],
       "id": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I472*b7ec90f4-d027-4b65-85f6-868307021381"
+        }
+      ],
+      "id": "F194*99993c5c-09ce-40da-a013-dd04b287303f",
+      "wifeRefs": [
+        {
+          "ref": "I471*14e39311-0ee7-464d-b8ca-4bb9247ae232"
+        }
+      ]
     }
   ],
   "head": {
@@ -13052,11 +13068,48 @@
           "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
         }
       ],
+      "fams": [
+        {
+          "ref": "F194*99993c5c-09ce-40da-a013-dd04b287303f"
+        }
+      ],
       "id": "I471*14e39311-0ee7-464d-b8ca-4bb9247ae232",
       "names": [
         {
           "nick": "Nai.Dion",
           "value": "Rumisi Noverty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F194*99993c5c-09ce-40da-a013-dd04b287303f"
+        }
+      ],
+      "id": "I472*b7ec90f4-d027-4b65-85f6-868307021381",
+      "names": [
+        {
+          "value": " /Tambunan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
+        }
+      ],
+      "id": "I473*0503d691-e148-49a3-862b-61e664b69305",
+      "names": [
+        {
+          "value": "Hetty //"
         }
       ],
       "eventsFacts": [
