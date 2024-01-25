@@ -3374,6 +3374,19 @@
         }
       ],
       "id": "F195*1d3e6ad4-7b4d-49be-adee-3f8f0281be78"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I477*ca79074f-a4f4-4ce2-bb49-a13883d59ad7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I470*3f0f0a00-65c6-4f3f-8455-403a4effda1d"
+        }
+      ],
+      "id": "F196*3d34a3f8-86c4-436c-b743-9b5912bd53ee"
     }
   ],
   "head": {
@@ -13073,6 +13086,11 @@
           "ref": "F193*d4620f30-b7bc-4fdd-acec-446c1ccb2fca"
         }
       ],
+      "fams": [
+        {
+          "ref": "F196*3d34a3f8-86c4-436c-b743-9b5912bd53ee"
+        }
+      ],
       "id": "I470*3f0f0a00-65c6-4f3f-8455-403a4effda1d",
       "names": [
         {
@@ -13192,6 +13210,25 @@
       "names": [
         {
           "value": "Neila //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F196*3d34a3f8-86c4-436c-b743-9b5912bd53ee"
+        }
+      ],
+      "id": "I477*ca79074f-a4f4-4ce2-bb49-a13883d59ad7",
+      "names": [
+        {
+          "value": "Shopia //"
         }
       ],
       "eventsFacts": [
