@@ -3198,13 +3198,15 @@
     {
       "husbandRefs": [
         {
-          "ref": "I446*732c8ec9-510b-437d-96ca-4079932cdff9"
-        },
-        {
           "ref": "I447*dc2763f0-e3cc-4b11-b6d6-0bd8174fd2b8"
         }
       ],
-      "id": "F187*81360f86-b980-4203-8f3c-75f87c43d000"
+      "id": "F187*81360f86-b980-4203-8f3c-75f87c43d000",
+      "wifeRefs": [
+        {
+          "ref": "I446*732c8ec9-510b-437d-96ca-4079932cdff9"
+        }
+      ]
     }
   ],
   "head": {
@@ -12410,6 +12412,12 @@
       "names": [
         {
           "value": "Upi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     },
