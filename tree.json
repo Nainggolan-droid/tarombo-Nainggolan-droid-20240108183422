@@ -3825,6 +3825,19 @@
         }
       ],
       "id": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I545*785efaf4-9fb0-43e8-915f-1dd6186fb3a0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I544*66e39314-a4b6-4e7e-a91b-fd81fdc8e92b"
+        }
+      ],
+      "id": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
     }
   ],
   "head": {
@@ -15026,10 +15039,34 @@
           "ref": "F220*736c1564-b663-4a09-a51d-2cd142da1cd0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
       "id": "I544*66e39314-a4b6-4e7e-a91b-fd81fdc8e92b",
       "names": [
         {
           "value": "Op.Baraguluan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
+      "id": "I545*785efaf4-9fb0-43e8-915f-1dd6186fb3a0",
+      "names": [
+        {
+          "value": "Op.Antar Malu //"
         }
       ],
       "eventsFacts": [
