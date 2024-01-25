@@ -3046,6 +3046,9 @@
       "childRefs": [
         {
           "ref": "I426*9d76689a-330c-43e3-85dd-1b8075d8d302"
+        },
+        {
+          "ref": "I427*2dd02624-cbf9-4d2e-ace3-8f24c7f3d16f"
         }
       ],
       "husbandRefs": [
@@ -11870,6 +11873,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F178*697d4cd6-226e-46e6-948d-e21aa6f130eb"
+        }
+      ],
+      "id": "I427*2dd02624-cbf9-4d2e-ace3-8f24c7f3d16f",
+      "names": [
+        {
+          "value": "Ucok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
