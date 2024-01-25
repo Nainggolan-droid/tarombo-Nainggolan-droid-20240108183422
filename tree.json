@@ -2800,6 +2800,9 @@
         },
         {
           "ref": "I394*bf36ebcd-e0bd-47f8-ac58-139decc40931"
+        },
+        {
+          "ref": "I395*d768eb75-58e1-4d1f-83e2-f3eb5b960f0d"
         }
       ],
       "husbandRefs": [
@@ -10970,6 +10973,25 @@
         {
           "nick": "Op.August",
           "value": "Salomo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I395*d768eb75-58e1-4d1f-83e2-f3eb5b960f0d",
+      "names": [
+        {
+          "value": "Jittar //"
         }
       ],
       "eventsFacts": [
