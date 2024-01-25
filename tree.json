@@ -3478,6 +3478,9 @@
         },
         {
           "ref": "I490*b853cdaf-b8fd-490d-939e-caaceaede6b6"
+        },
+        {
+          "ref": "I491*a80a5f08-ad08-4938-ae87-01149f029f66"
         }
       ],
       "husbandRefs": [
@@ -13600,6 +13603,25 @@
       "names": [
         {
           "value": "Op.Argide //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F202*ac475a6a-4ff0-4696-8b8e-57f3099a0165"
+        }
+      ],
+      "id": "I491*a80a5f08-ad08-4938-ae87-01149f029f66",
+      "names": [
+        {
+          "value": "Op.Robin //"
         }
       ],
       "eventsFacts": [
