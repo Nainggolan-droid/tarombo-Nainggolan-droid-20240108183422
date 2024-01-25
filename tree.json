@@ -2990,6 +2990,19 @@
           "ref": "I417*e120a363-cbe9-45fc-a966-f3ffd087224b"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I419*b6ce23ae-80d9-43c3-87eb-f2c0732c75f8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I407*46af7f08-5d20-44aa-9df2-4293f7737433"
+        }
+      ],
+      "id": "F175*e06bcdf6-1929-4801-80ad-4fe9a06de2ba"
     }
   ],
   "head": {
@@ -11408,6 +11421,11 @@
           "ref": "F165*2e6d07f6-696e-44d7-8226-fd91f8f03a29"
         }
       ],
+      "fams": [
+        {
+          "ref": "F175*e06bcdf6-1929-4801-80ad-4fe9a06de2ba"
+        }
+      ],
       "id": "I407*46af7f08-5d20-44aa-9df2-4293f7737433",
       "names": [
         {
@@ -11639,6 +11657,25 @@
       "names": [
         {
           "value": "Arman //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F175*e06bcdf6-1929-4801-80ad-4fe9a06de2ba"
+        }
+      ],
+      "id": "I419*b6ce23ae-80d9-43c3-87eb-f2c0732c75f8",
+      "names": [
+        {
+          "value": "Nerly //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
