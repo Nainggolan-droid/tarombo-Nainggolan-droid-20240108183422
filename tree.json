@@ -3500,6 +3500,9 @@
       "childRefs": [
         {
           "ref": "I494*b13efd81-cf71-4413-a9da-3416af2702a3"
+        },
+        {
+          "ref": "I495*4a8e67b8-f36d-413e-8e88-b8595400399c"
         }
       ],
       "husbandRefs": [
@@ -13703,6 +13706,25 @@
       "names": [
         {
           "value": "Op.Krista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F203*c3ee69f0-5f5c-4501-af86-98cc1344d02f"
+        }
+      ],
+      "id": "I495*4a8e67b8-f36d-413e-8e88-b8595400399c",
+      "names": [
+        {
+          "value": "Op.nisi.Alexa //"
         }
       ],
       "eventsFacts": [
