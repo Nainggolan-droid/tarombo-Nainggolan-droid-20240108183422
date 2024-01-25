@@ -3080,6 +3080,9 @@
         },
         {
           "ref": "I437*ea5e7247-fbf3-4187-9f69-f9518d50b849"
+        },
+        {
+          "ref": "I438*5b1330d1-6c57-42cb-8ce3-dfcb894a5f59"
         }
       ],
       "husbandRefs": [
@@ -12148,6 +12151,25 @@
       "names": [
         {
           "value": "Hotman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F179*36050af9-2b0f-42bb-9199-583d117882ff"
+        }
+      ],
+      "id": "I438*5b1330d1-6c57-42cb-8ce3-dfcb894a5f59",
+      "names": [
+        {
+          "value": "Sabam //"
         }
       ],
       "eventsFacts": [
