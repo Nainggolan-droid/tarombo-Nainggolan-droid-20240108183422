@@ -3789,6 +3789,9 @@
         },
         {
           "ref": "I538*60643c57-fa6e-44b7-8a60-c73325176dc3"
+        },
+        {
+          "ref": "I539*387ae2a8-89a3-4aba-ab3e-014cf4e2826c"
         }
       ],
       "husbandRefs": [
@@ -14883,6 +14886,25 @@
       "names": [
         {
           "value": "Appamanggar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F219*ac52b7db-bf56-42ae-89f3-2f5cba36c524"
+        }
+      ],
+      "id": "I539*387ae2a8-89a3-4aba-ab3e-014cf4e2826c",
+      "names": [
+        {
+          "value": "Op.Galung //"
         }
       ],
       "eventsFacts": [
