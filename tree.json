@@ -5434,6 +5434,9 @@
         },
         {
           "ref": "I762*cc560091-57ee-483a-a6b0-91cc63520ac6"
+        },
+        {
+          "ref": "I763*6e5ceada-3da8-4925-9f57-996054d713bc"
         }
       ],
       "husbandRefs": [
@@ -21334,6 +21337,25 @@
         {
           "nick": "A.Heri",
           "value": "Sinto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
+      "id": "I763*6e5ceada-3da8-4925-9f57-996054d713bc",
+      "names": [
+        {
+          "value": "Roma //"
         }
       ],
       "eventsFacts": [
