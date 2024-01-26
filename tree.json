@@ -5735,9 +5735,6 @@
           "ref": "I805*fe369b23-1d11-405c-941f-ad2d9e6d2e47"
         },
         {
-          "ref": "I807*e5d4ca7a-f2ab-4699-80dd-08a5aed7a48f"
-        },
-        {
           "ref": "I808*00a78c50-6e94-4e9c-baf4-8a4f6bf255c1"
         }
       ],
@@ -22623,29 +22620,6 @@
       "names": [
         {
           "value": " /Sitanggang/"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
-        }
-      ],
-      "id": "I807*e5d4ca7a-f2ab-4699-80dd-08a5aed7a48f",
-      "names": [
-        {
-          "value": "Gibson //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
         }
       ]
     },
