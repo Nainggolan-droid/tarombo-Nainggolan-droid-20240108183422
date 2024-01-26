@@ -5703,6 +5703,19 @@
         }
       ],
       "id": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I800*37967dc9-5422-42d7-a67a-aced37df1eaf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I797*f47e11d0-4ce5-4741-aebc-6a8a85315457"
+        }
+      ],
+      "id": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
     }
   ],
   "head": {
@@ -22371,6 +22384,11 @@
           "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
         }
       ],
+      "fams": [
+        {
+          "ref": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
+        }
+      ],
       "id": "I797*f47e11d0-4ce5-4741-aebc-6a8a85315457",
       "names": [
         {
@@ -22413,6 +22431,25 @@
       "names": [
         {
           "value": "A.Nuksuk //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
+        }
+      ],
+      "id": "I800*37967dc9-5422-42d7-a67a-aced37df1eaf",
+      "names": [
+        {
+          "value": "Jansen //"
         }
       ],
       "eventsFacts": [
