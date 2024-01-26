@@ -4918,6 +4918,19 @@
           "ref": "I680*8a0b2361-4209-40a7-a9e2-1cc583168cb8"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I684*1e82c8f8-2997-4347-8670-1c84fb10e9cc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I678*d7d229e0-e78d-4a36-af29-7d979b9ea14d"
+        }
+      ],
+      "id": "F289*96a5c883-de84-4f5b-bd09-e5ad84570b9a"
     }
   ],
   "head": {
@@ -19008,6 +19021,11 @@
           "ref": "F286*9be417af-3458-4ca5-9988-6ca0526fe1c0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F289*96a5c883-de84-4f5b-bd09-e5ad84570b9a"
+        }
+      ],
       "id": "I678*d7d229e0-e78d-4a36-af29-7d979b9ea14d",
       "names": [
         {
@@ -19109,6 +19127,25 @@
         {
           "nick": "A.Harapan",
           "value": "Fero //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*96a5c883-de84-4f5b-bd09-e5ad84570b9a"
+        }
+      ],
+      "id": "I684*1e82c8f8-2997-4347-8670-1c84fb10e9cc",
+      "names": [
+        {
+          "value": "David //"
         }
       ],
       "eventsFacts": [
