@@ -5307,6 +5307,9 @@
       "childRefs": [
         {
           "ref": "I743*e90df84b-ebc9-42c1-ae61-a0609b17f620"
+        },
+        {
+          "ref": "I745*fce94725-9f39-4057-ab75-bb85debefa63"
         }
       ],
       "husbandRefs": [
@@ -20861,6 +20864,25 @@
       "names": [
         {
           "value": " /Situmorang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F311*b4cccf42-e8df-4977-8520-5054db0fc1c7"
+        }
+      ],
+      "id": "I745*fce94725-9f39-4057-ab75-bb85debefa63",
+      "names": [
+        {
+          "value": "Raja Mangatur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
