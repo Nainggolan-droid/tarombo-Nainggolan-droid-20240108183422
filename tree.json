@@ -5004,6 +5004,19 @@
         }
       ],
       "id": "F294*26f41dfa-e38c-4ffc-bc9f-3d4a6b6d02d1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I697*ec3ae829-9122-4bcc-9025-d55443e57f09"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I687*bbf7dd90-39c3-4772-8cae-de777a5140f8"
+        }
+      ],
+      "id": "F295*1bbb7234-48b7-4bf8-9cc1-3c456ab63bbd"
     }
   ],
   "head": {
@@ -19366,6 +19379,11 @@
           "ref": "F291*7664b460-e784-4a77-991c-0eb765b930bf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F295*1bbb7234-48b7-4bf8-9cc1-3c456ab63bbd"
+        }
+      ],
       "id": "I687*bbf7dd90-39c3-4772-8cae-de777a5140f8",
       "names": [
         {
@@ -19555,6 +19573,25 @@
       "names": [
         {
           "value": "Leonardo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*1bbb7234-48b7-4bf8-9cc1-3c456ab63bbd"
+        }
+      ],
+      "id": "I697*ec3ae829-9122-4bcc-9025-d55443e57f09",
+      "names": [
+        {
+          "value": "August //"
         }
       ],
       "eventsFacts": [
