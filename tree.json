@@ -5044,6 +5044,9 @@
       "childRefs": [
         {
           "ref": "I702*2282f1ab-fde2-4f4c-ba16-e52036c8b131"
+        },
+        {
+          "ref": "I704*f13f7cbe-f147-41b8-b8df-396f23d9539a"
         }
       ],
       "husbandRefs": [
@@ -19773,6 +19776,25 @@
         {
           "tag": "SEX",
           "value": "U"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
+        }
+      ],
+      "id": "I704*f13f7cbe-f147-41b8-b8df-396f23d9539a",
+      "names": [
+        {
+          "value": "Ely //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
