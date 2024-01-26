@@ -5531,6 +5531,19 @@
         }
       ],
       "id": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I776*db4fdc8c-13d0-4a99-9761-339f7b6911f3"
+        }
+      ],
+      "id": "F324*213cebff-5f80-4f25-a87c-71bb0a607b3e",
+      "wifeRefs": [
+        {
+          "ref": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb"
+        }
+      ]
     }
   ],
   "head": {
@@ -21677,6 +21690,11 @@
           "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F324*213cebff-5f80-4f25-a87c-71bb0a607b3e"
+        }
+      ],
       "id": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb",
       "names": [
         {
@@ -21687,6 +21705,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F324*213cebff-5f80-4f25-a87c-71bb0a607b3e"
+        }
+      ],
+      "id": "I776*db4fdc8c-13d0-4a99-9761-339f7b6911f3",
+      "names": [
+        {
+          "value": " /Sembiring/"
         }
       ]
     }
