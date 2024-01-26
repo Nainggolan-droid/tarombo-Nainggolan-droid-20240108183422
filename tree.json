@@ -5349,6 +5349,9 @@
       "childRefs": [
         {
           "ref": "I747*5ae56a12-0cf7-408d-a4bd-d0afe1ed75c0"
+        },
+        {
+          "ref": "I748*cc279556-fffd-4381-961f-16f9c64c420d"
         }
       ],
       "husbandRefs": [
@@ -20957,6 +20960,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F314*2daa297c-8c3f-4a24-8253-b6b281fa3b96"
+        }
+      ],
+      "id": "I748*cc279556-fffd-4381-961f-16f9c64c420d",
+      "names": [
+        {
+          "value": "Farrel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
