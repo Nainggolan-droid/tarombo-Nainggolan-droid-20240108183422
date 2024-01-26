@@ -5633,6 +5633,19 @@
         }
       ],
       "id": "F329*c7aea9c8-da24-4503-8338-04ebbe113fa4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I790*42e148b4-79e6-43b5-a1a9-6c60478502f9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I765*d4cf5c89-882c-4781-b927-fd8cec898367"
+        }
+      ],
+      "id": "F330*773337fe-83a7-4693-8a82-54f0c6f37f17"
     }
   ],
   "head": {
@@ -21592,6 +21605,11 @@
           "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F330*773337fe-83a7-4693-8a82-54f0c6f37f17"
+        }
+      ],
       "id": "I765*d4cf5c89-882c-4781-b927-fd8cec898367",
       "names": [
         {
@@ -22079,6 +22097,25 @@
       "names": [
         {
           "value": "Heri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F330*773337fe-83a7-4693-8a82-54f0c6f37f17"
+        }
+      ],
+      "id": "I790*42e148b4-79e6-43b5-a1a9-6c60478502f9",
+      "names": [
+        {
+          "value": "Togap //"
         }
       ],
       "eventsFacts": [
