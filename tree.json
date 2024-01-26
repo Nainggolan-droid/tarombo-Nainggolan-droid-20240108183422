@@ -5243,6 +5243,9 @@
         },
         {
           "ref": "I741*78c0c973-0d1f-4b90-88b8-079fb5cc31c9"
+        },
+        {
+          "ref": "I742*d6b3dcaf-de3d-4978-bf76-fbce8bf9de32"
         }
       ],
       "husbandRefs": [
@@ -20764,6 +20767,25 @@
       "names": [
         {
           "value": "Dedek Suryadi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I742*d6b3dcaf-de3d-4978-bf76-fbce8bf9de32",
+      "names": [
+        {
+          "value": "Iyang Pandanito //"
         }
       ],
       "eventsFacts": [
