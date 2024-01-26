@@ -5443,6 +5443,9 @@
         },
         {
           "ref": "I766*c2875dda-e6b7-4fd8-ad85-7a675ff2fd10"
+        },
+        {
+          "ref": "I767*ec02e38a-27b7-4858-8c39-d1145157048c"
         }
       ],
       "husbandRefs": [
@@ -21433,6 +21436,25 @@
         {
           "nick": "Nai.Pandre",
           "value": "Manti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
+      "id": "I767*ec02e38a-27b7-4858-8c39-d1145157048c",
+      "names": [
+        {
+          "value": "Coordina //"
         }
       ],
       "eventsFacts": [
