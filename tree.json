@@ -4878,6 +4878,9 @@
         },
         {
           "ref": "I679*8df17cc2-9854-45c8-af10-3013b6847b13"
+        },
+        {
+          "ref": "I680*8a0b2361-4209-40a7-a9e2-1cc583168cb8"
         }
       ],
       "husbandRefs": [
@@ -19001,6 +19004,25 @@
         {
           "nick": "Ma.Uli",
           "value": "Rohani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F286*9be417af-3458-4ca5-9988-6ca0526fe1c0"
+        }
+      ],
+      "id": "I680*8a0b2361-4209-40a7-a9e2-1cc583168cb8",
+      "names": [
+        {
+          "value": "Anita //"
         }
       ],
       "eventsFacts": [
