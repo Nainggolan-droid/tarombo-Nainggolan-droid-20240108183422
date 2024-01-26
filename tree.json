@@ -4760,6 +4760,9 @@
       "childRefs": [
         {
           "ref": "I663*acd6e76b-4d10-47f4-81ac-f48a73c59567"
+        },
+        {
+          "ref": "I665*b72f2e9b-6814-4bc5-8d21-094d70955d66"
         }
       ],
       "husbandRefs": [
@@ -18601,6 +18604,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F279*f92a1e1a-7eb5-4726-846e-2a030a9aa0f4"
+        }
+      ],
+      "id": "I665*b72f2e9b-6814-4bc5-8d21-094d70955d66",
+      "names": [
+        {
+          "value": "Nurdin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
