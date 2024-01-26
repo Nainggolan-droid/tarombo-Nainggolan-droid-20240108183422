@@ -4769,6 +4769,9 @@
         },
         {
           "ref": "I667*f0dea413-0742-4946-afd5-f08c8470ba22"
+        },
+        {
+          "ref": "I668*899cf591-eef4-4bf0-98c5-941bb61f3542"
         }
       ],
       "husbandRefs": [
@@ -18664,6 +18667,25 @@
         {
           "nick": "Op.Olivia",
           "value": "Pasti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F279*f92a1e1a-7eb5-4726-846e-2a030a9aa0f4"
+        }
+      ],
+      "id": "I668*899cf591-eef4-4bf0-98c5-941bb61f3542",
+      "names": [
+        {
+          "value": "Sinta //"
         }
       ],
       "eventsFacts": [
