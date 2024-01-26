@@ -5481,6 +5481,9 @@
         },
         {
           "ref": "I771*b0ca4036-7392-4bf1-88ff-140bbafe8a0e"
+        },
+        {
+          "ref": "I772*5b32becb-34ff-41b6-82e9-87bedaec9b62"
         }
       ],
       "husbandRefs": [
@@ -21560,6 +21563,25 @@
       "names": [
         {
           "value": "Yolanda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+        }
+      ],
+      "id": "I772*5b32becb-34ff-41b6-82e9-87bedaec9b62",
+      "names": [
+        {
+          "value": "Nadine //"
         }
       ],
       "eventsFacts": [
