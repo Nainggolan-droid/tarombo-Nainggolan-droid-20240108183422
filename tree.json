@@ -5733,9 +5733,6 @@
         },
         {
           "ref": "I805*fe369b23-1d11-405c-941f-ad2d9e6d2e47"
-        },
-        {
-          "ref": "I808*00a78c50-6e94-4e9c-baf4-8a4f6bf255c1"
         }
       ],
       "husbandRefs": [
@@ -22620,25 +22617,6 @@
       "names": [
         {
           "value": " /Sitanggang/"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
-        }
-      ],
-      "id": "I808*00a78c50-6e94-4e9c-baf4-8a4f6bf255c1",
-      "names": [
-        {
-          "value": "Linda //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     }
