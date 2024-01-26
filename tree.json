@@ -5368,6 +5368,9 @@
       "childRefs": [
         {
           "ref": "I750*15b54c38-c1a9-4770-8189-eee3c676f956"
+        },
+        {
+          "ref": "I752*b1adfb2b-e2c2-42f9-b0f4-59332ac20eaa"
         }
       ],
       "husbandRefs": [
@@ -21069,6 +21072,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F315*efc09fa1-bf77-476e-a94d-046ffac5fefd"
+        }
+      ],
+      "id": "I752*b1adfb2b-e2c2-42f9-b0f4-59332ac20eaa",
+      "names": [
+        {
+          "value": "Farida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
