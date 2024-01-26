@@ -4383,6 +4383,9 @@
       "childRefs": [
         {
           "ref": "I614*7f69473d-8e5f-4db1-b40a-02910c7716e1"
+        },
+        {
+          "ref": "I615*4002e8cb-7ae7-4baa-abf6-d8996a57ced3"
         }
       ],
       "husbandRefs": [
@@ -17140,6 +17143,25 @@
       "names": [
         {
           "value": "Op.Tabe //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+        }
+      ],
+      "id": "I615*4002e8cb-7ae7-4baa-abf6-d8996a57ced3",
+      "names": [
+        {
+          "value": "Ampangadang //"
         }
       ],
       "eventsFacts": [
