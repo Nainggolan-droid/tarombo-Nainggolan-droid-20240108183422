@@ -4032,6 +4032,19 @@
         }
       ],
       "id": "F232*563147cd-550a-41c6-bc36-0531d38b56b5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I574*76cd15e9-4c60-46bb-a74c-98d8c1ec41b9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I572*b7a66ba7-5b4f-41f2-a712-f96f1bdced8b"
+        }
+      ],
+      "id": "F233*75265312-0cfd-4f2a-a78d-fb008abb439e"
     }
   ],
   "head": {
@@ -15876,6 +15889,11 @@
           "ref": "F230*343662b8-9874-4d1d-9162-a5eb0806086c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F233*75265312-0cfd-4f2a-a78d-fb008abb439e"
+        }
+      ],
       "id": "I572*b7a66ba7-5b4f-41f2-a712-f96f1bdced8b",
       "names": [
         {
@@ -15896,6 +15914,25 @@
         }
       ],
       "id": "I573*f9587496-5ab6-4d4c-8280-2b3caaf1309a",
+      "names": [
+        {
+          "value": "Palan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F233*75265312-0cfd-4f2a-a78d-fb008abb439e"
+        }
+      ],
+      "id": "I574*76cd15e9-4c60-46bb-a74c-98d8c1ec41b9",
       "names": [
         {
           "value": "Palan //"
