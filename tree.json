@@ -5724,6 +5724,9 @@
       "childRefs": [
         {
           "ref": "I802*9ee695b1-3767-4f55-bbfd-4d8bff72d6b7"
+        },
+        {
+          "ref": "I803*47e07f38-3d97-4324-9907-44025f0c82fd"
         }
       ],
       "husbandRefs": [
@@ -22519,6 +22522,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
+        }
+      ],
+      "id": "I803*47e07f38-3d97-4324-9907-44025f0c82fd",
+      "names": [
+        {
+          "value": "Nai.Bilmar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
