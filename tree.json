@@ -5257,6 +5257,9 @@
       "childRefs": [
         {
           "ref": "I733*a8f5e7d0-3cd1-4ec9-84c2-4784a38e0381"
+        },
+        {
+          "ref": "I734*e6fb796b-e358-44ee-a8eb-a4e33d2793a0"
         }
       ],
       "husbandRefs": [
@@ -20573,6 +20576,25 @@
       "names": [
         {
           "value": "Cayo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F309*2069dcea-9fdd-4cb8-a4b3-0328fcdd1cb1"
+        }
+      ],
+      "id": "I734*e6fb796b-e358-44ee-a8eb-a4e33d2793a0",
+      "names": [
+        {
+          "value": "Azriel //"
         }
       ],
       "eventsFacts": [
