@@ -4271,6 +4271,9 @@
         },
         {
           "ref": "I600*d8679452-8d45-4018-9356-6522bc170ee4"
+        },
+        {
+          "ref": "I601*662e21cc-587b-4da2-9f62-1b0b42b80722"
         }
       ],
       "husbandRefs": [
@@ -16726,6 +16729,25 @@
       "names": [
         {
           "value": "Op.Sangangna II //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+        }
+      ],
+      "id": "I601*662e21cc-587b-4da2-9f62-1b0b42b80722",
+      "names": [
+        {
+          "value": "Appanglipat //"
         }
       ],
       "eventsFacts": [
