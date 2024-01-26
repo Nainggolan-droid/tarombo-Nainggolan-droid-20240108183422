@@ -5053,6 +5053,9 @@
         },
         {
           "ref": "I708*f8edca03-4d05-47b5-b667-a2d0e4c6f64d"
+        },
+        {
+          "ref": "I709*35b5023a-6660-469e-860d-4dfb08bb7627"
         }
       ],
       "husbandRefs": [
@@ -19903,6 +19906,25 @@
       "names": [
         {
           "value": "Manaek //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
+        }
+      ],
+      "id": "I709*35b5023a-6660-469e-860d-4dfb08bb7627",
+      "names": [
+        {
+          "value": "Robert Tua //"
         }
       ],
       "eventsFacts": [
