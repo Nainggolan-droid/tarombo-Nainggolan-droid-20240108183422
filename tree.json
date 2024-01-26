@@ -4870,6 +4870,19 @@
           "ref": "I676*efdf3f52-da4c-4b80-a8cd-69f658aa3ec2"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I678*d7d229e0-e78d-4a36-af29-7d979b9ea14d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I666*bb03d0b7-34e8-4258-b7fc-44e7b63e79b4"
+        }
+      ],
+      "id": "F286*9be417af-3458-4ca5-9988-6ca0526fe1c0"
     }
   ],
   "head": {
@@ -18724,6 +18737,11 @@
           "ref": "F279*f92a1e1a-7eb5-4726-846e-2a030a9aa0f4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F286*9be417af-3458-4ca5-9988-6ca0526fe1c0"
+        }
+      ],
       "id": "I666*bb03d0b7-34e8-4258-b7fc-44e7b63e79b4",
       "names": [
         {
@@ -18946,6 +18964,25 @@
       "names": [
         {
           "value": " /Silalahi/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F286*9be417af-3458-4ca5-9988-6ca0526fe1c0"
+        }
+      ],
+      "id": "I678*d7d229e0-e78d-4a36-af29-7d979b9ea14d",
+      "names": [
+        {
+          "value": "Arisdo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
