@@ -4696,6 +4696,9 @@
         },
         {
           "ref": "I660*199e184b-2b7d-4e7f-9a40-d2ed89e046b6"
+        },
+        {
+          "ref": "I662*5ebabb07-a730-4e3f-957c-fd941206b813"
         }
       ],
       "husbandRefs": [
@@ -18504,6 +18507,25 @@
       "names": [
         {
           "value": "Rijal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
+      "id": "I662*5ebabb07-a730-4e3f-957c-fd941206b813",
+      "names": [
+        {
+          "value": "A.Cristin //"
         }
       ],
       "eventsFacts": [
