@@ -4456,6 +4456,9 @@
       "childRefs": [
         {
           "ref": "I625*f3497a3b-2441-4b42-a773-cbd0ea112703"
+        },
+        {
+          "ref": "I626*ba76d7ec-d776-4a83-82b4-42d96d17c57b"
         }
       ],
       "husbandRefs": [
@@ -17442,6 +17445,25 @@
       "names": [
         {
           "value": "Kessan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F260*050fcf88-02b4-4661-bf58-37d3a60c254e"
+        }
+      ],
+      "id": "I626*ba76d7ec-d776-4a83-82b4-42d96d17c57b",
+      "names": [
+        {
+          "value": "Kapudin //"
         }
       ],
       "eventsFacts": [
