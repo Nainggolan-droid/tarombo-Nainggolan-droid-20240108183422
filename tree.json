@@ -5774,6 +5774,9 @@
         },
         {
           "ref": "I815*033bc285-1eef-4989-9c3d-11bf2ca8b8fb"
+        },
+        {
+          "ref": "I817*e2822a69-276f-45a2-87e6-a66806f5804f"
         }
       ],
       "husbandRefs": [
@@ -22898,6 +22901,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I817*e2822a69-276f-45a2-87e6-a66806f5804f",
+      "names": [
+        {
+          "value": "Anton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
