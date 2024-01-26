@@ -2809,6 +2809,9 @@
         },
         {
           "ref": "I562*c4e34421-c06e-4049-be87-6b17374d3f0d"
+        },
+        {
+          "ref": "I564*82eed260-4b30-4155-9568-26ae5755c918"
         }
       ],
       "husbandRefs": [
@@ -15549,6 +15552,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I564*82eed260-4b30-4155-9568-26ae5755c918",
+      "names": [
+        {
+          "value": "Pinta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
