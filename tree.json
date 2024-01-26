@@ -4945,6 +4945,9 @@
         },
         {
           "ref": "I690*98e57405-16ef-454d-8f6a-d9eafb363a1d"
+        },
+        {
+          "ref": "I691*a9f5395d-692a-4439-9b66-6b8051da9087"
         }
       ],
       "husbandRefs": [
@@ -19397,6 +19400,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F291*7664b460-e784-4a77-991c-0eb765b930bf"
+        }
+      ],
+      "id": "I691*a9f5395d-692a-4439-9b66-6b8051da9087",
+      "names": [
+        {
+          "value": "Natalinda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
