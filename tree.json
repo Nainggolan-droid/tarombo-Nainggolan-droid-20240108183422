@@ -5708,6 +5708,9 @@
       "childRefs": [
         {
           "ref": "I800*37967dc9-5422-42d7-a67a-aced37df1eaf"
+        },
+        {
+          "ref": "I801*6be3e83c-c45b-422b-ad70-247deadd550b"
         }
       ],
       "husbandRefs": [
@@ -22450,6 +22453,25 @@
       "names": [
         {
           "value": "Jansen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
+        }
+      ],
+      "id": "I801*6be3e83c-c45b-422b-ad70-247deadd550b",
+      "names": [
+        {
+          "value": "Ferdinand //"
         }
       ],
       "eventsFacts": [
