@@ -4547,6 +4547,19 @@
         }
       ],
       "id": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I637*a9525344-d71f-4d11-823c-6e1cc8380a36"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I610*6713e5cb-a9ce-4c54-97d1-07c6e10466f5"
+        }
+      ],
+      "id": "F266*e4c33ea4-ef7e-431f-b8ad-cdf81ee94390"
     }
   ],
   "head": {
@@ -17211,6 +17224,11 @@
           "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
         }
       ],
+      "fams": [
+        {
+          "ref": "F266*e4c33ea4-ef7e-431f-b8ad-cdf81ee94390"
+        }
+      ],
       "id": "I610*6713e5cb-a9ce-4c54-97d1-07c6e10466f5",
       "names": [
         {
@@ -17759,6 +17777,25 @@
       "names": [
         {
           "value": "A.Simpan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F266*e4c33ea4-ef7e-431f-b8ad-cdf81ee94390"
+        }
+      ],
+      "id": "I637*a9525344-d71f-4d11-823c-6e1cc8380a36",
+      "names": [
+        {
+          "value": "Op.Zanatuk //"
         }
       ],
       "eventsFacts": [
