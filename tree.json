@@ -4003,6 +4003,19 @@
         }
       ],
       "id": "F230*343662b8-9874-4d1d-9162-a5eb0806086c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I571*ba525f07-2218-48fd-ad1a-4a7fad49ed86"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I570*d3569ded-5b3c-440a-911c-6bf3541c1dcc"
+        }
+      ],
+      "id": "F231*7bfcdc7a-6d50-46db-b237-624cc40b3bef"
     }
   ],
   "head": {
@@ -15798,11 +15811,35 @@
           "ref": "F230*343662b8-9874-4d1d-9162-a5eb0806086c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F231*7bfcdc7a-6d50-46db-b237-624cc40b3bef"
+        }
+      ],
       "id": "I570*d3569ded-5b3c-440a-911c-6bf3541c1dcc",
       "names": [
         {
           "nick": "A.Rezky",
           "value": "Sudung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F231*7bfcdc7a-6d50-46db-b237-624cc40b3bef"
+        }
+      ],
+      "id": "I571*ba525f07-2218-48fd-ad1a-4a7fad49ed86",
+      "names": [
+        {
+          "value": "Rezky //"
         }
       ],
       "eventsFacts": [
