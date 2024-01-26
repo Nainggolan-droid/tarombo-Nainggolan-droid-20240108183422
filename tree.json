@@ -5660,6 +5660,9 @@
       "childRefs": [
         {
           "ref": "I794*21e5b5de-2d30-4cb7-b28e-92e887543052"
+        },
+        {
+          "ref": "I795*e2a6b55d-e5a1-4a7d-868e-4e87909b7bdc"
         }
       ],
       "husbandRefs": [
@@ -22219,6 +22222,25 @@
       "names": [
         {
           "value": "Sahat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F331*cdcbf112-d514-4617-8a4d-3019be9b9c34"
+        }
+      ],
+      "id": "I795*e2a6b55d-e5a1-4a7d-868e-4e87909b7bdc",
+      "names": [
+        {
+          "value": "Kasmin //"
         }
       ],
       "eventsFacts": [
