@@ -5380,6 +5380,9 @@
         },
         {
           "ref": "I756*a254f31e-0def-45b4-96da-6e46483d7e93"
+        },
+        {
+          "ref": "I757*5785d4e5-9872-4ec3-b7f3-191670b16733"
         }
       ],
       "husbandRefs": [
@@ -21183,6 +21186,25 @@
       "names": [
         {
           "value": "Sari //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F315*efc09fa1-bf77-476e-a94d-046ffac5fefd"
+        }
+      ],
+      "id": "I757*5785d4e5-9872-4ec3-b7f3-191670b16733",
+      "names": [
+        {
+          "value": "Sinur //"
         }
       ],
       "eventsFacts": [
