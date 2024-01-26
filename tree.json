@@ -5084,6 +5084,19 @@
           "ref": "I704*f13f7cbe-f147-41b8-b8df-396f23d9539a"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I707*ad268c92-959f-419f-b78f-255d0d90a9cd"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I706*4680288f-5687-4b1e-ae0e-1f53ea815f74"
+        }
+      ],
+      "id": "F300*7ab330f5-083f-4b7c-8a91-edc92acff0b4"
     }
   ],
   "head": {
@@ -19839,11 +19852,35 @@
           "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
         }
       ],
+      "fams": [
+        {
+          "ref": "F300*7ab330f5-083f-4b7c-8a91-edc92acff0b4"
+        }
+      ],
       "id": "I706*4680288f-5687-4b1e-ae0e-1f53ea815f74",
       "names": [
         {
           "nick": "A.Steven",
           "value": "Timbul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F300*7ab330f5-083f-4b7c-8a91-edc92acff0b4"
+        }
+      ],
+      "id": "I707*ad268c92-959f-419f-b78f-255d0d90a9cd",
+      "names": [
+        {
+          "value": "Steven //"
         }
       ],
       "eventsFacts": [
