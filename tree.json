@@ -4263,6 +4263,19 @@
         }
       ],
       "id": "F248*3c697375-ac0d-4666-bfad-e49f533f1a22"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I599*8b5fe37e-736b-41ce-8147-958d18ab00c4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I546*78571687-fd00-45b1-9b2c-06ccc61d8ef3"
+        }
+      ],
+      "id": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
     }
   ],
   "head": {
@@ -15584,6 +15597,11 @@
           "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+        }
+      ],
       "id": "I546*78571687-fd00-45b1-9b2c-06ccc61d8ef3",
       "names": [
         {
@@ -16673,6 +16691,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+        }
+      ],
+      "id": "I599*8b5fe37e-736b-41ce-8147-958d18ab00c4",
+      "names": [
+        {
+          "value": "Op.Jasihat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
