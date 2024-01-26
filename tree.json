@@ -4531,6 +4531,19 @@
         }
       ],
       "id": "F264*d7673aff-2e28-4cfc-9df2-18937387d0cd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I635*41a0276e-7339-4da7-86fc-ec50636af9e6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I634*e023231d-59a2-4900-b02c-7c1a805a67d1"
+        }
+      ],
+      "id": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
     }
   ],
   "head": {
@@ -17696,10 +17709,34 @@
           "ref": "F264*d7673aff-2e28-4cfc-9df2-18937387d0cd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
+        }
+      ],
       "id": "I634*e023231d-59a2-4900-b02c-7c1a805a67d1",
       "names": [
         {
           "value": "A.Bungkulan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
+        }
+      ],
+      "id": "I635*41a0276e-7339-4da7-86fc-ec50636af9e6",
+      "names": [
+        {
+          "value": "Bungkulan //"
         }
       ],
       "eventsFacts": [
