@@ -5777,6 +5777,9 @@
         },
         {
           "ref": "I817*e2822a69-276f-45a2-87e6-a66806f5804f"
+        },
+        {
+          "ref": "I821*6189f587-d520-4ba5-916a-c753a29496af"
         }
       ],
       "husbandRefs": [
@@ -22996,6 +22999,25 @@
       "names": [
         {
           "value": "Gomos //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I821*6189f587-d520-4ba5-916a-c753a29496af",
+      "names": [
+        {
+          "value": "Andi //"
         }
       ],
       "eventsFacts": [
