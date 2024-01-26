@@ -3866,6 +3866,19 @@
         }
       ],
       "id": "F222*3e2f173b-8e2f-4e25-97c2-83c762d0aa31"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I552*ca2c04be-f881-4669-bd48-4e267a6d8fc0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I551*914eeaf8-4f84-49ee-859e-80b3a6e6cdc7"
+        }
+      ],
+      "id": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
     }
   ],
   "head": {
@@ -15210,10 +15223,34 @@
           "ref": "F222*3e2f173b-8e2f-4e25-97c2-83c762d0aa31"
         }
       ],
+      "fams": [
+        {
+          "ref": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
+        }
+      ],
       "id": "I551*914eeaf8-4f84-49ee-859e-80b3a6e6cdc7",
       "names": [
         {
           "value": "Op. Pagarbatu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
+        }
+      ],
+      "id": "I552*ca2c04be-f881-4669-bd48-4e267a6d8fc0",
+      "names": [
+        {
+          "value": "Op.Barisan //"
         }
       ],
       "eventsFacts": [
