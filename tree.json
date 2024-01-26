@@ -5553,6 +5553,19 @@
           "ref": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I780*d22d4bb2-d017-45de-9739-4963af7e6a0f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I779*3408ad90-2403-47b7-ab94-23ae5248f25c"
+        }
+      ],
+      "id": "F325*1c353fbe-da3c-44ea-be7e-1fd14980a7a8"
     }
   ],
   "head": {
@@ -21775,11 +21788,35 @@
           "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F325*1c353fbe-da3c-44ea-be7e-1fd14980a7a8"
+        }
+      ],
       "id": "I779*3408ad90-2403-47b7-ab94-23ae5248f25c",
       "names": [
         {
           "nick": "A.Davin",
           "value": "Barus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F325*1c353fbe-da3c-44ea-be7e-1fd14980a7a8"
+        }
+      ],
+      "id": "I780*d22d4bb2-d017-45de-9739-4963af7e6a0f",
+      "names": [
+        {
+          "value": "Davin //"
         }
       ],
       "eventsFacts": [
