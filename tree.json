@@ -3907,6 +3907,19 @@
         }
       ],
       "id": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I559*eac97f02-21b9-4b04-a119-7cc960665e3b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I557*d8274421-b3e3-4884-b916-b3ea95230165"
+        }
+      ],
+      "id": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
     }
   ],
   "head": {
@@ -15375,6 +15388,11 @@
           "ref": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
+        }
+      ],
       "id": "I557*d8274421-b3e3-4884-b916-b3ea95230165",
       "names": [
         {
@@ -15399,6 +15417,25 @@
       "names": [
         {
           "value": "Op.Edy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
+        }
+      ],
+      "id": "I559*eac97f02-21b9-4b04-a119-7cc960665e3b",
+      "names": [
+        {
+          "value": "Jabonar //"
         }
       ],
       "eventsFacts": [
