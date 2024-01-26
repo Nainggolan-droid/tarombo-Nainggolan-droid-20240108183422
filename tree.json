@@ -5234,6 +5234,9 @@
         },
         {
           "ref": "I735*6ce0487a-1254-47f3-bc2f-a54906149de7"
+        },
+        {
+          "ref": "I736*3fd74ed5-b413-413e-9fec-8d0027fcca8f"
         }
       ],
       "husbandRefs": [
@@ -20617,6 +20620,25 @@
       "names": [
         {
           "value": "Yustiadi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I736*3fd74ed5-b413-413e-9fec-8d0027fcca8f",
+      "names": [
+        {
+          "value": "Belde //"
         }
       ],
       "eventsFacts": [
