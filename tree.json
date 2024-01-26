@@ -4101,6 +4101,9 @@
       "childRefs": [
         {
           "ref": "I580*c4e95d6a-2214-4c42-b626-2daadf0f18f3"
+        },
+        {
+          "ref": "I581*bd6bef66-9933-4432-8950-c67a19a1aa60"
         }
       ],
       "husbandRefs": [
@@ -16120,6 +16123,25 @@
       "names": [
         {
           "value": "Op.Putri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F238*3b0b6866-3467-4254-a1ca-54a9cb4feb36"
+        }
+      ],
+      "id": "I581*bd6bef66-9933-4432-8950-c67a19a1aa60",
+      "names": [
+        {
+          "value": "Op.Gregory //"
         }
       ],
       "eventsFacts": [
