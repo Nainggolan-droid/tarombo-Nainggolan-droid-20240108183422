@@ -4698,6 +4698,19 @@
         }
       ],
       "id": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I653*fd80ffb7-6e5a-4fc6-8499-03d432cc4b06"
+        }
+      ],
+      "id": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
     }
   ],
   "head": {
@@ -18279,6 +18292,11 @@
           "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
+        }
+      ],
       "id": "I653*fd80ffb7-6e5a-4fc6-8499-03d432cc4b06",
       "names": [
         {
@@ -18289,6 +18307,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
+        }
+      ],
+      "id": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36",
+      "names": [
+        {
+          "value": "Selpina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
