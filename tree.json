@@ -5222,6 +5222,9 @@
       "childRefs": [
         {
           "ref": "I728*a173c003-72e7-4c43-8560-ec7eb53fbdb3"
+        },
+        {
+          "ref": "I729*5afdac6c-14e3-450b-a5de-39fd18588e0c"
         }
       ],
       "husbandRefs": [
@@ -20445,6 +20448,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I729*5afdac6c-14e3-450b-a5de-39fd18588e0c",
+      "names": [
+        {
+          "value": "Rinta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
