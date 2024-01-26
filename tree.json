@@ -5719,6 +5719,19 @@
         }
       ],
       "id": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I802*9ee695b1-3767-4f55-bbfd-4d8bff72d6b7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I800*37967dc9-5422-42d7-a67a-aced37df1eaf"
+        }
+      ],
+      "id": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
     }
   ],
   "head": {
@@ -22449,6 +22462,11 @@
           "ref": "F334*99ce0b9d-5d16-4b3a-bcdf-9706d038d289"
         }
       ],
+      "fams": [
+        {
+          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
+        }
+      ],
       "id": "I800*37967dc9-5422-42d7-a67a-aced37df1eaf",
       "names": [
         {
@@ -22478,6 +22496,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
+        }
+      ],
+      "id": "I802*9ee695b1-3767-4f55-bbfd-4d8bff72d6b7",
+      "names": [
+        {
+          "value": "Mardin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
