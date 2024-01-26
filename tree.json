@@ -4621,6 +4621,19 @@
         }
       ],
       "id": "F270*c2a7a924-f354-4349-a264-d68104333abc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I645*0fee27a1-da05-40f1-a7d0-07b6c8bcce87"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I643*c067e19d-6f9f-45fc-978b-5b2948a750f0"
+        }
+      ],
+      "id": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
     }
   ],
   "head": {
@@ -17987,6 +18000,11 @@
           "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
       "id": "I643*c067e19d-6f9f-45fc-978b-5b2948a750f0",
       "names": [
         {
@@ -18010,6 +18028,25 @@
       "names": [
         {
           "value": "Op.Selpina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "id": "I645*0fee27a1-da05-40f1-a7d0-07b6c8bcce87",
+      "names": [
+        {
+          "value": "Op.nisi.Yehezkiel //"
         }
       ],
       "eventsFacts": [
