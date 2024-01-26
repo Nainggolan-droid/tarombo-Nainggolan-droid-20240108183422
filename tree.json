@@ -3995,6 +3995,9 @@
       "childRefs": [
         {
           "ref": "I570*d3569ded-5b3c-440a-911c-6bf3541c1dcc"
+        },
+        {
+          "ref": "I572*b7a66ba7-5b4f-41f2-a712-f96f1bdced8b"
         }
       ],
       "husbandRefs": [
@@ -15840,6 +15843,25 @@
       "names": [
         {
           "value": "Rezky //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F230*343662b8-9874-4d1d-9162-a5eb0806086c"
+        }
+      ],
+      "id": "I572*b7a66ba7-5b4f-41f2-a712-f96f1bdced8b",
+      "names": [
+        {
+          "value": "A.Palan //"
         }
       ],
       "eventsFacts": [
