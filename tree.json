@@ -4661,6 +4661,9 @@
       "childRefs": [
         {
           "ref": "I650*db392a4c-0a3f-4641-8fa2-3448eae585b9"
+        },
+        {
+          "ref": "I652*74bf6917-dab4-4be2-894c-33d8c0f7dbd5"
         }
       ],
       "husbandRefs": [
@@ -18224,6 +18227,25 @@
       "names": [
         {
           "value": "Jeremy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F273*be7f0c15-9218-4de3-b03e-92fc30c8e6ca"
+        }
+      ],
+      "id": "I652*74bf6917-dab4-4be2-894c-33d8c0f7dbd5",
+      "names": [
+        {
+          "value": "Rionaldo //"
         }
       ],
       "eventsFacts": [
