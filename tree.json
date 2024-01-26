@@ -4437,6 +4437,9 @@
       "childRefs": [
         {
           "ref": "I622*232789bd-f8f8-4ad8-853d-d87cba7ae518"
+        },
+        {
+          "ref": "I623*98854d2e-fe6c-47a8-a798-9b3ba9f273ee"
         }
       ],
       "husbandRefs": [
@@ -17361,6 +17364,25 @@
       "names": [
         {
           "value": "Zamalum //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
+        }
+      ],
+      "id": "I623*98854d2e-fe6c-47a8-a798-9b3ba9f273ee",
+      "names": [
+        {
+          "value": "Cirus //"
         }
       ],
       "eventsFacts": [
