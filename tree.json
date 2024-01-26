@@ -5331,6 +5331,19 @@
           "ref": "I743*e90df84b-ebc9-42c1-ae61-a0609b17f620"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I746*73fd0c84-575a-470d-9f8d-bfd113ce9688"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I722*23336509-e296-4b32-b5ee-e64ec2c435b1"
+        }
+      ],
+      "id": "F313*caea7cf2-67e1-4e2c-9cff-53a7618c532b"
     }
   ],
   "head": {
@@ -20422,6 +20435,11 @@
           "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F313*caea7cf2-67e1-4e2c-9cff-53a7618c532b"
+        }
+      ],
       "id": "I722*23336509-e296-4b32-b5ee-e64ec2c435b1",
       "names": [
         {
@@ -20877,6 +20895,25 @@
       "names": [
         {
           "value": "Raja Mangatur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F313*caea7cf2-67e1-4e2c-9cff-53a7618c532b"
+        }
+      ],
+      "id": "I746*73fd0c84-575a-470d-9f8d-bfd113ce9688",
+      "names": [
+        {
+          "value": "Obed //"
         }
       ],
       "eventsFacts": [
