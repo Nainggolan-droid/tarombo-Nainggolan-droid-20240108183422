@@ -4418,6 +4418,9 @@
       "childRefs": [
         {
           "ref": "I619*938cab12-e071-4887-bac7-2c417166f4c6"
+        },
+        {
+          "ref": "I620*65ec5470-936f-4c61-8a37-f6f69acba7c1"
         }
       ],
       "husbandRefs": [
@@ -17286,6 +17289,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F258*d0fa0ac3-43d9-40f4-a4c9-f8f7e753e2bd"
+        }
+      ],
+      "id": "I620*65ec5470-936f-4c61-8a37-f6f69acba7c1",
+      "names": [
+        {
+          "value": "A.Zamalum //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
