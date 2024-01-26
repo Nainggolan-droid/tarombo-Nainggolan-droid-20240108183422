@@ -4359,6 +4359,19 @@
         }
       ],
       "id": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I611*99550b16-a88b-48b7-8743-c2d641a746ff"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I609*39458fc0-9333-420b-820a-caf7660fec7f"
+        }
+      ],
+      "id": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
     }
   ],
   "head": {
@@ -16999,6 +17012,11 @@
           "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
         }
       ],
+      "fams": [
+        {
+          "ref": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
+        }
+      ],
       "id": "I609*39458fc0-9333-420b-820a-caf7660fec7f",
       "names": [
         {
@@ -17022,6 +17040,25 @@
       "names": [
         {
           "value": "Amparhait //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
+        }
+      ],
+      "id": "I611*99550b16-a88b-48b7-8743-c2d641a746ff",
+      "names": [
+        {
+          "value": "A.Zadiam //"
         }
       ],
       "eventsFacts": [
