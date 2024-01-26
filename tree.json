@@ -5374,6 +5374,9 @@
         },
         {
           "ref": "I754*c5b3a4f3-a6f8-42ee-8154-b52bb81b6a5b"
+        },
+        {
+          "ref": "I755*c01459d5-b3fd-46ab-aaaf-f9bb4e9f7894"
         }
       ],
       "husbandRefs": [
@@ -21139,6 +21142,25 @@
       "names": [
         {
           "value": "Jannel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F315*efc09fa1-bf77-476e-a94d-046ffac5fefd"
+        }
+      ],
+      "id": "I755*c01459d5-b3fd-46ab-aaaf-f9bb4e9f7894",
+      "names": [
+        {
+          "value": "Jekson //"
         }
       ],
       "eventsFacts": [
