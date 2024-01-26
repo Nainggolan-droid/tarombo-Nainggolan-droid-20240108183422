@@ -4223,6 +4223,9 @@
       "childRefs": [
         {
           "ref": "I594*0ba4ef7f-a502-4aea-a621-daadd41f63e1"
+        },
+        {
+          "ref": "I596*62d725e2-f203-4919-8f06-94e52c8d46f8"
         }
       ],
       "husbandRefs": [
@@ -16592,6 +16595,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F246*14796038-2b54-4039-8886-3a7636fcd023"
+        }
+      ],
+      "id": "I596*62d725e2-f203-4919-8f06-94e52c8d46f8",
+      "names": [
+        {
+          "value": "A.Harapan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
