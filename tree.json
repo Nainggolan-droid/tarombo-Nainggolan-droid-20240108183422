@@ -3839,6 +3839,9 @@
         },
         {
           "ref": "I548*80e628f8-bfc9-411f-a2a0-847207d655c3"
+        },
+        {
+          "ref": "I549*838a0c69-3d41-4b8a-8ccc-f735ab62467e"
         }
       ],
       "husbandRefs": [
@@ -15133,6 +15136,25 @@
       "names": [
         {
           "value": "Op.Jahang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
+      "id": "I549*838a0c69-3d41-4b8a-8ccc-f735ab62467e",
+      "names": [
+        {
+          "value": "Op.Tn.Sinala //"
         }
       ],
       "eventsFacts": [
