@@ -4573,6 +4573,19 @@
         }
       ],
       "id": "F267*112bccc4-85d8-4dc8-b5b0-15f6dd12c998"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I639*1e86eb27-40b3-43e5-9fe0-4deca98578c5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I638*1f68728d-cc94-4efe-bde3-613b1d202980"
+        }
+      ],
+      "id": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
     }
   ],
   "head": {
@@ -17829,10 +17842,34 @@
           "ref": "F267*112bccc4-85d8-4dc8-b5b0-15f6dd12c998"
         }
       ],
+      "fams": [
+        {
+          "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
       "id": "I638*1f68728d-cc94-4efe-bde3-613b1d202980",
       "names": [
         {
           "value": "Datu Bahar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
+      "id": "I639*1e86eb27-40b3-43e5-9fe0-4deca98578c5",
+      "names": [
+        {
+          "value": "Yodiakim //"
         }
       ],
       "eventsFacts": [
