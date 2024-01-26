@@ -15803,6 +15803,12 @@
         {
           "value": "Sudung //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
       ]
     }
   ]
