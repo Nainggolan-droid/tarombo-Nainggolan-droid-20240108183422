@@ -3853,6 +3853,19 @@
         }
       ],
       "id": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I551*914eeaf8-4f84-49ee-859e-80b3a6e6cdc7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I545*785efaf4-9fb0-43e8-915f-1dd6186fb3a0"
+        }
+      ],
+      "id": "F222*3e2f173b-8e2f-4e25-97c2-83c762d0aa31"
     }
   ],
   "head": {
@@ -15078,6 +15091,11 @@
           "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F222*3e2f173b-8e2f-4e25-97c2-83c762d0aa31"
+        }
+      ],
       "id": "I545*785efaf4-9fb0-43e8-915f-1dd6186fb3a0",
       "names": [
         {
@@ -15177,6 +15195,25 @@
       "names": [
         {
           "value": "Op.Jahoras //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F222*3e2f173b-8e2f-4e25-97c2-83c762d0aa31"
+        }
+      ],
+      "id": "I551*914eeaf8-4f84-49ee-859e-80b3a6e6cdc7",
+      "names": [
+        {
+          "value": "Op. Pagar Batu //"
         }
       ],
       "eventsFacts": [
