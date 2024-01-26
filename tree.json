@@ -4763,6 +4763,9 @@
         },
         {
           "ref": "I665*b72f2e9b-6814-4bc5-8d21-094d70955d66"
+        },
+        {
+          "ref": "I666*bb03d0b7-34e8-4258-b7fc-44e7b63e79b4"
         }
       ],
       "husbandRefs": [
@@ -18618,6 +18621,25 @@
         {
           "nick": "A.Risman",
           "value": "Nurdin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F279*f92a1e1a-7eb5-4726-846e-2a030a9aa0f4"
+        }
+      ],
+      "id": "I666*bb03d0b7-34e8-4258-b7fc-44e7b63e79b4",
+      "names": [
+        {
+          "value": "Polin //"
         }
       ],
       "eventsFacts": [
