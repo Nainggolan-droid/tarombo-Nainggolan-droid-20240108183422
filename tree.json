@@ -5684,6 +5684,19 @@
           "ref": "I714*3c7a6a22-9cba-4fd3-90c3-1dead7db3045"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I797*f47e11d0-4ce5-4741-aebc-6a8a85315457"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I387*e1782fe3-5de7-4ab7-b00a-19e503cd0251"
+        }
+      ],
+      "id": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
     }
   ],
   "head": {
@@ -13761,6 +13774,11 @@
       "famc": [
         {
           "ref": "F161*29fe0a04-1784-443d-b62f-77120c4e985f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
         }
       ],
       "id": "I387*e1782fe3-5de7-4ab7-b00a-19e503cd0251",
@@ -22338,6 +22356,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
+        }
+      ],
+      "id": "I797*f47e11d0-4ce5-4741-aebc-6a8a85315457",
+      "names": [
+        {
+          "value": "A.Hutaraja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
