@@ -4807,6 +4807,9 @@
         },
         {
           "ref": "I674*d18e1d75-9e55-4c6e-9a2b-9d0e25c4ead3"
+        },
+        {
+          "ref": "I676*efdf3f52-da4c-4b80-a8cd-69f658aa3ec2"
         }
       ],
       "husbandRefs": [
@@ -18892,6 +18895,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F281*29bc48da-27a3-403d-a6de-a57e146ae71a"
+        }
+      ],
+      "id": "I676*efdf3f52-da4c-4b80-a8cd-69f658aa3ec2",
+      "names": [
+        {
+          "value": "Berliana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
