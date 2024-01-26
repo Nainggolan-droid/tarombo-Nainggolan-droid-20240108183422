@@ -4250,6 +4250,19 @@
         }
       ],
       "id": "F247*723ac44a-4565-47f0-837f-770cfb04c5e3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I598*d10c530d-86ef-49a1-88f0-36dcbaa0397b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I597*00399674-aa9a-4f39-9ca7-6e3e6682f0e6"
+        }
+      ],
+      "id": "F248*3c697375-ac0d-4666-bfad-e49f533f1a22"
     }
   ],
   "head": {
@@ -16626,6 +16639,11 @@
           "ref": "F246*14796038-2b54-4039-8886-3a7636fcd023"
         }
       ],
+      "fams": [
+        {
+          "ref": "F248*3c697375-ac0d-4666-bfad-e49f533f1a22"
+        }
+      ],
       "id": "I597*00399674-aa9a-4f39-9ca7-6e3e6682f0e6",
       "names": [
         {
@@ -16636,6 +16654,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F248*3c697375-ac0d-4666-bfad-e49f533f1a22"
+        }
+      ],
+      "id": "I598*d10c530d-86ef-49a1-88f0-36dcbaa0397b",
+      "names": [
+        {
+          "value": "Shalomita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
