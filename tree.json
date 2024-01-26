@@ -4070,6 +4070,19 @@
         }
       ],
       "id": "F235*591ae1ec-ed04-4b4f-9314-9460f234fa0a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I578*3b5957d3-5cae-4629-ab69-ad85aa56ef01"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I569*f20c589c-b2b3-44aa-9311-8c0c98807843"
+        }
+      ],
+      "id": "F236*27f3fe24-d708-4b41-bf6d-2f78c053dd42"
     }
   ],
   "head": {
@@ -15851,6 +15864,11 @@
           "ref": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F236*27f3fe24-d708-4b41-bf6d-2f78c053dd42"
+        }
+      ],
       "id": "I569*f20c589c-b2b3-44aa-9311-8c0c98807843",
       "names": [
         {
@@ -16015,6 +16033,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F236*27f3fe24-d708-4b41-bf6d-2f78c053dd42"
+        }
+      ],
+      "id": "I578*3b5957d3-5cae-4629-ab69-ad85aa56ef01",
+      "names": [
+        {
+          "value": "A.Padeta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
