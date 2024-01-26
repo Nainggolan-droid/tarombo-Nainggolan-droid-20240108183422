@@ -5692,6 +5692,9 @@
         },
         {
           "ref": "I798*3a6a7403-2ae8-4bc9-994e-2963d1d737fd"
+        },
+        {
+          "ref": "I799*88b7a92e-2608-4c62-9f15-5786c1b8c09c"
         }
       ],
       "husbandRefs": [
@@ -22391,6 +22394,25 @@
       "names": [
         {
           "value": "A.Posi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
+        }
+      ],
+      "id": "I799*88b7a92e-2608-4c62-9f15-5786c1b8c09c",
+      "names": [
+        {
+          "value": "A.Nuksuk //"
         }
       ],
       "eventsFacts": [
