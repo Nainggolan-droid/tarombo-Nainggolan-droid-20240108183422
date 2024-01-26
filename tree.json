@@ -3896,6 +3896,9 @@
       "childRefs": [
         {
           "ref": "I557*d8274421-b3e3-4884-b916-b3ea95230165"
+        },
+        {
+          "ref": "I558*7578ade0-253b-473a-a91e-00897afb4213"
         }
       ],
       "husbandRefs": [
@@ -15376,6 +15379,25 @@
       "names": [
         {
           "value": "Op.Sudung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
+        }
+      ],
+      "id": "I558*7578ade0-253b-473a-a91e-00897afb4213",
+      "names": [
+        {
+          "value": "Op.Edy //"
         }
       ],
       "eventsFacts": [
