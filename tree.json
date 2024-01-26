@@ -4181,6 +4181,9 @@
       "childRefs": [
         {
           "ref": "I590*e37d6f85-2ac6-434b-86c3-7dba8b8d817e"
+        },
+        {
+          "ref": "I592*a5062a3b-fd9f-49a6-9df6-36408d7e2e94"
         }
       ],
       "husbandRefs": [
@@ -16453,6 +16456,25 @@
       "names": [
         {
           "value": "Gregory //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F243*3f4c3e9c-4ee1-4580-9648-8ec48d59cd9d"
+        }
+      ],
+      "id": "I592*a5062a3b-fd9f-49a6-9df6-36408d7e2e94",
+      "names": [
+        {
+          "value": "A.Nicholas //"
         }
       ],
       "eventsFacts": [
