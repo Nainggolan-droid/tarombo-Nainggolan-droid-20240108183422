@@ -5609,6 +5609,9 @@
         },
         {
           "ref": "I787*58e52f2c-b948-457a-bf21-df299571e195"
+        },
+        {
+          "ref": "I788*5a2b6bda-9ba4-493e-84e2-e3c530bf1b08"
         }
       ],
       "husbandRefs": [
@@ -22026,6 +22029,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F328*78145203-6823-4383-943d-4039d3f9278e"
+        }
+      ],
+      "id": "I788*5a2b6bda-9ba4-493e-84e2-e3c530bf1b08",
+      "names": [
+        {
+          "value": "Frans //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
