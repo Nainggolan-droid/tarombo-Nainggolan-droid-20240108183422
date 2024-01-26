@@ -5689,6 +5689,9 @@
       "childRefs": [
         {
           "ref": "I797*f47e11d0-4ce5-4741-aebc-6a8a85315457"
+        },
+        {
+          "ref": "I798*3a6a7403-2ae8-4bc9-994e-2963d1d737fd"
         }
       ],
       "husbandRefs": [
@@ -22369,6 +22372,25 @@
       "names": [
         {
           "value": "A.Hutaraja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
+        }
+      ],
+      "id": "I798*3a6a7403-2ae8-4bc9-994e-2963d1d737fd",
+      "names": [
+        {
+          "value": "A.Posi //"
         }
       ],
       "eventsFacts": [
