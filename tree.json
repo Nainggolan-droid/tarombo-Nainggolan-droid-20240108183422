@@ -4610,6 +4610,9 @@
       "childRefs": [
         {
           "ref": "I643*c067e19d-6f9f-45fc-978b-5b2948a750f0"
+        },
+        {
+          "ref": "I644*f9326e0c-f087-4f0c-8b31-2d92eda9f8cf"
         }
       ],
       "husbandRefs": [
@@ -17988,6 +17991,25 @@
       "names": [
         {
           "value": "Op.Martina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
+        }
+      ],
+      "id": "I644*f9326e0c-f087-4f0c-8b31-2d92eda9f8cf",
+      "names": [
+        {
+          "value": "Op.Selpina //"
         }
       ],
       "eventsFacts": [
