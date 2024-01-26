@@ -4268,6 +4268,9 @@
       "childRefs": [
         {
           "ref": "I599*8b5fe37e-736b-41ce-8147-958d18ab00c4"
+        },
+        {
+          "ref": "I600*d8679452-8d45-4018-9356-6522bc170ee4"
         }
       ],
       "husbandRefs": [
@@ -16704,6 +16707,25 @@
       "names": [
         {
           "value": "Op.Jasihat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+        }
+      ],
+      "id": "I600*d8679452-8d45-4018-9356-6522bc170ee4",
+      "names": [
+        {
+          "value": "Op.Sangangna II //"
         }
       ],
       "eventsFacts": [
