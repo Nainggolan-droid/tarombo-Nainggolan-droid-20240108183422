@@ -20441,6 +20441,10 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
