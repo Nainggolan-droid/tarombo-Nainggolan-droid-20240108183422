@@ -4766,6 +4766,9 @@
         },
         {
           "ref": "I666*bb03d0b7-34e8-4258-b7fc-44e7b63e79b4"
+        },
+        {
+          "ref": "I667*f0dea413-0742-4946-afd5-f08c8470ba22"
         }
       ],
       "husbandRefs": [
@@ -18647,6 +18650,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F279*f92a1e1a-7eb5-4726-846e-2a030a9aa0f4"
+        }
+      ],
+      "id": "I667*f0dea413-0742-4946-afd5-f08c8470ba22",
+      "names": [
+        {
+          "value": "Pasti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
