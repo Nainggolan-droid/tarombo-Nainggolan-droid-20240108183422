@@ -4645,6 +4645,9 @@
       "childRefs": [
         {
           "ref": "I648*038134e6-a26c-4407-ad02-83a31b014154"
+        },
+        {
+          "ref": "I649*13e69ac2-9ad7-4449-b39c-931262f37963"
         }
       ],
       "husbandRefs": [
@@ -18128,6 +18131,25 @@
       "names": [
         {
           "value": "Murdin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F272*5d8762c0-d276-42e2-a953-e93b0223d483"
+        }
+      ],
+      "id": "I649*13e69ac2-9ad7-4449-b39c-931262f37963",
+      "names": [
+        {
+          "value": "Yosef //"
         }
       ],
       "eventsFacts": [
