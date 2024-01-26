@@ -4317,6 +4317,19 @@
         }
       ],
       "id": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I607*975a1e19-2f74-4a27-a074-80c22a587a8d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I606*dafb8194-0a02-46fc-98a8-2fe88c9be26b"
+        }
+      ],
+      "id": "F252*d60322d2-4332-4d45-aad8-e38db4e69e1d"
     }
   ],
   "head": {
@@ -16884,11 +16897,35 @@
           "ref": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F252*d60322d2-4332-4d45-aad8-e38db4e69e1d"
+        }
+      ],
       "id": "I606*dafb8194-0a02-46fc-98a8-2fe88c9be26b",
       "names": [
         {
           "nick": "Op.Tianggur",
           "value": "Raja Hizkia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F252*d60322d2-4332-4d45-aad8-e38db4e69e1d"
+        }
+      ],
+      "id": "I607*975a1e19-2f74-4a27-a074-80c22a587a8d",
+      "names": [
+        {
+          "value": "A.Tianggur //"
         }
       ],
       "eventsFacts": [
