@@ -4942,6 +4942,9 @@
         },
         {
           "ref": "I688*349fb168-85f8-4847-860b-3bb88efd3451"
+        },
+        {
+          "ref": "I690*98e57405-16ef-454d-8f6a-d9eafb363a1d"
         }
       ],
       "husbandRefs": [
@@ -19374,6 +19377,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F291*7664b460-e784-4a77-991c-0eb765b930bf"
+        }
+      ],
+      "id": "I690*98e57405-16ef-454d-8f6a-d9eafb363a1d",
+      "names": [
+        {
+          "value": "Mantan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
