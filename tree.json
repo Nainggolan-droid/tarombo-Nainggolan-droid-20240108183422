@@ -4725,6 +4725,9 @@
         },
         {
           "ref": "I658*b38a0fc2-d156-4553-97f2-506dcdb7f761"
+        },
+        {
+          "ref": "I659*b961ee09-2dc1-4aa1-b03a-b604f322750d"
         }
       ],
       "husbandRefs": [
@@ -18423,6 +18426,25 @@
       "names": [
         {
           "value": "Armando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F277*8e2f72bf-2f6e-41fd-9bff-d30c8080d844"
+        }
+      ],
+      "id": "I659*b961ee09-2dc1-4aa1-b03a-b604f322750d",
+      "names": [
+        {
+          "value": "Dedy //"
         }
       ],
       "eventsFacts": [
