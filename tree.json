@@ -4605,6 +4605,19 @@
         }
       ],
       "id": "F269*61580406-170d-470c-82cb-36fececcbf06"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I643*c067e19d-6f9f-45fc-978b-5b2948a750f0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I641*dccdf91f-fbb1-4b09-a4ba-34c04643430e"
+        }
+      ],
+      "id": "F270*c2a7a924-f354-4349-a264-d68104333abc"
     }
   ],
   "head": {
@@ -17928,6 +17941,11 @@
           "ref": "F269*61580406-170d-470c-82cb-36fececcbf06"
         }
       ],
+      "fams": [
+        {
+          "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
+        }
+      ],
       "id": "I641*dccdf91f-fbb1-4b09-a4ba-34c04643430e",
       "names": [
         {
@@ -17951,6 +17969,25 @@
       "names": [
         {
           "value": "Jafta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
+        }
+      ],
+      "id": "I643*c067e19d-6f9f-45fc-978b-5b2948a750f0",
+      "names": [
+        {
+          "value": "Op.Martina //"
         }
       ],
       "eventsFacts": [
