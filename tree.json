@@ -4205,6 +4205,19 @@
         }
       ],
       "id": "F244*923c2576-221f-4c07-8d7b-2c41f56b7377"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I593*1976da3c-4f4f-478e-b2da-41709a029144"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I592*a5062a3b-fd9f-49a6-9df6-36408d7e2e94"
+        }
+      ],
+      "id": "F245*75fb4502-4fdf-4c7c-a543-3c799558ccef"
     }
   ],
   "head": {
@@ -16471,10 +16484,34 @@
           "ref": "F243*3f4c3e9c-4ee1-4580-9648-8ec48d59cd9d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F245*75fb4502-4fdf-4c7c-a543-3c799558ccef"
+        }
+      ],
       "id": "I592*a5062a3b-fd9f-49a6-9df6-36408d7e2e94",
       "names": [
         {
           "value": "A.Nicholas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F245*75fb4502-4fdf-4c7c-a543-3c799558ccef"
+        }
+      ],
+      "id": "I593*1976da3c-4f4f-478e-b2da-41709a029144",
+      "names": [
+        {
+          "value": "Nicholas //"
         }
       ],
       "eventsFacts": [
