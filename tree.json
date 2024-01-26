@@ -3927,6 +3927,9 @@
         },
         {
           "ref": "I568*24251b74-fad1-444a-93b0-95c64d3724c9"
+        },
+        {
+          "ref": "I569*f20c589c-b2b3-44aa-9311-8c0c98807843"
         }
       ],
       "husbandRefs": [
@@ -15743,6 +15746,25 @@
       "names": [
         {
           "value": "Op.nisi.Dian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
+        }
+      ],
+      "id": "I569*f20c589c-b2b3-44aa-9311-8c0c98807843",
+      "names": [
+        {
+          "value": "Op.Padeta //"
         }
       ],
       "eventsFacts": [
