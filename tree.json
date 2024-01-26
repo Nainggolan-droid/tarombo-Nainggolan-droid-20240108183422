@@ -5431,6 +5431,9 @@
         },
         {
           "ref": "I761*b7c207b6-a76b-4993-8b4d-f48348594ea4"
+        },
+        {
+          "ref": "I762*cc560091-57ee-483a-a6b0-91cc63520ac6"
         }
       ],
       "husbandRefs": [
@@ -21311,6 +21314,25 @@
         {
           "nick": "A.Sonny",
           "value": "Kamson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
+      "id": "I762*cc560091-57ee-483a-a6b0-91cc63520ac6",
+      "names": [
+        {
+          "value": "Sinto //"
         }
       ],
       "eventsFacts": [
