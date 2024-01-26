@@ -5158,6 +5158,9 @@
         },
         {
           "ref": "I720*65f8aa08-251e-4fed-8bae-233b0354c91f"
+        },
+        {
+          "ref": "I722*23336509-e296-4b32-b5ee-e64ec2c435b1"
         }
       ],
       "husbandRefs": [
@@ -20251,6 +20254,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
+        }
+      ],
+      "id": "I722*23336509-e296-4b32-b5ee-e64ec2c435b1",
+      "names": [
+        {
+          "value": "Sian Nauli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
