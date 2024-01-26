@@ -5252,6 +5252,19 @@
           "ref": "I729*5afdac6c-14e3-450b-a5de-39fd18588e0c"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I733*a8f5e7d0-3cd1-4ec9-84c2-4784a38e0381"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I732*aff95902-8de7-43b3-a7d5-f9b6ee0f39bc"
+        }
+      ],
+      "id": "F309*2069dcea-9fdd-4cb8-a4b3-0328fcdd1cb1"
     }
   ],
   "head": {
@@ -20532,10 +20545,34 @@
           "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
         }
       ],
+      "fams": [
+        {
+          "ref": "F309*2069dcea-9fdd-4cb8-a4b3-0328fcdd1cb1"
+        }
+      ],
       "id": "I732*aff95902-8de7-43b3-a7d5-f9b6ee0f39bc",
       "names": [
         {
           "value": "Freddy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F309*2069dcea-9fdd-4cb8-a4b3-0328fcdd1cb1"
+        }
+      ],
+      "id": "I733*a8f5e7d0-3cd1-4ec9-84c2-4784a38e0381",
+      "names": [
+        {
+          "value": "Cayo //"
         }
       ],
       "eventsFacts": [
