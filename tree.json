@@ -2806,6 +2806,9 @@
         },
         {
           "ref": "I560*41d184d7-40fb-419d-9fcb-8e6daa23094d"
+        },
+        {
+          "ref": "I562*c4e34421-c06e-4049-be87-6b17374d3f0d"
         }
       ],
       "husbandRefs": [
@@ -15496,6 +15499,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I562*c4e34421-c06e-4049-be87-6b17374d3f0d",
+      "names": [
+        {
+          "value": "Eder //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
