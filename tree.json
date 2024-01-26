@@ -3891,6 +3891,19 @@
         }
       ],
       "id": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I557*d8274421-b3e3-4884-b916-b3ea95230165"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I555*ea728bc2-b75a-4153-9e6f-04f8e5358890"
+        }
+      ],
+      "id": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
     }
   ],
   "head": {
@@ -15316,6 +15329,11 @@
           "ref": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
         }
       ],
+      "fams": [
+        {
+          "ref": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
+        }
+      ],
       "id": "I555*ea728bc2-b75a-4153-9e6f-04f8e5358890",
       "names": [
         {
@@ -15339,6 +15357,25 @@
       "names": [
         {
           "value": "Op.Tunangan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
+        }
+      ],
+      "id": "I557*d8274421-b3e3-4884-b916-b3ea95230165",
+      "names": [
+        {
+          "value": "Op.Sudung //"
         }
       ],
       "eventsFacts": [
