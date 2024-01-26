@@ -4923,6 +4923,9 @@
       "childRefs": [
         {
           "ref": "I684*1e82c8f8-2997-4347-8670-1c84fb10e9cc"
+        },
+        {
+          "ref": "I685*569df9d1-7a86-4a49-9244-b1d8ddaa6c80"
         }
       ],
       "husbandRefs": [
@@ -19146,6 +19149,25 @@
       "names": [
         {
           "value": "David //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*96a5c883-de84-4f5b-bd09-e5ad84570b9a"
+        }
+      ],
+      "id": "I685*569df9d1-7a86-4a49-9244-b1d8ddaa6c80",
+      "names": [
+        {
+          "value": "Daffa //"
         }
       ],
       "eventsFacts": [
