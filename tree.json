@@ -4389,6 +4389,9 @@
         },
         {
           "ref": "I616*cf36d0ac-e6db-4a73-8416-2199273c4869"
+        },
+        {
+          "ref": "I617*a2b0bc9c-1bcd-425c-82b9-7e490b44f9ee"
         }
       ],
       "husbandRefs": [
@@ -17184,6 +17187,25 @@
       "names": [
         {
           "value": "Op.Banggot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+        }
+      ],
+      "id": "I617*a2b0bc9c-1bcd-425c-82b9-7e490b44f9ee",
+      "names": [
+        {
+          "value": "Op.Zalhat //"
         }
       ],
       "eventsFacts": [
