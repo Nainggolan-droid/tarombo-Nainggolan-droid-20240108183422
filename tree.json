@@ -5478,6 +5478,9 @@
         },
         {
           "ref": "I770*5996b382-9461-491d-89a2-bc1d9ae8a2c7"
+        },
+        {
+          "ref": "I771*b0ca4036-7392-4bf1-88ff-140bbafe8a0e"
         }
       ],
       "husbandRefs": [
@@ -21538,6 +21541,25 @@
       "names": [
         {
           "value": "Marsya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+        }
+      ],
+      "id": "I771*b0ca4036-7392-4bf1-88ff-140bbafe8a0e",
+      "names": [
+        {
+          "value": "Yolanda //"
         }
       ],
       "eventsFacts": [
