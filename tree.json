@@ -4703,6 +4703,9 @@
       "childRefs": [
         {
           "ref": "I654*bbc49a76-069d-4372-877b-a32a9f0c8d36"
+        },
+        {
+          "ref": "I655*8d9a443a-4d60-49d3-ad0e-e41effb832e5"
         }
       ],
       "husbandRefs": [
@@ -18326,6 +18329,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F276*ba4458aa-1440-470c-b4a1-98d9d24a9783"
+        }
+      ],
+      "id": "I655*8d9a443a-4d60-49d3-ad0e-e41effb832e5",
+      "names": [
+        {
+          "value": "Fernandes //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
