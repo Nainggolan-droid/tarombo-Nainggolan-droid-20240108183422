@@ -4486,6 +4486,19 @@
         }
       ],
       "id": "F261*faafff42-e655-4625-a8de-101333e556eb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I630*bda8c66f-c2f8-4de8-a0fd-28c3d73031ed"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I627*bc52344e-7188-40e9-b8e3-85380dec3c87"
+        }
+      ],
+      "id": "F262*9d178677-2327-4173-b938-2b6a227c264f"
     }
   ],
   "head": {
@@ -17503,6 +17516,11 @@
           "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F262*9d178677-2327-4173-b938-2b6a227c264f"
+        }
+      ],
       "id": "I627*bc52344e-7188-40e9-b8e3-85380dec3c87",
       "names": [
         {
@@ -17545,6 +17563,25 @@
       "names": [
         {
           "value": "A.Utar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F262*9d178677-2327-4173-b938-2b6a227c264f"
+        }
+      ],
+      "id": "I630*bda8c66f-c2f8-4de8-a0fd-28c3d73031ed",
+      "names": [
+        {
+          "value": "Ampanglohit //"
         }
       ],
       "eventsFacts": [
