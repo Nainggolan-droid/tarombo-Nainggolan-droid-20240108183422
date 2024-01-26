@@ -3880,6 +3880,9 @@
         },
         {
           "ref": "I555*ea728bc2-b75a-4153-9e6f-04f8e5358890"
+        },
+        {
+          "ref": "I556*83e767e2-0bed-45f5-9970-cac5cf6b1210"
         }
       ],
       "husbandRefs": [
@@ -15317,6 +15320,25 @@
       "names": [
         {
           "value": "Op.Jabonar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
+        }
+      ],
+      "id": "I556*83e767e2-0bed-45f5-9970-cac5cf6b1210",
+      "names": [
+        {
+          "value": "Op.Tunangan //"
         }
       ],
       "eventsFacts": [
