@@ -4739,6 +4739,19 @@
         }
       ],
       "id": "F277*8e2f72bf-2f6e-41fd-9bff-d30c8080d844"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I661*e19953ed-6913-426b-aa29-a17348cdd14a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I660*199e184b-2b7d-4e7f-9a40-d2ed89e046b6"
+        }
+      ],
+      "id": "F278*27ed6950-d560-4214-b10c-8509d1059daf"
     }
   ],
   "head": {
@@ -18463,10 +18476,34 @@
           "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F278*27ed6950-d560-4214-b10c-8509d1059daf"
+        }
+      ],
       "id": "I660*199e184b-2b7d-4e7f-9a40-d2ed89e046b6",
       "names": [
         {
           "value": "A.Rijal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F278*27ed6950-d560-4214-b10c-8509d1059daf"
+        }
+      ],
+      "id": "I661*e19953ed-6913-426b-aa29-a17348cdd14a",
+      "names": [
+        {
+          "value": "Rijal //"
         }
       ],
       "eventsFacts": [
