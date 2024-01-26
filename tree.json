@@ -4685,6 +4685,19 @@
         }
       ],
       "id": "F274*4810a728-c2a7-493f-a143-5206ba4c9a0a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I653*fd80ffb7-6e5a-4fc6-8499-03d432cc4b06"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I644*f9326e0c-f087-4f0c-8b31-2d92eda9f8cf"
+        }
+      ],
+      "id": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
     }
   ],
   "head": {
@@ -18075,6 +18088,11 @@
           "ref": "F270*c2a7a924-f354-4349-a264-d68104333abc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
       "id": "I644*f9326e0c-f087-4f0c-8b31-2d92eda9f8cf",
       "names": [
         {
@@ -18246,6 +18264,25 @@
       "names": [
         {
           "value": "Rionaldo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
+      "id": "I653*fd80ffb7-6e5a-4fc6-8499-03d432cc4b06",
+      "names": [
+        {
+          "value": "A.Selpina //"
         }
       ],
       "eventsFacts": [
