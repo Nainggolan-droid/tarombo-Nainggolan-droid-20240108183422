@@ -4669,6 +4669,19 @@
         }
       ],
       "id": "F273*be7f0c15-9218-4de3-b03e-92fc30c8e6ca"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I651*d2bab57a-0bd2-4901-ae83-daf0c941434c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I650*db392a4c-0a3f-4641-8fa2-3448eae585b9"
+        }
+      ],
+      "id": "F274*4810a728-c2a7-493f-a143-5206ba4c9a0a"
     }
   ],
   "head": {
@@ -18183,10 +18196,34 @@
           "ref": "F273*be7f0c15-9218-4de3-b03e-92fc30c8e6ca"
         }
       ],
+      "fams": [
+        {
+          "ref": "F274*4810a728-c2a7-493f-a143-5206ba4c9a0a"
+        }
+      ],
       "id": "I650*db392a4c-0a3f-4641-8fa2-3448eae585b9",
       "names": [
         {
           "value": "A.Jeremy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F274*4810a728-c2a7-493f-a143-5206ba4c9a0a"
+        }
+      ],
+      "id": "I651*d2bab57a-0bd2-4901-ae83-daf0c941434c",
+      "names": [
+        {
+          "value": "Jeremy //"
         }
       ],
       "eventsFacts": [
