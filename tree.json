@@ -4163,6 +4163,19 @@
         }
       ],
       "id": "F241*b0a54406-7ba9-4121-8744-531a55e8f408"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I589*f40cb7a2-f002-4293-9dda-eedb063e2cfa"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I588*6aa79868-266e-43d3-8bfe-393de7e6ea68"
+        }
+      ],
+      "id": "F242*b880cc46-531c-4d44-a236-4b01a6b874b6"
     }
   ],
   "head": {
@@ -16338,10 +16351,34 @@
           "ref": "F239*eabb42b9-e0e4-4425-88c8-f8889c1eab23"
         }
       ],
+      "fams": [
+        {
+          "ref": "F242*b880cc46-531c-4d44-a236-4b01a6b874b6"
+        }
+      ],
       "id": "I588*6aa79868-266e-43d3-8bfe-393de7e6ea68",
       "names": [
         {
           "value": "A.Asido //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F242*b880cc46-531c-4d44-a236-4b01a6b874b6"
+        }
+      ],
+      "id": "I589*f40cb7a2-f002-4293-9dda-eedb063e2cfa",
+      "names": [
+        {
+          "value": "Asido //"
         }
       ],
       "eventsFacts": [
