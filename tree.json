@@ -4578,6 +4578,9 @@
       "childRefs": [
         {
           "ref": "I639*1e86eb27-40b3-43e5-9fe0-4deca98578c5"
+        },
+        {
+          "ref": "I640*415e4835-9962-43ad-aad5-4887a91eadf8"
         }
       ],
       "husbandRefs": [
@@ -17870,6 +17873,25 @@
       "names": [
         {
           "value": "Yodiakim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+        }
+      ],
+      "id": "I640*415e4835-9962-43ad-aad5-4887a91eadf8",
+      "names": [
+        {
+          "value": "Soma //"
         }
       ],
       "eventsFacts": [
