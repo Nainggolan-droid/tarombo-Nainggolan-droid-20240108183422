@@ -5279,6 +5279,9 @@
       "childRefs": [
         {
           "ref": "I737*b20bc064-3e4f-4202-952b-2e5dc88667f2"
+        },
+        {
+          "ref": "I738*ff9dc3c5-2d26-42ba-b37c-9825080e7a11"
         }
       ],
       "husbandRefs": [
@@ -20682,6 +20685,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*8f97bd85-13ec-43fd-8b8a-4a9f7266789b"
+        }
+      ],
+      "id": "I738*ff9dc3c5-2d26-42ba-b37c-9825080e7a11",
+      "names": [
+        {
+          "value": "Jeliyah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
