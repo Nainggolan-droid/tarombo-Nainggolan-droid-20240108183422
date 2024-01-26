@@ -4303,6 +4303,9 @@
       "childRefs": [
         {
           "ref": "I604*7c56b9aa-5b16-4951-b555-cef7486c8ebd"
+        },
+        {
+          "ref": "I605*11e1cbdb-4653-4769-b1f8-0867c25f3c42"
         }
       ],
       "husbandRefs": [
@@ -16844,6 +16847,25 @@
       "names": [
         {
           "value": "Op.Purnama //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
+        }
+      ],
+      "id": "I605*11e1cbdb-4653-4769-b1f8-0867c25f3c42",
+      "names": [
+        {
+          "value": "Op.Udda //"
         }
       ],
       "eventsFacts": [
