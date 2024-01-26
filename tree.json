@@ -5754,6 +5754,19 @@
           "ref": "I805*fe369b23-1d11-405c-941f-ad2d9e6d2e47"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I807*7a97de37-b202-4fdb-839d-6bbbd494dac6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I804*22ae5acd-739b-4aaf-a72f-1f26038cb6db"
+        }
+      ],
+      "id": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
     }
   ],
   "head": {
@@ -22569,6 +22582,11 @@
           "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
         }
       ],
+      "fams": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
       "id": "I804*22ae5acd-739b-4aaf-a72f-1f26038cb6db",
       "names": [
         {
@@ -22617,6 +22635,29 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I807*7a97de37-b202-4fdb-839d-6bbbd494dac6",
+      "names": [
+        {
+          "value": "Gibson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
