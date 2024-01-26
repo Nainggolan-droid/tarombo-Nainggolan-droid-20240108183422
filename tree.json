@@ -5603,6 +5603,9 @@
       "childRefs": [
         {
           "ref": "I785*47fa896c-d4cf-4044-94da-cd2fa35e32d7"
+        },
+        {
+          "ref": "I786*6b695431-c781-4b4b-88df-a975ab362e42"
         }
       ],
       "husbandRefs": [
@@ -21976,6 +21979,25 @@
       "names": [
         {
           "value": "Sonny //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F328*78145203-6823-4383-943d-4039d3f9278e"
+        }
+      ],
+      "id": "I786*6b695431-c781-4b4b-88df-a975ab362e42",
+      "names": [
+        {
+          "value": "Eka //"
         }
       ],
       "eventsFacts": [
