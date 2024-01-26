@@ -4594,6 +4594,9 @@
       "childRefs": [
         {
           "ref": "I641*dccdf91f-fbb1-4b09-a4ba-34c04643430e"
+        },
+        {
+          "ref": "I642*8e176c75-d59f-46c8-ac23-c659f8cb15cb"
         }
       ],
       "husbandRefs": [
@@ -17929,6 +17932,25 @@
       "names": [
         {
           "value": "Adzam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F269*61580406-170d-470c-82cb-36fececcbf06"
+        }
+      ],
+      "id": "I642*8e176c75-d59f-46c8-ac23-c659f8cb15cb",
+      "names": [
+        {
+          "value": "Jafta //"
         }
       ],
       "eventsFacts": [
