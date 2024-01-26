@@ -4467,6 +4467,19 @@
         }
       ],
       "id": "F260*050fcf88-02b4-4661-bf58-37d3a60c254e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I627*bc52344e-7188-40e9-b8e3-85380dec3c87"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I612*17999366-aedb-4f2f-87ca-febf43b175b8"
+        }
+      ],
+      "id": "F261*faafff42-e655-4625-a8de-101333e556eb"
     }
   ],
   "head": {
@@ -17174,6 +17187,11 @@
           "ref": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
         }
       ],
+      "fams": [
+        {
+          "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
+        }
+      ],
       "id": "I612*17999366-aedb-4f2f-87ca-febf43b175b8",
       "names": [
         {
@@ -17464,6 +17482,25 @@
       "names": [
         {
           "value": "Kapudin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
+        }
+      ],
+      "id": "I627*bc52344e-7188-40e9-b8e3-85380dec3c87",
+      "names": [
+        {
+          "value": "A.Manumpol //"
         }
       ],
       "eventsFacts": [
