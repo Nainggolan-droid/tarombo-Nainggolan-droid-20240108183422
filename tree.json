@@ -5114,6 +5114,9 @@
         },
         {
           "ref": "I712*494b20b7-2fd1-4947-94b2-8f168a5bf4a8"
+        },
+        {
+          "ref": "I713*7f3dea45-76ba-4ca7-a1c5-a3a23194958b"
         }
       ],
       "husbandRefs": [
@@ -20006,6 +20009,25 @@
       "names": [
         {
           "value": "Hermanus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
+        }
+      ],
+      "id": "I713*7f3dea45-76ba-4ca7-a1c5-a3a23194958b",
+      "names": [
+        {
+          "value": "Peterus //"
         }
       ],
       "eventsFacts": [
