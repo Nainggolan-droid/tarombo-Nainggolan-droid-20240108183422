@@ -4285,6 +4285,19 @@
         }
       ],
       "id": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I603*0056e097-3e9a-4e1e-8cc3-cca3ea6f63e4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I602*54ad324b-06ea-4cfd-bdce-6462a0bdcb40"
+        }
+      ],
+      "id": "F250*bd245084-61a2-4cdd-9839-849b1dd35434"
     }
   ],
   "head": {
@@ -16766,10 +16779,34 @@
           "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
         }
       ],
+      "fams": [
+        {
+          "ref": "F250*bd245084-61a2-4cdd-9839-849b1dd35434"
+        }
+      ],
       "id": "I602*54ad324b-06ea-4cfd-bdce-6462a0bdcb40",
       "names": [
         {
           "value": "A.Duni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F250*bd245084-61a2-4cdd-9839-849b1dd35434"
+        }
+      ],
+      "id": "I603*0056e097-3e9a-4e1e-8cc3-cca3ea6f63e4",
+      "names": [
+        {
+          "value": "Duni //"
         }
       ],
       "eventsFacts": [
