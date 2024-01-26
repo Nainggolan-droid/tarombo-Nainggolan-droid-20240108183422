@@ -4798,6 +4798,9 @@
       "childRefs": [
         {
           "ref": "I669*f9e3e0a7-1789-4f34-a641-143c01716a0a"
+        },
+        {
+          "ref": "I670*45566538-b167-40d0-95a2-76da324ebee5"
         }
       ],
       "husbandRefs": [
@@ -18730,6 +18733,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F281*29bc48da-27a3-403d-a6de-a57e146ae71a"
+        }
+      ],
+      "id": "I670*45566538-b167-40d0-95a2-76da324ebee5",
+      "names": [
+        {
+          "value": "Rena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
