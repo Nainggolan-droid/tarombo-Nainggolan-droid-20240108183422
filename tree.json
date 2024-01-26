@@ -3998,6 +3998,9 @@
         },
         {
           "ref": "I572*b7a66ba7-5b4f-41f2-a712-f96f1bdced8b"
+        },
+        {
+          "ref": "I575*932a5597-cd68-4ca9-8a64-e053c623ff1e"
         }
       ],
       "husbandRefs": [
@@ -15913,6 +15916,25 @@
       "names": [
         {
           "value": "Palan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F230*343662b8-9874-4d1d-9162-a5eb0806086c"
+        }
+      ],
+      "id": "I575*932a5597-cd68-4ca9-8a64-e053c623ff1e",
+      "names": [
+        {
+          "value": "A.Doni //"
         }
       ],
       "eventsFacts": [
