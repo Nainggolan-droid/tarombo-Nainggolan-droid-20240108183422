@@ -4722,6 +4722,9 @@
       "childRefs": [
         {
           "ref": "I657*a4d2d2ba-768f-4df9-b6d8-ab8b1efc211d"
+        },
+        {
+          "ref": "I658*b38a0fc2-d156-4553-97f2-506dcdb7f761"
         }
       ],
       "husbandRefs": [
@@ -18407,6 +18410,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F277*8e2f72bf-2f6e-41fd-9bff-d30c8080d844"
+        }
+      ],
+      "id": "I658*b38a0fc2-d156-4553-97f2-506dcdb7f761",
+      "names": [
+        {
+          "value": "Armando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
