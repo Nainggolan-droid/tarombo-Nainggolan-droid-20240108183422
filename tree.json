@@ -4589,6 +4589,19 @@
         }
       ],
       "id": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I641*dccdf91f-fbb1-4b09-a4ba-34c04643430e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I640*415e4835-9962-43ad-aad5-4887a91eadf8"
+        }
+      ],
+      "id": "F269*61580406-170d-470c-82cb-36fececcbf06"
     }
   ],
   "head": {
@@ -17888,10 +17901,34 @@
           "ref": "F268*96221828-2f64-47bf-9bf5-2c8b1da89b22"
         }
       ],
+      "fams": [
+        {
+          "ref": "F269*61580406-170d-470c-82cb-36fececcbf06"
+        }
+      ],
       "id": "I640*415e4835-9962-43ad-aad5-4887a91eadf8",
       "names": [
         {
           "value": "Soma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F269*61580406-170d-470c-82cb-36fececcbf06"
+        }
+      ],
+      "id": "I641*dccdf91f-fbb1-4b09-a4ba-34c04643430e",
+      "names": [
+        {
+          "value": "Adzam //"
         }
       ],
       "eventsFacts": [
