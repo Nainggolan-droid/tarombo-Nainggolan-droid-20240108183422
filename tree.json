@@ -4400,6 +4400,19 @@
         }
       ],
       "id": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I618*dcf96f23-9561-4afc-a75e-16d0166051a8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I615*4002e8cb-7ae7-4baa-abf6-d8996a57ced3"
+        }
+      ],
+      "id": "F257*8edbdeab-8b93-470d-a92a-c20561b087bf"
     }
   ],
   "head": {
@@ -17164,6 +17177,11 @@
           "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
         }
       ],
+      "fams": [
+        {
+          "ref": "F257*8edbdeab-8b93-470d-a92a-c20561b087bf"
+        }
+      ],
       "id": "I615*4002e8cb-7ae7-4baa-abf6-d8996a57ced3",
       "names": [
         {
@@ -17206,6 +17224,25 @@
       "names": [
         {
           "value": "Op.Zalhat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F257*8edbdeab-8b93-470d-a92a-c20561b087bf"
+        }
+      ],
+      "id": "I618*dcf96f23-9561-4afc-a75e-16d0166051a8",
+      "names": [
+        {
+          "value": "A.Irma //"
         }
       ],
       "eventsFacts": [
