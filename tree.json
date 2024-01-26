@@ -4348,6 +4348,9 @@
       "childRefs": [
         {
           "ref": "I609*39458fc0-9333-420b-820a-caf7660fec7f"
+        },
+        {
+          "ref": "I610*6713e5cb-a9ce-4c54-97d1-07c6e10466f5"
         }
       ],
       "husbandRefs": [
@@ -17000,6 +17003,25 @@
       "names": [
         {
           "value": "Op.Zadiam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F254*6ad893fe-fba0-43b9-b59d-f944b9c1c1f1"
+        }
+      ],
+      "id": "I610*6713e5cb-a9ce-4c54-97d1-07c6e10466f5",
+      "names": [
+        {
+          "value": "Amparhait //"
         }
       ],
       "eventsFacts": [
