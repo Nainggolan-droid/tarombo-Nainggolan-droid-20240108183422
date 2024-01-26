@@ -3877,6 +3877,9 @@
         },
         {
           "ref": "I554*0099f0dd-a629-4b27-8532-b6ab5edec3f3"
+        },
+        {
+          "ref": "I555*ea728bc2-b75a-4153-9e6f-04f8e5358890"
         }
       ],
       "husbandRefs": [
@@ -15295,6 +15298,25 @@
       "names": [
         {
           "value": "Op.Kitaman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F223*1e25c9e9-7120-4ef1-bb09-d91fdc7c6735"
+        }
+      ],
+      "id": "I555*ea728bc2-b75a-4153-9e6f-04f8e5358890",
+      "names": [
+        {
+          "value": "Op.Jabonar //"
         }
       ],
       "eventsFacts": [
