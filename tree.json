@@ -5009,6 +5009,9 @@
       "childRefs": [
         {
           "ref": "I697*ec3ae829-9122-4bcc-9025-d55443e57f09"
+        },
+        {
+          "ref": "I698*a6225f5c-2240-4503-910a-fbefef3cacae"
         }
       ],
       "husbandRefs": [
@@ -19599,6 +19602,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*1bbb7234-48b7-4bf8-9cc1-3c456ab63bbd"
+        }
+      ],
+      "id": "I698*a6225f5c-2240-4503-910a-fbefef3cacae",
+      "names": [
+        {
+          "value": "Verayanty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
