@@ -5771,6 +5771,9 @@
         },
         {
           "ref": "I812*25da5b59-c515-4404-adb2-2065f480b40e"
+        },
+        {
+          "ref": "I815*033bc285-1eef-4989-9c3d-11bf2ca8b8fb"
         }
       ],
       "husbandRefs": [
@@ -22832,6 +22835,25 @@
       "names": [
         {
           "value": "Richard //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I815*033bc285-1eef-4989-9c3d-11bf2ca8b8fb",
+      "names": [
+        {
+          "value": "Join //"
         }
       ],
       "eventsFacts": [
