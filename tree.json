@@ -5428,6 +5428,9 @@
         },
         {
           "ref": "I760*32ad7919-3ee8-4e7a-9a2d-beb37ec7e3a2"
+        },
+        {
+          "ref": "I761*b7c207b6-a76b-4993-8b4d-f48348594ea4"
         }
       ],
       "husbandRefs": [
@@ -21292,6 +21295,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
+      "id": "I761*b7c207b6-a76b-4993-8b4d-f48348594ea4",
+      "names": [
+        {
+          "value": "Kamson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
