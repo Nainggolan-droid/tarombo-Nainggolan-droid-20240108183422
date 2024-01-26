@@ -5147,6 +5147,19 @@
         }
       ],
       "id": "F302*a9f0e9a3-6afd-49fd-b25b-619581d3ea36"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I718*dc2a75d4-2991-4ed3-8aa8-30b8cde9e095"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I715*5a792066-e3f0-47ec-a644-f5c4e4373370"
+        }
+      ],
+      "id": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
     }
   ],
   "head": {
@@ -20089,6 +20102,11 @@
           "ref": "F302*a9f0e9a3-6afd-49fd-b25b-619581d3ea36"
         }
       ],
+      "fams": [
+        {
+          "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
+        }
+      ],
       "id": "I715*5a792066-e3f0-47ec-a644-f5c4e4373370",
       "names": [
         {
@@ -20132,6 +20150,25 @@
       "names": [
         {
           "value": "Jisman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
+        }
+      ],
+      "id": "I718*dc2a75d4-2991-4ed3-8aa8-30b8cde9e095",
+      "names": [
+        {
+          "value": "Mangarap //"
         }
       ],
       "eventsFacts": [
