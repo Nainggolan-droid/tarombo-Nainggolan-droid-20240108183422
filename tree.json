@@ -5606,6 +5606,9 @@
         },
         {
           "ref": "I786*6b695431-c781-4b4b-88df-a975ab362e42"
+        },
+        {
+          "ref": "I787*58e52f2c-b948-457a-bf21-df299571e195"
         }
       ],
       "husbandRefs": [
@@ -21998,6 +22001,25 @@
       "names": [
         {
           "value": "Eka //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F328*78145203-6823-4383-943d-4039d3f9278e"
+        }
+      ],
+      "id": "I787*58e52f2c-b948-457a-bf21-df299571e195",
+      "names": [
+        {
+          "value": "Mona //"
         }
       ],
       "eventsFacts": [
