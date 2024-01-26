@@ -5827,6 +5827,19 @@
         }
       ],
       "id": "F340*f2aced3b-057d-4a73-ab72-c6d373906bfc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I818*9ffcbbaa-e3e5-4ad0-93c6-cf58315a85ff"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I817*e2822a69-276f-45a2-87e6-a66806f5804f"
+        }
+      ],
+      "id": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
     }
   ],
   "head": {
@@ -22910,11 +22923,35 @@
           "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
         }
       ],
+      "fams": [
+        {
+          "ref": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
+        }
+      ],
       "id": "I817*e2822a69-276f-45a2-87e6-a66806f5804f",
       "names": [
         {
           "nick": "A.Firlo",
           "value": "Anton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
+        }
+      ],
+      "id": "I818*9ffcbbaa-e3e5-4ad0-93c6-cf58315a85ff",
+      "names": [
+        {
+          "value": "Firlo //"
         }
       ],
       "eventsFacts": [
