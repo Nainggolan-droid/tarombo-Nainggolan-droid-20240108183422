@@ -4330,6 +4330,19 @@
         }
       ],
       "id": "F252*d60322d2-4332-4d45-aad8-e38db4e69e1d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I608*919c9dc5-b0f1-4a69-9ae8-8abdd5c014ae"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I607*975a1e19-2f74-4a27-a074-80c22a587a8d"
+        }
+      ],
+      "id": "F253*61af5643-ff74-4b67-b28a-4a1d516dffcd"
     }
   ],
   "head": {
@@ -16922,6 +16935,11 @@
           "ref": "F252*d60322d2-4332-4d45-aad8-e38db4e69e1d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F253*61af5643-ff74-4b67-b28a-4a1d516dffcd"
+        }
+      ],
       "id": "I607*975a1e19-2f74-4a27-a074-80c22a587a8d",
       "names": [
         {
@@ -16932,6 +16950,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F253*61af5643-ff74-4b67-b28a-4a1d516dffcd"
+        }
+      ],
+      "id": "I608*919c9dc5-b0f1-4a69-9ae8-8abdd5c014ae",
+      "names": [
+        {
+          "value": "Tianggur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
