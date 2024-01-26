@@ -5039,6 +5039,19 @@
           "ref": "I698*a6225f5c-2240-4503-910a-fbefef3cacae"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I702*2282f1ab-fde2-4f4c-ba16-e52036c8b131"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I395*d768eb75-58e1-4d1f-83e2-f3eb5b960f0d"
+        }
+      ],
+      "id": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
     }
   ],
   "head": {
@@ -13298,6 +13311,11 @@
           "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
         }
       ],
+      "fams": [
+        {
+          "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
+        }
+      ],
       "id": "I395*d768eb75-58e1-4d1f-83e2-f3eb5b960f0d",
       "names": [
         {
@@ -19699,6 +19717,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
+        }
+      ],
+      "id": "I702*2282f1ab-fde2-4f4c-ba16-e52036c8b131",
+      "names": [
+        {
+          "value": "Sondang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
