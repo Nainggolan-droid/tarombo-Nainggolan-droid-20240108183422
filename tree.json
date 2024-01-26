@@ -5117,6 +5117,9 @@
         },
         {
           "ref": "I713*7f3dea45-76ba-4ca7-a1c5-a3a23194958b"
+        },
+        {
+          "ref": "I714*3c7a6a22-9cba-4fd3-90c3-1dead7db3045"
         }
       ],
       "husbandRefs": [
@@ -20034,6 +20037,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
+        }
+      ],
+      "id": "I714*3c7a6a22-9cba-4fd3-90c3-1dead7db3045",
+      "names": [
+        {
+          "value": "Nan.Tianur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
