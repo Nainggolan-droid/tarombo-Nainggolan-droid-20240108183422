@@ -5240,6 +5240,9 @@
         },
         {
           "ref": "I740*6303cd20-8ad0-46c9-b116-8a1883146784"
+        },
+        {
+          "ref": "I741*78c0c973-0d1f-4b90-88b8-079fb5cc31c9"
         }
       ],
       "husbandRefs": [
@@ -20742,6 +20745,25 @@
       "names": [
         {
           "value": "Delly Rollies //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I741*78c0c973-0d1f-4b90-88b8-079fb5cc31c9",
+      "names": [
+        {
+          "value": "Dedek Suryadi //"
         }
       ],
       "eventsFacts": [
