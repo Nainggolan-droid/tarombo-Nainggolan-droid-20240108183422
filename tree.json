@@ -4626,6 +4626,9 @@
       "childRefs": [
         {
           "ref": "I645*0fee27a1-da05-40f1-a7d0-07b6c8bcce87"
+        },
+        {
+          "ref": "I646*3a4e49e5-15a2-4bbf-8b3e-205809e09ee3"
         }
       ],
       "husbandRefs": [
@@ -18047,6 +18050,25 @@
       "names": [
         {
           "value": "Op.nisi.Yehezkiel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "id": "I646*3a4e49e5-15a2-4bbf-8b3e-205809e09ee3",
+      "names": [
+        {
+          "value": "Op.Jeremy //"
         }
       ],
       "eventsFacts": [
