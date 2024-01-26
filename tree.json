@@ -5015,6 +5015,9 @@
         },
         {
           "ref": "I700*5f821fe0-c3db-4b97-a80b-0b774a399f53"
+        },
+        {
+          "ref": "I701*d67d8d67-541a-4c95-9313-d4e518d550f2"
         }
       ],
       "husbandRefs": [
@@ -19670,6 +19673,25 @@
         {
           "nick": "A.Harapan",
           "value": "Donny //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*1bbb7234-48b7-4bf8-9cc1-3c456ab63bbd"
+        }
+      ],
+      "id": "I701*d67d8d67-541a-4c95-9313-d4e518d550f2",
+      "names": [
+        {
+          "value": "Edward //"
         }
       ],
       "eventsFacts": [
