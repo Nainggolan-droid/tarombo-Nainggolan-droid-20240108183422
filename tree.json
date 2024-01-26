@@ -4560,6 +4560,19 @@
         }
       ],
       "id": "F266*e4c33ea4-ef7e-431f-b8ad-cdf81ee94390"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I638*1f68728d-cc94-4efe-bde3-613b1d202980"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I637*a9525344-d71f-4d11-823c-6e1cc8380a36"
+        }
+      ],
+      "id": "F267*112bccc4-85d8-4dc8-b5b0-15f6dd12c998"
     }
   ],
   "head": {
@@ -17792,10 +17805,34 @@
           "ref": "F266*e4c33ea4-ef7e-431f-b8ad-cdf81ee94390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F267*112bccc4-85d8-4dc8-b5b0-15f6dd12c998"
+        }
+      ],
       "id": "I637*a9525344-d71f-4d11-823c-6e1cc8380a36",
       "names": [
         {
           "value": "Op.Zanatuk //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F267*112bccc4-85d8-4dc8-b5b0-15f6dd12c998"
+        }
+      ],
+      "id": "I638*1f68728d-cc94-4efe-bde3-613b1d202980",
+      "names": [
+        {
+          "value": "Datu Bahar //"
         }
       ],
       "eventsFacts": [
