@@ -4021,11 +4021,7 @@
       "id": "F231*7bfcdc7a-6d50-46db-b237-624cc40b3bef"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I573*f9587496-5ab6-4d4c-8280-2b3caaf1309a"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I571*ba525f07-2218-48fd-ad1a-4a7fad49ed86"
@@ -15898,25 +15894,6 @@
       "names": [
         {
           "value": "A.Palan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F232*563147cd-550a-41c6-bc36-0531d38b56b5"
-        }
-      ],
-      "id": "I573*f9587496-5ab6-4d4c-8280-2b3caaf1309a",
-      "names": [
-        {
-          "value": "Palan //"
         }
       ],
       "eventsFacts": [
