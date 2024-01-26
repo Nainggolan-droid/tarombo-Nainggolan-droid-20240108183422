@@ -5768,6 +5768,9 @@
         },
         {
           "ref": "I811*53aaddf7-4fb3-4b45-97aa-20799fc8b43b"
+        },
+        {
+          "ref": "I812*25da5b59-c515-4404-adb2-2065f480b40e"
         }
       ],
       "husbandRefs": [
@@ -22750,6 +22753,25 @@
       "names": [
         {
           "value": "Nardus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I812*25da5b59-c515-4404-adb2-2065f480b40e",
+      "names": [
+        {
+          "value": "Jusnar //"
         }
       ],
       "eventsFacts": [
