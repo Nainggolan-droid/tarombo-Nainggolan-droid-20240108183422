@@ -5475,6 +5475,9 @@
       "childRefs": [
         {
           "ref": "I769*f9daf276-095d-4b21-b6cc-c140f4af7826"
+        },
+        {
+          "ref": "I770*5996b382-9461-491d-89a2-bc1d9ae8a2c7"
         }
       ],
       "husbandRefs": [
@@ -21522,6 +21525,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+        }
+      ],
+      "id": "I770*5996b382-9461-491d-89a2-bc1d9ae8a2c7",
+      "names": [
+        {
+          "value": "Marsya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
