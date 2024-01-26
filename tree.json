@@ -4475,6 +4475,9 @@
         },
         {
           "ref": "I628*9abed566-eb95-4213-8a32-88b5fbdf45e8"
+        },
+        {
+          "ref": "I629*17e161f5-a3ad-4712-94f5-fb20fc6a6730"
         }
       ],
       "husbandRefs": [
@@ -17523,6 +17526,25 @@
       "names": [
         {
           "value": "A.Zana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
+        }
+      ],
+      "id": "I629*17e161f5-a3ad-4712-94f5-fb20fc6a6730",
+      "names": [
+        {
+          "value": "A.Utar //"
         }
       ],
       "eventsFacts": [
