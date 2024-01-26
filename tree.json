@@ -5231,6 +5231,9 @@
         },
         {
           "ref": "I732*aff95902-8de7-43b3-a7d5-f9b6ee0f39bc"
+        },
+        {
+          "ref": "I735*6ce0487a-1254-47f3-bc2f-a54906149de7"
         }
       ],
       "husbandRefs": [
@@ -20595,6 +20598,25 @@
       "names": [
         {
           "value": "Azriel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I735*6ce0487a-1254-47f3-bc2f-a54906149de7",
+      "names": [
+        {
+          "value": "Yustiadi //"
         }
       ],
       "eventsFacts": [
