@@ -4367,6 +4367,9 @@
         },
         {
           "ref": "I612*17999366-aedb-4f2f-87ca-febf43b175b8"
+        },
+        {
+          "ref": "I613*8f5aecdd-cee9-4a20-96d5-f37bf5c0ab8c"
         }
       ],
       "husbandRefs": [
@@ -17081,6 +17084,25 @@
       "names": [
         {
           "value": "Ampanumpol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
+        }
+      ],
+      "id": "I613*8f5aecdd-cee9-4a20-96d5-f37bf5c0ab8c",
+      "names": [
+        {
+          "value": "Op.Bungkulan //"
         }
       ],
       "eventsFacts": [
