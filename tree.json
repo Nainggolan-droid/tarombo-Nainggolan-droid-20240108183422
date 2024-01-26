@@ -5835,6 +5835,9 @@
         },
         {
           "ref": "I819*995db350-4b22-4920-a025-6ee6717adef3"
+        },
+        {
+          "ref": "I820*27d319db-d30f-4211-acda-dad6fbb5c121"
         }
       ],
       "husbandRefs": [
@@ -22974,6 +22977,25 @@
       "names": [
         {
           "value": "Gohi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
+        }
+      ],
+      "id": "I820*27d319db-d30f-4211-acda-dad6fbb5c121",
+      "names": [
+        {
+          "value": "Gomos //"
         }
       ],
       "eventsFacts": [
