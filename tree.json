@@ -5727,6 +5727,9 @@
         },
         {
           "ref": "I803*47e07f38-3d97-4324-9907-44025f0c82fd"
+        },
+        {
+          "ref": "I804*22ae5acd-739b-4aaf-a72f-1f26038cb6db"
         }
       ],
       "husbandRefs": [
@@ -22541,6 +22544,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F335*6a135323-82d9-45ca-afa6-68138ce247ec"
+        }
+      ],
+      "id": "I804*22ae5acd-739b-4aaf-a72f-1f26038cb6db",
+      "names": [
+        {
+          "value": "Jihar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
