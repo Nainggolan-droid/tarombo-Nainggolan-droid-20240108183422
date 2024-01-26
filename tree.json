@@ -4977,6 +4977,9 @@
       "childRefs": [
         {
           "ref": "I693*2217e1a8-66d0-4bb2-9868-15fb9fcefad4"
+        },
+        {
+          "ref": "I694*579d9412-54bc-42f2-8f88-6aa79e00abc6"
         }
       ],
       "husbandRefs": [
@@ -19473,6 +19476,25 @@
       "names": [
         {
           "value": "Abylai //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F293*979209e7-45a7-458b-997c-390b2e982cf5"
+        }
+      ],
+      "id": "I694*579d9412-54bc-42f2-8f88-6aa79e00abc6",
+      "names": [
+        {
+          "value": "Timmoty //"
         }
       ],
       "eventsFacts": [
