@@ -5056,6 +5056,9 @@
         },
         {
           "ref": "I709*35b5023a-6660-469e-860d-4dfb08bb7627"
+        },
+        {
+          "ref": "I710*51ff7fb3-b00f-49d4-8b16-c02948bc7fe0"
         }
       ],
       "husbandRefs": [
@@ -19925,6 +19928,25 @@
       "names": [
         {
           "value": "Robert Tua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F297*5ed43516-6161-44ea-85fe-91a039ade847"
+        }
+      ],
+      "id": "I710*51ff7fb3-b00f-49d4-8b16-c02948bc7fe0",
+      "names": [
+        {
+          "value": "Victor //"
         }
       ],
       "eventsFacts": [
