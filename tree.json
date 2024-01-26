@@ -4096,6 +4096,19 @@
         }
       ],
       "id": "F237*004a0f6b-1012-48e5-b3eb-4fdda9d487b1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I580*c4e95d6a-2214-4c42-b626-2daadf0f18f3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I558*7578ade0-253b-473a-a91e-00897afb4213"
+        }
+      ],
+      "id": "F238*3b0b6866-3467-4254-a1ca-54a9cb4feb36"
     }
   ],
   "head": {
@@ -15661,6 +15674,11 @@
           "ref": "F224*bab02344-280a-416c-b9d5-da23a5ec3d5a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F238*3b0b6866-3467-4254-a1ca-54a9cb4feb36"
+        }
+      ],
       "id": "I558*7578ade0-253b-473a-a91e-00897afb4213",
       "names": [
         {
@@ -16083,6 +16101,25 @@
       "names": [
         {
           "value": "Padeta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F238*3b0b6866-3467-4254-a1ca-54a9cb4feb36"
+        }
+      ],
+      "id": "I580*c4e95d6a-2214-4c42-b626-2daadf0f18f3",
+      "names": [
+        {
+          "value": "Op.Putri //"
         }
       ],
       "eventsFacts": [
