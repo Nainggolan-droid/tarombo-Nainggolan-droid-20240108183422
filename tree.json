@@ -5811,6 +5811,19 @@
         }
       ],
       "id": "F339*33a42005-f576-4832-8585-2a4520974cbc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I816*c8dda812-9703-47c4-b09f-8ed9cd7a4b01"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I815*033bc285-1eef-4989-9c3d-11bf2ca8b8fb"
+        }
+      ],
+      "id": "F340*f2aced3b-057d-4a73-ab72-c6d373906bfc"
     }
   ],
   "head": {
@@ -22850,6 +22863,11 @@
           "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
         }
       ],
+      "fams": [
+        {
+          "ref": "F340*f2aced3b-057d-4a73-ab72-c6d373906bfc"
+        }
+      ],
       "id": "I815*033bc285-1eef-4989-9c3d-11bf2ca8b8fb",
       "names": [
         {
@@ -22861,6 +22879,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F340*f2aced3b-057d-4a73-ab72-c6d373906bfc"
+        }
+      ],
+      "id": "I816*c8dda812-9703-47c4-b09f-8ed9cd7a4b01",
+      "names": [
+        {
+          "value": "Selin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
