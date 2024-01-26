@@ -4629,6 +4629,9 @@
         },
         {
           "ref": "I646*3a4e49e5-15a2-4bbf-8b3e-205809e09ee3"
+        },
+        {
+          "ref": "I647*38682d97-d217-471c-9813-54c647664efe"
         }
       ],
       "husbandRefs": [
@@ -18069,6 +18072,25 @@
       "names": [
         {
           "value": "Op.Jeremy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F271*b45fe992-6a46-4654-a1cb-3a856b2962b6"
+        }
+      ],
+      "id": "I647*38682d97-d217-471c-9813-54c647664efe",
+      "names": [
+        {
+          "value": "A.Gloria //"
         }
       ],
       "eventsFacts": [
