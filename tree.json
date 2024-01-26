@@ -4804,6 +4804,9 @@
         },
         {
           "ref": "I672*6f3eeb5d-b599-43ba-961b-7f3865abf5c8"
+        },
+        {
+          "ref": "I674*d18e1d75-9e55-4c6e-9a2b-9d0e25c4ead3"
         }
       ],
       "husbandRefs": [
@@ -18838,6 +18841,25 @@
       "names": [
         {
           "value": " /Samosir/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F281*29bc48da-27a3-403d-a6de-a57e146ae71a"
+        }
+      ],
+      "id": "I674*d18e1d75-9e55-4c6e-9a2b-9d0e25c4ead3",
+      "names": [
+        {
+          "value": "Virda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
