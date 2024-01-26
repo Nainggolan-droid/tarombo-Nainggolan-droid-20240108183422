@@ -5152,6 +5152,9 @@
       "childRefs": [
         {
           "ref": "I718*dc2a75d4-2991-4ed3-8aa8-30b8cde9e095"
+        },
+        {
+          "ref": "I719*2a0eed02-df1d-4b72-b14d-3166f8731a28"
         }
       ],
       "husbandRefs": [
@@ -20169,6 +20172,25 @@
       "names": [
         {
           "value": "Mangarap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
+        }
+      ],
+      "id": "I719*2a0eed02-df1d-4b72-b14d-3166f8731a28",
+      "names": [
+        {
+          "value": "Boiran //"
         }
       ],
       "eventsFacts": [
