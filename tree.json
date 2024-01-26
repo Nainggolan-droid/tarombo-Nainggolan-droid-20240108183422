@@ -5523,6 +5523,9 @@
       "childRefs": [
         {
           "ref": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb"
+        },
+        {
+          "ref": "I777*44b26f93-22d2-4e57-b4e7-a9e056f3443a"
         }
       ],
       "husbandRefs": [
@@ -21718,6 +21721,25 @@
       "names": [
         {
           "value": " /Sembiring/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
+        }
+      ],
+      "id": "I777*44b26f93-22d2-4e57-b4e7-a9e056f3443a",
+      "names": [
+        {
+          "value": "Jendaras //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
