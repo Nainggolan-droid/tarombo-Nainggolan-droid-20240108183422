@@ -5133,6 +5133,9 @@
       "childRefs": [
         {
           "ref": "I715*5a792066-e3f0-47ec-a644-f5c4e4373370"
+        },
+        {
+          "ref": "I716*c6758826-5700-4551-9afc-3f16f043f41d"
         }
       ],
       "husbandRefs": [
@@ -20087,6 +20090,25 @@
       "names": [
         {
           "value": "Bolsom //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F302*a9f0e9a3-6afd-49fd-b25b-619581d3ea36"
+        }
+      ],
+      "id": "I716*c6758826-5700-4551-9afc-3f16f043f41d",
+      "names": [
+        {
+          "value": "Justin //"
         }
       ],
       "eventsFacts": [
