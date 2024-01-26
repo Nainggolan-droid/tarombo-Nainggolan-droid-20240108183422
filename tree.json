@@ -4126,6 +4126,9 @@
         },
         {
           "ref": "I586*ace62fac-ea16-43bc-8aad-42fd6e1da78e"
+        },
+        {
+          "ref": "I588*6aa79868-266e-43d3-8bfe-393de7e6ea68"
         }
       ],
       "husbandRefs": [
@@ -16320,6 +16323,25 @@
       "names": [
         {
           "value": "Roynando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F239*eabb42b9-e0e4-4425-88c8-f8889c1eab23"
+        }
+      ],
+      "id": "I588*6aa79868-266e-43d3-8bfe-393de7e6ea68",
+      "names": [
+        {
+          "value": "A.Asido //"
         }
       ],
       "eventsFacts": [
