@@ -5282,6 +5282,9 @@
         },
         {
           "ref": "I738*ff9dc3c5-2d26-42ba-b37c-9825080e7a11"
+        },
+        {
+          "ref": "I739*b13630b8-6dd1-482d-a3ac-9e447fecd9f5"
         }
       ],
       "husbandRefs": [
@@ -20698,6 +20701,25 @@
       "names": [
         {
           "value": "Jeliyah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*8f97bd85-13ec-43fd-8b8a-4a9f7266789b"
+        }
+      ],
+      "id": "I739*b13630b8-6dd1-482d-a3ac-9e447fecd9f5",
+      "names": [
+        {
+          "value": "Juwita //"
         }
       ],
       "eventsFacts": [
