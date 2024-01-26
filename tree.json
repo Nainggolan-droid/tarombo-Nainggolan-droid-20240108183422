@@ -5420,6 +5420,19 @@
           "ref": "I752*b1adfb2b-e2c2-42f9-b0f4-59332ac20eaa"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I759*5ef17b42-5b3c-481f-acfb-e2e7f2558698"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I712*494b20b7-2fd1-4947-94b2-8f168a5bf4a8"
+        }
+      ],
+      "id": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
     }
   ],
   "head": {
@@ -20305,6 +20318,11 @@
           "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
       "id": "I712*494b20b7-2fd1-4947-94b2-8f168a5bf4a8",
       "names": [
         {
@@ -21227,6 +21245,25 @@
       "names": [
         {
           "value": "Benget //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
+        }
+      ],
+      "id": "I759*5ef17b42-5b3c-481f-acfb-e2e7f2558698",
+      "names": [
+        {
+          "value": "Juara //"
         }
       ],
       "eventsFacts": [
