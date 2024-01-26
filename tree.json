@@ -3924,6 +3924,9 @@
       "childRefs": [
         {
           "ref": "I559*eac97f02-21b9-4b04-a119-7cc960665e3b"
+        },
+        {
+          "ref": "I568*24251b74-fad1-444a-93b0-95c64d3724c9"
         }
       ],
       "husbandRefs": [
@@ -15727,6 +15730,25 @@
       "names": [
         {
           "value": " /Sagala/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F225*8d500ad3-2b14-4611-aaf4-c67e8a679f7c"
+        }
+      ],
+      "id": "I568*24251b74-fad1-444a-93b0-95c64d3724c9",
+      "names": [
+        {
+          "value": "Op.nisi.Dian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
