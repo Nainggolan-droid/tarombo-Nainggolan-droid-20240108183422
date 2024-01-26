@@ -5797,6 +5797,9 @@
       "childRefs": [
         {
           "ref": "I813*e8a57164-94d6-4da0-986d-1431f348aed5"
+        },
+        {
+          "ref": "I814*52c7845f-0b38-4d4e-ba36-9a4bca1562af"
         }
       ],
       "husbandRefs": [
@@ -22816,6 +22819,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F339*33a42005-f576-4832-8585-2a4520974cbc"
+        }
+      ],
+      "id": "I814*52c7845f-0b38-4d4e-ba36-9a4bca1562af",
+      "names": [
+        {
+          "value": "Richard //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
