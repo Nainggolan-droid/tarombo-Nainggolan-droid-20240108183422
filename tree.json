@@ -4147,6 +4147,19 @@
         }
       ],
       "id": "F240*fe276e63-4507-4191-9bf7-ca75e294e87e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I587*020d239f-c6ac-41e1-9fef-edac737356f8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I586*ace62fac-ea16-43bc-8aad-42fd6e1da78e"
+        }
+      ],
+      "id": "F241*b0a54406-7ba9-4121-8744-531a55e8f408"
     }
   ],
   "head": {
@@ -16279,10 +16292,34 @@
           "ref": "F239*eabb42b9-e0e4-4425-88c8-f8889c1eab23"
         }
       ],
+      "fams": [
+        {
+          "ref": "F241*b0a54406-7ba9-4121-8744-531a55e8f408"
+        }
+      ],
       "id": "I586*ace62fac-ea16-43bc-8aad-42fd6e1da78e",
       "names": [
         {
           "value": "A.Roynando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F241*b0a54406-7ba9-4121-8744-531a55e8f408"
+        }
+      ],
+      "id": "I587*020d239f-c6ac-41e1-9fef-edac737356f8",
+      "names": [
+        {
+          "value": "Roynando //"
         }
       ],
       "eventsFacts": [
