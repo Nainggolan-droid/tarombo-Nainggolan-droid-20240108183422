@@ -4536,6 +4536,9 @@
       "childRefs": [
         {
           "ref": "I635*41a0276e-7339-4da7-86fc-ec50636af9e6"
+        },
+        {
+          "ref": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d"
         }
       ],
       "husbandRefs": [
@@ -17737,6 +17740,25 @@
       "names": [
         {
           "value": "Bungkulan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F265*521d768a-64cf-4e95-8328-2c4284bce431"
+        }
+      ],
+      "id": "I636*51c82ea8-f75f-480d-9bcc-1eb97c34321d",
+      "names": [
+        {
+          "value": "A.Simpan //"
         }
       ],
       "eventsFacts": [
