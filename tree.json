@@ -5492,6 +5492,19 @@
         }
       ],
       "id": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I773*cc4f3831-b99f-4c68-8a97-f348da9fdfc9"
+        }
+      ],
+      "id": "F321*e7c8a28e-78a1-4aff-bc36-cfabd06991f3",
+      "wifeRefs": [
+        {
+          "ref": "I767*ec02e38a-27b7-4858-8c39-d1145157048c"
+        }
+      ]
     }
   ],
   "head": {
@@ -21476,6 +21489,11 @@
           "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F321*e7c8a28e-78a1-4aff-bc36-cfabd06991f3"
+        }
+      ],
       "id": "I767*ec02e38a-27b7-4858-8c39-d1145157048c",
       "names": [
         {
@@ -21588,6 +21606,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F321*e7c8a28e-78a1-4aff-bc36-cfabd06991f3"
+        }
+      ],
+      "id": "I773*cc4f3831-b99f-4c68-8a97-f348da9fdfc9",
+      "names": [
+        {
+          "value": " /Sitompul/"
         }
       ]
     }
