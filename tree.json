@@ -4364,6 +4364,9 @@
       "childRefs": [
         {
           "ref": "I611*99550b16-a88b-48b7-8743-c2d641a746ff"
+        },
+        {
+          "ref": "I612*17999366-aedb-4f2f-87ca-febf43b175b8"
         }
       ],
       "husbandRefs": [
@@ -17059,6 +17062,25 @@
       "names": [
         {
           "value": "A.Zadiam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F255*523586d5-fa7b-4610-95c2-2d064c181406"
+        }
+      ],
+      "id": "I612*17999366-aedb-4f2f-87ca-febf43b175b8",
+      "names": [
+        {
+          "value": "Ampanumpol //"
         }
       ],
       "eventsFacts": [
