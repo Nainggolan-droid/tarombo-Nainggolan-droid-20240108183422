@@ -5518,6 +5518,19 @@
           "ref": "I766*c2875dda-e6b7-4fd8-ad85-7a675ff2fd10"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I759*5ef17b42-5b3c-481f-acfb-e2e7f2558698"
+        }
+      ],
+      "id": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
     }
   ],
   "head": {
@@ -21345,6 +21358,11 @@
           "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
+        }
+      ],
       "id": "I759*5ef17b42-5b3c-481f-acfb-e2e7f2558698",
       "names": [
         {
@@ -21650,6 +21668,25 @@
       "names": [
         {
           "value": " /Simanjuntak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
+        }
+      ],
+      "id": "I775*ccd89712-fc50-4899-b2cb-537834ba8acb",
+      "names": [
+        {
+          "value": "Maslina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
