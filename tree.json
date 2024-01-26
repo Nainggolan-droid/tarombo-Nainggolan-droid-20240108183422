@@ -4825,6 +4825,19 @@
           "ref": "I670*45566538-b167-40d0-95a2-76da324ebee5"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I673*52685756-2501-4b13-abea-272e246646b8"
+        }
+      ],
+      "id": "F283*42ae1d5c-da1b-4d52-b981-f2a6de66bfad",
+      "wifeRefs": [
+        {
+          "ref": "I672*6f3eeb5d-b599-43ba-961b-7f3865abf5c8"
+        }
+      ]
     }
   ],
   "head": {
@@ -18796,6 +18809,11 @@
           "ref": "F281*29bc48da-27a3-403d-a6de-a57e146ae71a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F283*42ae1d5c-da1b-4d52-b981-f2a6de66bfad"
+        }
+      ],
       "id": "I672*6f3eeb5d-b599-43ba-961b-7f3865abf5c8",
       "names": [
         {
@@ -18807,6 +18825,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F283*42ae1d5c-da1b-4d52-b981-f2a6de66bfad"
+        }
+      ],
+      "id": "I673*52685756-2501-4b13-abea-272e246646b8",
+      "names": [
+        {
+          "value": " /Samosir/"
         }
       ]
     }
