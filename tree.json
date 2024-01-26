@@ -5228,6 +5228,9 @@
         },
         {
           "ref": "I731*6219ddf7-e0bf-479d-9f05-3f3c3a24a82f"
+        },
+        {
+          "ref": "I732*aff95902-8de7-43b3-a7d5-f9b6ee0f39bc"
         }
       ],
       "husbandRefs": [
@@ -20514,6 +20517,25 @@
       "names": [
         {
           "value": "Miko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I732*aff95902-8de7-43b3-a7d5-f9b6ee0f39bc",
+      "names": [
+        {
+          "value": "Freddy //"
         }
       ],
       "eventsFacts": [
