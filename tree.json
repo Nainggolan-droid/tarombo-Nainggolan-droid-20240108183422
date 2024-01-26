@@ -5225,6 +5225,9 @@
         },
         {
           "ref": "I729*5afdac6c-14e3-450b-a5de-39fd18588e0c"
+        },
+        {
+          "ref": "I731*6219ddf7-e0bf-479d-9f05-3f3c3a24a82f"
         }
       ],
       "husbandRefs": [
@@ -20498,6 +20501,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I731*6219ddf7-e0bf-479d-9f05-3f3c3a24a82f",
+      "names": [
+        {
+          "value": "Miko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
