@@ -4801,6 +4801,9 @@
         },
         {
           "ref": "I670*45566538-b167-40d0-95a2-76da324ebee5"
+        },
+        {
+          "ref": "I672*6f3eeb5d-b599-43ba-961b-7f3865abf5c8"
         }
       ],
       "husbandRefs": [
@@ -18784,6 +18787,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F281*29bc48da-27a3-403d-a6de-a57e146ae71a"
+        }
+      ],
+      "id": "I672*6f3eeb5d-b599-43ba-961b-7f3865abf5c8",
+      "names": [
+        {
+          "value": "Sonta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
