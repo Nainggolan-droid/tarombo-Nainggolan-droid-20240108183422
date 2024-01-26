@@ -4386,6 +4386,9 @@
         },
         {
           "ref": "I615*4002e8cb-7ae7-4baa-abf6-d8996a57ced3"
+        },
+        {
+          "ref": "I616*cf36d0ac-e6db-4a73-8416-2199273c4869"
         }
       ],
       "husbandRefs": [
@@ -17162,6 +17165,25 @@
       "names": [
         {
           "value": "Ampangadang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F256*7477e20d-257a-4afe-80ed-e142901fa648"
+        }
+      ],
+      "id": "I616*cf36d0ac-e6db-4a73-8416-2199273c4869",
+      "names": [
+        {
+          "value": "Op.Banggot //"
         }
       ],
       "eventsFacts": [
