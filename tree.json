@@ -5344,6 +5344,19 @@
         }
       ],
       "id": "F313*caea7cf2-67e1-4e2c-9cff-53a7618c532b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I747*5ae56a12-0cf7-408d-a4bd-d0afe1ed75c0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I725*f4b7d7a2-65ca-499d-8584-1f194691d710"
+        }
+      ],
+      "id": "F314*2daa297c-8c3f-4a24-8253-b6b281fa3b96"
     }
   ],
   "head": {
@@ -20497,6 +20510,11 @@
           "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F314*2daa297c-8c3f-4a24-8253-b6b281fa3b96"
+        }
+      ],
       "id": "I725*f4b7d7a2-65ca-499d-8584-1f194691d710",
       "names": [
         {
@@ -20920,6 +20938,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F314*2daa297c-8c3f-4a24-8253-b6b281fa3b96"
+        }
+      ],
+      "id": "I747*5ae56a12-0cf7-408d-a4bd-d0afe1ed75c0",
+      "names": [
+        {
+          "value": "Tasya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
