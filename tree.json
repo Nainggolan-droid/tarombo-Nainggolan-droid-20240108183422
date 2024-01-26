@@ -4693,6 +4693,9 @@
         },
         {
           "ref": "I656*d23885b0-6303-4ab0-a6d5-5a9c6cbc5722"
+        },
+        {
+          "ref": "I660*199e184b-2b7d-4e7f-9a40-d2ed89e046b6"
         }
       ],
       "husbandRefs": [
@@ -18445,6 +18448,25 @@
       "names": [
         {
           "value": "Dedy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F275*8068b987-3ecd-445c-b192-fa581bb5644b"
+        }
+      ],
+      "id": "I660*199e184b-2b7d-4e7f-9a40-d2ed89e046b6",
+      "names": [
+        {
+          "value": "A.Rijal //"
         }
       ],
       "eventsFacts": [
