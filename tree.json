@@ -5529,6 +5529,9 @@
         },
         {
           "ref": "I778*2f617af9-cfc9-40df-b67e-3038227736c5"
+        },
+        {
+          "ref": "I779*3408ad90-2403-47b7-ab94-23ae5248f25c"
         }
       ],
       "husbandRefs": [
@@ -21757,6 +21760,25 @@
       "names": [
         {
           "value": "Pendi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*72ea2885-a0e1-48f1-81a0-8cfa72cd7d6f"
+        }
+      ],
+      "id": "I779*3408ad90-2403-47b7-ab94-23ae5248f25c",
+      "names": [
+        {
+          "value": "Barus //"
         }
       ],
       "eventsFacts": [
