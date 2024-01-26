@@ -5505,6 +5505,19 @@
           "ref": "I767*ec02e38a-27b7-4858-8c39-d1145157048c"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I774*f241754c-fe9f-4741-bd44-3154acb4dc07"
+        }
+      ],
+      "id": "F322*6487a8ee-de4c-48da-a6d4-6b965403ec62",
+      "wifeRefs": [
+        {
+          "ref": "I766*c2875dda-e6b7-4fd8-ad85-7a675ff2fd10"
+        }
+      ]
     }
   ],
   "head": {
@@ -21469,6 +21482,11 @@
           "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F322*6487a8ee-de4c-48da-a6d4-6b965403ec62"
+        }
+      ],
       "id": "I766*c2875dda-e6b7-4fd8-ad85-7a675ff2fd10",
       "names": [
         {
@@ -21619,6 +21637,19 @@
       "names": [
         {
           "value": " /Sitompul/"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F322*6487a8ee-de4c-48da-a6d4-6b965403ec62"
+        }
+      ],
+      "id": "I774*f241754c-fe9f-4741-bd44-3154acb4dc07",
+      "names": [
+        {
+          "value": " /Simanjuntak/"
         }
       ]
     }
