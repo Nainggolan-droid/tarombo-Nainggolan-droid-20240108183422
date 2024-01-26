@@ -5217,6 +5217,19 @@
           "ref": "I726*cbafd24e-1d41-4ebc-bb1c-7c770c972ce2"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I728*a173c003-72e7-4c43-8560-ec7eb53fbdb3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I718*dc2a75d4-2991-4ed3-8aa8-30b8cde9e095"
+        }
+      ],
+      "id": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
     }
   ],
   "head": {
@@ -20222,6 +20235,11 @@
           "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
       "id": "I718*dc2a75d4-2991-4ed3-8aa8-30b8cde9e095",
       "names": [
         {
@@ -20404,6 +20422,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*7a170d65-7a56-4829-b2e3-1646a10b6718"
+        }
+      ],
+      "id": "I728*a173c003-72e7-4c43-8560-ec7eb53fbdb3",
+      "names": [
+        {
+          "value": "Risco //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
