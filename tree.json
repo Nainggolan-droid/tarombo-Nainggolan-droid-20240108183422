@@ -4440,6 +4440,9 @@
         },
         {
           "ref": "I623*98854d2e-fe6c-47a8-a798-9b3ba9f273ee"
+        },
+        {
+          "ref": "I624*e89a5590-8610-46af-945e-edcafa07a603"
         }
       ],
       "husbandRefs": [
@@ -17383,6 +17386,25 @@
       "names": [
         {
           "value": "Cirus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
+        }
+      ],
+      "id": "I624*e89a5590-8610-46af-945e-edcafa07a603",
+      "names": [
+        {
+          "value": "Bukit //"
         }
       ],
       "eventsFacts": [
