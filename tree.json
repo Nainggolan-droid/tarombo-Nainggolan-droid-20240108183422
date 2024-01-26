@@ -4189,6 +4189,19 @@
         }
       ],
       "id": "F243*3f4c3e9c-4ee1-4580-9648-8ec48d59cd9d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I591*b12b8691-6aa3-400d-88d4-0ff079bee667"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I590*e37d6f85-2ac6-434b-86c3-7dba8b8d817e"
+        }
+      ],
+      "id": "F244*923c2576-221f-4c07-8d7b-2c41f56b7377"
     }
   ],
   "head": {
@@ -16412,10 +16425,34 @@
           "ref": "F243*3f4c3e9c-4ee1-4580-9648-8ec48d59cd9d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F244*923c2576-221f-4c07-8d7b-2c41f56b7377"
+        }
+      ],
       "id": "I590*e37d6f85-2ac6-434b-86c3-7dba8b8d817e",
       "names": [
         {
           "value": "A.Gregory //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F244*923c2576-221f-4c07-8d7b-2c41f56b7377"
+        }
+      ],
+      "id": "I591*b12b8691-6aa3-400d-88d4-0ff079bee667",
+      "names": [
+        {
+          "value": "Gregory //"
         }
       ],
       "eventsFacts": [
