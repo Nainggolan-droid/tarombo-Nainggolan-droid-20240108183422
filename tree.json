@@ -4104,6 +4104,9 @@
         },
         {
           "ref": "I581*bd6bef66-9933-4432-8950-c67a19a1aa60"
+        },
+        {
+          "ref": "I582*e4dda71f-6a1d-4b3d-b329-b125f29eb288"
         }
       ],
       "husbandRefs": [
@@ -16142,6 +16145,25 @@
       "names": [
         {
           "value": "Op.Gregory //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F238*3b0b6866-3467-4254-a1ca-54a9cb4feb36"
+        }
+      ],
+      "id": "I582*e4dda71f-6a1d-4b3d-b329-b125f29eb288",
+      "names": [
+        {
+          "value": "Op.Clarissa //"
         }
       ],
       "eventsFacts": [
