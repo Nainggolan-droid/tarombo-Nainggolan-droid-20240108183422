@@ -5161,6 +5161,9 @@
         },
         {
           "ref": "I722*23336509-e296-4b32-b5ee-e64ec2c435b1"
+        },
+        {
+          "ref": "I723*5fdb27b9-d010-49af-9716-466f1c2faebf"
         }
       ],
       "husbandRefs": [
@@ -20274,6 +20277,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*f08dbe8f-708c-4c1e-b14d-ad8643b4f33b"
+        }
+      ],
+      "id": "I723*5fdb27b9-d010-49af-9716-466f1c2faebf",
+      "names": [
+        {
+          "value": "Lumbang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
