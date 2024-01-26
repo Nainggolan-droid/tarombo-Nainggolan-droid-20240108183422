@@ -4298,6 +4298,19 @@
         }
       ],
       "id": "F250*bd245084-61a2-4cdd-9839-849b1dd35434"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I604*7c56b9aa-5b16-4951-b555-cef7486c8ebd"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I599*8b5fe37e-736b-41ce-8147-958d18ab00c4"
+        }
+      ],
+      "id": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
     }
   ],
   "head": {
@@ -16722,6 +16735,11 @@
           "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
         }
       ],
+      "fams": [
+        {
+          "ref": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
+        }
+      ],
       "id": "I599*8b5fe37e-736b-41ce-8147-958d18ab00c4",
       "names": [
         {
@@ -16807,6 +16825,25 @@
       "names": [
         {
           "value": "Duni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F251*85dc7a29-6923-4d5a-b445-6d540e907cbc"
+        }
+      ],
+      "id": "I604*7c56b9aa-5b16-4951-b555-cef7486c8ebd",
+      "names": [
+        {
+          "value": "Op.Purnama //"
         }
       ],
       "eventsFacts": [
