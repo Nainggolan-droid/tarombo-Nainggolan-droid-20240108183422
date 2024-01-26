@@ -4472,6 +4472,9 @@
       "childRefs": [
         {
           "ref": "I627*bc52344e-7188-40e9-b8e3-85380dec3c87"
+        },
+        {
+          "ref": "I628*9abed566-eb95-4213-8a32-88b5fbdf45e8"
         }
       ],
       "husbandRefs": [
@@ -17501,6 +17504,25 @@
       "names": [
         {
           "value": "A.Manumpol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F261*faafff42-e655-4625-a8de-101333e556eb"
+        }
+      ],
+      "id": "I628*9abed566-eb95-4213-8a32-88b5fbdf45e8",
+      "names": [
+        {
+          "value": "A.Zana //"
         }
       ],
       "eventsFacts": [
