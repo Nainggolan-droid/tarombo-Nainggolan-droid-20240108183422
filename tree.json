@@ -5832,6 +5832,9 @@
       "childRefs": [
         {
           "ref": "I818*9ffcbbaa-e3e5-4ad0-93c6-cf58315a85ff"
+        },
+        {
+          "ref": "I819*995db350-4b22-4920-a025-6ee6717adef3"
         }
       ],
       "husbandRefs": [
@@ -22952,6 +22955,25 @@
       "names": [
         {
           "value": "Firlo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
+        }
+      ],
+      "id": "I819*995db350-4b22-4920-a025-6ee6717adef3",
+      "names": [
+        {
+          "value": "Gohi //"
         }
       ],
       "eventsFacts": [
