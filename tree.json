@@ -4123,6 +4123,9 @@
         },
         {
           "ref": "I584*a5e307b7-f852-42bc-a832-06aa365b4b74"
+        },
+        {
+          "ref": "I586*ace62fac-ea16-43bc-8aad-42fd6e1da78e"
         }
       ],
       "husbandRefs": [
@@ -16267,6 +16270,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F239*eabb42b9-e0e4-4425-88c8-f8889c1eab23"
+        }
+      ],
+      "id": "I586*ace62fac-ea16-43bc-8aad-42fd6e1da78e",
+      "names": [
+        {
+          "value": "A.Roynando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
