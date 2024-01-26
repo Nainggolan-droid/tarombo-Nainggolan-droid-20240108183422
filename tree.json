@@ -4432,6 +4432,19 @@
         }
       ],
       "id": "F258*d0fa0ac3-43d9-40f4-a4c9-f8f7e753e2bd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I622*232789bd-f8f8-4ad8-853d-d87cba7ae518"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I620*65ec5470-936f-4c61-8a37-f6f69acba7c1"
+        }
+      ],
+      "id": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
     }
   ],
   "head": {
@@ -17301,6 +17314,11 @@
           "ref": "F258*d0fa0ac3-43d9-40f4-a4c9-f8f7e753e2bd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
+        }
+      ],
       "id": "I620*65ec5470-936f-4c61-8a37-f6f69acba7c1",
       "names": [
         {
@@ -17324,6 +17342,25 @@
       "names": [
         {
           "value": "Torhata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F259*7413cd13-c454-46f1-8cec-12ca044d1b39"
+        }
+      ],
+      "id": "I622*232789bd-f8f8-4ad8-853d-d87cba7ae518",
+      "names": [
+        {
+          "value": "Zamalum //"
         }
       ],
       "eventsFacts": [
