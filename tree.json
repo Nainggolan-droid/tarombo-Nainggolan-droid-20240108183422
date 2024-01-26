@@ -2803,6 +2803,9 @@
         },
         {
           "ref": "I395*d768eb75-58e1-4d1f-83e2-f3eb5b960f0d"
+        },
+        {
+          "ref": "I560*41d184d7-40fb-419d-9fcb-8e6daa23094d"
         }
       ],
       "husbandRefs": [
@@ -15443,6 +15446,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
+        }
+      ],
+      "id": "I560*41d184d7-40fb-419d-9fcb-8e6daa23094d",
+      "names": [
+        {
+          "value": "Angat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
