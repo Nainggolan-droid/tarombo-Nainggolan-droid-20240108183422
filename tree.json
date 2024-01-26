@@ -5655,6 +5655,19 @@
         }
       ],
       "id": "F330*773337fe-83a7-4693-8a82-54f0c6f37f17"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I794*21e5b5de-2d30-4cb7-b28e-92e887543052"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I713*7f3dea45-76ba-4ca7-a1c5-a3a23194958b"
+        }
+      ],
+      "id": "F331*cdcbf112-d514-4617-8a4d-3019be9b9c34"
     }
   ],
   "head": {
@@ -20564,6 +20577,11 @@
           "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F331*cdcbf112-d514-4617-8a4d-3019be9b9c34"
+        }
+      ],
       "id": "I713*7f3dea45-76ba-4ca7-a1c5-a3a23194958b",
       "names": [
         {
@@ -22182,6 +22200,25 @@
       "names": [
         {
           "value": "Eko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F331*cdcbf112-d514-4617-8a4d-3019be9b9c34"
+        }
+      ],
+      "id": "I794*21e5b5de-2d30-4cb7-b28e-92e887543052",
+      "names": [
+        {
+          "value": "Sahat //"
         }
       ],
       "eventsFacts": [
