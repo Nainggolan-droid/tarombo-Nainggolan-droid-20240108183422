@@ -4226,6 +4226,9 @@
         },
         {
           "ref": "I596*62d725e2-f203-4919-8f06-94e52c8d46f8"
+        },
+        {
+          "ref": "I597*00399674-aa9a-4f39-9ca7-6e3e6682f0e6"
         }
       ],
       "husbandRefs": [
@@ -16608,6 +16611,25 @@
       "names": [
         {
           "value": "A.Harapan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F246*14796038-2b54-4039-8886-3a7636fcd023"
+        }
+      ],
+      "id": "I597*00399674-aa9a-4f39-9ca7-6e3e6682f0e6",
+      "names": [
+        {
+          "value": "A.Shalomita //"
         }
       ],
       "eventsFacts": [
