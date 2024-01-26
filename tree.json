@@ -5762,6 +5762,9 @@
         },
         {
           "ref": "I808*161538bb-93ac-4236-ab78-28870076f852"
+        },
+        {
+          "ref": "I810*b2f6daa8-781f-4a77-add4-55f989a99265"
         }
       ],
       "husbandRefs": [
@@ -22712,6 +22715,25 @@
       "names": [
         {
           "value": " /Marbun/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I810*b2f6daa8-781f-4a77-add4-55f989a99265",
+      "names": [
+        {
+          "value": "Ramlan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
