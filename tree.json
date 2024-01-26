@@ -5470,6 +5470,19 @@
           "ref": "I763*6e5ceada-3da8-4925-9f57-996054d713bc"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I769*f9daf276-095d-4b21-b6cc-c140f4af7826"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I768*f7caddde-bc00-4024-9121-a1f1427379ce"
+        }
+      ],
+      "id": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
     }
   ],
   "head": {
@@ -21474,11 +21487,35 @@
           "ref": "F318*ebd21fcb-5c3b-4ee6-9aa9-c522fbf732cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+        }
+      ],
       "id": "I768*f7caddde-bc00-4024-9121-a1f1427379ce",
       "names": [
         {
           "nick": "A.Nathael",
           "value": "Amstrong //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F320*843f38d9-5aca-4c89-b59f-098b5f57b880"
+        }
+      ],
+      "id": "I769*f9daf276-095d-4b21-b6cc-c140f4af7826",
+      "names": [
+        {
+          "value": "Nathael //"
         }
       ],
       "eventsFacts": [
