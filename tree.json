@@ -3842,6 +3842,9 @@
         },
         {
           "ref": "I549*838a0c69-3d41-4b8a-8ccc-f735ab62467e"
+        },
+        {
+          "ref": "I550*2ba0c2b1-66d6-430b-8a4f-e592ce9c2027"
         }
       ],
       "husbandRefs": [
@@ -15155,6 +15158,25 @@
       "names": [
         {
           "value": "Op.Tn.Sinala //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F221*ae78b8dc-f1b3-4f42-b08d-b5a70180d17e"
+        }
+      ],
+      "id": "I550*2ba0c2b1-66d6-430b-8a4f-e592ce9c2027",
+      "names": [
+        {
+          "value": "Op.Jahoras //"
         }
       ],
       "eventsFacts": [
