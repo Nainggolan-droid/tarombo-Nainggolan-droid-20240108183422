@@ -5759,6 +5759,9 @@
       "childRefs": [
         {
           "ref": "I807*7a97de37-b202-4fdb-839d-6bbbd494dac6"
+        },
+        {
+          "ref": "I808*161538bb-93ac-4236-ab78-28870076f852"
         }
       ],
       "husbandRefs": [
@@ -22658,6 +22661,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
+        }
+      ],
+      "id": "I808*161538bb-93ac-4236-ab78-28870076f852",
+      "names": [
+        {
+          "value": "Linda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
