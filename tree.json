@@ -4274,6 +4274,9 @@
         },
         {
           "ref": "I601*662e21cc-587b-4da2-9f62-1b0b42b80722"
+        },
+        {
+          "ref": "I602*54ad324b-06ea-4cfd-bdce-6462a0bdcb40"
         }
       ],
       "husbandRefs": [
@@ -16748,6 +16751,25 @@
       "names": [
         {
           "value": "Appanglipat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F249*b7a1c436-7c22-42e1-a653-87631ee8fd77"
+        }
+      ],
+      "id": "I602*54ad324b-06ea-4cfd-bdce-6462a0bdcb40",
+      "names": [
+        {
+          "value": "A.Duni //"
         }
       ],
       "eventsFacts": [
