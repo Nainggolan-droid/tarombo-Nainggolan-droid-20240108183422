@@ -7293,6 +7293,9 @@
         },
         {
           "ref": "I1029*2d5bb2c4-5e42-47c3-a609-b944424f2338"
+        },
+        {
+          "ref": "I1031*19c35813-e080-4e2c-9f28-b94212295f57"
         }
       ],
       "husbandRefs": [
@@ -28935,6 +28938,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F425*df6a41d3-b736-43ba-834d-3ff40f616b1e"
+        }
+      ],
+      "id": "I1031*19c35813-e080-4e2c-9f28-b94212295f57",
+      "names": [
+        {
+          "value": "Rosinta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
