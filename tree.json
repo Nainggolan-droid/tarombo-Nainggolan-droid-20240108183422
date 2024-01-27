@@ -7405,6 +7405,9 @@
         },
         {
           "ref": "I1040*b3177577-b388-4d59-9738-37bb5b238898"
+        },
+        {
+          "ref": "I1041*75559ee5-89f5-4065-bcba-b6811712d98a"
         }
       ],
       "husbandRefs": [
@@ -29196,6 +29199,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+        }
+      ],
+      "id": "I1041*75559ee5-89f5-4065-bcba-b6811712d98a",
+      "names": [
+        {
+          "value": "Tumpak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
