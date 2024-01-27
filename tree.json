@@ -6699,6 +6699,19 @@
         }
       ],
       "id": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I942*bc7904ec-45d1-41f5-948a-8cab4483206a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I939*31ebf4f1-3c1d-40e5-9ef5-fb0a809e4e0d"
+        }
+      ],
+      "id": "F391*03f04471-da2b-4b64-8551-b335557a7925"
     }
   ],
   "head": {
@@ -26259,6 +26272,11 @@
           "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+        }
+      ],
       "id": "I939*31ebf4f1-3c1d-40e5-9ef5-fb0a809e4e0d",
       "names": [
         {
@@ -26303,6 +26321,25 @@
       "names": [
         {
           "value": "Mintas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+        }
+      ],
+      "id": "I942*bc7904ec-45d1-41f5-948a-8cab4483206a",
+      "names": [
+        {
+          "value": "Marinus //"
         }
       ],
       "eventsFacts": [
