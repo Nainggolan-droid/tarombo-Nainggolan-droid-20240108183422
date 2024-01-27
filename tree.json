@@ -7607,6 +7607,9 @@
       "childRefs": [
         {
           "ref": "I1063*48e5083c-6e1b-47df-ae6a-a0a4e9502019"
+        },
+        {
+          "ref": "I1064*0d4ae9df-55aa-40d8-b412-d6a6eba00190"
         }
       ],
       "husbandRefs": [
@@ -29868,6 +29871,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F445*a2caa27e-02d7-4fab-bb2b-8fad38967700"
+        }
+      ],
+      "id": "I1064*0d4ae9df-55aa-40d8-b412-d6a6eba00190",
+      "names": [
+        {
+          "value": "Louis //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
