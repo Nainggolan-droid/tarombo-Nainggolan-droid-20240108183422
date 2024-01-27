@@ -6953,6 +6953,9 @@
         },
         {
           "ref": "I975*2af15d28-e87a-446f-b5e2-15a432fa863c"
+        },
+        {
+          "ref": "I976*7ad97ac5-d89f-4d74-8505-4ab755aebfca"
         }
       ],
       "husbandRefs": [
@@ -27375,6 +27378,25 @@
       "names": [
         {
           "value": "Kili //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+        }
+      ],
+      "id": "I976*7ad97ac5-d89f-4d74-8505-4ab755aebfca",
+      "names": [
+        {
+          "value": "Jarodot //"
         }
       ],
       "eventsFacts": [
