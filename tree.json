@@ -7287,6 +7287,9 @@
         },
         {
           "ref": "I1025*157472bb-f45f-4205-8ceb-60dc5b09d8d6"
+        },
+        {
+          "ref": "I1027*e5ae5281-55e0-47b9-b799-cce48d9a54fa"
         }
       ],
       "husbandRefs": [
@@ -28816,6 +28819,25 @@
       "names": [
         {
           "value": " /Limbong/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F425*df6a41d3-b736-43ba-834d-3ff40f616b1e"
+        }
+      ],
+      "id": "I1027*e5ae5281-55e0-47b9-b799-cce48d9a54fa",
+      "names": [
+        {
+          "value": "Delima //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
