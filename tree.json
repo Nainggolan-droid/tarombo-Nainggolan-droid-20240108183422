@@ -6536,6 +6536,9 @@
         },
         {
           "ref": "I916*c6e512ff-73c0-42c3-99b5-ecbaf8f33b1d"
+        },
+        {
+          "ref": "I918*18b02e50-86ea-4739-a35e-06f8f5cdb005"
         }
       ],
       "husbandRefs": [
@@ -25690,6 +25693,25 @@
       "names": [
         {
           "value": " /Sinambela/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I918*18b02e50-86ea-4739-a35e-06f8f5cdb005",
+      "names": [
+        {
+          "value": "Dinar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
