@@ -6509,6 +6509,19 @@
         }
       ],
       "id": "F380*2b32683a-bc9b-4438-b209-9b847d3a6607"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I912*3a87e1bf-0cb3-48fa-956c-27640c46d3f5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I907*23d2c1d6-c0ca-4f64-9cb4-f23c0f08c4ca"
+        }
+      ],
+      "id": "F381*b0c9bf59-7b1d-4985-acf0-5a908cfd09c8"
     }
   ],
   "head": {
@@ -25431,6 +25444,11 @@
           "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F381*b0c9bf59-7b1d-4985-acf0-5a908cfd09c8"
+        }
+      ],
       "id": "I907*23d2c1d6-c0ca-4f64-9cb4-f23c0f08c4ca",
       "names": [
         {
@@ -25517,6 +25535,25 @@
       "names": [
         {
           "value": "..... //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F381*b0c9bf59-7b1d-4985-acf0-5a908cfd09c8"
+        }
+      ],
+      "id": "I912*3a87e1bf-0cb3-48fa-956c-27640c46d3f5",
+      "names": [
+        {
+          "value": "Murat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
