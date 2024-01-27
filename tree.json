@@ -6101,6 +6101,19 @@
           "ref": "I853*a2ff0e22-69f6-46bf-82ce-254e17b6f30a"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I856*13043a85-23c7-4b02-99ef-324ca1cd469c"
+        }
+      ],
+      "id": "F357*2bfbe799-6bda-435b-adb1-69ad8dc791fc",
+      "wifeRefs": [
+        {
+          "ref": "I855*a9a477ba-d5d2-463b-b265-efb13bb98916"
+        }
+      ]
     }
   ],
   "head": {
@@ -23964,6 +23977,11 @@
           "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
         }
       ],
+      "fams": [
+        {
+          "ref": "F357*2bfbe799-6bda-435b-adb1-69ad8dc791fc"
+        }
+      ],
       "id": "I855*a9a477ba-d5d2-463b-b265-efb13bb98916",
       "names": [
         {
@@ -23974,6 +23992,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F357*2bfbe799-6bda-435b-adb1-69ad8dc791fc"
+        }
+      ],
+      "id": "I856*13043a85-23c7-4b02-99ef-324ca1cd469c",
+      "names": [
+        {
+          "value": " /Harianja/"
         }
       ]
     }
