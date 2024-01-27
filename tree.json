@@ -6259,6 +6259,9 @@
       "childRefs": [
         {
           "ref": "I877*6d821184-8c03-4cef-ad31-d6c50bea541b"
+        },
+        {
+          "ref": "I878*49c07c92-cd72-4192-88d2-5a1597415eb2"
         }
       ],
       "husbandRefs": [
@@ -24577,6 +24580,25 @@
       "names": [
         {
           "value": "Marthin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F366*7e2eba9a-c4e5-4123-a8f5-31c9d5dca3d7"
+        }
+      ],
+      "id": "I878*49c07c92-cd72-4192-88d2-5a1597415eb2",
+      "names": [
+        {
+          "value": "Martahan //"
         }
       ],
       "eventsFacts": [
