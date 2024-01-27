@@ -6780,6 +6780,9 @@
         },
         {
           "ref": "I954*dd0f6d13-9b64-41d6-8419-8dfc939d5364"
+        },
+        {
+          "ref": "I955*ce27cc5a-fb5d-442d-a22b-b86e34c98d7c"
         }
       ],
       "husbandRefs": [
@@ -26667,6 +26670,25 @@
       "names": [
         {
           "value": "Bernad //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+        }
+      ],
+      "id": "I955*ce27cc5a-fb5d-442d-a22b-b86e34c98d7c",
+      "names": [
+        {
+          "value": "Repano //"
         }
       ],
       "eventsFacts": [
