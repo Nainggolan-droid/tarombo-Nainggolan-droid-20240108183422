@@ -7476,6 +7476,9 @@
       "childRefs": [
         {
           "ref": "I1046*5b9233af-090c-4c3b-9111-504de49c6b24"
+        },
+        {
+          "ref": "I1047*46d49956-410a-4adc-a521-e016673b4671"
         }
       ],
       "husbandRefs": [
@@ -29383,6 +29386,25 @@
       "names": [
         {
           "value": "Jatonga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F437*5ec211cd-e10e-4104-8b53-a5e81b3aa2cb"
+        }
+      ],
+      "id": "I1047*46d49956-410a-4adc-a521-e016673b4671",
+      "names": [
+        {
+          "value": "Johan //"
         }
       ],
       "eventsFacts": [
