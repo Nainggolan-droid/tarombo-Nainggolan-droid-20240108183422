@@ -6666,6 +6666,9 @@
       "childRefs": [
         {
           "ref": "I936*7268f04e-1213-42bc-9cee-5fac05de5496"
+        },
+        {
+          "ref": "I937*21f0f02f-b722-4102-ab7f-20bcf2aa2360"
         }
       ],
       "husbandRefs": [
@@ -26176,6 +26179,25 @@
       "names": [
         {
           "value": "Ruth //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
+        }
+      ],
+      "id": "I937*21f0f02f-b722-4102-ab7f-20bcf2aa2360",
+      "names": [
+        {
+          "value": "Ivan //"
         }
       ],
       "eventsFacts": [
