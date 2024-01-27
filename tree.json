@@ -6975,6 +6975,9 @@
       "childRefs": [
         {
           "ref": "I979*1870377b-03c3-4ca2-b8db-28a5fdb7f327"
+        },
+        {
+          "ref": "I980*2d88f3c7-0e4a-41fb-9ef2-613128f8a0f8"
         }
       ],
       "husbandRefs": [
@@ -27478,6 +27481,25 @@
       "names": [
         {
           "value": "Tiur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F407*71f52cbe-6cca-48ec-b5de-701ea8c0dc3e"
+        }
+      ],
+      "id": "I980*2d88f3c7-0e4a-41fb-9ef2-613128f8a0f8",
+      "names": [
+        {
+          "value": "Alli //"
         }
       ],
       "eventsFacts": [
