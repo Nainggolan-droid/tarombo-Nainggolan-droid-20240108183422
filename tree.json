@@ -7679,6 +7679,19 @@
         }
       ],
       "id": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I968*e62f8f58-d5eb-4509-8838-afb05dfeae04"
+        }
+      ],
+      "id": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
     }
   ],
   "head": {
@@ -27945,6 +27958,11 @@
           "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
+        }
+      ],
       "id": "I968*e62f8f58-d5eb-4509-8838-afb05dfeae04",
       "names": [
         {
@@ -30105,6 +30123,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
+        }
+      ],
+      "id": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b",
+      "names": [
+        {
+          "value": "Jauhur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
