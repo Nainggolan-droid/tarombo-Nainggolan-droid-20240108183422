@@ -7523,6 +7523,9 @@
         },
         {
           "ref": "I1058*a32983b7-e9b6-46dc-9dbc-9466ff0e0bc8"
+        },
+        {
+          "ref": "I1060*4a3a93a1-338a-412e-9395-ffffc683297f"
         }
       ],
       "husbandRefs": [
@@ -29755,6 +29758,25 @@
       "names": [
         {
           "value": " /Situmorang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F439*20342251-02d4-45d6-b4d3-9e090f843216"
+        }
+      ],
+      "id": "I1060*4a3a93a1-338a-412e-9395-ffffc683297f",
+      "names": [
+        {
+          "value": "Lumayan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
