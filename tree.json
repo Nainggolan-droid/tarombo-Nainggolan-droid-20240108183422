@@ -7663,6 +7663,19 @@
         }
       ],
       "id": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
+        }
+      ],
+      "id": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
     }
   ],
   "head": {
@@ -30035,10 +30048,34 @@
           "ref": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
+        }
+      ],
       "id": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95",
       "names": [
         {
           "value": "Iwan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
+        }
+      ],
+      "id": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c",
+      "names": [
+        {
+          "value": "Hansel //"
         }
       ],
       "eventsFacts": [
