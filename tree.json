@@ -7613,6 +7613,9 @@
         },
         {
           "ref": "I1065*062d8173-d366-4384-9cb1-bb2b843f89c3"
+        },
+        {
+          "ref": "I1066*49f05b8b-5acc-4e8d-b8fa-6805804aa9c7"
         }
       ],
       "husbandRefs": [
@@ -29906,6 +29909,25 @@
       "names": [
         {
           "value": "Helena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F445*a2caa27e-02d7-4fab-bb2b-8fad38967700"
+        }
+      ],
+      "id": "I1066*49f05b8b-5acc-4e8d-b8fa-6805804aa9c7",
+      "names": [
+        {
+          "value": "Delicia //"
         }
       ],
       "eventsFacts": [
