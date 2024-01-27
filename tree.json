@@ -7727,6 +7727,9 @@
         },
         {
           "ref": "I1089*9f9d1b4e-bf22-433f-a84d-ab2a38a1bfc0"
+        },
+        {
+          "ref": "I1091*3b5f98f8-2922-48ba-94d4-692c0c3e342a"
         }
       ],
       "husbandRefs": [
@@ -30621,6 +30624,25 @@
       "names": [
         {
           "value": " /Sagala/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1091*3b5f98f8-2922-48ba-94d4-692c0c3e342a",
+      "names": [
+        {
+          "value": "Tutur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
