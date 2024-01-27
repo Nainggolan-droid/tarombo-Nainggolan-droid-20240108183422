@@ -6530,6 +6530,9 @@
         },
         {
           "ref": "I914*db2efc93-8c36-4a1c-8267-9e06fa7aeb72"
+        },
+        {
+          "ref": "I915*3be92b50-4d30-46e9-b7ac-abbd243efaea"
         }
       ],
       "husbandRefs": [
@@ -25608,6 +25611,25 @@
       "names": [
         {
           "value": "Poster //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I915*3be92b50-4d30-46e9-b7ac-abbd243efaea",
+      "names": [
+        {
+          "value": "Potir //"
         }
       ],
       "eventsFacts": [
