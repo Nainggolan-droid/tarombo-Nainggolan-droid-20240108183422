@@ -7296,6 +7296,9 @@
         },
         {
           "ref": "I1031*19c35813-e080-4e2c-9f28-b94212295f57"
+        },
+        {
+          "ref": "I1033*e459e505-566a-4e7c-9a0a-9e337b62e0b4"
         }
       ],
       "husbandRefs": [
@@ -28989,6 +28992,25 @@
       "names": [
         {
           "value": " /Sihotang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F425*df6a41d3-b736-43ba-834d-3ff40f616b1e"
+        }
+      ],
+      "id": "I1033*e459e505-566a-4e7c-9a0a-9e337b62e0b4",
+      "names": [
+        {
+          "value": "Bona //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
