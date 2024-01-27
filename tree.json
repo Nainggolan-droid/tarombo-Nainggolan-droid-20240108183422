@@ -6685,6 +6685,9 @@
       "childRefs": [
         {
           "ref": "I939*31ebf4f1-3c1d-40e5-9ef5-fb0a809e4e0d"
+        },
+        {
+          "ref": "I940*7ee374fd-f6ab-47c7-a419-782a174c0919"
         }
       ],
       "husbandRefs": [
@@ -26258,6 +26261,25 @@
         {
           "nick": "Op.Jonner",
           "value": "Guntur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
+        }
+      ],
+      "id": "I940*7ee374fd-f6ab-47c7-a419-782a174c0919",
+      "names": [
+        {
+          "value": "Laut //"
         }
       ],
       "eventsFacts": [
