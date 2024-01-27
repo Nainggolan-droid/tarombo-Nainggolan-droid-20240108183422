@@ -6783,6 +6783,9 @@
         },
         {
           "ref": "I955*ce27cc5a-fb5d-442d-a22b-b86e34c98d7c"
+        },
+        {
+          "ref": "I956*448580c8-5d89-4f05-a4eb-fd97113f98ea"
         }
       ],
       "husbandRefs": [
@@ -26689,6 +26692,25 @@
       "names": [
         {
           "value": "Repano //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+        }
+      ],
+      "id": "I956*448580c8-5d89-4f05-a4eb-fd97113f98ea",
+      "names": [
+        {
+          "value": "Rio //"
         }
       ],
       "eventsFacts": [
