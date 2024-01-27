@@ -7937,6 +7937,19 @@
         }
       ],
       "id": "F464*c6ee8b83-a4e4-4fde-ae3c-c24493eef868"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1108*5900c4cf-1dad-486b-b33a-6f563b5483bc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1077*c8ee490d-1ced-4395-8eff-2360c801eb43"
+        }
+      ],
+      "id": "F465*e4ea3ead-e4e0-4a8b-8835-0c5a4ba45c74"
     }
   ],
   "head": {
@@ -30482,6 +30495,11 @@
           "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
         }
       ],
+      "fams": [
+        {
+          "ref": "F465*e4ea3ead-e4e0-4a8b-8835-0c5a4ba45c74"
+        }
+      ],
       "id": "I1077*c8ee490d-1ced-4395-8eff-2360c801eb43",
       "names": [
         {
@@ -31067,6 +31085,25 @@
       "names": [
         {
           "value": "Valentinus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F465*e4ea3ead-e4e0-4a8b-8835-0c5a4ba45c74"
+        }
+      ],
+      "id": "I1108*5900c4cf-1dad-486b-b33a-6f563b5483bc",
+      "names": [
+        {
+          "value": "Marono //"
         }
       ],
       "eventsFacts": [
