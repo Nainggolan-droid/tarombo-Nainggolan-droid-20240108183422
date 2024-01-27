@@ -6868,6 +6868,19 @@
         }
       ],
       "id": "F400*4f7b5a5d-1f7c-49e1-8744-2942d6c9e7bd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I965*c742b2dd-20db-480d-b3c9-b9b28e8488ed"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I964*45ef3567-0a44-4ced-a61f-cbd8c0d76483"
+        }
+      ],
+      "id": "F401*16878639-13f0-459a-b045-18cf5170a86b"
     }
   ],
   "head": {
@@ -26960,10 +26973,34 @@
           "ref": "F400*4f7b5a5d-1f7c-49e1-8744-2942d6c9e7bd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F401*16878639-13f0-459a-b045-18cf5170a86b"
+        }
+      ],
       "id": "I964*45ef3567-0a44-4ced-a61f-cbd8c0d76483",
       "names": [
         {
           "value": "Edi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F401*16878639-13f0-459a-b045-18cf5170a86b"
+        }
+      ],
+      "id": "I965*c742b2dd-20db-480d-b3c9-b9b28e8488ed",
+      "names": [
+        {
+          "value": "Anyo //"
         }
       ],
       "eventsFacts": [
