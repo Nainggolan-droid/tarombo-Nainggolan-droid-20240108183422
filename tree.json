@@ -6799,6 +6799,9 @@
       "childRefs": [
         {
           "ref": "I957*58dbb62d-3ffb-4a36-8c9f-af8af94938a7"
+        },
+        {
+          "ref": "I958*a5479c64-e99e-4908-b28a-d11ba75f9920"
         }
       ],
       "husbandRefs": [
@@ -26748,6 +26751,25 @@
       "names": [
         {
           "value": "Josua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F396*91ab988a-f3be-41dd-95fa-b4cf4d98da9b"
+        }
+      ],
+      "id": "I958*a5479c64-e99e-4908-b28a-d11ba75f9920",
+      "names": [
+        {
+          "value": "Walter //"
         }
       ],
       "eventsFacts": [
