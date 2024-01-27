@@ -7085,6 +7085,19 @@
         }
       ],
       "id": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I994*bd8b4484-20bd-4774-8a4c-fc2504e9bb19"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I993*7d9c19c7-5d6c-42b6-adb3-5dcaffe7e3ea"
+        }
+      ],
+      "id": "F414*3ece191f-2df3-4b52-9512-3af49452594e"
     }
   ],
   "head": {
@@ -27877,6 +27890,11 @@
           "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F414*3ece191f-2df3-4b52-9512-3af49452594e"
+        }
+      ],
       "id": "I993*7d9c19c7-5d6c-42b6-adb3-5dcaffe7e3ea",
       "names": [
         {
@@ -27888,6 +27906,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F414*3ece191f-2df3-4b52-9512-3af49452594e"
+        }
+      ],
+      "id": "I994*bd8b4484-20bd-4774-8a4c-fc2504e9bb19",
+      "names": [
+        {
+          "value": "Intan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
