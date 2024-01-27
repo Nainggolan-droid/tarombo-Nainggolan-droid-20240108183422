@@ -7224,6 +7224,9 @@
       "childRefs": [
         {
           "ref": "I1012*367eec33-95e0-4a6a-8821-005e62b86256"
+        },
+        {
+          "ref": "I1013*72b15a6f-6661-45b7-9b2c-d85f05cd36b2"
         }
       ],
       "husbandRefs": [
@@ -28421,6 +28424,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F422*6fa5c79d-644c-4bd6-9962-56b526ae788e"
+        }
+      ],
+      "id": "I1013*72b15a6f-6661-45b7-9b2c-d85f05cd36b2",
+      "names": [
+        {
+          "value": "Bella //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
