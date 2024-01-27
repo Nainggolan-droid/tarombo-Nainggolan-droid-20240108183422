@@ -6450,6 +6450,9 @@
       "childRefs": [
         {
           "ref": "I904*9622a54d-7a11-47f0-8100-63f453672d89"
+        },
+        {
+          "ref": "I905*056b36ea-4533-439f-84dd-4b924d5d1016"
         }
       ],
       "husbandRefs": [
@@ -25317,6 +25320,25 @@
       "names": [
         {
           "value": "A.Sulam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F377*9fdc498b-52a3-4e53-83aa-739a06bce300"
+        }
+      ],
+      "id": "I905*056b36ea-4533-439f-84dd-4b924d5d1016",
+      "names": [
+        {
+          "value": "Likanus //"
         }
       ],
       "eventsFacts": [
