@@ -7080,6 +7080,9 @@
         },
         {
           "ref": "I998*fc1c5093-90c8-417b-8296-a75f041367a1"
+        },
+        {
+          "ref": "I1000*dd8f1937-ae15-4194-92eb-cd1778d5c376"
         }
       ],
       "husbandRefs": [
@@ -28044,6 +28047,25 @@
       "names": [
         {
           "value": " /Pasaribu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I1000*dd8f1937-ae15-4194-92eb-cd1778d5c376",
+      "names": [
+        {
+          "value": "Rista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
