@@ -7718,6 +7718,9 @@
         },
         {
           "ref": "I1084*50f26682-f48d-4886-b494-1ea2d4b836a9"
+        },
+        {
+          "ref": "I1085*8d81b19f-58d6-456e-ba91-b2b4af2192a2"
         }
       ],
       "husbandRefs": [
@@ -30462,6 +30465,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1085*8d81b19f-58d6-456e-ba91-b2b4af2192a2",
+      "names": [
+        {
+          "value": "Rusia Berliana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
