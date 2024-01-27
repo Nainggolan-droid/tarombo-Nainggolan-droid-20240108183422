@@ -6991,6 +6991,9 @@
       "childRefs": [
         {
           "ref": "I981*f0ddda46-dbe8-4aeb-b21d-4ceb36d15b6e"
+        },
+        {
+          "ref": "I982*d17b0a5f-28dd-4241-bee7-cac2c0321c3a"
         }
       ],
       "husbandRefs": [
@@ -27538,6 +27541,25 @@
       "names": [
         {
           "value": "Murphi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+        }
+      ],
+      "id": "I982*d17b0a5f-28dd-4241-bee7-cac2c0321c3a",
+      "names": [
+        {
+          "value": "Binsar //"
         }
       ],
       "eventsFacts": [
