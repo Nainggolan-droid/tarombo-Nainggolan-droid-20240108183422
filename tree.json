@@ -6614,6 +6614,19 @@
           "ref": "I922*ddffed1b-6bf3-459e-b0b5-2b5c58b5b1d0"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I927*9eddc38a-7c5d-4dc7-983b-23693556592a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I913*c27f5a9d-b8d5-4f6b-9339-c02c36639144"
+        }
+      ],
+      "id": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
     }
   ],
   "head": {
@@ -25660,6 +25673,11 @@
           "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
+        }
+      ],
       "id": "I913*c27f5a9d-b8d5-4f6b-9339-c02c36639144",
       "names": [
         {
@@ -25911,6 +25929,25 @@
       "names": [
         {
           "value": "Hendra //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
+        }
+      ],
+      "id": "I927*9eddc38a-7c5d-4dc7-983b-23693556592a",
+      "names": [
+        {
+          "value": "Sehat //"
         }
       ],
       "eventsFacts": [
