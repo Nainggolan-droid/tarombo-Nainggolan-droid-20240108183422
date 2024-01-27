@@ -6886,6 +6886,9 @@
       "childRefs": [
         {
           "ref": "I966*05fd516e-d773-4e42-93e2-58eb7dd8ffc7"
+        },
+        {
+          "ref": "I967*d06986fb-4862-40c6-99be-e5168b0572b4"
         }
       ],
       "husbandRefs": [
@@ -27116,6 +27119,25 @@
       "names": [
         {
           "value": "A.Batusokkal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
+        }
+      ],
+      "id": "I967*d06986fb-4862-40c6-99be-e5168b0572b4",
+      "names": [
+        {
+          "value": "Op.Suhi //"
         }
       ],
       "eventsFacts": [
