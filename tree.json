@@ -7684,6 +7684,9 @@
       "childRefs": [
         {
           "ref": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b"
+        },
+        {
+          "ref": "I1073*84588bbb-0304-416c-92fb-4028de253fa2"
         }
       ],
       "husbandRefs": [
@@ -30136,6 +30139,25 @@
       "names": [
         {
           "value": "Jauhur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
+        }
+      ],
+      "id": "I1073*84588bbb-0304-416c-92fb-4028de253fa2",
+      "names": [
+        {
+          "value": "Mardingot //"
         }
       ],
       "eventsFacts": [
