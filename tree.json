@@ -6179,6 +6179,9 @@
         },
         {
           "ref": "I869*9b64b53c-6027-4081-958a-65f42300a109"
+        },
+        {
+          "ref": "I871*77eadcb5-a96a-4b1e-86e4-2fb30f9e9ee7"
         }
       ],
       "husbandRefs": [
@@ -24388,6 +24391,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
+        }
+      ],
+      "id": "I871*77eadcb5-a96a-4b1e-86e4-2fb30f9e9ee7",
+      "names": [
+        {
+          "value": "Dewi Anggraini //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
