@@ -6286,6 +6286,19 @@
         }
       ],
       "id": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I881*0333e9e0-cb0b-451d-ab1b-0fde12ae32ee"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I880*89eb437b-b005-4181-8edd-b07146733d88"
+        }
+      ],
+      "id": "F368*29fdd12a-892b-4b25-b4eb-b9b6d6b320a7"
     }
   ],
   "head": {
@@ -24654,10 +24667,34 @@
           "ref": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F368*29fdd12a-892b-4b25-b4eb-b9b6d6b320a7"
+        }
+      ],
       "id": "I880*89eb437b-b005-4181-8edd-b07146733d88",
       "names": [
         {
           "value": "Monang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F368*29fdd12a-892b-4b25-b4eb-b9b6d6b320a7"
+        }
+      ],
+      "id": "I881*0333e9e0-cb0b-451d-ab1b-0fde12ae32ee",
+      "names": [
+        {
+          "value": "Andi //"
         }
       ],
       "eventsFacts": [
