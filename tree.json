@@ -6934,6 +6934,9 @@
       "childRefs": [
         {
           "ref": "I972*8c74789f-0dd8-441c-b4a7-65d80d326db7"
+        },
+        {
+          "ref": "I973*75feaa28-7880-47f3-9e63-a3108176faff"
         }
       ],
       "husbandRefs": [
@@ -27294,6 +27297,25 @@
         {
           "nick": "Op.Tiur",
           "value": "Jamuda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
+        }
+      ],
+      "id": "I973*75feaa28-7880-47f3-9e63-a3108176faff",
+      "names": [
+        {
+          "value": "Deak Raja //"
         }
       ],
       "eventsFacts": [
