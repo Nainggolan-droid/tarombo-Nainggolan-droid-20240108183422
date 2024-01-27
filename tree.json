@@ -6071,6 +6071,9 @@
         },
         {
           "ref": "I851*6491269d-ff93-4cc7-b009-f7507355970c"
+        },
+        {
+          "ref": "I852*11a2d3da-5038-499e-b72b-bf07b1979473"
         }
       ],
       "husbandRefs": [
@@ -23871,6 +23874,25 @@
         {
           "nick": "Op.Reyhan",
           "value": "Firman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I852*11a2d3da-5038-499e-b72b-bf07b1979473",
+      "names": [
+        {
+          "value": "Sidon Maruli //"
         }
       ],
       "eventsFacts": [
