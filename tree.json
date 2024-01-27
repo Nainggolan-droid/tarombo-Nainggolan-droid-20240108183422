@@ -6332,6 +6332,9 @@
         },
         {
           "ref": "I888*2488af81-5296-4c4e-8453-a0075401693d"
+        },
+        {
+          "ref": "I889*952dda0d-5b9a-4436-8633-dbb0424c2ba5"
         }
       ],
       "husbandRefs": [
@@ -24880,6 +24883,25 @@
       "names": [
         {
           "value": "Sisla //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+        }
+      ],
+      "id": "I889*952dda0d-5b9a-4436-8633-dbb0424c2ba5",
+      "names": [
+        {
+          "value": "Putri //"
         }
       ],
       "eventsFacts": [
