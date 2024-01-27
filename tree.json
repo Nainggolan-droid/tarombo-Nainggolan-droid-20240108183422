@@ -7721,6 +7721,9 @@
         },
         {
           "ref": "I1085*8d81b19f-58d6-456e-ba91-b2b4af2192a2"
+        },
+        {
+          "ref": "I1087*592c8a2f-03e8-4f93-992e-7eddc360ac44"
         }
       ],
       "husbandRefs": [
@@ -30515,6 +30518,25 @@
       "names": [
         {
           "value": " /Pasaribu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1087*592c8a2f-03e8-4f93-992e-7eddc360ac44",
+      "names": [
+        {
+          "value": "Lian Meriati //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
