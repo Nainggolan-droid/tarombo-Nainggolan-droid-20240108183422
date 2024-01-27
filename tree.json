@@ -6466,6 +6466,9 @@
       "childRefs": [
         {
           "ref": "I906*9dd42de4-0728-48a8-8036-63225121e29a"
+        },
+        {
+          "ref": "I907*23d2c1d6-c0ca-4f64-9cb4-f23c0f08c4ca"
         }
       ],
       "husbandRefs": [
@@ -25376,6 +25379,25 @@
       "names": [
         {
           "value": "Arden //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
+        }
+      ],
+      "id": "I907*23d2c1d6-c0ca-4f64-9cb4-f23c0f08c4ca",
+      "names": [
+        {
+          "value": "Ludin //"
         }
       ],
       "eventsFacts": [
