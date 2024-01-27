@@ -6836,6 +6836,19 @@
         }
       ],
       "id": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I961*970e345c-ef3a-4615-a3b9-037fe56f91a5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I960*ead5448a-ee43-4d97-b484-e7b1a2fcad9b"
+        }
+      ],
+      "id": "F399*ddd2dace-e174-436e-920c-dc9d8f8ff715"
     }
   ],
   "head": {
@@ -26841,6 +26854,11 @@
           "ref": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F399*ddd2dace-e174-436e-920c-dc9d8f8ff715"
+        }
+      ],
       "id": "I960*ead5448a-ee43-4d97-b484-e7b1a2fcad9b",
       "names": [
         {
@@ -26851,6 +26869,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F399*ddd2dace-e174-436e-920c-dc9d8f8ff715"
+        }
+      ],
+      "id": "I961*970e345c-ef3a-4615-a3b9-037fe56f91a5",
+      "names": [
+        {
+          "value": "Hilda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
