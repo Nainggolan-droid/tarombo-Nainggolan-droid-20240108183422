@@ -7730,6 +7730,9 @@
         },
         {
           "ref": "I1091*3b5f98f8-2922-48ba-94d4-692c0c3e342a"
+        },
+        {
+          "ref": "I1093*98acb6e2-10bb-4cba-9f81-4e4731338c18"
         }
       ],
       "husbandRefs": [
@@ -30674,6 +30677,25 @@
       "names": [
         {
           "value": " /Tobing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1093*98acb6e2-10bb-4cba-9f81-4e4731338c18",
+      "names": [
+        {
+          "value": "Mery //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
