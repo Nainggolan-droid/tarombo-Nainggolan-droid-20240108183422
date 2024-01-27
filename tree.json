@@ -7880,6 +7880,19 @@
         }
       ],
       "id": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1099*f7cdac0b-6385-4d95-9285-14e9d52a7c06"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1074*e500241b-ae7d-4f8b-a342-0523321ea584"
+        }
+      ],
+      "id": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
     }
   ],
   "head": {
@@ -30364,6 +30377,11 @@
           "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
         }
       ],
+      "fams": [
+        {
+          "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
+        }
+      ],
       "id": "I1074*e500241b-ae7d-4f8b-a342-0523321ea584",
       "names": [
         {
@@ -30830,6 +30848,25 @@
       "names": [
         {
           "value": "Gomgom Rossi //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
+        }
+      ],
+      "id": "I1099*f7cdac0b-6385-4d95-9285-14e9d52a7c06",
+      "names": [
+        {
+          "value": "Bangun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
