@@ -7243,6 +7243,9 @@
       "childRefs": [
         {
           "ref": "I1015*51514bc5-5385-400d-bea1-694fec8b2564"
+        },
+        {
+          "ref": "I1016*4e2460bd-9539-4dc0-8677-a52d1f04f852"
         }
       ],
       "husbandRefs": [
@@ -28497,6 +28500,25 @@
       "names": [
         {
           "value": "Valensiah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F423*59787167-5b99-4542-9b78-f63b68e80920"
+        }
+      ],
+      "id": "I1016*4e2460bd-9539-4dc0-8677-a52d1f04f852",
+      "names": [
+        {
+          "value": "Vivian //"
         }
       ],
       "eventsFacts": [
