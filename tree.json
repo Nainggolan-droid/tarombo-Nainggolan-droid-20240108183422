@@ -7026,6 +7026,9 @@
       "childRefs": [
         {
           "ref": "I986*b156200a-5778-427e-9d7b-b82cea2c91e4"
+        },
+        {
+          "ref": "I987*aef52985-a1b0-42b4-b261-ada52c13bdf3"
         }
       ],
       "husbandRefs": [
@@ -27680,6 +27683,25 @@
       "names": [
         {
           "value": "Carles //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
+        }
+      ],
+      "id": "I987*aef52985-a1b0-42b4-b261-ada52c13bdf3",
+      "names": [
+        {
+          "value": "Imran //"
         }
       ],
       "eventsFacts": [
