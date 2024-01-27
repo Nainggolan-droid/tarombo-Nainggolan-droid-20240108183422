@@ -6913,6 +6913,19 @@
         }
       ],
       "id": "F403*fd34e619-1776-449a-beb1-7a21cc61afca"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I970*2a631be7-c21d-4942-bc34-8d1f8fe3f2f0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I969*c7f275cc-bcc6-4436-ae38-d2868d9cdc00"
+        }
+      ],
+      "id": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
     }
   ],
   "head": {
@@ -27193,10 +27206,34 @@
           "ref": "F403*fd34e619-1776-449a-beb1-7a21cc61afca"
         }
       ],
+      "fams": [
+        {
+          "ref": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
+        }
+      ],
       "id": "I969*c7f275cc-bcc6-4436-ae38-d2868d9cdc00",
       "names": [
         {
           "value": "Op.Buta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
+        }
+      ],
+      "id": "I970*2a631be7-c21d-4942-bc34-8d1f8fe3f2f0",
+      "names": [
+        {
+          "value": "Jambual //"
         }
       ],
       "eventsFacts": [
