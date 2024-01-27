@@ -6184,6 +6184,19 @@
         }
       ],
       "id": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I867*2d345ee6-a156-42b8-bf2e-36cf28034af1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I866*d3db66da-84e8-4f6f-b026-40cd5ddf0bba"
+        }
+      ],
+      "id": "F362*c6fb674a-5a43-4968-9330-a0bb8b0a7598"
     }
   ],
   "head": {
@@ -24258,11 +24271,35 @@
           "ref": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
         }
       ],
+      "fams": [
+        {
+          "ref": "F362*c6fb674a-5a43-4968-9330-a0bb8b0a7598"
+        }
+      ],
       "id": "I866*d3db66da-84e8-4f6f-b026-40cd5ddf0bba",
       "names": [
         {
           "nick": "A.Reyhan",
           "value": "Novianto //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F362*c6fb674a-5a43-4968-9330-a0bb8b0a7598"
+        }
+      ],
+      "id": "I867*2d345ee6-a156-42b8-bf2e-36cf28034af1",
+      "names": [
+        {
+          "value": "Reyhan //"
         }
       ],
       "eventsFacts": [
