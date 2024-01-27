@@ -6461,6 +6461,19 @@
         }
       ],
       "id": "F377*9fdc498b-52a3-4e53-83aa-739a06bce300"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I906*9dd42de4-0728-48a8-8036-63225121e29a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I904*9622a54d-7a11-47f0-8100-63f453672d89"
+        }
+      ],
+      "id": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
     }
   ],
   "head": {
@@ -25316,6 +25329,11 @@
           "ref": "F377*9fdc498b-52a3-4e53-83aa-739a06bce300"
         }
       ],
+      "fams": [
+        {
+          "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
+        }
+      ],
       "id": "I904*9622a54d-7a11-47f0-8100-63f453672d89",
       "names": [
         {
@@ -25339,6 +25357,25 @@
       "names": [
         {
           "value": "Likanus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
+        }
+      ],
+      "id": "I906*9dd42de4-0728-48a8-8036-63225121e29a",
+      "names": [
+        {
+          "value": "Arden //"
         }
       ],
       "eventsFacts": [
