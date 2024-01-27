@@ -7290,6 +7290,9 @@
         },
         {
           "ref": "I1027*e5ae5281-55e0-47b9-b799-cce48d9a54fa"
+        },
+        {
+          "ref": "I1029*2d5bb2c4-5e42-47c3-a609-b944424f2338"
         }
       ],
       "husbandRefs": [
@@ -28882,6 +28885,25 @@
         {
           "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/3/8e1e43a1-b1f8-4c46-9257-48f1d59d1690.png",
           "fileTag": "FILE"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F425*df6a41d3-b736-43ba-834d-3ff40f616b1e"
+        }
+      ],
+      "id": "I1029*2d5bb2c4-5e42-47c3-a609-b944424f2338",
+      "names": [
+        {
+          "value": "Lamria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
