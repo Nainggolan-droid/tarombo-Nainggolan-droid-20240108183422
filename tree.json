@@ -6772,6 +6772,19 @@
         }
       ],
       "id": "F394*36fce324-f42d-4168-a120-bf3f77d9a29b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I953*8f0c8c00-aa75-4185-aafd-400aec900f8a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I950*576e4c6c-110f-43ee-ae1e-7e1c19444a70"
+        }
+      ],
+      "id": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
     }
   ],
   "head": {
@@ -26559,6 +26572,11 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+        }
+      ],
       "id": "I950*576e4c6c-110f-43ee-ae1e-7e1c19444a70",
       "names": [
         {
@@ -26607,6 +26625,25 @@
       "names": [
         {
           "value": "Alparian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+        }
+      ],
+      "id": "I953*8f0c8c00-aa75-4185-aafd-400aec900f8a",
+      "names": [
+        {
+          "value": "Ridwan //"
         }
       ],
       "eventsFacts": [
