@@ -7072,6 +7072,19 @@
         }
       ],
       "id": "F412*b814214d-8b67-4a5f-bfc4-01293971285a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I993*7d9c19c7-5d6c-42b6-adb3-5dcaffe7e3ea"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I977*044a48a5-a74e-466b-9f12-a530d35e7ce0"
+        }
+      ],
+      "id": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
     }
   ],
   "head": {
@@ -27537,6 +27550,11 @@
           "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
       "id": "I977*044a48a5-a74e-466b-9f12-a530d35e7ce0",
       "names": [
         {
@@ -27844,6 +27862,25 @@
       "names": [
         {
           "value": "Desmon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I993*7d9c19c7-5d6c-42b6-adb3-5dcaffe7e3ea",
+      "names": [
+        {
+          "value": "H.Lomoan //"
         }
       ],
       "eventsFacts": [
