@@ -6021,6 +6021,9 @@
       "childRefs": [
         {
           "ref": "I841*0aa4a60a-05a5-44a8-9351-cc16e9e2ae36"
+        },
+        {
+          "ref": "I842*b9d91c60-4ed2-4a54-9deb-1944d1faf8ba"
         }
       ],
       "husbandRefs": [
@@ -23618,6 +23621,25 @@
       "names": [
         {
           "value": "Marjo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I842*b9d91c60-4ed2-4a54-9deb-1944d1faf8ba",
+      "names": [
+        {
+          "value": "Daniel //"
         }
       ],
       "eventsFacts": [
