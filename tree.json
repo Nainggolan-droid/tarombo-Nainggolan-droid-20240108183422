@@ -7083,6 +7083,9 @@
         },
         {
           "ref": "I1000*dd8f1937-ae15-4194-92eb-cd1778d5c376"
+        },
+        {
+          "ref": "I1002*d4c58697-a357-431b-906d-e2d1c6eaaae4"
         }
       ],
       "husbandRefs": [
@@ -28097,6 +28100,25 @@
       "names": [
         {
           "value": " /Tampubolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I1002*d4c58697-a357-431b-906d-e2d1c6eaaae4",
+      "names": [
+        {
+          "value": "Rukia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
