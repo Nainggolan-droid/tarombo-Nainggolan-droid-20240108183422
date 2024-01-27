@@ -6089,6 +6089,9 @@
         },
         {
           "ref": "I860*b563d2b6-fe92-4b8b-afc1-d5967145f0b2"
+        },
+        {
+          "ref": "I862*d2b24eb9-8c34-4a69-b79f-58532161450b"
         }
       ],
       "husbandRefs": [
@@ -24133,6 +24136,25 @@
       "names": [
         {
           "value": " /Tobing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I862*d2b24eb9-8c34-4a69-b79f-58532161450b",
+      "names": [
+        {
+          "value": "Boyna Tiurna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
