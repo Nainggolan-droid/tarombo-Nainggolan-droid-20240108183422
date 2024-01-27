@@ -7179,6 +7179,9 @@
       "childRefs": [
         {
           "ref": "I1007*362719eb-6b7d-45f5-a0e3-1f2c46965c29"
+        },
+        {
+          "ref": "I1008*c8c160ad-3b46-45fa-bbd8-413db07b1d3f"
         }
       ],
       "husbandRefs": [
@@ -28257,6 +28260,25 @@
       "names": [
         {
           "value": "Shopi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F419*cdd6a7ef-48cb-4282-86f7-9c76ceb6ad62"
+        }
+      ],
+      "id": "I1008*c8c160ad-3b46-45fa-bbd8-413db07b1d3f",
+      "names": [
+        {
+          "value": "Zepanya //"
         }
       ],
       "eventsFacts": [
