@@ -5883,6 +5883,9 @@
       "childRefs": [
         {
           "ref": "I825*65d88cf3-8284-48c0-8463-80f813c43855"
+        },
+        {
+          "ref": "I828*6e42e86c-ed03-4f2a-98b4-6806d134f54c"
         }
       ],
       "husbandRefs": [
@@ -23221,6 +23224,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
+        }
+      ],
+      "id": "I828*6e42e86c-ed03-4f2a-98b4-6806d134f54c",
+      "names": [
+        {
+          "value": "Darius //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
