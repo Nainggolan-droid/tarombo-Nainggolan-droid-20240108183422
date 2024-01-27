@@ -7460,6 +7460,9 @@
       "childRefs": [
         {
           "ref": "I1044*f6f790ab-366b-467d-ac33-8efbe509e32d"
+        },
+        {
+          "ref": "I1045*9b3e8219-f94a-4c46-99ea-0c5d844029cf"
         }
       ],
       "husbandRefs": [
@@ -29324,6 +29327,25 @@
       "names": [
         {
           "value": "Jonatan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F436*a00076a2-8f52-4b8f-9a7f-1b2efde939b3"
+        }
+      ],
+      "id": "I1045*9b3e8219-f94a-4c46-99ea-0c5d844029cf",
+      "names": [
+        {
+          "value": "Firman //"
         }
       ],
       "eventsFacts": [
