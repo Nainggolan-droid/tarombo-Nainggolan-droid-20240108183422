@@ -6994,6 +6994,9 @@
         },
         {
           "ref": "I982*d17b0a5f-28dd-4241-bee7-cac2c0321c3a"
+        },
+        {
+          "ref": "I983*0565f330-2f73-4686-8fcc-7bb78af640e7"
         }
       ],
       "husbandRefs": [
@@ -27560,6 +27563,25 @@
       "names": [
         {
           "value": "Binsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+        }
+      ],
+      "id": "I983*0565f330-2f73-4686-8fcc-7bb78af640e7",
+      "names": [
+        {
+          "value": "Horas //"
         }
       ],
       "eventsFacts": [
