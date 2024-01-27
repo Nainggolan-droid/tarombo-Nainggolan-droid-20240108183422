@@ -6325,6 +6325,9 @@
         },
         {
           "ref": "I897*a8c1c81f-bdcb-48ff-8e48-f27840a56743"
+        },
+        {
+          "ref": "I898*d75dc109-9e39-419e-9856-0220ef415c1e"
         }
       ],
       "husbandRefs": [
@@ -25122,6 +25125,25 @@
       "names": [
         {
           "value": "Masda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I898*d75dc109-9e39-419e-9856-0220ef415c1e",
+      "names": [
+        {
+          "value": "Nada Riana //"
         }
       ],
       "eventsFacts": [
