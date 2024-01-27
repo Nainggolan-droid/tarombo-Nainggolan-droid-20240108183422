@@ -7174,6 +7174,19 @@
           "ref": "I1004*07b8a403-9f26-4207-b62b-599ee78246ef"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1007*362719eb-6b7d-45f5-a0e3-1f2c46965c29"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1006*82a870dd-a073-4fd0-b942-623c6879c1b8"
+        }
+      ],
+      "id": "F419*cdd6a7ef-48cb-4282-86f7-9c76ceb6ad62"
     }
   ],
   "head": {
@@ -28215,6 +28228,11 @@
           "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F419*cdd6a7ef-48cb-4282-86f7-9c76ceb6ad62"
+        }
+      ],
       "id": "I1006*82a870dd-a073-4fd0-b942-623c6879c1b8",
       "names": [
         {
@@ -28226,6 +28244,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F419*cdd6a7ef-48cb-4282-86f7-9c76ceb6ad62"
+        }
+      ],
+      "id": "I1007*362719eb-6b7d-45f5-a0e3-1f2c46965c29",
+      "names": [
+        {
+          "value": "Shopi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
