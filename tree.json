@@ -6262,6 +6262,9 @@
         },
         {
           "ref": "I878*49c07c92-cd72-4192-88d2-5a1597415eb2"
+        },
+        {
+          "ref": "I879*115d2363-55e7-4a63-bc6b-b92a9f2522a6"
         }
       ],
       "husbandRefs": [
@@ -24605,6 +24608,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F366*7e2eba9a-c4e5-4123-a8f5-31c9d5dca3d7"
+        }
+      ],
+      "id": "I879*115d2363-55e7-4a63-bc6b-b92a9f2522a6",
+      "names": [
+        {
+          "value": "Martha Deviani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
