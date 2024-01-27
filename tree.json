@@ -6548,6 +6548,9 @@
         },
         {
           "ref": "I924*17bc39b2-2df5-44e9-99f9-e7e82f801f13"
+        },
+        {
+          "ref": "I925*d748d560-6602-4d82-b589-2deb93bffbf9"
         }
       ],
       "husbandRefs": [
@@ -25867,6 +25870,25 @@
       "names": [
         {
           "value": "Donris //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I925*d748d560-6602-4d82-b589-2deb93bffbf9",
+      "names": [
+        {
+          "value": "Minsar //"
         }
       ],
       "eventsFacts": [
