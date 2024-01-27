@@ -7650,6 +7650,19 @@
         }
       ],
       "id": "F447*7c030d5c-488f-4b33-9da2-33c7c29bd792"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
+        }
+      ],
+      "id": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
     }
   ],
   "head": {
@@ -29998,10 +30011,34 @@
           "ref": "F447*7c030d5c-488f-4b33-9da2-33c7c29bd792"
         }
       ],
+      "fams": [
+        {
+          "ref": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
+        }
+      ],
       "id": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947",
       "names": [
         {
           "value": "Udin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
+        }
+      ],
+      "id": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95",
+      "names": [
+        {
+          "value": "Iwan //"
         }
       ],
       "eventsFacts": [
