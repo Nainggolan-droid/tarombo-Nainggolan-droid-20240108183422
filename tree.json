@@ -7700,6 +7700,9 @@
       "childRefs": [
         {
           "ref": "I1074*e500241b-ae7d-4f8b-a342-0523321ea584"
+        },
+        {
+          "ref": "I1075*86370cb4-861e-4c1f-997d-76a187182054"
         }
       ],
       "husbandRefs": [
@@ -30202,6 +30205,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1075*86370cb4-861e-4c1f-997d-76a187182054",
+      "names": [
+        {
+          "value": "Arta Uli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
