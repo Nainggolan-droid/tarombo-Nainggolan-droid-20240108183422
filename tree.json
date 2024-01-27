@@ -6033,6 +6033,9 @@
         },
         {
           "ref": "I845*c2741dd5-5f71-4ce5-a25e-4b1da6f0d9aa"
+        },
+        {
+          "ref": "I846*e0abc2b0-204c-44b5-b9c7-2ad2395d311e"
         }
       ],
       "husbandRefs": [
@@ -23708,6 +23711,25 @@
         {
           "nick": "Op.Budi",
           "value": "Gasal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I846*e0abc2b0-204c-44b5-b9c7-2ad2395d311e",
+      "names": [
+        {
+          "value": "Gustap //"
         }
       ],
       "eventsFacts": [
