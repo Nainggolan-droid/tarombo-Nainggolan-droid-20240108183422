@@ -6328,6 +6328,9 @@
         },
         {
           "ref": "I898*d75dc109-9e39-419e-9856-0220ef415c1e"
+        },
+        {
+          "ref": "I900*1c366b3d-9331-4853-b263-0d40f562901f"
         }
       ],
       "husbandRefs": [
@@ -25182,6 +25185,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I900*1c366b3d-9331-4853-b263-0d40f562901f",
+      "names": [
+        {
+          "value": "Imelda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
