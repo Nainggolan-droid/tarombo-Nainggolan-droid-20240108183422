@@ -6828,6 +6828,9 @@
       "childRefs": [
         {
           "ref": "I960*ead5448a-ee43-4d97-b484-e7b1a2fcad9b"
+        },
+        {
+          "ref": "I962*61a93456-70b1-4bb5-b768-a44fb06a804f"
         }
       ],
       "husbandRefs": [
@@ -26888,6 +26891,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
+        }
+      ],
+      "id": "I962*61a93456-70b1-4bb5-b768-a44fb06a804f",
+      "names": [
+        {
+          "value": "Koko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
