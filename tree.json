@@ -7703,6 +7703,9 @@
         },
         {
           "ref": "I1075*86370cb4-861e-4c1f-997d-76a187182054"
+        },
+        {
+          "ref": "I1077*c8ee490d-1ced-4395-8eff-2360c801eb43"
         }
       ],
       "husbandRefs": [
@@ -30255,6 +30258,25 @@
       "names": [
         {
           "value": " /Hutagalung/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1077*c8ee490d-1ced-4395-8eff-2360c801eb43",
+      "names": [
+        {
+          "value": "Antim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
