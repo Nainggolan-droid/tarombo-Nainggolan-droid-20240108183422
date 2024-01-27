@@ -6707,6 +6707,9 @@
         },
         {
           "ref": "I945*7e9ede30-4f87-4c69-b324-04d8208171c4"
+        },
+        {
+          "ref": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f"
         }
       ],
       "husbandRefs": [
@@ -26465,6 +26468,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+        }
+      ],
+      "id": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f",
+      "names": [
+        {
+          "value": "Roslina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
