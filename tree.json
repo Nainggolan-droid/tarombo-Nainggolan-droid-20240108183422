@@ -6316,6 +6316,9 @@
         },
         {
           "ref": "I891*0c2cb47d-d923-4d63-8014-b3d35292e74d"
+        },
+        {
+          "ref": "I893*ea8b8ae1-3c72-4f88-a140-e0e379dc26a9"
         }
       ],
       "husbandRefs": [
@@ -25000,6 +25003,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I893*ea8b8ae1-3c72-4f88-a140-e0e379dc26a9",
+      "names": [
+        {
+          "value": "Juwita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
