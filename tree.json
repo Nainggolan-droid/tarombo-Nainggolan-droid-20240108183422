@@ -7893,6 +7893,19 @@
         }
       ],
       "id": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1100*8b7af276-7831-489c-ac88-e7a81b539d5a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1099*f7cdac0b-6385-4d95-9285-14e9d52a7c06"
+        }
+      ],
+      "id": "F463*7560c07d-ab85-4d94-a0c4-ba747b655398"
     }
   ],
   "head": {
@@ -30857,10 +30870,34 @@
           "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
         }
       ],
+      "fams": [
+        {
+          "ref": "F463*7560c07d-ab85-4d94-a0c4-ba747b655398"
+        }
+      ],
       "id": "I1099*f7cdac0b-6385-4d95-9285-14e9d52a7c06",
       "names": [
         {
           "value": "Bangun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F463*7560c07d-ab85-4d94-a0c4-ba747b655398"
+        }
+      ],
+      "id": "I1100*8b7af276-7831-489c-ac88-e7a81b539d5a",
+      "names": [
+        {
+          "value": "Ganda //"
         }
       ],
       "eventsFacts": [
