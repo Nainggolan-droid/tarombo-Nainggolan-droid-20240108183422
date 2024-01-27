@@ -6900,6 +6900,19 @@
         }
       ],
       "id": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I969*c7f275cc-bcc6-4436-ae38-d2868d9cdc00"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I966*05fd516e-d773-4e42-93e2-58eb7dd8ffc7"
+        }
+      ],
+      "id": "F403*fd34e619-1776-449a-beb1-7a21cc61afca"
     }
   ],
   "head": {
@@ -27118,6 +27131,11 @@
           "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F403*fd34e619-1776-449a-beb1-7a21cc61afca"
+        }
+      ],
       "id": "I966*05fd516e-d773-4e42-93e2-58eb7dd8ffc7",
       "names": [
         {
@@ -27160,6 +27178,25 @@
       "names": [
         {
           "value": "Panelhung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F403*fd34e619-1776-449a-beb1-7a21cc61afca"
+        }
+      ],
+      "id": "I969*c7f275cc-bcc6-4436-ae38-d2868d9cdc00",
+      "names": [
+        {
+          "value": "Op.Buta //"
         }
       ],
       "eventsFacts": [
