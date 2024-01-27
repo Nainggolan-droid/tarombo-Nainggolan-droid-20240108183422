@@ -6970,6 +6970,19 @@
         }
       ],
       "id": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I979*1870377b-03c3-4ca2-b8db-28a5fdb7f327"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I974*241d4d78-d15d-40c8-8537-ea7a115e50e2"
+        }
+      ],
+      "id": "F407*71f52cbe-6cca-48ec-b5de-701ea8c0dc3e"
     }
   ],
   "head": {
@@ -27361,6 +27374,11 @@
           "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F407*71f52cbe-6cca-48ec-b5de-701ea8c0dc3e"
+        }
+      ],
       "id": "I974*241d4d78-d15d-40c8-8537-ea7a115e50e2",
       "names": [
         {
@@ -27447,6 +27465,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F407*71f52cbe-6cca-48ec-b5de-701ea8c0dc3e"
+        }
+      ],
+      "id": "I979*1870377b-03c3-4ca2-b8db-28a5fdb7f327",
+      "names": [
+        {
+          "value": "Tiur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
