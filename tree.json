@@ -6313,6 +6313,9 @@
       "childRefs": [
         {
           "ref": "I885*333ebadb-622f-4215-ab5f-723f9ab1dec6"
+        },
+        {
+          "ref": "I891*0c2cb47d-d923-4d63-8014-b3d35292e74d"
         }
       ],
       "husbandRefs": [
@@ -24946,6 +24949,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I891*0c2cb47d-d923-4d63-8014-b3d35292e74d",
+      "names": [
+        {
+          "value": "Derita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
