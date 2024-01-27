@@ -7092,6 +7092,9 @@
         },
         {
           "ref": "I1006*82a870dd-a073-4fd0-b942-623c6879c1b8"
+        },
+        {
+          "ref": "I1009*e9810454-be7b-487b-94cf-83e2e1f2a3ba"
         }
       ],
       "husbandRefs": [
@@ -28285,6 +28288,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I1009*e9810454-be7b-487b-94cf-83e2e1f2a3ba",
+      "names": [
+        {
+          "value": "Fransisco //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
