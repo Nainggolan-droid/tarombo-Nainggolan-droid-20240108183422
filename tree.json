@@ -5895,6 +5895,9 @@
         },
         {
           "ref": "I833*c315c6d6-5d24-4a50-99fc-8791495f02cd"
+        },
+        {
+          "ref": "I836*c133c5c5-2a63-4ea7-8fd5-853b1227d0d9"
         }
       ],
       "husbandRefs": [
@@ -23438,6 +23441,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
+        }
+      ],
+      "id": "I836*c133c5c5-2a63-4ea7-8fd5-853b1227d0d9",
+      "names": [
+        {
+          "value": "Roma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
