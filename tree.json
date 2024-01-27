@@ -6326,6 +6326,9 @@
       "childRefs": [
         {
           "ref": "I886*5467bba1-9c83-4e17-b58c-a96d6d8ceae7"
+        },
+        {
+          "ref": "I887*054f4899-8f7b-48a0-8b42-b9c25b0030a2"
         }
       ],
       "husbandRefs": [
@@ -24842,6 +24845,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+        }
+      ],
+      "id": "I887*054f4899-8f7b-48a0-8b42-b9c25b0030a2",
+      "names": [
+        {
+          "value": "Yanti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
