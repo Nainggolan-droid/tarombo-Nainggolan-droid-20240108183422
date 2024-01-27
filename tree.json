@@ -6480,6 +6480,19 @@
         }
       ],
       "id": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I909*a564a483-0767-4f43-931f-21ee36525357"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I906*9dd42de4-0728-48a8-8036-63225121e29a"
+        }
+      ],
+      "id": "F379*9fbbf793-b437-4f7b-8f58-6d6342e69acc"
     }
   ],
   "head": {
@@ -25378,6 +25391,11 @@
           "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F379*9fbbf793-b437-4f7b-8f58-6d6342e69acc"
+        }
+      ],
       "id": "I906*9dd42de4-0728-48a8-8036-63225121e29a",
       "names": [
         {
@@ -25421,6 +25439,25 @@
         {
           "nick": "Op.Sehat",
           "value": "Manginar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F379*9fbbf793-b437-4f7b-8f58-6d6342e69acc"
+        }
+      ],
+      "id": "I909*a564a483-0767-4f43-931f-21ee36525357",
+      "names": [
+        {
+          "value": "Jon //"
         }
       ],
       "eventsFacts": [
