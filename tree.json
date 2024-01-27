@@ -7390,6 +7390,9 @@
       "childRefs": [
         {
           "ref": "I1034*ff13ae4f-f5af-4102-899c-c87bddc6d581"
+        },
+        {
+          "ref": "I1035*ba7dc12b-131c-4069-8558-24edb0f68645"
         }
       ],
       "husbandRefs": [
@@ -29055,6 +29058,25 @@
       "names": [
         {
           "value": "Galunggung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+        }
+      ],
+      "id": "I1035*ba7dc12b-131c-4069-8558-24edb0f68645",
+      "names": [
+        {
+          "value": "Raya //"
         }
       ],
       "eventsFacts": [
