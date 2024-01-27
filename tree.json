@@ -6173,6 +6173,9 @@
       "childRefs": [
         {
           "ref": "I865*c4433c23-7036-4335-b3c8-1d6a7201d60d"
+        },
+        {
+          "ref": "I866*d3db66da-84e8-4f6f-b026-40cd5ddf0bba"
         }
       ],
       "husbandRefs": [
@@ -24240,6 +24243,25 @@
       "names": [
         {
           "value": "Moses //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
+        }
+      ],
+      "id": "I866*d3db66da-84e8-4f6f-b026-40cd5ddf0bba",
+      "names": [
+        {
+          "value": "Novianto //"
         }
       ],
       "eventsFacts": [
