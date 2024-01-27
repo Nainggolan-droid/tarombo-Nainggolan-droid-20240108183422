@@ -7712,6 +7712,9 @@
         },
         {
           "ref": "I1080*2438da74-18f6-4576-9425-2cbea932550e"
+        },
+        {
+          "ref": "I1082*4e90aa16-2d51-4eef-97ca-26bb13eace91"
         }
       ],
       "husbandRefs": [
@@ -30383,6 +30386,25 @@
       "names": [
         {
           "value": " /Hutabarat/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1082*4e90aa16-2d51-4eef-97ca-26bb13eace91",
+      "names": [
+        {
+          "value": "Norman Sentiawan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
