@@ -6329,6 +6329,9 @@
         },
         {
           "ref": "I887*054f4899-8f7b-48a0-8b42-b9c25b0030a2"
+        },
+        {
+          "ref": "I888*2488af81-5296-4c4e-8453-a0075401693d"
         }
       ],
       "husbandRefs": [
@@ -24858,6 +24861,25 @@
       "names": [
         {
           "value": "Yanti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+        }
+      ],
+      "id": "I888*2488af81-5296-4c4e-8453-a0075401693d",
+      "names": [
+        {
+          "value": "Sila //"
         }
       ],
       "eventsFacts": [
