@@ -7709,6 +7709,9 @@
         },
         {
           "ref": "I1078*32b1cbfe-7f79-4ca2-be18-cbbb9261f25b"
+        },
+        {
+          "ref": "I1080*2438da74-18f6-4576-9425-2cbea932550e"
         }
       ],
       "husbandRefs": [
@@ -30330,6 +30333,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1080*2438da74-18f6-4576-9425-2cbea932550e",
+      "names": [
+        {
+          "value": "Damena //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
