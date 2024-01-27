@@ -6074,6 +6074,9 @@
         },
         {
           "ref": "I852*11a2d3da-5038-499e-b72b-bf07b1979473"
+        },
+        {
+          "ref": "I853*a2ff0e22-69f6-46bf-82ce-254e17b6f30a"
         }
       ],
       "husbandRefs": [
@@ -23899,6 +23902,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I853*a2ff0e22-69f6-46bf-82ce-254e17b6f30a",
+      "names": [
+        {
+          "value": "Ratna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
