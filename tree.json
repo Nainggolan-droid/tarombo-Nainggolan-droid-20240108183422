@@ -7526,13 +7526,15 @@
     {
       "husbandRefs": [
         {
-          "ref": "I1052*a85f3ee2-1a3e-4115-9f5c-488482128de2"
-        },
-        {
           "ref": "I1053*9d0bacde-8a20-4b82-a1ff-b011a30f7924"
         }
       ],
-      "id": "F440*d4629843-e918-454f-8c0d-8de449a5ce1e"
+      "id": "F440*d4629843-e918-454f-8c0d-8de449a5ce1e",
+      "wifeRefs": [
+        {
+          "ref": "I1052*a85f3ee2-1a3e-4115-9f5c-488482128de2"
+        }
+      ]
     }
   ],
   "head": {
@@ -29566,7 +29568,7 @@
       "eventsFacts": [
         {
           "tag": "SEX",
-          "value": "M"
+          "value": "F"
         }
       ]
     },
