@@ -5899,6 +5899,9 @@
       "childRefs": [
         {
           "ref": "I826*bc7f9e7f-a640-49ff-b185-a05cdd471435"
+        },
+        {
+          "ref": "I829*b9f8fee2-3b27-4a27-9c3c-2f79d7c2d9ef"
         }
       ],
       "husbandRefs": [
@@ -23243,6 +23246,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F345*e04dab89-bd49-4edb-a3a5-19d5fa0def52"
+        }
+      ],
+      "id": "I829*b9f8fee2-3b27-4a27-9c3c-2f79d7c2d9ef",
+      "names": [
+        {
+          "value": "Nuri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
