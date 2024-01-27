@@ -6189,6 +6189,9 @@
       "childRefs": [
         {
           "ref": "I867*2d345ee6-a156-42b8-bf2e-36cf28034af1"
+        },
+        {
+          "ref": "I868*728598d6-1379-4b4d-a4ef-982d9ce4888a"
         }
       ],
       "husbandRefs": [
@@ -24300,6 +24303,25 @@
       "names": [
         {
           "value": "Reyhan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F362*c6fb674a-5a43-4968-9330-a0bb8b0a7598"
+        }
+      ],
+      "id": "I868*728598d6-1379-4b4d-a4ef-982d9ce4888a",
+      "names": [
+        {
+          "value": "Nabil //"
         }
       ],
       "eventsFacts": [
