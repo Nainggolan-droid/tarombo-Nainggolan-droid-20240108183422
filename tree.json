@@ -6918,6 +6918,9 @@
       "childRefs": [
         {
           "ref": "I970*2a631be7-c21d-4942-bc34-8d1f8fe3f2f0"
+        },
+        {
+          "ref": "I971*081d9fe2-f204-4a4f-aa1e-a95b0ce95c81"
         }
       ],
       "husbandRefs": [
@@ -27234,6 +27237,25 @@
       "names": [
         {
           "value": "Jambual //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
+        }
+      ],
+      "id": "I971*081d9fe2-f204-4a4f-aa1e-a95b0ce95c81",
+      "names": [
+        {
+          "value": "Abarham //"
         }
       ],
       "eventsFacts": [
