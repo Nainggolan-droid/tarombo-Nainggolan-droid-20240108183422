@@ -6047,6 +6047,19 @@
         }
       ],
       "id": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I848*dab2be6f-b8ea-4e77-9a84-64e78013a1a4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I841*0aa4a60a-05a5-44a8-9351-cc16e9e2ae36"
+        }
+      ],
+      "id": "F354*f10911ed-d174-4c11-93c3-c5dc8e23a393"
     }
   ],
   "head": {
@@ -23632,6 +23645,11 @@
           "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F354*f10911ed-d174-4c11-93c3-c5dc8e23a393"
+        }
+      ],
       "id": "I841*0aa4a60a-05a5-44a8-9351-cc16e9e2ae36",
       "names": [
         {
@@ -23752,6 +23770,25 @@
       "names": [
         {
           "value": "Cyrus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F354*f10911ed-d174-4c11-93c3-c5dc8e23a393"
+        }
+      ],
+      "id": "I848*dab2be6f-b8ea-4e77-9a84-64e78013a1a4",
+      "names": [
+        {
+          "value": "Tarudin //"
         }
       ],
       "eventsFacts": [
