@@ -7586,6 +7586,19 @@
           "ref": "I1058*a32983b7-e9b6-46dc-9dbc-9466ff0e0bc8"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1061*f58bc0b2-2cb6-49ea-9d52-f8b5efd2c30b"
+        }
+      ],
+      "id": "F444*41db5683-29b9-495f-85ea-dc1f78c7c7e0",
+      "wifeRefs": [
+        {
+          "ref": "I1060*4a3a93a1-338a-412e-9395-ffffc683297f"
+        }
+      ]
     }
   ],
   "head": {
@@ -29767,6 +29780,11 @@
           "ref": "F439*20342251-02d4-45d6-b4d3-9e090f843216"
         }
       ],
+      "fams": [
+        {
+          "ref": "F444*41db5683-29b9-495f-85ea-dc1f78c7c7e0"
+        }
+      ],
       "id": "I1060*4a3a93a1-338a-412e-9395-ffffc683297f",
       "names": [
         {
@@ -29777,6 +29795,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F444*41db5683-29b9-495f-85ea-dc1f78c7c7e0"
+        }
+      ],
+      "id": "I1061*f58bc0b2-2cb6-49ea-9d52-f8b5efd2c30b",
+      "names": [
+        {
+          "value": " /Silalahi/"
         }
       ]
     }
