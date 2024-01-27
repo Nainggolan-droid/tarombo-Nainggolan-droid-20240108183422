@@ -6092,6 +6092,9 @@
         },
         {
           "ref": "I862*d2b24eb9-8c34-4a69-b79f-58532161450b"
+        },
+        {
+          "ref": "I863*7435c143-829d-4eec-9c17-a620b055edb5"
         }
       ],
       "husbandRefs": [
@@ -24149,6 +24152,25 @@
       "names": [
         {
           "value": "Boyna Tiurna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I863*7435c143-829d-4eec-9c17-a620b055edb5",
+      "names": [
+        {
+          "value": "Rotua Boydar //"
         }
       ],
       "eventsFacts": [
