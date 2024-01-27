@@ -6712,6 +6712,19 @@
         }
       ],
       "id": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I943*62d19802-a821-4b2a-a466-28cacd224fde"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I942*bc7904ec-45d1-41f5-948a-8cab4483206a"
+        }
+      ],
+      "id": "F392*36574341-5b48-4add-a7db-8d6b262f7eac"
     }
   ],
   "head": {
@@ -26336,11 +26349,35 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F392*36574341-5b48-4add-a7db-8d6b262f7eac"
+        }
+      ],
       "id": "I942*bc7904ec-45d1-41f5-948a-8cab4483206a",
       "names": [
         {
           "nick": "A.Jonner",
           "value": "Marinus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F392*36574341-5b48-4add-a7db-8d6b262f7eac"
+        }
+      ],
+      "id": "I943*62d19802-a821-4b2a-a466-28cacd224fde",
+      "names": [
+        {
+          "value": "Jonner //"
         }
       ],
       "eventsFacts": [
