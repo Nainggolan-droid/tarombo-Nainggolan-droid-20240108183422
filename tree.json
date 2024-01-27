@@ -7429,6 +7429,19 @@
           "ref": "I1037*9002901d-d6f1-4043-96a7-3bf6a807a891"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1042*8d25372a-835e-41d9-93dd-91ada88dedba"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1041*75559ee5-89f5-4065-bcba-b6811712d98a"
+        }
+      ],
+      "id": "F434*ec515ba9-76ba-49e1-8b6f-1c52d96ef247"
     }
   ],
   "head": {
@@ -29208,11 +29221,35 @@
           "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F434*ec515ba9-76ba-49e1-8b6f-1c52d96ef247"
+        }
+      ],
       "id": "I1041*75559ee5-89f5-4065-bcba-b6811712d98a",
       "names": [
         {
           "nick": "A.Kevin",
           "value": "Tumpak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F434*ec515ba9-76ba-49e1-8b6f-1c52d96ef247"
+        }
+      ],
+      "id": "I1042*8d25372a-835e-41d9-93dd-91ada88dedba",
+      "names": [
+        {
+          "value": "Kevin //"
         }
       ],
       "eventsFacts": [
