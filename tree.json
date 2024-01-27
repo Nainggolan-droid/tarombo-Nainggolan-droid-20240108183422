@@ -6680,6 +6680,19 @@
         }
       ],
       "id": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I939*31ebf4f1-3c1d-40e5-9ef5-fb0a809e4e0d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I905*056b36ea-4533-439f-84dd-4b924d5d1016"
+        }
+      ],
+      "id": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
     }
   ],
   "head": {
@@ -25559,6 +25572,11 @@
           "ref": "F377*9fdc498b-52a3-4e53-83aa-739a06bce300"
         }
       ],
+      "fams": [
+        {
+          "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
+        }
+      ],
       "id": "I905*056b36ea-4533-439f-84dd-4b924d5d1016",
       "names": [
         {
@@ -26220,6 +26238,25 @@
       "names": [
         {
           "value": "Gredi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
+        }
+      ],
+      "id": "I939*31ebf4f1-3c1d-40e5-9ef5-fb0a809e4e0d",
+      "names": [
+        {
+          "value": "Guntur //"
         }
       ],
       "eventsFacts": [
