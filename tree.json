@@ -6551,6 +6551,9 @@
         },
         {
           "ref": "I925*d748d560-6602-4d82-b589-2deb93bffbf9"
+        },
+        {
+          "ref": "I926*caf27aa1-90c7-45e3-80ec-e6bbdcec38ad"
         }
       ],
       "husbandRefs": [
@@ -25889,6 +25892,25 @@
       "names": [
         {
           "value": "Minsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I926*caf27aa1-90c7-45e3-80ec-e6bbdcec38ad",
+      "names": [
+        {
+          "value": "Hendra //"
         }
       ],
       "eventsFacts": [
