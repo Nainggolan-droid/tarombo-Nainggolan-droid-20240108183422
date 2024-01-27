@@ -6622,6 +6622,9 @@
         },
         {
           "ref": "I928*262d7951-ff4a-4bcf-8a5c-bff55d1921ec"
+        },
+        {
+          "ref": "I929*375732ec-7a76-402f-a8b5-396b1c7d8982"
         }
       ],
       "husbandRefs": [
@@ -25970,6 +25973,25 @@
       "names": [
         {
           "value": "Kristo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
+        }
+      ],
+      "id": "I929*375732ec-7a76-402f-a8b5-396b1c7d8982",
+      "names": [
+        {
+          "value": "Alfredo //"
         }
       ],
       "eventsFacts": [
