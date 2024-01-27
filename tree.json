@@ -5898,6 +5898,9 @@
         },
         {
           "ref": "I836*c133c5c5-2a63-4ea7-8fd5-853b1227d0d9"
+        },
+        {
+          "ref": "I838*bbc72175-5571-44de-a84b-69b0b342c4b4"
         }
       ],
       "husbandRefs": [
@@ -23491,6 +23494,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
+        }
+      ],
+      "id": "I838*bbc72175-5571-44de-a84b-69b0b342c4b4",
+      "names": [
+        {
+          "value": "Mida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
