@@ -6889,6 +6889,9 @@
         },
         {
           "ref": "I967*d06986fb-4862-40c6-99be-e5168b0572b4"
+        },
+        {
+          "ref": "I968*e62f8f58-d5eb-4509-8838-afb05dfeae04"
         }
       ],
       "husbandRefs": [
@@ -27138,6 +27141,25 @@
       "names": [
         {
           "value": "Op.Suhi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
+        }
+      ],
+      "id": "I968*e62f8f58-d5eb-4509-8838-afb05dfeae04",
+      "names": [
+        {
+          "value": "Panelhung //"
         }
       ],
       "eventsFacts": [
