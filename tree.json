@@ -6068,6 +6068,9 @@
       "childRefs": [
         {
           "ref": "I850*293bd1ce-81fb-42f0-8a73-0c1ef4aa3398"
+        },
+        {
+          "ref": "I851*6491269d-ff93-4cc7-b009-f7507355970c"
         }
       ],
       "husbandRefs": [
@@ -23848,6 +23851,25 @@
       "names": [
         {
           "value": "Mulia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I851*6491269d-ff93-4cc7-b009-f7507355970c",
+      "names": [
+        {
+          "value": "Firman //"
         }
       ],
       "eventsFacts": [
