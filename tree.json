@@ -7032,6 +7032,9 @@
         },
         {
           "ref": "I988*1934dfc4-04bb-4906-85a8-0ecde1dfae89"
+        },
+        {
+          "ref": "I989*b443bd49-8a48-43d0-bd79-43f1b79e4b82"
         }
       ],
       "husbandRefs": [
@@ -27724,6 +27727,25 @@
       "names": [
         {
           "value": "Samsul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
+        }
+      ],
+      "id": "I989*b443bd49-8a48-43d0-bd79-43f1b79e4b82",
+      "names": [
+        {
+          "value": "Juli //"
         }
       ],
       "eventsFacts": [
