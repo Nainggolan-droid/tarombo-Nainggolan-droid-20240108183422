@@ -5939,6 +5939,19 @@
           "ref": "I829*eb54d053-a0dd-42db-8e03-9e717aa4bd79"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I832*66619290-6feb-476b-9574-dada2ddcf372"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I831*9b05f5e3-cf42-4a7e-b184-3de133eed680"
+        }
+      ],
+      "id": "F348*246ec2f8-42bf-425e-9fd8-a2d68c81f15a"
     }
   ],
   "head": {
@@ -23308,11 +23321,35 @@
           "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F348*246ec2f8-42bf-425e-9fd8-a2d68c81f15a"
+        }
+      ],
       "id": "I831*9b05f5e3-cf42-4a7e-b184-3de133eed680",
       "names": [
         {
           "nick": "A.Samuel",
           "value": "Udin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F348*246ec2f8-42bf-425e-9fd8-a2d68c81f15a"
+        }
+      ],
+      "id": "I832*66619290-6feb-476b-9574-dada2ddcf372",
+      "names": [
+        {
+          "value": "Samuel //"
         }
       ],
       "eventsFacts": [
