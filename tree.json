@@ -7043,6 +7043,19 @@
         }
       ],
       "id": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I990*97487891-129b-45cf-9b19-3e7c3096469f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I988*1934dfc4-04bb-4906-85a8-0ecde1dfae89"
+        }
+      ],
+      "id": "F411*a562d308-5bf1-4b25-b109-3e73e6dff048"
     }
   ],
   "head": {
@@ -27723,6 +27736,11 @@
           "ref": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F411*a562d308-5bf1-4b25-b109-3e73e6dff048"
+        }
+      ],
       "id": "I988*1934dfc4-04bb-4906-85a8-0ecde1dfae89",
       "names": [
         {
@@ -27752,6 +27770,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F411*a562d308-5bf1-4b25-b109-3e73e6dff048"
+        }
+      ],
+      "id": "I990*97487891-129b-45cf-9b19-3e7c3096469f",
+      "names": [
+        {
+          "value": "Juan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
