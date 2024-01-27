@@ -7942,6 +7942,9 @@
       "childRefs": [
         {
           "ref": "I1108*5900c4cf-1dad-486b-b33a-6f563b5483bc"
+        },
+        {
+          "ref": "I1109*a156d6b4-e26e-4e21-88f3-7e8d9c81f7fa"
         }
       ],
       "husbandRefs": [
@@ -31104,6 +31107,25 @@
       "names": [
         {
           "value": "Marono //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F465*e4ea3ead-e4e0-4a8b-8835-0c5a4ba45c74"
+        }
+      ],
+      "id": "I1109*a156d6b4-e26e-4e21-88f3-7e8d9c81f7fa",
+      "names": [
+        {
+          "value": "Hendra //"
         }
       ],
       "eventsFacts": [
