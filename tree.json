@@ -7869,6 +7869,9 @@
         },
         {
           "ref": "I1097*4f4dcf54-14a0-48c3-9875-296a50fc4c4f"
+        },
+        {
+          "ref": "I1098*021bac54-b26e-47a1-b7b9-6379a1b7b85e"
         }
       ],
       "husbandRefs": [
@@ -30808,6 +30811,19 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
+        }
+      ],
+      "id": "I1098*021bac54-b26e-47a1-b7b9-6379a1b7b85e",
+      "names": [
+        {
+          "value": "Gomgom Rossi //"
         }
       ]
     }
