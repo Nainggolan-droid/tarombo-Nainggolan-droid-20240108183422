@@ -6375,6 +6375,19 @@
           "ref": "I891*0c2cb47d-d923-4d63-8014-b3d35292e74d"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I894*4f853558-57ce-4f0c-85c9-b165cf6cf7cb"
+        }
+      ],
+      "id": "F373*449a17c8-d3f1-4921-a1a0-aa1b99ab25fe",
+      "wifeRefs": [
+        {
+          "ref": "I893*ea8b8ae1-3c72-4f88-a140-e0e379dc26a9"
+        }
+      ]
     }
   ],
   "head": {
@@ -25012,6 +25025,11 @@
           "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F373*449a17c8-d3f1-4921-a1a0-aa1b99ab25fe"
+        }
+      ],
       "id": "I893*ea8b8ae1-3c72-4f88-a140-e0e379dc26a9",
       "names": [
         {
@@ -25022,6 +25040,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F373*449a17c8-d3f1-4921-a1a0-aa1b99ab25fe"
+        }
+      ],
+      "id": "I894*4f853558-57ce-4f0c-85c9-b165cf6cf7cb",
+      "names": [
+        {
+          "value": " /Simbolon/"
         }
       ]
     }
