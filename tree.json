@@ -6628,6 +6628,9 @@
         },
         {
           "ref": "I930*08ed4628-1900-4352-a44a-f98f6a5002d0"
+        },
+        {
+          "ref": "I931*ffb43083-e2e6-4427-b566-789dd06caf26"
         }
       ],
       "husbandRefs": [
@@ -26014,6 +26017,25 @@
       "names": [
         {
           "value": "Chanda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
+        }
+      ],
+      "id": "I931*ffb43083-e2e6-4427-b566-789dd06caf26",
+      "names": [
+        {
+          "value": "Chindi //"
         }
       ],
       "eventsFacts": [
