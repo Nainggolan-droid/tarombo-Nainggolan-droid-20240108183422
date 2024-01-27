@@ -6321,6 +6321,19 @@
         }
       ],
       "id": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I886*5467bba1-9c83-4e17-b58c-a96d6d8ceae7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I885*333ebadb-622f-4215-ab5f-723f9ab1dec6"
+        }
+      ],
+      "id": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
     }
   ],
   "head": {
@@ -24794,11 +24807,35 @@
           "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+        }
+      ],
       "id": "I885*333ebadb-622f-4215-ab5f-723f9ab1dec6",
       "names": [
         {
           "nick": "Op.Brata",
           "value": "Tumpal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+        }
+      ],
+      "id": "I886*5467bba1-9c83-4e17-b58c-a96d6d8ceae7",
+      "names": [
+        {
+          "value": "Budi //"
         }
       ],
       "eventsFacts": [
