@@ -6083,6 +6083,9 @@
         },
         {
           "ref": "I857*8f9d4995-e3f2-4159-9298-56f5ed0c8cc1"
+        },
+        {
+          "ref": "I859*23353327-1069-427d-9891-ffc8cdd2cbdd"
         }
       ],
       "husbandRefs": [
@@ -24058,6 +24061,25 @@
       "names": [
         {
           "value": " /Marbun/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I859*23353327-1069-427d-9891-ffc8cdd2cbdd",
+      "names": [
+        {
+          "value": "Rijal Yohito //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
