@@ -7281,6 +7281,9 @@
       "childRefs": [
         {
           "ref": "I1021*c4ded1b9-081a-405f-9d7a-9d5263f05857"
+        },
+        {
+          "ref": "I1023*9ee9a5ab-cea3-4f93-be0a-c4d542e838d6"
         }
       ],
       "husbandRefs": [
@@ -28697,6 +28700,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F425*df6a41d3-b736-43ba-834d-3ff40f616b1e"
+        }
+      ],
+      "id": "I1023*9ee9a5ab-cea3-4f93-be0a-c4d542e838d6",
+      "names": [
+        {
+          "value": "Soida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
