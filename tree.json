@@ -7894,6 +7894,9 @@
         },
         {
           "ref": "I1103*2ca2182c-871a-45f8-887c-bc6e11392df0"
+        },
+        {
+          "ref": "I1106*faa65f36-402b-4f34-8f03-b005f2e7556d"
         }
       ],
       "husbandRefs": [
@@ -31023,6 +31026,25 @@
       "names": [
         {
           "value": "Marcelino //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
+        }
+      ],
+      "id": "I1106*faa65f36-402b-4f34-8f03-b005f2e7556d",
+      "names": [
+        {
+          "value": "Nasib //"
         }
       ],
       "eventsFacts": [
