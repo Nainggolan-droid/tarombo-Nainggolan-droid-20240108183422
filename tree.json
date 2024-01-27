@@ -6852,6 +6852,19 @@
         }
       ],
       "id": "F399*ddd2dace-e174-436e-920c-dc9d8f8ff715"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I963*b5c7b927-4eee-423c-bb27-f302bbb5ed53"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I941*959cea34-235f-4851-82a7-e3b6579f6082"
+        }
+      ],
+      "id": "F400*4f7b5a5d-1f7c-49e1-8744-2942d6c9e7bd"
     }
   ],
   "head": {
@@ -26462,6 +26475,11 @@
           "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F400*4f7b5a5d-1f7c-49e1-8744-2942d6c9e7bd"
+        }
+      ],
       "id": "I941*959cea34-235f-4851-82a7-e3b6579f6082",
       "names": [
         {
@@ -26905,6 +26923,25 @@
       "names": [
         {
           "value": "Koko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F400*4f7b5a5d-1f7c-49e1-8744-2942d6c9e7bd"
+        }
+      ],
+      "id": "I963*b5c7b927-4eee-423c-bb27-f302bbb5ed53",
+      "names": [
+        {
+          "value": "Danru //"
         }
       ],
       "eventsFacts": [
