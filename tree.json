@@ -6945,6 +6945,19 @@
         }
       ],
       "id": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I974*241d4d78-d15d-40c8-8537-ea7a115e50e2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I972*8c74789f-0dd8-441c-b4a7-65d80d326db7"
+        }
+      ],
+      "id": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
     }
   ],
   "head": {
@@ -27292,6 +27305,11 @@
           "ref": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+        }
+      ],
       "id": "I972*8c74789f-0dd8-441c-b4a7-65d80d326db7",
       "names": [
         {
@@ -27316,6 +27334,25 @@
       "names": [
         {
           "value": "Deak Raja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+        }
+      ],
+      "id": "I974*241d4d78-d15d-40c8-8537-ea7a115e50e2",
+      "names": [
+        {
+          "value": "Pintar //"
         }
       ],
       "eventsFacts": [
