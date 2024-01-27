@@ -6469,6 +6469,9 @@
         },
         {
           "ref": "I907*23d2c1d6-c0ca-4f64-9cb4-f23c0f08c4ca"
+        },
+        {
+          "ref": "I908*5e3c8e3c-44fc-40da-90cc-04906c953c2c"
         }
       ],
       "husbandRefs": [
@@ -25398,6 +25401,25 @@
       "names": [
         {
           "value": "Ludin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
+        }
+      ],
+      "id": "I908*5e3c8e3c-44fc-40da-90cc-04906c953c2c",
+      "names": [
+        {
+          "value": "Manginar //"
         }
       ],
       "eventsFacts": [
