@@ -7407,6 +7407,19 @@
         }
       ],
       "id": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1038*a98d89fa-6bd3-4319-9847-3071e05bdda8"
+        }
+      ],
+      "id": "F433*3c0f2a31-4d3d-40a4-bf9e-7ab81f3b3fb6",
+      "wifeRefs": [
+        {
+          "ref": "I1037*9002901d-d6f1-4043-96a7-3bf6a807a891"
+        }
+      ]
     }
   ],
   "head": {
@@ -29117,6 +29130,11 @@
           "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F433*3c0f2a31-4d3d-40a4-bf9e-7ab81f3b3fb6"
+        }
+      ],
       "id": "I1037*9002901d-d6f1-4043-96a7-3bf6a807a891",
       "names": [
         {
@@ -29127,6 +29145,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F433*3c0f2a31-4d3d-40a4-bf9e-7ab81f3b3fb6"
+        }
+      ],
+      "id": "I1038*a98d89fa-6bd3-4319-9847-3071e05bdda8",
+      "names": [
+        {
+          "value": " /Limbong/"
         }
       ]
     }
