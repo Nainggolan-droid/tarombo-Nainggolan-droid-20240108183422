@@ -7695,6 +7695,19 @@
         }
       ],
       "id": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1074*e500241b-ae7d-4f8b-a342-0523321ea584"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b"
+        }
+      ],
+      "id": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
     }
   ],
   "head": {
@@ -30135,6 +30148,11 @@
           "ref": "F450*7a78b59f-3b1d-4b9e-a8af-31ef7f0814e7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
       "id": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b",
       "names": [
         {
@@ -30159,6 +30177,25 @@
       "names": [
         {
           "value": "Mardingot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1074*e500241b-ae7d-4f8b-a342-0523321ea584",
+      "names": [
+        {
+          "value": "Sinton //"
         }
       ],
       "eventsFacts": [
