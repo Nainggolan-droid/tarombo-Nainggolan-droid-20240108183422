@@ -6080,6 +6080,9 @@
         },
         {
           "ref": "I855*a9a477ba-d5d2-463b-b265-efb13bb98916"
+        },
+        {
+          "ref": "I857*8f9d4995-e3f2-4159-9298-56f5ed0c8cc1"
         }
       ],
       "husbandRefs": [
@@ -24005,6 +24008,25 @@
       "names": [
         {
           "value": " /Harianja/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I857*8f9d4995-e3f2-4159-9298-56f5ed0c8cc1",
+      "names": [
+        {
+          "value": "Sarpina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
