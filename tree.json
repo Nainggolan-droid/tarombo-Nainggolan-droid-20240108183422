@@ -6016,6 +6016,19 @@
         }
       ],
       "id": "F352*2001291b-ceea-420b-9cf5-d6f2564398f6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I841*0aa4a60a-05a5-44a8-9351-cc16e9e2ae36"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I799*88b7a92e-2608-4c62-9f15-5786c1b8c09c"
+        }
+      ],
+      "id": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
     }
   ],
   "head": {
@@ -22732,6 +22745,11 @@
           "ref": "F333*f5a76314-ee85-434d-b8d4-92234d09df21"
         }
       ],
+      "fams": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
       "id": "I799*88b7a92e-2608-4c62-9f15-5786c1b8c09c",
       "names": [
         {
@@ -23581,6 +23599,25 @@
       "names": [
         {
           "value": "Sahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I841*0aa4a60a-05a5-44a8-9351-cc16e9e2ae36",
+      "names": [
+        {
+          "value": "Marjo //"
         }
       ],
       "eventsFacts": [
