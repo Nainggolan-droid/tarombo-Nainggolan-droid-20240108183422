@@ -6077,6 +6077,9 @@
         },
         {
           "ref": "I853*a2ff0e22-69f6-46bf-82ce-254e17b6f30a"
+        },
+        {
+          "ref": "I855*a9a477ba-d5d2-463b-b265-efb13bb98916"
         }
       ],
       "husbandRefs": [
@@ -23952,6 +23955,25 @@
       "names": [
         {
           "value": " /Manurung/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I855*a9a477ba-d5d2-463b-b265-efb13bb98916",
+      "names": [
+        {
+          "value": "Annominda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
