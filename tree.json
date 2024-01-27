@@ -7021,6 +7021,19 @@
         }
       ],
       "id": "F409*b315eeb3-5777-48bf-a354-74ed5be5c197"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I986*b156200a-5778-427e-9d7b-b82cea2c91e4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I976*7ad97ac5-d89f-4d74-8505-4ab755aebfca"
+        }
+      ],
+      "id": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
     }
   ],
   "head": {
@@ -27461,6 +27474,11 @@
           "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
+        }
+      ],
       "id": "I976*7ad97ac5-d89f-4d74-8505-4ab755aebfca",
       "names": [
         {
@@ -27643,6 +27661,25 @@
       "names": [
         {
           "value": "Lukas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F410*25b5182a-11ec-40cd-9ca3-bcc039c6b9b6"
+        }
+      ],
+      "id": "I986*b156200a-5778-427e-9d7b-b82cea2c91e4",
+      "names": [
+        {
+          "value": "Carles //"
         }
       ],
       "eventsFacts": [
