@@ -7915,6 +7915,19 @@
         }
       ],
       "id": "F463*7560c07d-ab85-4d94-a0c4-ba747b655398"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1104*fd28b536-1533-487d-b9a7-ec487290d062"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1103*2ca2182c-871a-45f8-887c-bc6e11392df0"
+        }
+      ],
+      "id": "F464*c6ee8b83-a4e4-4fde-ae3c-c24493eef868"
     }
   ],
   "head": {
@@ -30960,6 +30973,11 @@
           "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
         }
       ],
+      "fams": [
+        {
+          "ref": "F464*c6ee8b83-a4e4-4fde-ae3c-c24493eef868"
+        }
+      ],
       "id": "I1103*2ca2182c-871a-45f8-887c-bc6e11392df0",
       "names": [
         {
@@ -30970,6 +30988,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F464*c6ee8b83-a4e4-4fde-ae3c-c24493eef868"
+        }
+      ],
+      "id": "I1104*fd28b536-1533-487d-b9a7-ec487290d062",
+      "names": [
+        {
+          "value": "Theresia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
