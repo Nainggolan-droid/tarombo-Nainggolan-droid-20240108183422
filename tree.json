@@ -6929,6 +6929,19 @@
         }
       ],
       "id": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I972*8c74789f-0dd8-441c-b4a7-65d80d326db7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I970*2a631be7-c21d-4942-bc34-8d1f8fe3f2f0"
+        }
+      ],
+      "id": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
     }
   ],
   "head": {
@@ -27233,6 +27246,11 @@
           "ref": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
+        }
+      ],
       "id": "I970*2a631be7-c21d-4942-bc34-8d1f8fe3f2f0",
       "names": [
         {
@@ -27256,6 +27274,25 @@
       "names": [
         {
           "value": "Abarham //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F405*271af711-ad63-4608-85db-82eba5cda2b3"
+        }
+      ],
+      "id": "I972*8c74789f-0dd8-441c-b4a7-65d80d326db7",
+      "names": [
+        {
+          "value": "Jamuda //"
         }
       ],
       "eventsFacts": [
