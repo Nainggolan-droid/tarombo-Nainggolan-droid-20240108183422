@@ -7385,6 +7385,19 @@
           "ref": "I1031*19c35813-e080-4e2c-9f28-b94212295f57"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1034*ff13ae4f-f5af-4102-899c-c87bddc6d581"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I971*081d9fe2-f204-4a4f-aa1e-a95b0ce95c81"
+        }
+      ],
+      "id": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
     }
   ],
   "head": {
@@ -27713,6 +27726,11 @@
           "ref": "F404*4a102576-41bc-46a6-94d8-77aec9746af2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+        }
+      ],
       "id": "I971*081d9fe2-f204-4a4f-aa1e-a95b0ce95c81",
       "names": [
         {
@@ -29018,6 +29036,25 @@
       "names": [
         {
           "value": "Bona //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+        }
+      ],
+      "id": "I1034*ff13ae4f-f5af-4102-899c-c87bddc6d581",
+      "names": [
+        {
+          "value": "Galunggung //"
         }
       ],
       "eventsFacts": [
