@@ -7861,6 +7861,19 @@
           "ref": "I1093*98acb6e2-10bb-4cba-9f81-4e4731338c18"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1096*da554061-434d-460a-a304-d0044831e866"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1095*360c36ae-0d04-486b-ad27-f04315bf207c"
+        }
+      ],
+      "id": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
     }
   ],
   "head": {
@@ -30739,10 +30752,34 @@
           "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
         }
       ],
+      "fams": [
+        {
+          "ref": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
+        }
+      ],
       "id": "I1095*360c36ae-0d04-486b-ad27-f04315bf207c",
       "names": [
         {
           "value": "Patar MT //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
+        }
+      ],
+      "id": "I1096*da554061-434d-460a-a304-d0044831e866",
+      "names": [
+        {
+          "value": "Marchell Parasian //"
         }
       ],
       "eventsFacts": [
