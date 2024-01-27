@@ -7526,6 +7526,9 @@
         },
         {
           "ref": "I1060*4a3a93a1-338a-412e-9395-ffffc683297f"
+        },
+        {
+          "ref": "I1062*c97ea6f1-cf68-4cfe-866d-5908581e6078"
         }
       ],
       "husbandRefs": [
@@ -29809,6 +29812,25 @@
       "names": [
         {
           "value": " /Silalahi/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F439*20342251-02d4-45d6-b4d3-9e090f843216"
+        }
+      ],
+      "id": "I1062*c97ea6f1-cf68-4cfe-866d-5908581e6078",
+      "names": [
+        {
+          "value": "Roganti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
