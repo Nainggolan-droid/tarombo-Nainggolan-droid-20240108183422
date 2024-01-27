@@ -6155,6 +6155,19 @@
           "ref": "I860*b563d2b6-fe92-4b8b-afc1-d5967145f0b2"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I864*c970b02a-8a84-4bfa-b867-1c8c17c14a0f"
+        }
+      ],
+      "id": "F360*ceb80cdf-06de-41fb-bbd6-d0916944d0dc",
+      "wifeRefs": [
+        {
+          "ref": "I863*7435c143-829d-4eec-9c17-a620b055edb5"
+        }
+      ]
     }
   ],
   "head": {
@@ -24167,6 +24180,11 @@
           "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
         }
       ],
+      "fams": [
+        {
+          "ref": "F360*ceb80cdf-06de-41fb-bbd6-d0916944d0dc"
+        }
+      ],
       "id": "I863*7435c143-829d-4eec-9c17-a620b055edb5",
       "names": [
         {
@@ -24178,6 +24196,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F360*ceb80cdf-06de-41fb-bbd6-d0916944d0dc"
+        }
+      ],
+      "id": "I864*c970b02a-8a84-4bfa-b867-1c8c17c14a0f",
+      "names": [
+        {
+          "value": " /Manihuruk/"
         }
       ]
     }
