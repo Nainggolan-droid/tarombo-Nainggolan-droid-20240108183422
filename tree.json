@@ -6794,6 +6794,19 @@
         }
       ],
       "id": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I957*58dbb62d-3ffb-4a36-8c9f-af8af94938a7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I949*7baa5393-4c01-472b-a6ff-d421a4d2ed87"
+        }
+      ],
+      "id": "F396*91ab988a-f3be-41dd-95fa-b4cf4d98da9b"
     }
   ],
   "head": {
@@ -26562,6 +26575,11 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F396*91ab988a-f3be-41dd-95fa-b4cf4d98da9b"
+        }
+      ],
       "id": "I949*7baa5393-4c01-472b-a6ff-d421a4d2ed87",
       "names": [
         {
@@ -26711,6 +26729,25 @@
       "names": [
         {
           "value": "Rio //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F396*91ab988a-f3be-41dd-95fa-b4cf4d98da9b"
+        }
+      ],
+      "id": "I957*58dbb62d-3ffb-4a36-8c9f-af8af94938a7",
+      "names": [
+        {
+          "value": "Josua //"
         }
       ],
       "eventsFacts": [
