@@ -6719,6 +6719,9 @@
         },
         {
           "ref": "I950*576e4c6c-110f-43ee-ae1e-7e1c19444a70"
+        },
+        {
+          "ref": "I951*776285fd-17aa-4189-911d-b9ae9af8375d"
         }
       ],
       "husbandRefs": [
@@ -26547,6 +26550,25 @@
       "names": [
         {
           "value": "Mangihut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+        }
+      ],
+      "id": "I951*776285fd-17aa-4189-911d-b9ae9af8375d",
+      "names": [
+        {
+          "value": "Mangoloi //"
         }
       ],
       "eventsFacts": [
