@@ -7706,6 +7706,9 @@
         },
         {
           "ref": "I1077*c8ee490d-1ced-4395-8eff-2360c801eb43"
+        },
+        {
+          "ref": "I1078*32b1cbfe-7f79-4ca2-be18-cbbb9261f25b"
         }
       ],
       "husbandRefs": [
@@ -30277,6 +30280,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1078*32b1cbfe-7f79-4ca2-be18-cbbb9261f25b",
+      "names": [
+        {
+          "value": "Pinne //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
