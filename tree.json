@@ -7008,6 +7008,19 @@
         }
       ],
       "id": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I985*a1aa08ef-bcef-440f-b686-bf163655966c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I982*d17b0a5f-28dd-4241-bee7-cac2c0321c3a"
+        }
+      ],
+      "id": "F409*b315eeb3-5777-48bf-a354-74ed5be5c197"
     }
   ],
   "head": {
@@ -27562,6 +27575,11 @@
           "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F409*b315eeb3-5777-48bf-a354-74ed5be5c197"
+        }
+      ],
       "id": "I982*d17b0a5f-28dd-4241-bee7-cac2c0321c3a",
       "names": [
         {
@@ -27605,6 +27623,25 @@
       "names": [
         {
           "value": "Parlindungan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F409*b315eeb3-5777-48bf-a354-74ed5be5c197"
+        }
+      ],
+      "id": "I985*a1aa08ef-bcef-440f-b686-bf163655966c",
+      "names": [
+        {
+          "value": "Lukas //"
         }
       ],
       "eventsFacts": [
