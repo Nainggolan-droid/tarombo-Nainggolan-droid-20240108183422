@@ -6331,6 +6331,9 @@
         },
         {
           "ref": "I900*1c366b3d-9331-4853-b263-0d40f562901f"
+        },
+        {
+          "ref": "I901*53029bc7-f68a-4adc-b701-c02ab9cb593e"
         }
       ],
       "husbandRefs": [
@@ -25204,6 +25207,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I901*53029bc7-f68a-4adc-b701-c02ab9cb593e",
+      "names": [
+        {
+          "value": "Sandro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
