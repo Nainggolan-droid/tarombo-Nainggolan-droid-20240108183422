@@ -6522,6 +6522,19 @@
         }
       ],
       "id": "F381*b0c9bf59-7b1d-4985-acf0-5a908cfd09c8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I913*c27f5a9d-b8d5-4f6b-9339-c02c36639144"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I908*5e3c8e3c-44fc-40da-90cc-04906c953c2c"
+        }
+      ],
+      "id": "F382*580024a6-9857-4209-a529-38f48e00f21e"
     }
   ],
   "head": {
@@ -25468,6 +25481,11 @@
           "ref": "F378*e3fc21f4-0d5e-40c9-8ef2-d3ceacc1b5c2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
       "id": "I908*5e3c8e3c-44fc-40da-90cc-04906c953c2c",
       "names": [
         {
@@ -25548,6 +25566,25 @@
       "names": [
         {
           "value": "Murat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I913*c27f5a9d-b8d5-4f6b-9339-c02c36639144",
+      "names": [
+        {
+          "value": "Pittor //"
         }
       ],
       "eventsFacts": [
