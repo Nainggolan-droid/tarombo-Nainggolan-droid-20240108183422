@@ -6235,6 +6235,19 @@
           "ref": "I871*77eadcb5-a96a-4b1e-86e4-2fb30f9e9ee7"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I874*1b7b190e-8cb9-411e-9521-73237c257f72"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I873*1a0d0b86-3325-41f4-bee6-e507d2967cf5"
+        }
+      ],
+      "id": "F365*08d9b63f-cd68-48ce-98db-9c0f9ac1a8fa"
     }
   ],
   "head": {
@@ -24454,6 +24467,11 @@
           "ref": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
         }
       ],
+      "fams": [
+        {
+          "ref": "F365*08d9b63f-cd68-48ce-98db-9c0f9ac1a8fa"
+        }
+      ],
       "id": "I873*1a0d0b86-3325-41f4-bee6-e507d2967cf5",
       "names": [
         {
@@ -24465,6 +24483,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F365*08d9b63f-cd68-48ce-98db-9c0f9ac1a8fa"
+        }
+      ],
+      "id": "I874*1b7b190e-8cb9-411e-9521-73237c257f72",
+      "names": [
+        {
+          "value": "Azka //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
