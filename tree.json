@@ -5923,6 +5923,19 @@
           "ref": "I826*bc7f9e7f-a640-49ff-b185-a05cdd471435"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I830*37d7d5bc-9b24-4db1-bcf4-703faffcd831"
+        }
+      ],
+      "id": "F347*b0304afe-0660-46e7-ac5f-9b87c68fc593",
+      "wifeRefs": [
+        {
+          "ref": "I829*eb54d053-a0dd-42db-8e03-9e717aa4bd79"
+        }
+      ]
     }
   ],
   "head": {
@@ -23255,6 +23268,11 @@
           "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F347*b0304afe-0660-46e7-ac5f-9b87c68fc593"
+        }
+      ],
       "id": "I829*eb54d053-a0dd-42db-8e03-9e717aa4bd79",
       "names": [
         {
@@ -23265,6 +23283,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F347*b0304afe-0660-46e7-ac5f-9b87c68fc593"
+        }
+      ],
+      "id": "I830*37d7d5bc-9b24-4db1-bcf4-703faffcd831",
+      "names": [
+        {
+          "value": " /Situmorang/"
         }
       ]
     }
