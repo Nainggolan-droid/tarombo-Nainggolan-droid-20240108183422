@@ -5889,6 +5889,9 @@
         },
         {
           "ref": "I829*eb54d053-a0dd-42db-8e03-9e717aa4bd79"
+        },
+        {
+          "ref": "I831*9b05f5e3-cf42-4a7e-b184-3de133eed680"
         }
       ],
       "husbandRefs": [
@@ -23296,6 +23299,25 @@
       "names": [
         {
           "value": " /Situmorang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
+        }
+      ],
+      "id": "I831*9b05f5e3-cf42-4a7e-b184-3de133eed680",
+      "names": [
+        {
+          "value": "Udin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
