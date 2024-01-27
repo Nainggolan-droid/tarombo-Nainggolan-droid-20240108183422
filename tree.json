@@ -6647,6 +6647,9 @@
         },
         {
           "ref": "I933*c9f81fd0-97fa-4566-ae6e-66403bdf98ae"
+        },
+        {
+          "ref": "I934*ab514624-9bf0-45a2-9073-849103eda329"
         }
       ],
       "husbandRefs": [
@@ -26101,6 +26104,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F388*f9802730-8683-40b5-bedc-c86053ab0633"
+        }
+      ],
+      "id": "I934*ab514624-9bf0-45a2-9073-849103eda329",
+      "names": [
+        {
+          "value": "Klarisa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
