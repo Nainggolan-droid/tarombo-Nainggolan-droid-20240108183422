@@ -6545,6 +6545,9 @@
         },
         {
           "ref": "I922*ddffed1b-6bf3-459e-b0b5-2b5c58b5b1d0"
+        },
+        {
+          "ref": "I924*17bc39b2-2df5-44e9-99f9-e7e82f801f13"
         }
       ],
       "husbandRefs": [
@@ -25851,6 +25854,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I924*17bc39b2-2df5-44e9-99f9-e7e82f801f13",
+      "names": [
+        {
+          "value": "Donris //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
