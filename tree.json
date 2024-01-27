@@ -6243,6 +6243,9 @@
         },
         {
           "ref": "I875*26c672e7-925b-4699-8974-69dbb6e61b23"
+        },
+        {
+          "ref": "I876*59e1128c-70fa-4110-a4e1-9380ac13dced"
         }
       ],
       "husbandRefs": [
@@ -24524,6 +24527,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F365*08d9b63f-cd68-48ce-98db-9c0f9ac1a8fa"
+        }
+      ],
+      "id": "I876*59e1128c-70fa-4110-a4e1-9380ac13dced",
+      "names": [
+        {
+          "value": "Thania //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
