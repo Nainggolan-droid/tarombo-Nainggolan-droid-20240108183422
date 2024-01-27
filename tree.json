@@ -7090,6 +7090,9 @@
       "childRefs": [
         {
           "ref": "I994*bd8b4484-20bd-4774-8a4c-fc2504e9bb19"
+        },
+        {
+          "ref": "I995*45e361d0-a7ea-44a6-ac90-8bf6e2e9b34c"
         }
       ],
       "husbandRefs": [
@@ -27925,6 +27928,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F414*3ece191f-2df3-4b52-9512-3af49452594e"
+        }
+      ],
+      "id": "I995*45e361d0-a7ea-44a6-ac90-8bf6e2e9b34c",
+      "names": [
+        {
+          "value": "Marcho //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
