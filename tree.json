@@ -6619,6 +6619,9 @@
       "childRefs": [
         {
           "ref": "I927*9eddc38a-7c5d-4dc7-983b-23693556592a"
+        },
+        {
+          "ref": "I928*262d7951-ff4a-4bcf-8a5c-bff55d1921ec"
         }
       ],
       "husbandRefs": [
@@ -25948,6 +25951,25 @@
       "names": [
         {
           "value": "Sehat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F387*2b8146c7-c940-44a4-ba36-fd07523d10be"
+        }
+      ],
+      "id": "I928*262d7951-ff4a-4bcf-8a5c-bff55d1921ec",
+      "names": [
+        {
+          "value": "Kristo //"
         }
       ],
       "eventsFacts": [
