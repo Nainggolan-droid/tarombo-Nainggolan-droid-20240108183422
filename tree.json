@@ -6661,6 +6661,19 @@
         }
       ],
       "id": "F388*f9802730-8683-40b5-bedc-c86053ab0633"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I936*7268f04e-1213-42bc-9cee-5fac05de5496"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I915*3be92b50-4d30-46e9-b7ac-abbd243efaea"
+        }
+      ],
+      "id": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
     }
   ],
   "head": {
@@ -25756,6 +25769,11 @@
           "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
+        }
+      ],
       "id": "I915*3be92b50-4d30-46e9-b7ac-abbd243efaea",
       "names": [
         {
@@ -26139,6 +26157,25 @@
       "names": [
         {
           "value": "Prima //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
+        }
+      ],
+      "id": "I936*7268f04e-1213-42bc-9cee-5fac05de5496",
+      "names": [
+        {
+          "value": "Ruth //"
         }
       ],
       "eventsFacts": [
