@@ -5849,6 +5849,19 @@
         }
       ],
       "id": "F341*e7024b71-a91b-46f1-9fd3-981066263ef6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I822*3396e270-940f-44a9-863d-012fe715e179"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I821*6189f587-d520-4ba5-916a-c753a29496af"
+        }
+      ],
+      "id": "F342*4cf0d580-a469-40db-a08d-860e5e1c77ab"
     }
   ],
   "head": {
@@ -23014,10 +23027,35 @@
           "ref": "F337*4192fffe-01b6-4809-bf6e-828ccb025d21"
         }
       ],
+      "fams": [
+        {
+          "ref": "F342*4cf0d580-a469-40db-a08d-860e5e1c77ab"
+        }
+      ],
       "id": "I821*6189f587-d520-4ba5-916a-c753a29496af",
       "names": [
         {
+          "nick": "A.Basten",
           "value": "Andi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F342*4cf0d580-a469-40db-a08d-860e5e1c77ab"
+        }
+      ],
+      "id": "I822*3396e270-940f-44a9-863d-012fe715e179",
+      "names": [
+        {
+          "value": "Basten //"
         }
       ],
       "eventsFacts": [
