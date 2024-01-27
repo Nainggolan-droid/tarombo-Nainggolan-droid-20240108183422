@@ -6956,6 +6956,9 @@
         },
         {
           "ref": "I976*7ad97ac5-d89f-4d74-8505-4ab755aebfca"
+        },
+        {
+          "ref": "I977*044a48a5-a74e-466b-9f12-a530d35e7ce0"
         }
       ],
       "husbandRefs": [
@@ -27397,6 +27400,25 @@
       "names": [
         {
           "value": "Jarodot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+        }
+      ],
+      "id": "I977*044a48a5-a74e-466b-9f12-a530d35e7ce0",
+      "names": [
+        {
+          "value": "Maringan //"
         }
       ],
       "eventsFacts": [
