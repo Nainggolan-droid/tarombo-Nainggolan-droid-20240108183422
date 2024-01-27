@@ -6063,6 +6063,19 @@
         }
       ],
       "id": "F354*f10911ed-d174-4c11-93c3-c5dc8e23a393"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I850*293bd1ce-81fb-42f0-8a73-0c1ef4aa3398"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I842*b9d91c60-4ed2-4a54-9deb-1944d1faf8ba"
+        }
+      ],
+      "id": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
     }
   ],
   "head": {
@@ -23672,6 +23685,11 @@
           "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
       "id": "I842*b9d91c60-4ed2-4a54-9deb-1944d1faf8ba",
       "names": [
         {
@@ -23811,6 +23829,25 @@
       "names": [
         {
           "value": "Binsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I850*293bd1ce-81fb-42f0-8a73-0c1ef4aa3398",
+      "names": [
+        {
+          "value": "Mulia //"
         }
       ],
       "eventsFacts": [
