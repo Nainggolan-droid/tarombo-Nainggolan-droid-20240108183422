@@ -6777,6 +6777,9 @@
       "childRefs": [
         {
           "ref": "I953*8f0c8c00-aa75-4185-aafd-400aec900f8a"
+        },
+        {
+          "ref": "I954*dd0f6d13-9b64-41d6-8419-8dfc939d5364"
         }
       ],
       "husbandRefs": [
@@ -26645,6 +26648,25 @@
         {
           "nick": "Erik",
           "value": "Ridwan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F395*84294d2d-d059-47c6-9273-01181f6ee3a1"
+        }
+      ],
+      "id": "I954*dd0f6d13-9b64-41d6-8419-8dfc939d5364",
+      "names": [
+        {
+          "value": "Bernad //"
         }
       ],
       "eventsFacts": [
