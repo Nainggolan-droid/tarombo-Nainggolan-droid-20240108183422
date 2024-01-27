@@ -6052,6 +6052,9 @@
       "childRefs": [
         {
           "ref": "I848*dab2be6f-b8ea-4e77-9a84-64e78013a1a4"
+        },
+        {
+          "ref": "I849*49215ee5-9ba0-4dad-bc07-8c81b9401a11"
         }
       ],
       "husbandRefs": [
@@ -23789,6 +23792,25 @@
       "names": [
         {
           "value": "Tarudin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F354*f10911ed-d174-4c11-93c3-c5dc8e23a393"
+        }
+      ],
+      "id": "I849*49215ee5-9ba0-4dad-bc07-8c81b9401a11",
+      "names": [
+        {
+          "value": "Binsar //"
         }
       ],
       "eventsFacts": [
