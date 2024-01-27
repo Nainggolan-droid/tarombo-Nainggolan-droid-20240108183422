@@ -6669,6 +6669,9 @@
         },
         {
           "ref": "I937*21f0f02f-b722-4102-ab7f-20bcf2aa2360"
+        },
+        {
+          "ref": "I938*852a4af4-38d5-4d32-b5fb-cef1e50324e5"
         }
       ],
       "husbandRefs": [
@@ -26198,6 +26201,25 @@
       "names": [
         {
           "value": "Ivan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F389*179cc696-9da2-4585-9cc2-81dd50c349c6"
+        }
+      ],
+      "id": "I938*852a4af4-38d5-4d32-b5fb-cef1e50324e5",
+      "names": [
+        {
+          "value": "Gredi //"
         }
       ],
       "eventsFacts": [
