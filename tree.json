@@ -6322,6 +6322,9 @@
         },
         {
           "ref": "I895*4c61176d-7299-4321-b3f0-3f81898b0409"
+        },
+        {
+          "ref": "I897*a8c1c81f-bdcb-48ff-8e48-f27840a56743"
         }
       ],
       "husbandRefs": [
@@ -25106,6 +25109,25 @@
       "names": [
         {
           "value": " /Simarmata/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I897*a8c1c81f-bdcb-48ff-8e48-f27840a56743",
+      "names": [
+        {
+          "value": "Masda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
