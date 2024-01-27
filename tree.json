@@ -6688,6 +6688,9 @@
         },
         {
           "ref": "I940*7ee374fd-f6ab-47c7-a419-782a174c0919"
+        },
+        {
+          "ref": "I941*959cea34-235f-4851-82a7-e3b6579f6082"
         }
       ],
       "husbandRefs": [
@@ -26281,6 +26284,25 @@
         {
           "nick": "Op.Hilda",
           "value": "Laut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
+        }
+      ],
+      "id": "I941*959cea34-235f-4851-82a7-e3b6579f6082",
+      "names": [
+        {
+          "value": "Mintas //"
         }
       ],
       "eventsFacts": [
