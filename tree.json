@@ -6731,6 +6731,19 @@
         }
       ],
       "id": "F392*36574341-5b48-4add-a7db-8d6b262f7eac"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I946*698b8959-75e4-4f0a-8865-94cbf2cfcf63"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I945*7e9ede30-4f87-4c69-b324-04d8208171c4"
+        }
+      ],
+      "id": "F393*2fc3e13a-121b-466d-bd9a-4ec20ff97f8d"
     }
   ],
   "head": {
@@ -26418,10 +26431,34 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F393*2fc3e13a-121b-466d-bd9a-4ec20ff97f8d"
+        }
+      ],
       "id": "I945*7e9ede30-4f87-4c69-b324-04d8208171c4",
       "names": [
         {
           "value": "Karliman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F393*2fc3e13a-121b-466d-bd9a-4ec20ff97f8d"
+        }
+      ],
+      "id": "I946*698b8959-75e4-4f0a-8865-94cbf2cfcf63",
+      "names": [
+        {
+          "value": "Daniel //"
         }
       ],
       "eventsFacts": [
