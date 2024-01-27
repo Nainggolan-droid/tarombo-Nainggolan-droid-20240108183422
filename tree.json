@@ -7086,6 +7086,9 @@
         },
         {
           "ref": "I1002*d4c58697-a357-431b-906d-e2d1c6eaaae4"
+        },
+        {
+          "ref": "I1004*07b8a403-9f26-4207-b62b-599ee78246ef"
         }
       ],
       "husbandRefs": [
@@ -28150,6 +28153,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I1004*07b8a403-9f26-4207-b62b-599ee78246ef",
+      "names": [
+        {
+          "value": "Narli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
