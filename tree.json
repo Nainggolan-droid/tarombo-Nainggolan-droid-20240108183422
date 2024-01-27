@@ -7257,6 +7257,19 @@
         }
       ],
       "id": "F423*59787167-5b99-4542-9b78-f63b68e80920"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1018*65269047-0fe5-4809-87c8-60ca873dc961"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1017*bfcd64de-95b4-4478-8720-fe12e5198aab"
+        }
+      ],
+      "id": "F424*b32c65c1-f6a4-438a-be8c-4cb7fe75d220"
     }
   ],
   "head": {
@@ -28537,11 +28550,35 @@
           "ref": "F421*344d8f9a-09d8-4d86-9268-1af32a422463"
         }
       ],
+      "fams": [
+        {
+          "ref": "F424*b32c65c1-f6a4-438a-be8c-4cb7fe75d220"
+        }
+      ],
       "id": "I1017*bfcd64de-95b4-4478-8720-fe12e5198aab",
       "names": [
         {
           "nick": "A.Jonathan",
           "value": "Maruli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F424*b32c65c1-f6a4-438a-be8c-4cb7fe75d220"
+        }
+      ],
+      "id": "I1018*65269047-0fe5-4809-87c8-60ca873dc961",
+      "names": [
+        {
+          "value": "Jonathan //"
         }
       ],
       "eventsFacts": [
