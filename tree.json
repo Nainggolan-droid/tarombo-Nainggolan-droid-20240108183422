@@ -6434,6 +6434,9 @@
       "childRefs": [
         {
           "ref": "I902*10cea13f-ad52-4d48-932d-d1f76601ab2d"
+        },
+        {
+          "ref": "I903*7df25e6a-97bf-489a-9c9f-b790c970f9a8"
         }
       ],
       "husbandRefs": [
@@ -25258,6 +25261,25 @@
       "names": [
         {
           "value": "Gabe //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F376*7736a3b1-0b0e-4695-aa93-2be6247e8721"
+        }
+      ],
+      "id": "I903*7df25e6a-97bf-489a-9c9f-b790c970f9a8",
+      "names": [
+        {
+          "value": "Goklae //"
         }
       ],
       "eventsFacts": [
