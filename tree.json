@@ -5955,6 +5955,19 @@
         }
       ],
       "id": "F348*246ec2f8-42bf-425e-9fd8-a2d68c81f15a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I834*a7cd32d9-8094-4361-b66a-277b31a16aaa"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I833*c315c6d6-5d24-4a50-99fc-8791495f02cd"
+        }
+      ],
+      "id": "F349*8fc70347-d2ae-497c-bc86-f653ed57c130"
     }
   ],
   "head": {
@@ -23368,11 +23381,35 @@
           "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F349*8fc70347-d2ae-497c-bc86-f653ed57c130"
+        }
+      ],
       "id": "I833*c315c6d6-5d24-4a50-99fc-8791495f02cd",
       "names": [
         {
           "nick": "A.Oka",
           "value": "Kasmin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F349*8fc70347-d2ae-497c-bc86-f653ed57c130"
+        }
+      ],
+      "id": "I834*a7cd32d9-8094-4361-b66a-277b31a16aaa",
+      "names": [
+        {
+          "value": "Okana //"
         }
       ],
       "eventsFacts": [
