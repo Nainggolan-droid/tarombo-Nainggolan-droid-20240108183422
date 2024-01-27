@@ -6717,6 +6717,9 @@
       "childRefs": [
         {
           "ref": "I943*62d19802-a821-4b2a-a466-28cacd224fde"
+        },
+        {
+          "ref": "I944*20ec2e4e-0037-4b9e-b793-50340d8ac455"
         }
       ],
       "husbandRefs": [
@@ -26378,6 +26381,25 @@
       "names": [
         {
           "value": "Jonner //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F392*36574341-5b48-4add-a7db-8d6b262f7eac"
+        }
+      ],
+      "id": "I944*20ec2e4e-0037-4b9e-b793-50340d8ac455",
+      "names": [
+        {
+          "value": "Andolin //"
         }
       ],
       "eventsFacts": [
