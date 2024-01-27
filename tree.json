@@ -7715,6 +7715,9 @@
         },
         {
           "ref": "I1082*4e90aa16-2d51-4eef-97ca-26bb13eace91"
+        },
+        {
+          "ref": "I1084*50f26682-f48d-4886-b494-1ea2d4b836a9"
         }
       ],
       "husbandRefs": [
@@ -30436,6 +30439,29 @@
       "names": [
         {
           "value": " /Hasibuan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1084*50f26682-f48d-4886-b494-1ea2d4b836a9",
+      "names": [
+        {
+          "value": "Jadi Aman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
