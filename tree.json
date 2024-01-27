@@ -6997,6 +6997,9 @@
         },
         {
           "ref": "I983*0565f330-2f73-4686-8fcc-7bb78af640e7"
+        },
+        {
+          "ref": "I984*44f5d298-920a-4160-8390-8823625a1d8d"
         }
       ],
       "husbandRefs": [
@@ -27582,6 +27585,25 @@
       "names": [
         {
           "value": "Horas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+        }
+      ],
+      "id": "I984*44f5d298-920a-4160-8390-8823625a1d8d",
+      "names": [
+        {
+          "value": "Parlindungan //"
         }
       ],
       "eventsFacts": [
