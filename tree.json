@@ -6644,6 +6644,9 @@
       "childRefs": [
         {
           "ref": "I932*4bdc61ac-f312-4a25-9098-685f67b4f37c"
+        },
+        {
+          "ref": "I933*c9f81fd0-97fa-4566-ae6e-66403bdf98ae"
         }
       ],
       "husbandRefs": [
@@ -26073,6 +26076,25 @@
       "names": [
         {
           "value": "Magel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F388*f9802730-8683-40b5-bedc-c86053ab0633"
+        }
+      ],
+      "id": "I933*c9f81fd0-97fa-4566-ae6e-66403bdf98ae",
+      "names": [
+        {
+          "value": "Priwandi //"
         }
       ],
       "eventsFacts": [
