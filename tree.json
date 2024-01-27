@@ -6308,6 +6308,19 @@
         }
       ],
       "id": "F368*29fdd12a-892b-4b25-b4eb-b9b6d6b320a7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I885*333ebadb-622f-4215-ab5f-723f9ab1dec6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I845*c2741dd5-5f71-4ce5-a25e-4b1da6f0d9aa"
+        }
+      ],
+      "id": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
     }
   ],
   "head": {
@@ -23985,6 +23998,11 @@
           "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
       "id": "I845*c2741dd5-5f71-4ce5-a25e-4b1da6f0d9aa",
       "names": [
         {
@@ -24761,6 +24779,25 @@
       "names": [
         {
           "value": "Mangasi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I885*333ebadb-622f-4215-ab5f-723f9ab1dec6",
+      "names": [
+        {
+          "value": "Tumpal //"
         }
       ],
       "eventsFacts": [
