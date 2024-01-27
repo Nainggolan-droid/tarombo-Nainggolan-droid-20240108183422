@@ -6959,6 +6959,9 @@
         },
         {
           "ref": "I977*044a48a5-a74e-466b-9f12-a530d35e7ce0"
+        },
+        {
+          "ref": "I978*1f0a911b-518e-4729-a629-dcb3f2926b46"
         }
       ],
       "husbandRefs": [
@@ -27419,6 +27422,25 @@
       "names": [
         {
           "value": "Maringan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
+        }
+      ],
+      "id": "I978*1f0a911b-518e-4729-a629-dcb3f2926b46",
+      "names": [
+        {
+          "value": "Mara //"
         }
       ],
       "eventsFacts": [
