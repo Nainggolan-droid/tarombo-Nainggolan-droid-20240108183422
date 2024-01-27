@@ -6759,6 +6759,19 @@
         }
       ],
       "id": "F393*2fc3e13a-121b-466d-bd9a-4ec20ff97f8d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I952*e38098af-3710-4c9d-b061-7d9466f1b854"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I951*776285fd-17aa-4189-911d-b9ae9af8375d"
+        }
+      ],
+      "id": "F394*36fce324-f42d-4168-a120-bf3f77d9a29b"
     }
   ],
   "head": {
@@ -26565,10 +26578,34 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F394*36fce324-f42d-4168-a120-bf3f77d9a29b"
+        }
+      ],
       "id": "I951*776285fd-17aa-4189-911d-b9ae9af8375d",
       "names": [
         {
           "value": "Mangoloi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F394*36fce324-f42d-4168-a120-bf3f77d9a29b"
+        }
+      ],
+      "id": "I952*e38098af-3710-4c9d-b061-7d9466f1b854",
+      "names": [
+        {
+          "value": "Alparian //"
         }
       ],
       "eventsFacts": [
