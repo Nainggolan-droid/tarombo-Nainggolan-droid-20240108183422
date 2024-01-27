@@ -5960,6 +5960,9 @@
       "childRefs": [
         {
           "ref": "I834*a7cd32d9-8094-4361-b66a-277b31a16aaa"
+        },
+        {
+          "ref": "I835*3fc2e644-9b63-47bb-9cbd-ce692a37fb9c"
         }
       ],
       "husbandRefs": [
@@ -23410,6 +23413,25 @@
       "names": [
         {
           "value": "Okana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F349*8fc70347-d2ae-497c-bc86-f653ed57c130"
+        }
+      ],
+      "id": "I835*3fc2e644-9b63-47bb-9cbd-ce692a37fb9c",
+      "names": [
+        {
+          "value": "Oloan //"
         }
       ],
       "eventsFacts": [
