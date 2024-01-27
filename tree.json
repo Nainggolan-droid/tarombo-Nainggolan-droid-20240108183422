@@ -7624,6 +7624,19 @@
         }
       ],
       "id": "F445*a2caa27e-02d7-4fab-bb2b-8fad38967700"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1067*c3ba4b33-1166-4fc5-80a8-2d2a3adb567b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1064*0d4ae9df-55aa-40d8-b412-d6a6eba00190"
+        }
+      ],
+      "id": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
     }
   ],
   "head": {
@@ -29886,6 +29899,11 @@
           "ref": "F445*a2caa27e-02d7-4fab-bb2b-8fad38967700"
         }
       ],
+      "fams": [
+        {
+          "ref": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
+        }
+      ],
       "id": "I1064*0d4ae9df-55aa-40d8-b412-d6a6eba00190",
       "names": [
         {
@@ -29928,6 +29946,25 @@
       "names": [
         {
           "value": "Delicia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
+        }
+      ],
+      "id": "I1067*c3ba4b33-1166-4fc5-80a8-2d2a3adb567b",
+      "names": [
+        {
+          "value": "Graciella //"
         }
       ],
       "eventsFacts": [
