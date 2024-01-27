@@ -6986,6 +6986,19 @@
         }
       ],
       "id": "F407*71f52cbe-6cca-48ec-b5de-701ea8c0dc3e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I981*f0ddda46-dbe8-4aeb-b21d-4ceb36d15b6e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I975*2af15d28-e87a-446f-b5e2-15a432fa863c"
+        }
+      ],
+      "id": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
     }
   ],
   "head": {
@@ -27402,6 +27415,11 @@
           "ref": "F406*ffbdd2c1-4674-4066-9a48-38eb2ecf5bf5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+        }
+      ],
       "id": "I975*2af15d28-e87a-446f-b5e2-15a432fa863c",
       "names": [
         {
@@ -27507,6 +27525,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F408*8e17bf63-62c4-4cb2-99f0-1910f9208cdf"
+        }
+      ],
+      "id": "I981*f0ddda46-dbe8-4aeb-b21d-4ceb36d15b6e",
+      "names": [
+        {
+          "value": "Murphi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
