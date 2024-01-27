@@ -6278,6 +6278,9 @@
       "childRefs": [
         {
           "ref": "I880*89eb437b-b005-4181-8edd-b07146733d88"
+        },
+        {
+          "ref": "I882*898a73da-d3b4-4938-8ba5-4e003365d87f"
         }
       ],
       "husbandRefs": [
@@ -24695,6 +24698,25 @@
       "names": [
         {
           "value": "Andi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
+        }
+      ],
+      "id": "I882*898a73da-d3b4-4938-8ba5-4e003365d87f",
+      "names": [
+        {
+          "value": "Sabar //"
         }
       ],
       "eventsFacts": [
