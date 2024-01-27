@@ -6823,6 +6823,19 @@
         }
       ],
       "id": "F397*583c449f-a046-4f69-a0c9-623b7017052b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I960*ead5448a-ee43-4d97-b484-e7b1a2fcad9b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I940*7ee374fd-f6ab-47c7-a419-782a174c0919"
+        }
+      ],
+      "id": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
     }
   ],
   "head": {
@@ -26408,6 +26421,11 @@
           "ref": "F390*5f79cf3d-276e-4ded-92b9-01ef3822e1a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
+        }
+      ],
       "id": "I940*7ee374fd-f6ab-47c7-a419-782a174c0919",
       "names": [
         {
@@ -26814,6 +26832,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F398*94f9e575-b629-4bb2-bc58-7ec08c9138ce"
+        }
+      ],
+      "id": "I960*ead5448a-ee43-4d97-b484-e7b1a2fcad9b",
+      "names": [
+        {
+          "value": "Agus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
