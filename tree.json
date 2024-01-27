@@ -6319,6 +6319,9 @@
         },
         {
           "ref": "I893*ea8b8ae1-3c72-4f88-a140-e0e379dc26a9"
+        },
+        {
+          "ref": "I895*4c61176d-7299-4321-b3f0-3f81898b0409"
         }
       ],
       "husbandRefs": [
@@ -25053,6 +25056,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F369*757cc4d2-c3ab-4610-9c56-29bc89e5b6cc"
+        }
+      ],
+      "id": "I895*4c61176d-7299-4321-b3f0-3f81898b0409",
+      "names": [
+        {
+          "value": "Rotua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
