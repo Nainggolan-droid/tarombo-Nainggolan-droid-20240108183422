@@ -6036,6 +6036,9 @@
         },
         {
           "ref": "I846*e0abc2b0-204c-44b5-b9c7-2ad2395d311e"
+        },
+        {
+          "ref": "I847*cd667828-c898-4fc4-8d3a-198ed574a30a"
         }
       ],
       "husbandRefs": [
@@ -23730,6 +23733,25 @@
       "names": [
         {
           "value": "Gustap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I847*cd667828-c898-4fc4-8d3a-198ed574a30a",
+      "names": [
+        {
+          "value": "Cyrus //"
         }
       ],
       "eventsFacts": [
