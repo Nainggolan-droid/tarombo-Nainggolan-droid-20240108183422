@@ -6881,6 +6881,19 @@
         }
       ],
       "id": "F401*16878639-13f0-459a-b045-18cf5170a86b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I966*05fd516e-d773-4e42-93e2-58eb7dd8ffc7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I222*a044c856-090a-48dc-b2a5-262fa47a2d54"
+        }
+      ],
+      "id": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
     }
   ],
   "head": {
@@ -11523,6 +11536,11 @@
       "famc": [
         {
           "ref": "F97*428c350c-5a55-4e3c-a719-2a72490aaa9b"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
         }
       ],
       "id": "I222*a044c856-090a-48dc-b2a5-262fa47a2d54",
@@ -27079,6 +27097,25 @@
       "names": [
         {
           "value": "Anyo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F402*9d6b7b42-eed1-4c96-b2eb-8e3e55204c0a"
+        }
+      ],
+      "id": "I966*05fd516e-d773-4e42-93e2-58eb7dd8ffc7",
+      "names": [
+        {
+          "value": "A.Batusokkal //"
         }
       ],
       "eventsFacts": [
