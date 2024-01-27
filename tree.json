@@ -6704,6 +6704,9 @@
       "childRefs": [
         {
           "ref": "I942*bc7904ec-45d1-41f5-948a-8cab4483206a"
+        },
+        {
+          "ref": "I945*7e9ede30-4f87-4c69-b324-04d8208171c4"
         }
       ],
       "husbandRefs": [
@@ -26400,6 +26403,25 @@
       "names": [
         {
           "value": "Andolin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
+        }
+      ],
+      "id": "I945*7e9ede30-4f87-4c69-b324-04d8208171c4",
+      "names": [
+        {
+          "value": "Karliman //"
         }
       ],
       "eventsFacts": [
