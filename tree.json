@@ -7733,6 +7733,9 @@
         },
         {
           "ref": "I1093*98acb6e2-10bb-4cba-9f81-4e4731338c18"
+        },
+        {
+          "ref": "I1095*360c36ae-0d04-486b-ad27-f04315bf207c"
         }
       ],
       "husbandRefs": [
@@ -30727,6 +30730,25 @@
       "names": [
         {
           "value": " /Situkkir/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F451*53ca7562-d68d-4607-9741-b43dbe49e953"
+        }
+      ],
+      "id": "I1095*360c36ae-0d04-486b-ad27-f04315bf207c",
+      "names": [
+        {
+          "value": "Patar MT //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
