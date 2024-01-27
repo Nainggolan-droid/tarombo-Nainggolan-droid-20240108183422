@@ -6182,6 +6182,9 @@
         },
         {
           "ref": "I871*77eadcb5-a96a-4b1e-86e4-2fb30f9e9ee7"
+        },
+        {
+          "ref": "I873*1a0d0b86-3325-41f4-bee6-e507d2967cf5"
         }
       ],
       "husbandRefs": [
@@ -24442,6 +24445,25 @@
       "names": [
         {
           "value": " /Panjaitan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F361*4c957b8f-835c-41c0-832f-9142e2bb5144"
+        }
+      ],
+      "id": "I873*1a0d0b86-3325-41f4-bee6-e507d2967cf5",
+      "names": [
+        {
+          "value": "Hisar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
