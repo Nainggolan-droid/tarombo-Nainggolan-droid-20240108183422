@@ -7897,6 +7897,9 @@
         },
         {
           "ref": "I1106*faa65f36-402b-4f34-8f03-b005f2e7556d"
+        },
+        {
+          "ref": "I1107*525dc60c-e860-4007-ae01-3b032b48b583"
         }
       ],
       "husbandRefs": [
@@ -31045,6 +31048,25 @@
       "names": [
         {
           "value": "Nasib //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F462*7ae0c93e-c2f1-43fa-adb9-9fd641c1a912"
+        }
+      ],
+      "id": "I1107*525dc60c-e860-4007-ae01-3b032b48b583",
+      "names": [
+        {
+          "value": "Valentinus //"
         }
       ],
       "eventsFacts": [
