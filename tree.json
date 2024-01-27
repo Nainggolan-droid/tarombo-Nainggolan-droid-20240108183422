@@ -6024,6 +6024,9 @@
         },
         {
           "ref": "I842*b9d91c60-4ed2-4a54-9deb-1944d1faf8ba"
+        },
+        {
+          "ref": "I843*fa0024ad-a2e3-4a55-8d5e-2dccd4066f8d"
         }
       ],
       "husbandRefs": [
@@ -23641,6 +23644,25 @@
         {
           "nick": "Op.Moses",
           "value": "Daniel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I843*fa0024ad-a2e3-4a55-8d5e-2dccd4066f8d",
+      "names": [
+        {
+          "value": "Pargaulan //"
         }
       ],
       "eventsFacts": [
