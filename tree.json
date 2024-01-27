@@ -6030,6 +6030,9 @@
         },
         {
           "ref": "I844*1021e4bc-fd0c-4f93-a06b-194bce8ad1ee"
+        },
+        {
+          "ref": "I845*c2741dd5-5f71-4ce5-a25e-4b1da6f0d9aa"
         }
       ],
       "husbandRefs": [
@@ -23685,6 +23688,25 @@
       "names": [
         {
           "value": "Abel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
+        }
+      ],
+      "id": "I845*c2741dd5-5f71-4ce5-a25e-4b1da6f0d9aa",
+      "names": [
+        {
+          "value": "Gasal //"
         }
       ],
       "eventsFacts": [
