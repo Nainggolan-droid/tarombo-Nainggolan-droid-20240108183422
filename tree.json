@@ -6273,6 +6273,19 @@
         }
       ],
       "id": "F366*7e2eba9a-c4e5-4123-a8f5-31c9d5dca3d7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I880*89eb437b-b005-4181-8edd-b07146733d88"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I844*1021e4bc-fd0c-4f93-a06b-194bce8ad1ee"
+        }
+      ],
+      "id": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
     }
   ],
   "head": {
@@ -23926,6 +23939,11 @@
           "ref": "F353*eb0964fc-5b2b-4c10-81ae-fd3446205699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
+        }
+      ],
       "id": "I844*1021e4bc-fd0c-4f93-a06b-194bce8ad1ee",
       "names": [
         {
@@ -24627,6 +24645,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F367*fe560f8f-c19d-4892-b96a-9def7dbd87a5"
+        }
+      ],
+      "id": "I880*89eb437b-b005-4181-8edd-b07146733d88",
+      "names": [
+        {
+          "value": "Monang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
