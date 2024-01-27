@@ -7866,6 +7866,9 @@
       "childRefs": [
         {
           "ref": "I1096*da554061-434d-460a-a304-d0044831e866"
+        },
+        {
+          "ref": "I1097*4f4dcf54-14a0-48c3-9875-296a50fc4c4f"
         }
       ],
       "husbandRefs": [
@@ -30780,6 +30783,25 @@
       "names": [
         {
           "value": "Marchell Parasian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F461*041698f7-2c4a-4ac4-bb54-8c23b972ebd2"
+        }
+      ],
+      "id": "I1097*4f4dcf54-14a0-48c3-9875-296a50fc4c4f",
+      "names": [
+        {
+          "value": "Arifin Rotama //"
         }
       ],
       "eventsFacts": [
