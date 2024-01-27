@@ -6086,6 +6086,9 @@
         },
         {
           "ref": "I859*23353327-1069-427d-9891-ffc8cdd2cbdd"
+        },
+        {
+          "ref": "I860*b563d2b6-fe92-4b8b-afc1-d5967145f0b2"
         }
       ],
       "husbandRefs": [
@@ -24080,6 +24083,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F355*615f2544-63f5-40b6-bbd6-9b7c3f7ce125"
+        }
+      ],
+      "id": "I860*b563d2b6-fe92-4b8b-afc1-d5967145f0b2",
+      "names": [
+        {
+          "value": "Dora Gora //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
