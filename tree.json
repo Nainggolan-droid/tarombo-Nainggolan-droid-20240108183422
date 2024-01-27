@@ -7396,6 +7396,9 @@
         },
         {
           "ref": "I1036*cebf1447-7929-4bd3-ae53-315e145213c1"
+        },
+        {
+          "ref": "I1037*9002901d-d6f1-4043-96a7-3bf6a807a891"
         }
       ],
       "husbandRefs": [
@@ -29099,6 +29102,25 @@
       "names": [
         {
           "value": "Hana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F432*d957baea-1d93-4d8d-92d3-9caed50e2d5b"
+        }
+      ],
+      "id": "I1037*9002901d-d6f1-4043-96a7-3bf6a807a891",
+      "names": [
+        {
+          "value": "Tumiur //"
         }
       ],
       "eventsFacts": [
