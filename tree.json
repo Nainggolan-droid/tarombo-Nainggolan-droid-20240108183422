@@ -5892,6 +5892,9 @@
         },
         {
           "ref": "I831*9b05f5e3-cf42-4a7e-b184-3de133eed680"
+        },
+        {
+          "ref": "I833*c315c6d6-5d24-4a50-99fc-8791495f02cd"
         }
       ],
       "husbandRefs": [
@@ -23350,6 +23353,25 @@
       "names": [
         {
           "value": "Samuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F344*e01ee475-3187-43f5-b849-2583b508a3c3"
+        }
+      ],
+      "id": "I833*c315c6d6-5d24-4a50-99fc-8791495f02cd",
+      "names": [
+        {
+          "value": "Kasmin //"
         }
       ],
       "eventsFacts": [
