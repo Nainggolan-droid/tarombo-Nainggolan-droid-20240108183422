@@ -7089,6 +7089,9 @@
         },
         {
           "ref": "I1004*07b8a403-9f26-4207-b62b-599ee78246ef"
+        },
+        {
+          "ref": "I1006*82a870dd-a073-4fd0-b942-623c6879c1b8"
         }
       ],
       "husbandRefs": [
@@ -28203,6 +28206,25 @@
       "names": [
         {
           "value": " /Sihotang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
+        }
+      ],
+      "id": "I1006*82a870dd-a073-4fd0-b942-623c6879c1b8",
+      "names": [
+        {
+          "value": "Adi Andoko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
