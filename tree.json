@@ -7214,6 +7214,9 @@
         },
         {
           "ref": "I1014*7899b8d9-376a-4199-a619-9ada806b74cb"
+        },
+        {
+          "ref": "I1017*bfcd64de-95b4-4478-8720-fe12e5198aab"
         }
       ],
       "husbandRefs": [
@@ -28525,6 +28528,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F421*344d8f9a-09d8-4d86-9268-1af32a422463"
+        }
+      ],
+      "id": "I1017*bfcd64de-95b4-4478-8720-fe12e5198aab",
+      "names": [
+        {
+          "value": "Maruli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
