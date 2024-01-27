@@ -6527,6 +6527,9 @@
       "childRefs": [
         {
           "ref": "I913*c27f5a9d-b8d5-4f6b-9339-c02c36639144"
+        },
+        {
+          "ref": "I914*db2efc93-8c36-4a1c-8267-9e06fa7aeb72"
         }
       ],
       "husbandRefs": [
@@ -25586,6 +25589,25 @@
         {
           "nick": "A.Sehat",
           "value": "Pittor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I914*db2efc93-8c36-4a1c-8267-9e06fa7aeb72",
+      "names": [
+        {
+          "value": "Poster //"
         }
       ],
       "eventsFacts": [
