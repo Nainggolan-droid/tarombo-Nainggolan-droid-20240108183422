@@ -7966,6 +7966,19 @@
         }
       ],
       "id": "F466*0016e9ee-a57d-4def-bc0f-20b4b1176fb7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1111*d654978e-7b5e-495e-be9b-b07233001e1b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I174*483320ec-2bfa-4dd9-9073-d1d87b35d0e5"
+        }
+      ],
+      "id": "F467*3ff4bdb8-2651-4881-8609-a7f529e20f1b"
     }
   ],
   "head": {
@@ -11611,6 +11624,11 @@
       "famc": [
         {
           "ref": "F76*9142ef9d-d6a2-4862-acde-3d06f2d763fc"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F467*3ff4bdb8-2651-4881-8609-a7f529e20f1b"
         }
       ],
       "id": "I174*483320ec-2bfa-4dd9-9073-d1d87b35d0e5",
@@ -31187,6 +31205,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F467*3ff4bdb8-2651-4881-8609-a7f529e20f1b"
+        }
+      ],
+      "id": "I1111*d654978e-7b5e-495e-be9b-b07233001e1b",
+      "names": [
+        {
+          "value": "Klara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
