@@ -7976,7 +7976,7 @@
       "time": "17:09:59",
       "value": "8 JAN 2024"
     },
-    "file": "5.json",
+    "file": "3.json",
     "gedc": {
       "form": "LINEAGE-LINKED",
       "vers": "5.5.1"
@@ -30173,6 +30173,12 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ],
+      "media": [
+        {
+          "_file": "f905c6b8-5275-476d-be33-3f2a8e0819ac.png",
+          "fileTag": "FILE"
         }
       ]
     },
