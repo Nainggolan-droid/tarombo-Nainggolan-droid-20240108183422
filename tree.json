@@ -6343,6 +6343,19 @@
         }
       ],
       "id": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I890*c409b4f8-19b2-4c36-b491-262bef73ef57"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I886*5467bba1-9c83-4e17-b58c-a96d6d8ceae7"
+        }
+      ],
+      "id": "F371*9a9e1a0f-3f52-430d-8454-702365c50b89"
     }
   ],
   "head": {
@@ -24841,6 +24854,11 @@
           "ref": "F370*f88be161-2d94-404b-9cdd-d4d358ed44dd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F371*9a9e1a0f-3f52-430d-8454-702365c50b89"
+        }
+      ],
       "id": "I886*5467bba1-9c83-4e17-b58c-a96d6d8ceae7",
       "names": [
         {
@@ -24908,6 +24926,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F371*9a9e1a0f-3f52-430d-8454-702365c50b89"
+        }
+      ],
+      "id": "I890*c409b4f8-19b2-4c36-b491-262bef73ef57",
+      "names": [
+        {
+          "value": "Brata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
