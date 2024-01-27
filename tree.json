@@ -6003,6 +6003,19 @@
         }
       ],
       "id": "F351*a7402694-a5a2-420b-94a0-a04ca614db31"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I840*c747a5a0-fdc8-4c1b-9f3e-3d8d4116076c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I839*6bed048d-60b7-4fb2-b2f6-4455b98c70e8"
+        }
+      ],
+      "id": "F352*2001291b-ceea-420b-9cf5-d6f2564398f6"
     }
   ],
   "head": {
@@ -23540,10 +23553,34 @@
           "ref": "F351*a7402694-a5a2-420b-94a0-a04ca614db31"
         }
       ],
+      "fams": [
+        {
+          "ref": "F352*2001291b-ceea-420b-9cf5-d6f2564398f6"
+        }
+      ],
       "id": "I839*6bed048d-60b7-4fb2-b2f6-4455b98c70e8",
       "names": [
         {
           "value": "Merhad //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F352*2001291b-ceea-420b-9cf5-d6f2564398f6"
+        }
+      ],
+      "id": "I840*c747a5a0-fdc8-4c1b-9f3e-3d8d4116076c",
+      "names": [
+        {
+          "value": "Sahata //"
         }
       ],
       "eventsFacts": [
