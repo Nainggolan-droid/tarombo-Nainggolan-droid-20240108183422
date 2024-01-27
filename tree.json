@@ -7193,6 +7193,19 @@
         }
       ],
       "id": "F419*cdd6a7ef-48cb-4282-86f7-9c76ceb6ad62"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1010*bd8ecece-2dc2-45df-9466-5510b1490893"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1009*e9810454-be7b-487b-94cf-83e2e1f2a3ba"
+        }
+      ],
+      "id": "F420*53a67262-e347-421e-a127-3b7fa4496957"
     }
   ],
   "head": {
@@ -28297,11 +28310,35 @@
           "ref": "F413*88cba11c-49de-4045-9c9c-dc082ac118f4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F420*53a67262-e347-421e-a127-3b7fa4496957"
+        }
+      ],
       "id": "I1009*e9810454-be7b-487b-94cf-83e2e1f2a3ba",
       "names": [
         {
           "nick": "A.Mario",
           "value": "Fransisco //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F420*53a67262-e347-421e-a127-3b7fa4496957"
+        }
+      ],
+      "id": "I1010*bd8ecece-2dc2-45df-9466-5510b1490893",
+      "names": [
+        {
+          "value": "Mario //"
         }
       ],
       "eventsFacts": [
