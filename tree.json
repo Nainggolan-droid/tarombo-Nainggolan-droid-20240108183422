@@ -6539,6 +6539,9 @@
         },
         {
           "ref": "I918*18b02e50-86ea-4739-a35e-06f8f5cdb005"
+        },
+        {
+          "ref": "I920*eba0d625-423e-4ecc-86e4-d03108627aca"
         }
       ],
       "husbandRefs": [
@@ -25744,6 +25747,25 @@
       "names": [
         {
           "value": " /Simanjuntak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I920*eba0d625-423e-4ecc-86e4-d03108627aca",
+      "names": [
+        {
+          "value": "Fermi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
