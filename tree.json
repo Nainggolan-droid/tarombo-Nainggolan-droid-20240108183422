@@ -6533,6 +6533,9 @@
         },
         {
           "ref": "I915*3be92b50-4d30-46e9-b7ac-abbd243efaea"
+        },
+        {
+          "ref": "I916*c6e512ff-73c0-42c3-99b5-ecbaf8f33b1d"
         }
       ],
       "husbandRefs": [
@@ -25636,6 +25639,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F382*580024a6-9857-4209-a529-38f48e00f21e"
+        }
+      ],
+      "id": "I916*c6e512ff-73c0-42c3-99b5-ecbaf8f33b1d",
+      "names": [
+        {
+          "value": "Rislina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
