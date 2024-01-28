@@ -9205,6 +9205,9 @@
         },
         {
           "ref": "I1272*d38f0be0-f7e3-46f5-8ae9-96a59495f9e9"
+        },
+        {
+          "ref": "I1273*6efe5f01-7e8b-4e15-93e3-015933b918da"
         }
       ],
       "husbandRefs": [
@@ -35963,6 +35966,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
+        }
+      ],
+      "id": "I1273*6efe5f01-7e8b-4e15-93e3-015933b918da",
+      "names": [
+        {
+          "value": "Lamsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
