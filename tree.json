@@ -8574,6 +8574,9 @@
       "childRefs": [
         {
           "ref": "I1182*bd962f1d-78d7-4add-9a62-9a232f37996d"
+        },
+        {
+          "ref": "I1183*5c61eed9-c965-4e77-851e-874290e8ffe7"
         }
       ],
       "husbandRefs": [
@@ -33420,6 +33423,25 @@
       "names": [
         {
           "value": "A.Ngadar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
+        }
+      ],
+      "id": "I1183*5c61eed9-c965-4e77-851e-874290e8ffe7",
+      "names": [
+        {
+          "value": "A.Tarias //"
         }
       ],
       "eventsFacts": [
