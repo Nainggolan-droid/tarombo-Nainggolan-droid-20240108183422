@@ -8627,6 +8627,22 @@
         }
       ],
       "id": "F509*7ebf1a75-75b4-46e3-8b97-f9b6a76697d0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1188*4d10dcab-6830-4a43-b160-af197c3a4ceb"
+        },
+        {
+          "ref": "I1189*51a63d2c-0afb-4b76-beee-bc5c43992bfb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1183*5c61eed9-c965-4e77-851e-874290e8ffe7"
+        }
+      ],
+      "id": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
     }
   ],
   "head": {
@@ -33485,6 +33501,11 @@
           "ref": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
         }
       ],
+      "fams": [
+        {
+          "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+        }
+      ],
       "id": "I1183*5c61eed9-c965-4e77-851e-874290e8ffe7",
       "names": [
         {
@@ -33575,6 +33596,44 @@
       "names": [
         {
           "value": "Aman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+        }
+      ],
+      "id": "I1188*4d10dcab-6830-4a43-b160-af197c3a4ceb",
+      "names": [
+        {
+          "value": "Kander //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+        }
+      ],
+      "id": "I1189*51a63d2c-0afb-4b76-beee-bc5c43992bfb",
+      "names": [
+        {
+          "value": "Borjok //"
         }
       ],
       "eventsFacts": [
