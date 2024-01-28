@@ -8638,6 +8638,9 @@
         },
         {
           "ref": "I1190*ff79640c-8c3c-43e2-aa87-2770e21c8d72"
+        },
+        {
+          "ref": "I1191*adf7df9a-4e28-4711-943a-387408cf4efd"
         }
       ],
       "husbandRefs": [
@@ -33656,6 +33659,25 @@
       "names": [
         {
           "value": "Jahormat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+        }
+      ],
+      "id": "I1191*adf7df9a-4e28-4711-943a-387408cf4efd",
+      "names": [
+        {
+          "value": "Johan //"
         }
       ],
       "eventsFacts": [
