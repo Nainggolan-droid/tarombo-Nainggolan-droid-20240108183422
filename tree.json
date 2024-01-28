@@ -9202,6 +9202,9 @@
         },
         {
           "ref": "I1271*fc130c66-2bca-4989-a37b-342fc17645b1"
+        },
+        {
+          "ref": "I1272*d38f0be0-f7e3-46f5-8ae9-96a59495f9e9"
         }
       ],
       "husbandRefs": [
@@ -35935,6 +35938,25 @@
       "names": [
         {
           "value": "Linda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
+        }
+      ],
+      "id": "I1272*d38f0be0-f7e3-46f5-8ae9-96a59495f9e9",
+      "names": [
+        {
+          "value": "Nora //"
         }
       ],
       "eventsFacts": [
