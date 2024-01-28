@@ -8119,6 +8119,9 @@
         },
         {
           "ref": "I1127*5a2af362-85f4-49ac-a28b-c2810eaf2cb2"
+        },
+        {
+          "ref": "I1128*0bbd1a71-2d59-4f68-aeea-2c2960816d51"
         }
       ],
       "husbandRefs": [
@@ -31773,6 +31776,25 @@
       "names": [
         {
           "value": "Op.Jaomas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1128*0bbd1a71-2d59-4f68-aeea-2c2960816d51",
+      "names": [
+        {
+          "value": "Op.Janauli //"
         }
       ],
       "eventsFacts": [
