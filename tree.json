@@ -9608,6 +9608,9 @@
         },
         {
           "ref": "I1330*2f7069de-cdf6-4637-8e97-8d3d3306abe9"
+        },
+        {
+          "ref": "I1331*176c65b8-4971-4ff4-a694-6fe3f8d8cd7a"
         }
       ],
       "husbandRefs": [
@@ -37528,6 +37531,25 @@
       "names": [
         {
           "value": "Muller //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F565*326228cf-2a28-4bf6-bbf9-25ab5026eaea"
+        }
+      ],
+      "id": "I1331*176c65b8-4971-4ff4-a694-6fe3f8d8cd7a",
+      "names": [
+        {
+          "value": "Mopul //"
         }
       ],
       "eventsFacts": [
