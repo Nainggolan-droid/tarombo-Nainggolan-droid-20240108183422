@@ -9489,6 +9489,22 @@
         }
       ],
       "id": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1312*8f79ce37-42b9-454b-90dc-25137eed1b83"
+        },
+        {
+          "ref": "I1313*94f234ba-e120-4dda-82b6-8e70f3fe876b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1309*f1d41100-ee4b-461b-87d4-497b77eefb6f"
+        }
+      ],
+      "id": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
     }
   ],
   "head": {
@@ -36963,6 +36979,11 @@
           "ref": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
         }
       ],
+      "fams": [
+        {
+          "ref": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
+        }
+      ],
       "id": "I1309*f1d41100-ee4b-461b-87d4-497b77eefb6f",
       "names": [
         {
@@ -37005,6 +37026,44 @@
       "names": [
         {
           "value": "Koriman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
+        }
+      ],
+      "id": "I1312*8f79ce37-42b9-454b-90dc-25137eed1b83",
+      "names": [
+        {
+          "value": "Mangara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
+        }
+      ],
+      "id": "I1313*94f234ba-e120-4dda-82b6-8e70f3fe876b",
+      "names": [
+        {
+          "value": "Lomu //"
         }
       ],
       "eventsFacts": [
