@@ -8278,6 +8278,9 @@
         },
         {
           "ref": "I1150*2631af55-1ec1-46c1-868e-7aefd8935317"
+        },
+        {
+          "ref": "I1151*7aa4af10-6fea-4f8c-b792-81eea398e05c"
         }
       ],
       "husbandRefs": [
@@ -32416,6 +32419,25 @@
       "names": [
         {
           "value": "Op.Botul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+        }
+      ],
+      "id": "I1151*7aa4af10-6fea-4f8c-b792-81eea398e05c",
+      "names": [
+        {
+          "value": "A.Timbang //"
         }
       ],
       "eventsFacts": [
