@@ -8398,6 +8398,19 @@
         }
       ],
       "id": "F493*323ef202-077d-4440-9542-fb9d7754bef4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1165*c249ef56-c6b7-406c-9834-d1469ad60d66"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1153*20a3aafe-9330-4496-8369-b132a68d827c"
+        }
+      ],
+      "id": "F494*d676df80-e370-41ad-b16f-0d8f0ce8c987"
     }
   ],
   "head": {
@@ -32591,6 +32604,11 @@
           "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F494*d676df80-e370-41ad-b16f-0d8f0ce8c987"
+        }
+      ],
       "id": "I1153*20a3aafe-9330-4496-8369-b132a68d827c",
       "names": [
         {
@@ -32829,6 +32847,25 @@
       "names": [
         {
           "value": "Baginda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F494*d676df80-e370-41ad-b16f-0d8f0ce8c987"
+        }
+      ],
+      "id": "I1165*c249ef56-c6b7-406c-9834-d1469ad60d66",
+      "names": [
+        {
+          "value": "Pajita //"
         }
       ],
       "eventsFacts": [
