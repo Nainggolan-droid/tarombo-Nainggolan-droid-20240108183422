@@ -9171,6 +9171,9 @@
       "childRefs": [
         {
           "ref": "I1261*92de9162-41b1-46f7-ae73-6decf679f8ff"
+        },
+        {
+          "ref": "I1262*0c59be76-c939-4758-bc20-6e763a827da1"
         }
       ],
       "husbandRefs": [
@@ -35670,6 +35673,25 @@
       "names": [
         {
           "value": "Erida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F542*a88f8b5c-2baf-48ad-809a-231c46679efd"
+        }
+      ],
+      "id": "I1262*0c59be76-c939-4758-bc20-6e763a827da1",
+      "names": [
+        {
+          "value": "Lidia //"
         }
       ],
       "eventsFacts": [
