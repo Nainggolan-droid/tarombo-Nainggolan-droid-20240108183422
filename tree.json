@@ -8529,6 +8529,9 @@
       "childRefs": [
         {
           "ref": "I1177*8f0d51d9-fa86-4f28-9795-1fc9f3dd78cc"
+        },
+        {
+          "ref": "I1178*a1d1b9a4-04e2-42ac-ad73-2f5570505958"
         }
       ],
       "husbandRefs": [
@@ -33265,6 +33268,25 @@
       "names": [
         {
           "value": "Tahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
+        }
+      ],
+      "id": "I1178*a1d1b9a4-04e2-42ac-ad73-2f5570505958",
+      "names": [
+        {
+          "value": "Kasi //"
         }
       ],
       "eventsFacts": [
