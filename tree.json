@@ -9386,6 +9386,9 @@
         },
         {
           "ref": "I1296*dcaec6f6-e732-4776-a231-72bab78b2f16"
+        },
+        {
+          "ref": "I1297*6008f1c1-7446-4d77-8f3e-414a66098c90"
         }
       ],
       "husbandRefs": [
@@ -36600,6 +36603,25 @@
       "names": [
         {
           "value": "Luhut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F553*4efbd495-8d0b-4956-a1ca-fbecdcd527e2"
+        }
+      ],
+      "id": "I1297*6008f1c1-7446-4d77-8f3e-414a66098c90",
+      "names": [
+        {
+          "value": "Boy //"
         }
       ],
       "eventsFacts": [
