@@ -8195,6 +8195,9 @@
         },
         {
           "ref": "I1139*70f8494d-8bb2-493e-94a3-339d42c2d2a0"
+        },
+        {
+          "ref": "I1140*db81313a-3cef-4ed1-b184-a6034693a412"
         }
       ],
       "husbandRefs": [
@@ -32103,6 +32106,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
+      "id": "I1140*db81313a-3cef-4ed1-b184-a6034693a412",
+      "names": [
+        {
+          "value": "Rustiana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
