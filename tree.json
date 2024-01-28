@@ -9256,6 +9256,9 @@
         },
         {
           "ref": "I1276*11602f05-67aa-42d7-80cc-a1dc85f2bc01"
+        },
+        {
+          "ref": "I1279*37e66f49-f0ae-4889-9e17-e89f406a3dc9"
         }
       ],
       "husbandRefs": [
@@ -36119,6 +36122,25 @@
       "names": [
         {
           "value": "Megauli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
+      "id": "I1279*37e66f49-f0ae-4889-9e17-e89f406a3dc9",
+      "names": [
+        {
+          "value": "Debora //"
         }
       ],
       "eventsFacts": [
