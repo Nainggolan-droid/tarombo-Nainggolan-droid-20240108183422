@@ -9342,6 +9342,9 @@
       "childRefs": [
         {
           "ref": "I1288*831cbd99-1dd9-4ece-b1ca-9e8c03a8d2a1"
+        },
+        {
+          "ref": "I1289*8e6c1384-a8f6-47ed-90ce-6ee82b7de2f0"
         }
       ],
       "husbandRefs": [
@@ -36388,6 +36391,25 @@
       "names": [
         {
           "value": "Chessa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F551*ba893f95-d429-4713-a855-c67e6e88c72e"
+        }
+      ],
+      "id": "I1289*8e6c1384-a8f6-47ed-90ce-6ee82b7de2f0",
+      "names": [
+        {
+          "value": "Stella //"
         }
       ],
       "eventsFacts": [
