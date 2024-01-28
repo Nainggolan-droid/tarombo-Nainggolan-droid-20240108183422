@@ -8170,6 +8170,9 @@
       "childRefs": [
         {
           "ref": "I1134*7e8f9964-0041-40e2-a2f2-cf1b854f7d22"
+        },
+        {
+          "ref": "I1135*63ff0f3a-314f-49ad-9202-1b3b2e1fd28e"
         }
       ],
       "husbandRefs": [
@@ -31972,6 +31975,25 @@
       "names": [
         {
           "value": "Dikkon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
+        }
+      ],
+      "id": "I1135*63ff0f3a-314f-49ad-9202-1b3b2e1fd28e",
+      "names": [
+        {
+          "value": "Guna //"
         }
       ],
       "eventsFacts": [
