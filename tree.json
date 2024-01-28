@@ -8862,6 +8862,9 @@
       "childRefs": [
         {
           "ref": "I1218*af19468e-413c-43ea-9526-f984f6509b26"
+        },
+        {
+          "ref": "I1219*1993a9a6-cb19-4eaa-a568-0291fd08b85a"
         }
       ],
       "husbandRefs": [
@@ -34483,6 +34486,25 @@
       "names": [
         {
           "value": "Binsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F524*89987dd4-e8c1-41f5-a1f9-cc852a3737b7"
+        }
+      ],
+      "id": "I1219*1993a9a6-cb19-4eaa-a568-0291fd08b85a",
+      "names": [
+        {
+          "value": "Sumihar //"
         }
       ],
       "eventsFacts": [
