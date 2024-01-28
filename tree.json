@@ -8930,6 +8930,19 @@
         }
       ],
       "id": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1229*58175f81-77d1-4d15-b9ff-0d6a48042fdc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1227*98689dfe-d54c-497d-aa55-ac43c8b6ed8b"
+        }
+      ],
+      "id": "F528*2d0b1c02-775b-419c-8d71-6bb87916ed94"
     }
   ],
   "head": {
@@ -34725,6 +34738,11 @@
           "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
         }
       ],
+      "fams": [
+        {
+          "ref": "F528*2d0b1c02-775b-419c-8d71-6bb87916ed94"
+        }
+      ],
       "id": "I1227*98689dfe-d54c-497d-aa55-ac43c8b6ed8b",
       "names": [
         {
@@ -34748,6 +34766,25 @@
       "names": [
         {
           "value": "Jason //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F528*2d0b1c02-775b-419c-8d71-6bb87916ed94"
+        }
+      ],
+      "id": "I1229*58175f81-77d1-4d15-b9ff-0d6a48042fdc",
+      "names": [
+        {
+          "value": "Tamba //"
         }
       ],
       "eventsFacts": [
