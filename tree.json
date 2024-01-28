@@ -9389,6 +9389,9 @@
         },
         {
           "ref": "I1297*6008f1c1-7446-4d77-8f3e-414a66098c90"
+        },
+        {
+          "ref": "I1298*1b55822c-981d-4234-86c1-c154421f3c9a"
         }
       ],
       "husbandRefs": [
@@ -36622,6 +36625,25 @@
       "names": [
         {
           "value": "Boy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F553*4efbd495-8d0b-4956-a1ca-fbecdcd527e2"
+        }
+      ],
+      "id": "I1298*1b55822c-981d-4234-86c1-c154421f3c9a",
+      "names": [
+        {
+          "value": "Saniang //"
         }
       ],
       "eventsFacts": [
