@@ -8972,6 +8972,19 @@
         }
       ],
       "id": "F530*f8690ba4-55ce-485c-a339-ec430fc46a31"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1233*8dfed80a-7fbb-4647-8db8-2cbb495bc601"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1128*0bbd1a71-2d59-4f68-aeea-2c2960816d51"
+        }
+      ],
+      "id": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
     }
   ],
   "head": {
@@ -32659,6 +32672,11 @@
           "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
+        }
+      ],
       "id": "I1128*0bbd1a71-2d59-4f68-aeea-2c2960816d51",
       "names": [
         {
@@ -34881,6 +34899,25 @@
       "names": [
         {
           "value": "Rusia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
+        }
+      ],
+      "id": "I1233*8dfed80a-7fbb-4647-8db8-2cbb495bc601",
+      "names": [
+        {
+          "value": "Op.Saniang //"
         }
       ],
       "eventsFacts": [
