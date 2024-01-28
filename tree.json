@@ -9070,6 +9070,19 @@
           "ref": "I1246*89b0f4d6-0778-4ba0-aa4a-a01785ccc24a"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1249*4932bbc6-c92e-4e6d-990a-3451ba27ee64"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1248*132aac57-ace2-4d1d-9c8e-e12b299a0ec3"
+        }
+      ],
+      "id": "F536*f4581d65-7c95-4762-af63-2f317a4c3ca5"
     }
   ],
   "head": {
@@ -35298,6 +35311,11 @@
           "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
         }
       ],
+      "fams": [
+        {
+          "ref": "F536*f4581d65-7c95-4762-af63-2f317a4c3ca5"
+        }
+      ],
       "id": "I1248*132aac57-ace2-4d1d-9c8e-e12b299a0ec3",
       "names": [
         {
@@ -35309,6 +35327,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F536*f4581d65-7c95-4762-af63-2f317a4c3ca5"
+        }
+      ],
+      "id": "I1249*4932bbc6-c92e-4e6d-990a-3451ba27ee64",
+      "names": [
+        {
+          "value": "Rosa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
