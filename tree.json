@@ -8702,6 +8702,9 @@
         },
         {
           "ref": "I1198*8ccdb95c-17e6-4e89-9150-c9ce920a6a7f"
+        },
+        {
+          "ref": "I1199*d4c0cc98-91ec-4a83-8851-9ea69cb3bd96"
         }
       ],
       "husbandRefs": [
@@ -33892,6 +33895,25 @@
       "names": [
         {
           "value": "Mula //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
+        }
+      ],
+      "id": "I1199*d4c0cc98-91ec-4a83-8851-9ea69cb3bd96",
+      "names": [
+        {
+          "value": "Karl //"
         }
       ],
       "eventsFacts": [
