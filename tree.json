@@ -8796,6 +8796,22 @@
         }
       ],
       "id": "F519*0177b5c4-4aae-4559-8c99-be34e59220ab"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1211*d94a0eb7-49fc-4043-a4bc-405772a30079"
+        },
+        {
+          "ref": "I1212*dfc2d66b-1371-41b7-b968-0ce3def9a72f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1207*0277e02e-7df9-4956-8a21-fb1ebfcb4513"
+        }
+      ],
+      "id": "F520*5e511a5a-d90d-47dd-83d7-b3acda758c2c"
     }
   ],
   "head": {
@@ -34165,6 +34181,11 @@
           "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
         }
       ],
+      "fams": [
+        {
+          "ref": "F520*5e511a5a-d90d-47dd-83d7-b3acda758c2c"
+        }
+      ],
       "id": "I1207*0277e02e-7df9-4956-8a21-fb1ebfcb4513",
       "names": [
         {
@@ -34237,6 +34258,44 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F520*5e511a5a-d90d-47dd-83d7-b3acda758c2c"
+        }
+      ],
+      "id": "I1211*d94a0eb7-49fc-4043-a4bc-405772a30079",
+      "names": [
+        {
+          "value": "Fransinatra //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F520*5e511a5a-d90d-47dd-83d7-b3acda758c2c"
+        }
+      ],
+      "id": "I1212*dfc2d66b-1371-41b7-b968-0ce3def9a72f",
+      "names": [
+        {
+          "value": "Fradela //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
