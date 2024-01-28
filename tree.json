@@ -8991,6 +8991,19 @@
         }
       ],
       "id": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1236*693f0310-956e-45e6-a1dd-981693d64b5c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1233*8dfed80a-7fbb-4647-8db8-2cbb495bc601"
+        }
+      ],
+      "id": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
     }
   ],
   "head": {
@@ -34920,6 +34933,11 @@
           "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
         }
       ],
+      "fams": [
+        {
+          "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
+        }
+      ],
       "id": "I1233*8dfed80a-7fbb-4647-8db8-2cbb495bc601",
       "names": [
         {
@@ -34962,6 +34980,25 @@
       "names": [
         {
           "value": "Op.Jamanaek //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
+        }
+      ],
+      "id": "I1236*693f0310-956e-45e6-a1dd-981693d64b5c",
+      "names": [
+        {
+          "value": "Ms.Palemon //"
         }
       ],
       "eventsFacts": [
