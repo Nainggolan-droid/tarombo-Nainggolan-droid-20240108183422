@@ -9419,6 +9419,19 @@
         }
       ],
       "id": "F554*6d7c5c5b-39b2-4daf-82e6-04022eb6119d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1302*0bc9ab3c-2b88-4392-b794-f835b00a22f3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1237*146204f6-a9b7-41b3-9249-21544b783584"
+        }
+      ],
+      "id": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
     }
   ],
   "head": {
@@ -35434,6 +35447,11 @@
           "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
+        }
+      ],
       "id": "I1237*146204f6-a9b7-41b3-9249-21544b783584",
       "names": [
         {
@@ -36731,6 +36749,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
+        }
+      ],
+      "id": "I1302*0bc9ab3c-2b88-4392-b794-f835b00a22f3",
+      "names": [
+        {
+          "value": "Manukkar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
