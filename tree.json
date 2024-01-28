@@ -8165,6 +8165,19 @@
         }
       ],
       "id": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1134*7e8f9964-0041-40e2-a2f2-cf1b854f7d22"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1131*4f461df8-3a8c-4548-b5b2-26f3ed62537b"
+        }
+      ],
+      "id": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
     }
   ],
   "head": {
@@ -31893,6 +31906,11 @@
           "ref": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
+        }
+      ],
       "id": "I1131*4f461df8-3a8c-4548-b5b2-26f3ed62537b",
       "names": [
         {
@@ -31935,6 +31953,25 @@
       "names": [
         {
           "value": "A.Dikkon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
+        }
+      ],
+      "id": "I1134*7e8f9964-0041-40e2-a2f2-cf1b854f7d22",
+      "names": [
+        {
+          "value": "Dikkon //"
         }
       ],
       "eventsFacts": [
