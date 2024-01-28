@@ -8184,6 +8184,19 @@
         }
       ],
       "id": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1137*132440e0-501d-4fa8-ab8a-61e1c3fe23d5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1134*7e8f9964-0041-40e2-a2f2-cf1b854f7d22"
+        }
+      ],
+      "id": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
     }
   ],
   "head": {
@@ -31974,6 +31987,11 @@
           "ref": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
       "id": "I1134*7e8f9964-0041-40e2-a2f2-cf1b854f7d22",
       "names": [
         {
@@ -32016,6 +32034,25 @@
       "names": [
         {
           "value": "Kobun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
+      "id": "I1137*132440e0-501d-4fa8-ab8a-61e1c3fe23d5",
+      "names": [
+        {
+          "value": "Daulat //"
         }
       ],
       "eventsFacts": [
