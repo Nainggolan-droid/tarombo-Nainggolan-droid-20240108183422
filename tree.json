@@ -8980,6 +8980,9 @@
         },
         {
           "ref": "I1234*f6146137-f3f2-435f-b7d8-05911c202ea5"
+        },
+        {
+          "ref": "I1235*01e43fd8-91d6-407a-8702-c0304f731ce6"
         }
       ],
       "husbandRefs": [
@@ -34940,6 +34943,25 @@
       "names": [
         {
           "value": "A.Nebur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
+        }
+      ],
+      "id": "I1235*01e43fd8-91d6-407a-8702-c0304f731ce6",
+      "names": [
+        {
+          "value": "Op.Jamanaek //"
         }
       ],
       "eventsFacts": [
