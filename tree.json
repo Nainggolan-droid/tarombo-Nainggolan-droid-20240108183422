@@ -9049,6 +9049,12 @@
         },
         {
           "ref": "I1248*132aac57-ace2-4d1d-9c8e-e12b299a0ec3"
+        },
+        {
+          "ref": "I1250*602b6821-d9e9-43a8-ad9b-fa62ba2908b7"
+        },
+        {
+          "ref": "I1251*d10b0c7f-1567-4ebe-9311-42e870209415"
         }
       ],
       "husbandRefs": [
@@ -9083,6 +9089,19 @@
         }
       ],
       "id": "F536*f4581d65-7c95-4762-af63-2f317a4c3ca5"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1252*cd4f9eda-08c1-4c23-8dd7-7965bafa3293"
+        }
+      ],
+      "id": "F537*984c8b7c-197c-463a-8998-f2ca0cd5417c",
+      "wifeRefs": [
+        {
+          "ref": "I1251*d10b0c7f-1567-4ebe-9311-42e870209415"
+        }
+      ]
     }
   ],
   "head": {
@@ -35346,6 +35365,62 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
+        }
+      ],
+      "id": "I1250*602b6821-d9e9-43a8-ad9b-fa62ba2908b7",
+      "names": [
+        {
+          "value": "Linkol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F537*984c8b7c-197c-463a-8998-f2ca0cd5417c"
+        }
+      ],
+      "id": "I1251*d10b0c7f-1567-4ebe-9311-42e870209415",
+      "names": [
+        {
+          "value": "Lisbet //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F537*984c8b7c-197c-463a-8998-f2ca0cd5417c"
+        }
+      ],
+      "id": "I1252*cd4f9eda-08c1-4c23-8dd7-7965bafa3293",
+      "names": [
+        {
+          "value": " /Siregar/"
         }
       ]
     }
