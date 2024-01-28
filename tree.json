@@ -8843,6 +8843,9 @@
       "childRefs": [
         {
           "ref": "I1215*7042c40f-ae8d-4b95-973f-af0d6acf39b8"
+        },
+        {
+          "ref": "I1216*3a981ab5-3d44-4380-bb25-80f8b579420d"
         }
       ],
       "husbandRefs": [
@@ -34402,6 +34405,25 @@
       "names": [
         {
           "value": "Pasiman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F523*f533a122-e0fd-4dcb-aeea-eb3c83c78df8"
+        }
+      ],
+      "id": "I1216*3a981ab5-3d44-4380-bb25-80f8b579420d",
+      "names": [
+        {
+          "value": "Buha //"
         }
       ],
       "eventsFacts": [
