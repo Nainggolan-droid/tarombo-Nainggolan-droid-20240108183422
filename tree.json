@@ -8838,6 +8838,19 @@
         }
       ],
       "id": "F522*fb340135-139e-470e-b67e-187f3ca31e33"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1215*7042c40f-ae8d-4b95-973f-af0d6acf39b8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1214*89e0865a-9abb-4fbf-9875-0bc253ba7bba"
+        }
+      ],
+      "id": "F523*f533a122-e0fd-4dcb-aeea-eb3c83c78df8"
     }
   ],
   "head": {
@@ -34361,10 +34374,34 @@
           "ref": "F522*fb340135-139e-470e-b67e-187f3ca31e33"
         }
       ],
+      "fams": [
+        {
+          "ref": "F523*f533a122-e0fd-4dcb-aeea-eb3c83c78df8"
+        }
+      ],
       "id": "I1214*89e0865a-9abb-4fbf-9875-0bc253ba7bba",
       "names": [
         {
           "value": "A.Jonap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F523*f533a122-e0fd-4dcb-aeea-eb3c83c78df8"
+        }
+      ],
+      "id": "I1215*7042c40f-ae8d-4b95-973f-af0d6acf39b8",
+      "names": [
+        {
+          "value": "Pasiman //"
         }
       ],
       "eventsFacts": [
