@@ -8308,6 +8308,19 @@
         }
       ],
       "id": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1155*7c80bf4e-8c0a-4e70-bb35-9e49b4d8a48e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1152*8d8e4d0a-eaac-416f-89df-7821ce24c733"
+        }
+      ],
+      "id": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
     }
   ],
   "head": {
@@ -32477,6 +32490,11 @@
           "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
+        }
+      ],
       "id": "I1152*8d8e4d0a-eaac-416f-89df-7821ce24c733",
       "names": [
         {
@@ -32519,6 +32537,25 @@
       "names": [
         {
           "value": "A.Huta Raja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
+        }
+      ],
+      "id": "I1155*7c80bf4e-8c0a-4e70-bb35-9e49b4d8a48e",
+      "names": [
+        {
+          "value": "Alboin //"
         }
       ],
       "eventsFacts": [
