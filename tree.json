@@ -8235,6 +8235,19 @@
         }
       ],
       "id": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1144*83b3bb66-668c-4c35-bb0e-941a1796f0ab"
+        }
+      ],
+      "id": "F484*4e9b1ee9-5bba-46b2-9ddd-53967a53e36b",
+      "wifeRefs": [
+        {
+          "ref": "I1143*9bfd073b-23b6-4d7f-a70e-e65955e40ba2"
+        }
+      ]
     }
   ],
   "head": {
@@ -32211,6 +32224,11 @@
           "ref": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
         }
       ],
+      "fams": [
+        {
+          "ref": "F484*4e9b1ee9-5bba-46b2-9ddd-53967a53e36b"
+        }
+      ],
       "id": "I1143*9bfd073b-23b6-4d7f-a70e-e65955e40ba2",
       "names": [
         {
@@ -32222,6 +32240,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F484*4e9b1ee9-5bba-46b2-9ddd-53967a53e36b"
+        }
+      ],
+      "id": "I1144*83b3bb66-668c-4c35-bb0e-941a1796f0ab",
+      "names": [
+        {
+          "value": " /Sitorus/"
         }
       ]
     }
