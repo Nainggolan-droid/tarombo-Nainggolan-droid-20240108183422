@@ -8324,6 +8324,19 @@
         }
       ],
       "id": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1157*5ff13ebc-bd77-4d7c-9b3f-b1b052a53b67"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1155*7c80bf4e-8c0a-4e70-bb35-9e49b4d8a48e"
+        }
+      ],
+      "id": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
     }
   ],
   "head": {
@@ -32555,6 +32568,11 @@
           "ref": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
+        }
+      ],
       "id": "I1155*7c80bf4e-8c0a-4e70-bb35-9e49b4d8a48e",
       "names": [
         {
@@ -32578,6 +32596,25 @@
       "names": [
         {
           "value": "Derik //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
+        }
+      ],
+      "id": "I1157*5ff13ebc-bd77-4d7c-9b3f-b1b052a53b67",
+      "names": [
+        {
+          "value": "Boni //"
         }
       ],
       "eventsFacts": [
