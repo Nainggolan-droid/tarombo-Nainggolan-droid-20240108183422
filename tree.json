@@ -8766,6 +8766,9 @@
         },
         {
           "ref": "I1206*98f949b4-fb03-456d-9e86-486f806c0707"
+        },
+        {
+          "ref": "I1207*0277e02e-7df9-4956-8a21-fb1ebfcb4513"
         }
       ],
       "husbandRefs": [
@@ -34128,6 +34131,25 @@
       "names": [
         {
           "value": "Saborang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
+        }
+      ],
+      "id": "I1207*0277e02e-7df9-4956-8a21-fb1ebfcb4513",
+      "names": [
+        {
+          "value": "John //"
         }
       ],
       "eventsFacts": [
