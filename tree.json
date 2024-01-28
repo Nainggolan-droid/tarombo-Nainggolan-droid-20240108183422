@@ -9264,6 +9264,19 @@
         }
       ],
       "id": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1277*9f4be745-58b1-4653-97af-48e71fb2283a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1276*11602f05-67aa-42d7-80cc-a1dc85f2bc01"
+        }
+      ],
+      "id": "F547*6d2ec67c-d1b5-408e-8665-6050da1ff999"
     }
   ],
   "head": {
@@ -36056,10 +36069,34 @@
           "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F547*6d2ec67c-d1b5-408e-8665-6050da1ff999"
+        }
+      ],
       "id": "I1276*11602f05-67aa-42d7-80cc-a1dc85f2bc01",
       "names": [
         {
           "value": "Albert //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F547*6d2ec67c-d1b5-408e-8665-6050da1ff999"
+        }
+      ],
+      "id": "I1277*9f4be745-58b1-4653-97af-48e71fb2283a",
+      "names": [
+        {
+          "value": "Jefry //"
         }
       ],
       "eventsFacts": [
