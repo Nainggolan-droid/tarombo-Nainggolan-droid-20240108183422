@@ -9475,6 +9475,9 @@
       "childRefs": [
         {
           "ref": "I1309*f1d41100-ee4b-461b-87d4-497b77eefb6f"
+        },
+        {
+          "ref": "I1310*f933bd63-386c-49e9-afa5-2d783deb2473"
         }
       ],
       "husbandRefs": [
@@ -36961,6 +36964,25 @@
       "names": [
         {
           "value": "Walter //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
+        }
+      ],
+      "id": "I1310*f933bd63-386c-49e9-afa5-2d783deb2473",
+      "names": [
+        {
+          "value": "A.Dihoni //"
         }
       ],
       "eventsFacts": [
