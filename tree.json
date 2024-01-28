@@ -9337,6 +9337,19 @@
         }
       ],
       "id": "F550*53d990f8-6602-49b5-b4da-309ec6af4382"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1288*831cbd99-1dd9-4ece-b1ca-9e8c03a8d2a1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1284*4d9ff5b6-1d0b-47fb-8397-2591d9551928"
+        }
+      ],
+      "id": "F551*ba893f95-d429-4713-a855-c67e6e88c72e"
     }
   ],
   "head": {
@@ -36289,6 +36302,11 @@
           "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F551*ba893f95-d429-4713-a855-c67e6e88c72e"
+        }
+      ],
       "id": "I1284*4d9ff5b6-1d0b-47fb-8397-2591d9551928",
       "names": [
         {
@@ -36351,6 +36369,25 @@
       "names": [
         {
           "value": "Yayang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F551*ba893f95-d429-4713-a855-c67e6e88c72e"
+        }
+      ],
+      "id": "I1288*831cbd99-1dd9-4ece-b1ca-9e8c03a8d2a1",
+      "names": [
+        {
+          "value": "Chessa //"
         }
       ],
       "eventsFacts": [
