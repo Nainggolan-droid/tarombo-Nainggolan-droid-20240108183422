@@ -8062,6 +8062,9 @@
       "childRefs": [
         {
           "ref": "I1118*b34a1f8d-16cb-4a31-ba8b-1c8741e04209"
+        },
+        {
+          "ref": "I1119*dedaf3c0-a494-4303-9f9e-d36061c39493"
         }
       ],
       "husbandRefs": [
@@ -31528,6 +31531,25 @@
       "names": [
         {
           "value": "Sakkul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
+        }
+      ],
+      "id": "I1119*dedaf3c0-a494-4303-9f9e-d36061c39493",
+      "names": [
+        {
+          "value": "Gayus //"
         }
       ],
       "eventsFacts": [
