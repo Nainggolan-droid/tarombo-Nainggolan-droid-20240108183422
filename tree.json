@@ -8916,6 +8916,9 @@
         },
         {
           "ref": "I1226*d5eaef0d-cd60-4d1f-b7bc-56f1f0c52f32"
+        },
+        {
+          "ref": "I1227*98689dfe-d54c-497d-aa55-ac43c8b6ed8b"
         }
       ],
       "husbandRefs": [
@@ -34704,6 +34707,25 @@
       "names": [
         {
           "value": "Jaukkat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
+        }
+      ],
+      "id": "I1227*98689dfe-d54c-497d-aa55-ac43c8b6ed8b",
+      "names": [
+        {
+          "value": "Dikkar //"
         }
       ],
       "eventsFacts": [
