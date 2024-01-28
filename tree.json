@@ -9018,6 +9018,9 @@
       "childRefs": [
         {
           "ref": "I1240*88b85e75-eecb-4bbf-beb6-57fa01197803"
+        },
+        {
+          "ref": "I1241*6cfe2f0f-630c-4ce0-a6f9-f62c57aa1af3"
         }
       ],
       "husbandRefs": [
@@ -35102,6 +35105,25 @@
       "names": [
         {
           "value": "Ual //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
+        }
+      ],
+      "id": "I1241*6cfe2f0f-630c-4ce0-a6f9-f62c57aa1af3",
+      "names": [
+        {
+          "value": "Apul //"
         }
       ],
       "eventsFacts": [
