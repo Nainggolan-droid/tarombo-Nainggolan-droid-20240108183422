@@ -8745,6 +8745,19 @@
         }
       ],
       "id": "F516*35789cb0-9b60-49d4-b4f3-38e9b77740de"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1204*b51bd790-6290-4981-bb5e-6c12c93bd0a7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1199*d4c0cc98-91ec-4a83-8851-9ea69cb3bd96"
+        }
+      ],
+      "id": "F517*99a90b6b-d4b6-4ad6-b1c1-b28b8acf31ff"
     }
   ],
   "head": {
@@ -33952,6 +33965,11 @@
           "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
         }
       ],
+      "fams": [
+        {
+          "ref": "F517*99a90b6b-d4b6-4ad6-b1c1-b28b8acf31ff"
+        }
+      ],
       "id": "I1199*d4c0cc98-91ec-4a83-8851-9ea69cb3bd96",
       "names": [
         {
@@ -34032,6 +34050,25 @@
       "names": [
         {
           "value": "Jati //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F517*99a90b6b-d4b6-4ad6-b1c1-b28b8acf31ff"
+        }
+      ],
+      "id": "I1204*b51bd790-6290-4981-bb5e-6c12c93bd0a7",
+      "names": [
+        {
+          "value": "Jisman //"
         }
       ],
       "eventsFacts": [
