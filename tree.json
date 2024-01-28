@@ -9576,6 +9576,9 @@
         },
         {
           "ref": "I1326*e56257ec-9aec-4bc8-ae66-c9d7a3d577c8"
+        },
+        {
+          "ref": "I1327*fe2e58fd-e056-4a18-82c6-9b3bd78c47f1"
         }
       ],
       "husbandRefs": [
@@ -37410,6 +37413,25 @@
       "names": [
         {
           "value": "Jasulim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
+      "id": "I1327*fe2e58fd-e056-4a18-82c6-9b3bd78c47f1",
+      "names": [
+        {
+          "value": "Jarium //"
         }
       ],
       "eventsFacts": [
