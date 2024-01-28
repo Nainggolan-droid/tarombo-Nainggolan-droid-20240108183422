@@ -8825,6 +8825,19 @@
         }
       ],
       "id": "F521*a0303859-2b02-44a2-b5ca-4e55178f6fb3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1214*89e0865a-9abb-4fbf-9875-0bc253ba7bba"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1213*9139d359-716b-4c1b-b17e-8c3e9da26a1d"
+        }
+      ],
+      "id": "F522*fb340135-139e-470e-b67e-187f3ca31e33"
     }
   ],
   "head": {
@@ -34324,10 +34337,34 @@
           "ref": "F521*a0303859-2b02-44a2-b5ca-4e55178f6fb3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F522*fb340135-139e-470e-b67e-187f3ca31e33"
+        }
+      ],
       "id": "I1213*9139d359-716b-4c1b-b17e-8c3e9da26a1d",
       "names": [
         {
           "value": "Partompur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F522*fb340135-139e-470e-b67e-187f3ca31e33"
+        }
+      ],
+      "id": "I1214*89e0865a-9abb-4fbf-9875-0bc253ba7bba",
+      "names": [
+        {
+          "value": "A.Jonap //"
         }
       ],
       "eventsFacts": [
