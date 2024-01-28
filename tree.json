@@ -8031,6 +8031,19 @@
         }
       ],
       "id": "F471*6f4b4554-a0c8-4770-9a97-91a263ec49ab"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1116*95eccf6b-fa50-465e-908e-1080e5a305bb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1115*a65633b6-e3db-4a00-9dcd-b1e709bc7d76"
+        }
+      ],
+      "id": "F472*70367bd9-5347-403e-b99e-607dda5f44df"
     }
   ],
   "head": {
@@ -31411,10 +31424,34 @@
           "ref": "F471*6f4b4554-a0c8-4770-9a97-91a263ec49ab"
         }
       ],
+      "fams": [
+        {
+          "ref": "F472*70367bd9-5347-403e-b99e-607dda5f44df"
+        }
+      ],
       "id": "I1115*a65633b6-e3db-4a00-9dcd-b1e709bc7d76",
       "names": [
         {
           "value": "Op.Nualang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F472*70367bd9-5347-403e-b99e-607dda5f44df"
+        }
+      ],
+      "id": "I1116*95eccf6b-fa50-465e-908e-1080e5a305bb",
+      "names": [
+        {
+          "value": "A.Sulan //"
         }
       ],
       "eventsFacts": [
