@@ -8222,6 +8222,19 @@
         }
       ],
       "id": "F482*e8c8bb90-e2e1-4114-959a-82aee1d9c5c2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1143*9bfd073b-23b6-4d7f-a70e-e65955e40ba2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1133*ac987cf3-2716-48d7-b9cc-97e73b3bbe15"
+        }
+      ],
+      "id": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
     }
   ],
   "head": {
@@ -31998,6 +32011,11 @@
           "ref": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
+        }
+      ],
       "id": "I1133*ac987cf3-2716-48d7-b9cc-97e73b3bbe15",
       "names": [
         {
@@ -32184,6 +32202,26 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
+        }
+      ],
+      "id": "I1143*9bfd073b-23b6-4d7f-a70e-e65955e40ba2",
+      "names": [
+        {
+          "nick": "Nai.Marulak",
+          "value": "Dorfi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
