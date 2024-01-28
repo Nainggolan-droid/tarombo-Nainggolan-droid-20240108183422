@@ -8812,6 +8812,19 @@
         }
       ],
       "id": "F520*5e511a5a-d90d-47dd-83d7-b3acda758c2c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1213*9139d359-716b-4c1b-b17e-8c3e9da26a1d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1126*5ab6ee00-0188-4189-b699-2e511ac650bc"
+        }
+      ],
+      "id": "F521*a0303859-2b02-44a2-b5ca-4e55178f6fb3"
     }
   ],
   "head": {
@@ -32451,6 +32464,11 @@
           "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F521*a0303859-2b02-44a2-b5ca-4e55178f6fb3"
+        }
+      ],
       "id": "I1126*5ab6ee00-0188-4189-b699-2e511ac650bc",
       "names": [
         {
@@ -34291,6 +34309,25 @@
       "names": [
         {
           "value": "Fradela //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F521*a0303859-2b02-44a2-b5ca-4e55178f6fb3"
+        }
+      ],
+      "id": "I1213*9139d359-716b-4c1b-b17e-8c3e9da26a1d",
+      "names": [
+        {
+          "value": "Partompur //"
         }
       ],
       "eventsFacts": [
