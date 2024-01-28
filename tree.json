@@ -8585,6 +8585,19 @@
         }
       ],
       "id": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1184*e851f9ae-463a-4071-b99f-ff7278731adf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1182*bd962f1d-78d7-4add-9a62-9a232f37996d"
+        }
+      ],
+      "id": "F507*24eb75e7-abee-40df-b487-09fd5700549f"
     }
   ],
   "head": {
@@ -33419,6 +33432,11 @@
           "ref": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
         }
       ],
+      "fams": [
+        {
+          "ref": "F507*24eb75e7-abee-40df-b487-09fd5700549f"
+        }
+      ],
       "id": "I1182*bd962f1d-78d7-4add-9a62-9a232f37996d",
       "names": [
         {
@@ -33442,6 +33460,25 @@
       "names": [
         {
           "value": "A.Tarias //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F507*24eb75e7-abee-40df-b487-09fd5700549f"
+        }
+      ],
+      "id": "I1184*e851f9ae-463a-4071-b99f-ff7278731adf",
+      "names": [
+        {
+          "value": "Langgus //"
         }
       ],
       "eventsFacts": [
