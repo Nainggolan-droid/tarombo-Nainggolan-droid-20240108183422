@@ -8154,6 +8154,9 @@
         },
         {
           "ref": "I1132*f7bf0efa-d82c-484f-8ced-d73218571fe9"
+        },
+        {
+          "ref": "I1133*ac987cf3-2716-48d7-b9cc-97e73b3bbe15"
         }
       ],
       "husbandRefs": [
@@ -31913,6 +31916,25 @@
       "names": [
         {
           "value": "Tompur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
+        }
+      ],
+      "id": "I1133*ac987cf3-2716-48d7-b9cc-97e73b3bbe15",
+      "names": [
+        {
+          "value": "A.Dikkon //"
         }
       ],
       "eventsFacts": [
