@@ -9259,6 +9259,9 @@
         },
         {
           "ref": "I1279*37e66f49-f0ae-4889-9e17-e89f406a3dc9"
+        },
+        {
+          "ref": "I1281*197a1e5b-7a3b-4427-b367-54c568ffbade"
         }
       ],
       "husbandRefs": [
@@ -9294,6 +9297,19 @@
       "wifeRefs": [
         {
           "ref": "I1279*37e66f49-f0ae-4889-9e17-e89f406a3dc9"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1282*60375fdd-84b8-4a66-8ebf-1d6e3c76690f"
+        }
+      ],
+      "id": "F549*a513142e-61cd-4b9c-b418-9c6be5989a2f",
+      "wifeRefs": [
+        {
+          "ref": "I1281*197a1e5b-7a3b-4427-b367-54c568ffbade"
         }
       ]
     }
@@ -36178,6 +36194,43 @@
       "names": [
         {
           "value": " /Sinambela/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F549*a513142e-61cd-4b9c-b418-9c6be5989a2f"
+        }
+      ],
+      "id": "I1281*197a1e5b-7a3b-4427-b367-54c568ffbade",
+      "names": [
+        {
+          "value": "Lasma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F549*a513142e-61cd-4b9c-b418-9c6be5989a2f"
+        }
+      ],
+      "id": "I1282*60375fdd-84b8-4a66-8ebf-1d6e3c76690f",
+      "names": [
+        {
+          "value": " /Sijabat/"
         }
       ]
     }
