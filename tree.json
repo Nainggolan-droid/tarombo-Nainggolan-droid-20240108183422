@@ -8977,6 +8977,9 @@
       "childRefs": [
         {
           "ref": "I1233*8dfed80a-7fbb-4647-8db8-2cbb495bc601"
+        },
+        {
+          "ref": "I1234*f6146137-f3f2-435f-b7d8-05911c202ea5"
         }
       ],
       "husbandRefs": [
@@ -34918,6 +34921,25 @@
       "names": [
         {
           "value": "Op.Saniang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
+        }
+      ],
+      "id": "I1234*f6146137-f3f2-435f-b7d8-05911c202ea5",
+      "names": [
+        {
+          "value": "A.Nebur //"
         }
       ],
       "eventsFacts": [
