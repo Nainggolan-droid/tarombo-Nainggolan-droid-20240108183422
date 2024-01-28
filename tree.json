@@ -8466,6 +8466,19 @@
         }
       ],
       "id": "F498*85613ac0-f40c-41cd-8fce-1e875fc051dd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1171*91ad569b-bf85-4cd4-95e5-4076326d6bec"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1170*f95eef41-f19f-4d4a-967c-7b078f721b83"
+        }
+      ],
+      "id": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
     }
   ],
   "head": {
@@ -33032,10 +33045,34 @@
           "ref": "F498*85613ac0-f40c-41cd-8fce-1e875fc051dd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
+        }
+      ],
       "id": "I1170*f95eef41-f19f-4d4a-967c-7b078f721b83",
       "names": [
         {
           "value": "A.Harondam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
+        }
+      ],
+      "id": "I1171*91ad569b-bf85-4cd4-95e5-4076326d6bec",
+      "names": [
+        {
+          "value": "Jahubul //"
         }
       ],
       "eventsFacts": [
