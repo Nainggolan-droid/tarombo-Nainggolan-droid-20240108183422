@@ -8329,6 +8329,9 @@
       "childRefs": [
         {
           "ref": "I1157*5ff13ebc-bd77-4d7c-9b3f-b1b052a53b67"
+        },
+        {
+          "ref": "I1158*796ac87e-b3ce-4c6f-bab8-bc96bf67f7b4"
         }
       ],
       "husbandRefs": [
@@ -32615,6 +32618,25 @@
       "names": [
         {
           "value": "Boni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
+        }
+      ],
+      "id": "I1158*796ac87e-b3ce-4c6f-bab8-bc96bf67f7b4",
+      "names": [
+        {
+          "value": "Dapot //"
         }
       ],
       "eventsFacts": [
