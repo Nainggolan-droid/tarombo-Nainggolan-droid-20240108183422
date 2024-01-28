@@ -9427,6 +9427,9 @@
         },
         {
           "ref": "I1303*31b75942-21ec-4958-9d78-5f87977f7f45"
+        },
+        {
+          "ref": "I1304*4103f103-a3d4-48e3-874b-7c60265e6af4"
         }
       ],
       "husbandRefs": [
@@ -36784,6 +36787,25 @@
       "names": [
         {
           "value": "Haposan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
+        }
+      ],
+      "id": "I1304*4103f103-a3d4-48e3-874b-7c60265e6af4",
+      "names": [
+        {
+          "value": "Parulian //"
         }
       ],
       "eventsFacts": [
