@@ -8057,6 +8057,19 @@
         }
       ],
       "id": "F473*ec116a0a-19cd-4bbd-850e-8b0ef3ca336a"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1118*b34a1f8d-16cb-4a31-ba8b-1c8741e04209"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1117*eb01ed5f-4bc0-419b-8036-8395c800d873"
+        }
+      ],
+      "id": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
     }
   ],
   "head": {
@@ -31486,11 +31499,35 @@
           "ref": "F473*ec116a0a-19cd-4bbd-850e-8b0ef3ca336a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
+        }
+      ],
       "id": "I1117*eb01ed5f-4bc0-419b-8036-8395c800d873",
       "names": [
         {
           "nick": "Op.Jasihat",
           "value": "Nualang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
+        }
+      ],
+      "id": "I1118*b34a1f8d-16cb-4a31-ba8b-1c8741e04209",
+      "names": [
+        {
+          "value": "Sakkul //"
         }
       ],
       "eventsFacts": [
