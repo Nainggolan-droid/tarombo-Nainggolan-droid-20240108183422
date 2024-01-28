@@ -8113,6 +8113,9 @@
         },
         {
           "ref": "I1125*f7ad9dd6-b0c3-4d63-b046-d7b4f6d04a09"
+        },
+        {
+          "ref": "I1126*5ab6ee00-0188-4189-b699-2e511ac650bc"
         }
       ],
       "husbandRefs": [
@@ -31729,6 +31732,25 @@
       "names": [
         {
           "value": "Panggiling //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1126*5ab6ee00-0188-4189-b699-2e511ac650bc",
+      "names": [
+        {
+          "value": "Patuhapal //"
         }
       ],
       "eventsFacts": [
