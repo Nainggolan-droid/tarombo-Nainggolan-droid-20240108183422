@@ -9021,6 +9021,9 @@
         },
         {
           "ref": "I1241*6cfe2f0f-630c-4ce0-a6f9-f62c57aa1af3"
+        },
+        {
+          "ref": "I1242*9129e799-4f34-4389-8d02-10e466529d73"
         }
       ],
       "husbandRefs": [
@@ -35124,6 +35127,25 @@
       "names": [
         {
           "value": "Apul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
+        }
+      ],
+      "id": "I1242*9129e799-4f34-4389-8d02-10e466529d73",
+      "names": [
+        {
+          "value": "Renatus //"
         }
       ],
       "eventsFacts": [
