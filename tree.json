@@ -9451,6 +9451,19 @@
         }
       ],
       "id": "F556*3f669cab-9544-4b32-90b5-5a898224f897"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1306*e5b1f953-cec1-4c5d-a255-8b6a8afe4052"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1239*71514d6d-e0c5-40bb-a3bc-cb533f0f3e4a"
+        }
+      ],
+      "id": "F557*d294338b-6db4-439a-8b16-1e48ea1063e9"
     }
   ],
   "head": {
@@ -35514,6 +35527,11 @@
           "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F557*d294338b-6db4-439a-8b16-1e48ea1063e9"
+        }
+      ],
       "id": "I1239*71514d6d-e0c5-40bb-a3bc-cb533f0f3e4a",
       "names": [
         {
@@ -36843,6 +36861,25 @@
       "names": [
         {
           "value": "Tunggul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F557*d294338b-6db4-439a-8b16-1e48ea1063e9"
+        }
+      ],
+      "id": "I1306*e5b1f953-cec1-4c5d-a255-8b6a8afe4052",
+      "names": [
+        {
+          "value": "Mangisi //"
         }
       ],
       "eventsFacts": [
