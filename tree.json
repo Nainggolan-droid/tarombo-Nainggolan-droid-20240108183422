@@ -9268,6 +9268,9 @@
         },
         {
           "ref": "I1284*4d9ff5b6-1d0b-47fb-8397-2591d9551928"
+        },
+        {
+          "ref": "I1285*0677798b-0f07-4018-a881-72a92a8d1d66"
         }
       ],
       "husbandRefs": [
@@ -36270,6 +36273,25 @@
         {
           "nick": "A.Chessa",
           "value": "Sedihar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
+      "id": "I1285*0677798b-0f07-4018-a881-72a92a8d1d66",
+      "names": [
+        {
+          "value": "Willer //"
         }
       ],
       "eventsFacts": [
