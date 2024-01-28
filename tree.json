@@ -8076,6 +8076,19 @@
         }
       ],
       "id": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1121*03bacdcc-8b4d-42e6-b6b7-b83c36639522"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1120*9dae9814-b1b0-41aa-a3a0-dd0e9c1fe1e8"
+        }
+      ],
+      "id": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
     }
   ],
   "head": {
@@ -31568,11 +31581,35 @@
           "ref": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
         }
       ],
+      "fams": [
+        {
+          "ref": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
+        }
+      ],
       "id": "I1120*9dae9814-b1b0-41aa-a3a0-dd0e9c1fe1e8",
       "names": [
         {
           "nick": "A.Poltak",
           "value": "Sabar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
+        }
+      ],
+      "id": "I1121*03bacdcc-8b4d-42e6-b6b7-b83c36639522",
+      "names": [
+        {
+          "value": "Poltak //"
         }
       ],
       "eventsFacts": [
