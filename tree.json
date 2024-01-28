@@ -8474,6 +8474,9 @@
         },
         {
           "ref": "I1172*1cc36701-d6c2-4e53-be17-f5b4e36ab4e3"
+        },
+        {
+          "ref": "I1173*5857bf11-ae1c-4d07-b42a-845e348f245c"
         }
       ],
       "husbandRefs": [
@@ -33095,6 +33098,25 @@
       "names": [
         {
           "value": "Abil //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
+        }
+      ],
+      "id": "I1173*5857bf11-ae1c-4d07-b42a-845e348f245c",
+      "names": [
+        {
+          "value": "Jamalu //"
         }
       ],
       "eventsFacts": [
