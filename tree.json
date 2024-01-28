@@ -8332,6 +8332,9 @@
         },
         {
           "ref": "I1158*796ac87e-b3ce-4c6f-bab8-bc96bf67f7b4"
+        },
+        {
+          "ref": "I1159*2c68a8f3-ac6c-4417-9fb1-a75157a1617a"
         }
       ],
       "husbandRefs": [
@@ -32637,6 +32640,25 @@
       "names": [
         {
           "value": "Dapot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
+        }
+      ],
+      "id": "I1159*2c68a8f3-ac6c-4417-9fb1-a75157a1617a",
+      "names": [
+        {
+          "value": "Mahadin //"
         }
       ],
       "eventsFacts": [
