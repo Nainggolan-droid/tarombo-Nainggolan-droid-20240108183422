@@ -8783,6 +8783,19 @@
         }
       ],
       "id": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1210*87ce3591-b0ff-4118-953c-c7a22de2cea6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1209*e3b023e1-f14d-455d-8c65-14bd87f17a94"
+        }
+      ],
+      "id": "F519*0177b5c4-4aae-4559-8c99-be34e59220ab"
     }
   ],
   "head": {
@@ -34190,6 +34203,11 @@
           "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
         }
       ],
+      "fams": [
+        {
+          "ref": "F519*0177b5c4-4aae-4559-8c99-be34e59220ab"
+        }
+      ],
       "id": "I1209*e3b023e1-f14d-455d-8c65-14bd87f17a94",
       "names": [
         {
@@ -34200,6 +34218,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F519*0177b5c4-4aae-4559-8c99-be34e59220ab"
+        }
+      ],
+      "id": "I1210*87ce3591-b0ff-4118-953c-c7a22de2cea6",
+      "names": [
+        {
+          "value": "Sarah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
