@@ -8018,6 +8018,19 @@
         }
       ],
       "id": "F470*adc57b55-7663-4ad6-86ca-914714ee4a01"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1115*a65633b6-e3db-4a00-9dcd-b1e709bc7d76"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1114*9168fd2b-4794-4ffa-9b54-1c1abeacf1fb"
+        }
+      ],
+      "id": "F471*6f4b4554-a0c8-4770-9a97-91a263ec49ab"
     }
   ],
   "head": {
@@ -31374,10 +31387,34 @@
           "ref": "F470*adc57b55-7663-4ad6-86ca-914714ee4a01"
         }
       ],
+      "fams": [
+        {
+          "ref": "F471*6f4b4554-a0c8-4770-9a97-91a263ec49ab"
+        }
+      ],
       "id": "I1114*9168fd2b-4794-4ffa-9b54-1c1abeacf1fb",
       "names": [
         {
           "value": "Op.Banua Holling //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F471*6f4b4554-a0c8-4770-9a97-91a263ec49ab"
+        }
+      ],
+      "id": "I1115*a65633b6-e3db-4a00-9dcd-b1e709bc7d76",
+      "names": [
+        {
+          "value": "Op.Nualang //"
         }
       ],
       "eventsFacts": [
