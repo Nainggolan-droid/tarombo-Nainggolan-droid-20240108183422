@@ -8297,6 +8297,9 @@
         },
         {
           "ref": "I1153*20a3aafe-9330-4496-8369-b132a68d827c"
+        },
+        {
+          "ref": "I1154*72d804f8-d3a0-4086-8c72-faed8daafc9c"
         }
       ],
       "husbandRefs": [
@@ -32497,6 +32500,25 @@
       "names": [
         {
           "value": "Op.Toga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
+        }
+      ],
+      "id": "I1154*72d804f8-d3a0-4086-8c72-faed8daafc9c",
+      "names": [
+        {
+          "value": "A.Huta Raja //"
         }
       ],
       "eventsFacts": [
