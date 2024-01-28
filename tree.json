@@ -8590,6 +8590,9 @@
       "childRefs": [
         {
           "ref": "I1184*e851f9ae-463a-4071-b99f-ff7278731adf"
+        },
+        {
+          "ref": "I1185*7d8c25c5-0694-4f21-ae35-adb4079e9fdc"
         }
       ],
       "husbandRefs": [
@@ -33479,6 +33482,25 @@
       "names": [
         {
           "value": "Langgus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F507*24eb75e7-abee-40df-b487-09fd5700549f"
+        }
+      ],
+      "id": "I1185*7d8c25c5-0694-4f21-ae35-adb4079e9fdc",
+      "names": [
+        {
+          "value": "Mella //"
         }
       ],
       "eventsFacts": [
