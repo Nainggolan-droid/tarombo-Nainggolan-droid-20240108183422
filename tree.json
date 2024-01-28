@@ -9470,6 +9470,19 @@
         }
       ],
       "id": "F557*d294338b-6db4-439a-8b16-1e48ea1063e9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1309*f1d41100-ee4b-461b-87d4-497b77eefb6f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1235*01e43fd8-91d6-407a-8702-c0304f731ce6"
+        }
+      ],
+      "id": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
     }
   ],
   "head": {
@@ -35442,6 +35455,11 @@
           "ref": "F531*ed5ecf9b-cd7f-4a69-b0b8-ba9cc055b999"
         }
       ],
+      "fams": [
+        {
+          "ref": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
+        }
+      ],
       "id": "I1235*01e43fd8-91d6-407a-8702-c0304f731ce6",
       "names": [
         {
@@ -36924,6 +36942,25 @@
       "names": [
         {
           "value": "Timbul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
+        }
+      ],
+      "id": "I1309*f1d41100-ee4b-461b-87d4-497b77eefb6f",
+      "names": [
+        {
+          "value": "Walter //"
         }
       ],
       "eventsFacts": [
