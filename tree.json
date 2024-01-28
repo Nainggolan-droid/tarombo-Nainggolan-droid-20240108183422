@@ -8876,6 +8876,19 @@
         }
       ],
       "id": "F524*89987dd4-e8c1-41f5-a1f9-cc852a3737b7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1221*48d22bef-ff8f-4b86-be09-4935eeb22bf0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1127*5a2af362-85f4-49ac-a28b-c2810eaf2cb2"
+        }
+      ],
+      "id": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
     }
   ],
   "head": {
@@ -32539,6 +32552,11 @@
           "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
+        }
+      ],
       "id": "I1127*5a2af362-85f4-49ac-a28b-c2810eaf2cb2",
       "names": [
         {
@@ -34527,6 +34545,25 @@
       "names": [
         {
           "value": "Panondang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
+        }
+      ],
+      "id": "I1221*48d22bef-ff8f-4b86-be09-4935eeb22bf0",
+      "names": [
+        {
+          "value": "Op.Botol //"
         }
       ],
       "eventsFacts": [
