@@ -9500,6 +9500,9 @@
         },
         {
           "ref": "I1314*e9331e1c-d585-4c16-9117-99be841dad15"
+        },
+        {
+          "ref": "I1315*2c7d6b6d-d180-4840-868e-cbb094119f64"
         }
       ],
       "husbandRefs": [
@@ -37086,6 +37089,25 @@
       "names": [
         {
           "value": "Tomit //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
+        }
+      ],
+      "id": "I1315*2c7d6b6d-d180-4840-868e-cbb094119f64",
+      "names": [
+        {
+          "value": "Salamat //"
         }
       ],
       "eventsFacts": [
