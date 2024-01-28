@@ -9570,6 +9570,9 @@
         },
         {
           "ref": "I1324*a340c124-fc1f-455b-ac27-f467a2220414"
+        },
+        {
+          "ref": "I1325*a0db12a3-dad9-4286-8988-95889739d6a1"
         }
       ],
       "husbandRefs": [
@@ -37366,6 +37369,25 @@
       "names": [
         {
           "value": "Motor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
+      "id": "I1325*a0db12a3-dad9-4286-8988-95889739d6a1",
+      "names": [
+        {
+          "value": "Johan //"
         }
       ],
       "eventsFacts": [
