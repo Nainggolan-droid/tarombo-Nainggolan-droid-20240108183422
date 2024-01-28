@@ -9587,6 +9587,19 @@
         }
       ],
       "id": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1328*d5b172c9-f843-4969-920d-f88d3666d5d7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1319*fc0c17b0-2547-4c47-9999-fe3c85c2a5dd"
+        }
+      ],
+      "id": "F564*e347ce87-d647-4636-9021-ed7d8d997d24"
     }
   ],
   "head": {
@@ -37271,6 +37284,11 @@
           "ref": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
         }
       ],
+      "fams": [
+        {
+          "ref": "F564*e347ce87-d647-4636-9021-ed7d8d997d24"
+        }
+      ],
       "id": "I1319*fc0c17b0-2547-4c47-9999-fe3c85c2a5dd",
       "names": [
         {
@@ -37432,6 +37450,25 @@
       "names": [
         {
           "value": "Jarium //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F564*e347ce87-d647-4636-9021-ed7d8d997d24"
+        }
+      ],
+      "id": "I1328*d5b172c9-f843-4969-920d-f88d3666d5d7",
+      "names": [
+        {
+          "value": "Jonap //"
         }
       ],
       "eventsFacts": [
