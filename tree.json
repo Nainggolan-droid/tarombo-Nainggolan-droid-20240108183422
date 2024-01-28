@@ -8959,6 +8959,19 @@
         }
       ],
       "id": "F529*8c938bfe-cffc-4423-b6d4-cc98bf43bfaa"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1232*82ad1dc6-2808-4778-94c5-c471f0313107"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1225*934205db-0046-4107-8562-f413aac908bf"
+        }
+      ],
+      "id": "F530*f8690ba4-55ce-485c-a339-ec430fc46a31"
     }
   ],
   "head": {
@@ -34716,6 +34729,11 @@
           "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
         }
       ],
+      "fams": [
+        {
+          "ref": "F530*f8690ba4-55ce-485c-a339-ec430fc46a31"
+        }
+      ],
       "id": "I1225*934205db-0046-4107-8562-f413aac908bf",
       "names": [
         {
@@ -34844,6 +34862,25 @@
       "names": [
         {
           "value": "Bitson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F530*f8690ba4-55ce-485c-a339-ec430fc46a31"
+        }
+      ],
+      "id": "I1232*82ad1dc6-2808-4778-94c5-c471f0313107",
+      "names": [
+        {
+          "value": "Rusia //"
         }
       ],
       "eventsFacts": [
