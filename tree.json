@@ -9400,6 +9400,19 @@
         }
       ],
       "id": "F553*4efbd495-8d0b-4956-a1ca-fbecdcd527e2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1299*88de40f8-6964-43ac-81dd-6f0b0649debf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1245*f919cd1b-1805-41f1-82be-23914e8e3e8b"
+        }
+      ],
+      "id": "F554*6d7c5c5b-39b2-4daf-82e6-04022eb6119d"
     }
   ],
   "head": {
@@ -35592,6 +35605,11 @@
           "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F554*6d7c5c5b-39b2-4daf-82e6-04022eb6119d"
+        }
+      ],
       "id": "I1245*f919cd1b-1805-41f1-82be-23914e8e3e8b",
       "names": [
         {
@@ -36644,6 +36662,25 @@
       "names": [
         {
           "value": "Saniang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F554*6d7c5c5b-39b2-4daf-82e6-04022eb6119d"
+        }
+      ],
+      "id": "I1299*88de40f8-6964-43ac-81dd-6f0b0649debf",
+      "names": [
+        {
+          "value": "Josep //"
         }
       ],
       "eventsFacts": [
