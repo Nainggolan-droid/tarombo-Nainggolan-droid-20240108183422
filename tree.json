@@ -8116,6 +8116,9 @@
         },
         {
           "ref": "I1126*5ab6ee00-0188-4189-b699-2e511ac650bc"
+        },
+        {
+          "ref": "I1127*5a2af362-85f4-49ac-a28b-c2810eaf2cb2"
         }
       ],
       "husbandRefs": [
@@ -31751,6 +31754,25 @@
       "names": [
         {
           "value": "Patuhapal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1127*5a2af362-85f4-49ac-a28b-c2810eaf2cb2",
+      "names": [
+        {
+          "value": "Op.Jaomas //"
         }
       ],
       "eventsFacts": [
