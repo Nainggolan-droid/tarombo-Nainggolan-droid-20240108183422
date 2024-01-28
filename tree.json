@@ -9383,6 +9383,9 @@
       "childRefs": [
         {
           "ref": "I1295*0b7e360f-697a-4d1a-9120-b48e959b0897"
+        },
+        {
+          "ref": "I1296*dcaec6f6-e732-4776-a231-72bab78b2f16"
         }
       ],
       "husbandRefs": [
@@ -36578,6 +36581,25 @@
       "names": [
         {
           "value": "Moraden //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F553*4efbd495-8d0b-4956-a1ca-fbecdcd527e2"
+        }
+      ],
+      "id": "I1296*dcaec6f6-e732-4776-a231-72bab78b2f16",
+      "names": [
+        {
+          "value": "Luhut //"
         }
       ],
       "eventsFacts": [
