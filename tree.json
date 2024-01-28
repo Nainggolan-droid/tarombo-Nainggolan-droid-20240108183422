@@ -8558,6 +8558,9 @@
       "childRefs": [
         {
           "ref": "I1180*bfb2d55f-599e-4efa-9c1c-a829deedfc14"
+        },
+        {
+          "ref": "I1181*81e91a9d-c863-4ffd-8729-5f4d02eac223"
         }
       ],
       "husbandRefs": [
@@ -33361,6 +33364,25 @@
       "names": [
         {
           "value": "Sabam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F505*063c841d-7542-4f1d-a787-7c075a4b71a0"
+        }
+      ],
+      "id": "I1181*81e91a9d-c863-4ffd-8729-5f4d02eac223",
+      "names": [
+        {
+          "value": "Efendi //"
         }
       ],
       "eventsFacts": [
