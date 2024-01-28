@@ -9548,6 +9548,9 @@
       "childRefs": [
         {
           "ref": "I1320*faf02c09-41f8-4148-bea8-5328fae8bddd"
+        },
+        {
+          "ref": "I1321*9928b5ff-493a-48e0-8b40-70f958009164"
         }
       ],
       "husbandRefs": [
@@ -37263,6 +37266,25 @@
       "names": [
         {
           "value": "Akarias //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
+        }
+      ],
+      "id": "I1321*9928b5ff-493a-48e0-8b40-70f958009164",
+      "names": [
+        {
+          "value": "Anus //"
         }
       ],
       "eventsFacts": [
