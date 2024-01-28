@@ -9201,6 +9201,19 @@
         }
       ],
       "id": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1266*fbbefc54-f5c0-4b56-8552-42b78e530db8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1265*aa2019fa-84fa-45fa-ae93-29dfe54f8364"
+        }
+      ],
+      "id": "F544*c13c1e8b-5b5a-400f-a04b-060f91056a5b"
     }
   ],
   "head": {
@@ -35769,10 +35782,34 @@
           "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
         }
       ],
+      "fams": [
+        {
+          "ref": "F544*c13c1e8b-5b5a-400f-a04b-060f91056a5b"
+        }
+      ],
       "id": "I1265*aa2019fa-84fa-45fa-ae93-29dfe54f8364",
       "names": [
         {
           "value": "Maurits //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F544*c13c1e8b-5b5a-400f-a04b-060f91056a5b"
+        }
+      ],
+      "id": "I1266*fbbefc54-f5c0-4b56-8552-42b78e530db8",
+      "names": [
+        {
+          "value": "Pahala //"
         }
       ],
       "eventsFacts": [
