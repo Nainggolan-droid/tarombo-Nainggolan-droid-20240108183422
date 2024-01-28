@@ -9438,6 +9438,19 @@
         }
       ],
       "id": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1305*c5606af7-07db-43e4-8d25-6ae029704de6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1238*8ea619e2-368e-405e-9c0c-06805287a560"
+        }
+      ],
+      "id": "F556*3f669cab-9544-4b32-90b5-5a898224f897"
     }
   ],
   "head": {
@@ -35477,6 +35490,11 @@
           "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F556*3f669cab-9544-4b32-90b5-5a898224f897"
+        }
+      ],
       "id": "I1238*8ea619e2-368e-405e-9c0c-06805287a560",
       "names": [
         {
@@ -36806,6 +36824,25 @@
       "names": [
         {
           "value": "Parulian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F556*3f669cab-9544-4b32-90b5-5a898224f897"
+        }
+      ],
+      "id": "I1305*c5606af7-07db-43e4-8d25-6ae029704de6",
+      "names": [
+        {
+          "value": "Tunggul //"
         }
       ],
       "eventsFacts": [
