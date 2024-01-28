@@ -8122,6 +8122,9 @@
         },
         {
           "ref": "I1128*0bbd1a71-2d59-4f68-aeea-2c2960816d51"
+        },
+        {
+          "ref": "I1129*44e6cdc2-cb5f-4f4c-9faf-dec794a53017"
         }
       ],
       "husbandRefs": [
@@ -31795,6 +31798,25 @@
       "names": [
         {
           "value": "Op.Janauli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1129*44e6cdc2-cb5f-4f4c-9faf-dec794a53017",
+      "names": [
+        {
+          "value": "A.Sanggul //"
         }
       ],
       "eventsFacts": [
