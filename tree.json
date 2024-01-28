@@ -8732,6 +8732,19 @@
         }
       ],
       "id": "F515*ff78359d-137c-4b68-8228-c9a43405dc09"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1203*6b83d757-447a-4295-9bd5-051b3583acc7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1198*8ccdb95c-17e6-4e89-9150-c9ce920a6a7f"
+        }
+      ],
+      "id": "F516*35789cb0-9b60-49d4-b4f3-38e9b77740de"
     }
   ],
   "head": {
@@ -33915,6 +33928,11 @@
           "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
         }
       ],
+      "fams": [
+        {
+          "ref": "F516*35789cb0-9b60-49d4-b4f3-38e9b77740de"
+        }
+      ],
       "id": "I1198*8ccdb95c-17e6-4e89-9150-c9ce920a6a7f",
       "names": [
         {
@@ -33995,6 +34013,25 @@
       "names": [
         {
           "value": "Mintas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F516*35789cb0-9b60-49d4-b4f3-38e9b77740de"
+        }
+      ],
+      "id": "I1203*6b83d757-447a-4295-9bd5-051b3583acc7",
+      "names": [
+        {
+          "value": "Jati //"
         }
       ],
       "eventsFacts": [
