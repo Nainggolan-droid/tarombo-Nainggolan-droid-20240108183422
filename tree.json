@@ -8694,6 +8694,19 @@
         }
       ],
       "id": "F513*8528b0a2-d9e2-4d03-b8f2-dae55ad1d0b2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1197*63725fb9-24ac-4d06-bec2-18e6b44d94f8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1196*9511a46d-d722-4bd8-810a-24dedc43e694"
+        }
+      ],
+      "id": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
     }
   ],
   "head": {
@@ -33829,10 +33842,34 @@
           "ref": "F513*8528b0a2-d9e2-4d03-b8f2-dae55ad1d0b2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
+        }
+      ],
       "id": "I1196*9511a46d-d722-4bd8-810a-24dedc43e694",
       "names": [
         {
           "value": "A.Torhaja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
+        }
+      ],
+      "id": "I1197*63725fb9-24ac-4d06-bec2-18e6b44d94f8",
+      "names": [
+        {
+          "value": "Simon //"
         }
       ],
       "eventsFacts": [
