@@ -8670,6 +8670,9 @@
         },
         {
           "ref": "I1194*8f6cc0fa-91d5-4a9b-b133-42cfc874fb69"
+        },
+        {
+          "ref": "I1195*319d902b-b20c-4187-9e5f-2584f1c9892b"
         }
       ],
       "husbandRefs": [
@@ -33774,6 +33777,25 @@
       "names": [
         {
           "value": "Sarus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
+        }
+      ],
+      "id": "I1195*319d902b-b20c-4187-9e5f-2584f1c9892b",
+      "names": [
+        {
+          "value": "Karben //"
         }
       ],
       "eventsFacts": [
