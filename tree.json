@@ -8227,6 +8227,9 @@
       "childRefs": [
         {
           "ref": "I1143*9bfd073b-23b6-4d7f-a70e-e65955e40ba2"
+        },
+        {
+          "ref": "I1145*d553cba8-ec8c-471c-8240-8315ad234495"
         }
       ],
       "husbandRefs": [
@@ -32253,6 +32256,25 @@
       "names": [
         {
           "value": " /Sitorus/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F483*662f4e05-31d0-4760-9cad-94007c2bc190"
+        }
+      ],
+      "id": "I1145*d553cba8-ec8c-471c-8240-8315ad234495",
+      "names": [
+        {
+          "value": "Tianur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
