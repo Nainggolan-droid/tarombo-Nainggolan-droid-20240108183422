@@ -9248,6 +9248,19 @@
         }
       ],
       "id": "F545*aafa7b63-0bb5-4cb6-a855-eabfb5061b32"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1275*be5ca124-eaca-4489-88d9-6c83b39a3b32"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1243*183eb41d-f612-4072-a2ea-36c5c4211bef"
+        }
+      ],
+      "id": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
     }
   ],
   "head": {
@@ -35392,6 +35405,11 @@
           "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
       "id": "I1243*183eb41d-f612-4072-a2ea-36c5c4211bef",
       "names": [
         {
@@ -36007,6 +36025,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
+      "id": "I1275*be5ca124-eaca-4489-88d9-6c83b39a3b32",
+      "names": [
+        {
+          "value": "Rista //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
