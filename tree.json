@@ -8081,6 +8081,9 @@
       "childRefs": [
         {
           "ref": "I1121*03bacdcc-8b4d-42e6-b6b7-b83c36639522"
+        },
+        {
+          "ref": "I1122*2514d109-ac3b-4782-a4d4-676c40abcdaf"
         }
       ],
       "husbandRefs": [
@@ -31610,6 +31613,25 @@
       "names": [
         {
           "value": "Poltak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
+        }
+      ],
+      "id": "I1122*2514d109-ac3b-4782-a4d4-676c40abcdaf",
+      "names": [
+        {
+          "value": "David //"
         }
       ],
       "eventsFacts": [
