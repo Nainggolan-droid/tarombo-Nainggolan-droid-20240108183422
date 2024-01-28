@@ -8884,6 +8884,9 @@
         },
         {
           "ref": "I1222*50f80b87-98ed-4d51-8963-4c276d81e006"
+        },
+        {
+          "ref": "I1223*b4c0dcc9-321c-4ca4-bc51-684212c092c7"
         }
       ],
       "husbandRefs": [
@@ -34586,6 +34589,25 @@
       "names": [
         {
           "value": "Op.Jorat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
+        }
+      ],
+      "id": "I1223*b4c0dcc9-321c-4ca4-bc51-684212c092c7",
+      "names": [
+        {
+          "value": "Op.Gombur //"
         }
       ],
       "eventsFacts": [
