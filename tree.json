@@ -8198,6 +8198,9 @@
         },
         {
           "ref": "I1140*db81313a-3cef-4ed1-b184-a6034693a412"
+        },
+        {
+          "ref": "I1141*93e31449-d0c6-4885-bed3-029f18aee2f6"
         }
       ],
       "husbandRefs": [
@@ -32119,6 +32122,25 @@
       "names": [
         {
           "value": "Rustiana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
+      "id": "I1141*93e31449-d0c6-4885-bed3-029f18aee2f6",
+      "names": [
+        {
+          "value": "Mida //"
         }
       ],
       "eventsFacts": [
