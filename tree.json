@@ -8356,6 +8356,19 @@
         }
       ],
       "id": "F490*80485569-d2a0-4da6-836e-f54ab028a52c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1161*e8292e0a-765a-4454-87a7-f54c4ad69c1e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1160*aa24397f-f827-4c97-9cdd-77902c9f6693"
+        }
+      ],
+      "id": "F491*b7a18b5f-3e15-4231-ad25-532dafd959be"
     }
   ],
   "head": {
@@ -32692,10 +32705,34 @@
           "ref": "F490*80485569-d2a0-4da6-836e-f54ab028a52c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F491*b7a18b5f-3e15-4231-ad25-532dafd959be"
+        }
+      ],
       "id": "I1160*aa24397f-f827-4c97-9cdd-77902c9f6693",
       "names": [
         {
           "value": "Jingar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F491*b7a18b5f-3e15-4231-ad25-532dafd959be"
+        }
+      ],
+      "id": "I1161*e8292e0a-765a-4454-87a7-f54c4ad69c1e",
+      "names": [
+        {
+          "value": "Bonggar //"
         }
       ],
       "eventsFacts": [
