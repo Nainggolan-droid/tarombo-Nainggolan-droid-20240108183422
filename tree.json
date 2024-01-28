@@ -8442,6 +8442,9 @@
       "childRefs": [
         {
           "ref": "I1168*8823a3e7-66ea-4358-8dec-c83c8fe315d6"
+        },
+        {
+          "ref": "I1169*03ea94eb-4e0b-4994-a393-aae159ea5b1e"
         }
       ],
       "husbandRefs": [
@@ -32977,6 +32980,25 @@
       "names": [
         {
           "value": "Ojak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F497*4e890c4d-b341-432f-a4af-a2c3ab5970bf"
+        }
+      ],
+      "id": "I1169*03ea94eb-4e0b-4994-a393-aae159ea5b1e",
+      "names": [
+        {
+          "value": "Hisar //"
         }
       ],
       "eventsFacts": [
