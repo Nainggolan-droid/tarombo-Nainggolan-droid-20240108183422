@@ -9253,6 +9253,9 @@
       "childRefs": [
         {
           "ref": "I1275*be5ca124-eaca-4489-88d9-6c83b39a3b32"
+        },
+        {
+          "ref": "I1276*11602f05-67aa-42d7-80cc-a1dc85f2bc01"
         }
       ],
       "husbandRefs": [
@@ -36044,6 +36047,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F546*2aa7a777-c5d2-4cf7-9cc4-9cfb770dfdb4"
+        }
+      ],
+      "id": "I1276*11602f05-67aa-42d7-80cc-a1dc85f2bc01",
+      "names": [
+        {
+          "value": "Albert //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
