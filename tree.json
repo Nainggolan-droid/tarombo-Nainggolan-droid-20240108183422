@@ -9532,6 +9532,9 @@
       "childRefs": [
         {
           "ref": "I1318*503dc298-1f4e-47a2-8065-f5c685f2a55f"
+        },
+        {
+          "ref": "I1319*fc0c17b0-2547-4c47-9999-fe3c85c2a5dd"
         }
       ],
       "husbandRefs": [
@@ -9540,6 +9543,19 @@
         }
       ],
       "id": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1320*faf02c09-41f8-4148-bea8-5328fae8bddd"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1318*503dc298-1f4e-47a2-8065-f5c685f2a55f"
+        }
+      ],
+      "id": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
     }
   ],
   "head": {
@@ -37200,10 +37216,53 @@
           "ref": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
         }
       ],
+      "fams": [
+        {
+          "ref": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
+        }
+      ],
       "id": "I1318*503dc298-1f4e-47a2-8065-f5c685f2a55f",
       "names": [
         {
           "value": "Op.Janianta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
+        }
+      ],
+      "id": "I1319*fc0c17b0-2547-4c47-9999-fe3c85c2a5dd",
+      "names": [
+        {
+          "value": "A.Asahan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
+        }
+      ],
+      "id": "I1320*faf02c09-41f8-4148-bea8-5328fae8bddd",
+      "names": [
+        {
+          "value": "Akarias //"
         }
       ],
       "eventsFacts": [
