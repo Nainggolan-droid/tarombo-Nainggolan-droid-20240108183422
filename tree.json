@@ -8881,6 +8881,9 @@
       "childRefs": [
         {
           "ref": "I1221*48d22bef-ff8f-4b86-be09-4935eeb22bf0"
+        },
+        {
+          "ref": "I1222*50f80b87-98ed-4d51-8963-4c276d81e006"
         }
       ],
       "husbandRefs": [
@@ -34564,6 +34567,25 @@
       "names": [
         {
           "value": "Op.Botol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
+        }
+      ],
+      "id": "I1222*50f80b87-98ed-4d51-8963-4c276d81e006",
+      "names": [
+        {
+          "value": "Op.Jorat //"
         }
       ],
       "eventsFacts": [
