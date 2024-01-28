@@ -9055,6 +9055,9 @@
         },
         {
           "ref": "I1251*d10b0c7f-1567-4ebe-9311-42e870209415"
+        },
+        {
+          "ref": "I1253*4b2be139-641b-4f13-92ef-2f11c1caa368"
         }
       ],
       "husbandRefs": [
@@ -35421,6 +35424,25 @@
       "names": [
         {
           "value": " /Siregar/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
+        }
+      ],
+      "id": "I1253*4b2be139-641b-4f13-92ef-2f11c1caa368",
+      "names": [
+        {
+          "value": "Rumon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
