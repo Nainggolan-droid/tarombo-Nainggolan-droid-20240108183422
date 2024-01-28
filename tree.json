@@ -8511,6 +8511,32 @@
         }
       ],
       "id": "F501*896957c5-fc17-46af-98fb-5c95f9fec2cd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1176*dad34526-aa42-4b5e-9d52-d2e22ab7cefc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1149*c68df0dd-a439-4341-a965-a329d6c9805e"
+        }
+      ],
+      "id": "F502*034c0ffa-300e-4cff-8fb8-1a40a7d63d65"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1177*8f0d51d9-fa86-4f28-9795-1fc9f3dd78cc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1176*dad34526-aa42-4b5e-9d52-d2e22ab7cefc"
+        }
+      ],
+      "id": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
     }
   ],
   "head": {
@@ -32628,6 +32654,11 @@
           "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
         }
       ],
+      "fams": [
+        {
+          "ref": "F502*034c0ffa-300e-4cff-8fb8-1a40a7d63d65"
+        }
+      ],
       "id": "I1149*c68df0dd-a439-4341-a965-a329d6c9805e",
       "names": [
         {
@@ -33191,6 +33222,49 @@
       "names": [
         {
           "value": "Daler //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F502*034c0ffa-300e-4cff-8fb8-1a40a7d63d65"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
+        }
+      ],
+      "id": "I1176*dad34526-aa42-4b5e-9d52-d2e22ab7cefc",
+      "names": [
+        {
+          "value": "A.Hibul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
+        }
+      ],
+      "id": "I1177*8f0d51d9-fa86-4f28-9795-1fc9f3dd78cc",
+      "names": [
+        {
+          "value": "Tahan //"
         }
       ],
       "eventsFacts": [
