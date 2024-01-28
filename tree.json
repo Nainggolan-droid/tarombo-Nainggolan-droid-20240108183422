@@ -9405,6 +9405,9 @@
       "childRefs": [
         {
           "ref": "I1299*88de40f8-6964-43ac-81dd-6f0b0649debf"
+        },
+        {
+          "ref": "I1300*d9684cb6-4228-4e2a-bdec-4df0a816e63c"
         }
       ],
       "husbandRefs": [
@@ -36681,6 +36684,25 @@
       "names": [
         {
           "value": "Josep //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F554*6d7c5c5b-39b2-4daf-82e6-04022eb6119d"
+        }
+      ],
+      "id": "I1300*d9684cb6-4228-4e2a-bdec-4df0a816e63c",
+      "names": [
+        {
+          "value": "Dirgak //"
         }
       ],
       "eventsFacts": [
