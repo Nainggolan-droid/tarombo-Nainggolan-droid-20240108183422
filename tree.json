@@ -8105,6 +8105,19 @@
         }
       ],
       "id": "F476*441df4b2-7c8a-443c-a6a7-f05b6571cfb3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1124*279de590-1759-4066-912c-b8439cd96468"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I218*e90e6f71-119e-4d39-b4fe-4e66dde99c26"
+        }
+      ],
+      "id": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
     }
   ],
   "head": {
@@ -12681,6 +12694,11 @@
       "famc": [
         {
           "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
       "id": "I218*e90e6f71-119e-4d39-b4fe-4e66dde99c26",
@@ -31670,6 +31688,25 @@
       "names": [
         {
           "value": "Michael //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1124*279de590-1759-4066-912c-b8439cd96468",
+      "names": [
+        {
+          "value": "Op.Soranglan //"
         }
       ],
       "eventsFacts": [
