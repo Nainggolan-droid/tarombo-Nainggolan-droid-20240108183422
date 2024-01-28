@@ -9326,6 +9326,9 @@
       "childRefs": [
         {
           "ref": "I1286*fb5e3424-25dd-4be3-b1c9-8d6a1c3f1e86"
+        },
+        {
+          "ref": "I1287*61cad4aa-5cdd-47c0-b8f9-9fdc8a0be61f"
         }
       ],
       "husbandRefs": [
@@ -36335,6 +36338,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F550*53d990f8-6602-49b5-b4da-309ec6af4382"
+        }
+      ],
+      "id": "I1287*61cad4aa-5cdd-47c0-b8f9-9fdc8a0be61f",
+      "names": [
+        {
+          "value": "Yayang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
