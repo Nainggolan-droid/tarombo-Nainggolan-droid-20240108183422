@@ -9174,6 +9174,9 @@
         },
         {
           "ref": "I1262*0c59be76-c939-4758-bc20-6e763a827da1"
+        },
+        {
+          "ref": "I1263*3a417b2d-7452-44d8-bf68-c081b0bb788e"
         }
       ],
       "husbandRefs": [
@@ -35692,6 +35695,25 @@
       "names": [
         {
           "value": "Lidia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F542*a88f8b5c-2baf-48ad-809a-231c46679efd"
+        }
+      ],
+      "id": "I1263*3a417b2d-7452-44d8-bf68-c081b0bb788e",
+      "names": [
+        {
+          "value": "Hetri //"
         }
       ],
       "eventsFacts": [
