@@ -8895,6 +8895,19 @@
         }
       ],
       "id": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1224*791760d2-1c3f-4015-b1d0-5d9d59e9ad4f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1221*48d22bef-ff8f-4b86-be09-4935eeb22bf0"
+        }
+      ],
+      "id": "F526*baa2b326-f4f5-4e56-b8a1-5666d9309a8b"
     }
   ],
   "head": {
@@ -34566,6 +34579,11 @@
           "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
         }
       ],
+      "fams": [
+        {
+          "ref": "F526*baa2b326-f4f5-4e56-b8a1-5666d9309a8b"
+        }
+      ],
       "id": "I1221*48d22bef-ff8f-4b86-be09-4935eeb22bf0",
       "names": [
         {
@@ -34614,6 +34632,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F526*baa2b326-f4f5-4e56-b8a1-5666d9309a8b"
+        }
+      ],
+      "id": "I1224*791760d2-1c3f-4015-b1d0-5d9d59e9ad4f",
+      "names": [
+        {
+          "value": "Dorlina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
