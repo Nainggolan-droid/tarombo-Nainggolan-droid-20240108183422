@@ -9551,6 +9551,9 @@
         },
         {
           "ref": "I1321*9928b5ff-493a-48e0-8b40-70f958009164"
+        },
+        {
+          "ref": "I1322*200a2bd5-3014-46df-a122-9e2fbdceeacb"
         }
       ],
       "husbandRefs": [
@@ -37285,6 +37288,25 @@
       "names": [
         {
           "value": "Anus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
+        }
+      ],
+      "id": "I1322*200a2bd5-3014-46df-a122-9e2fbdceeacb",
+      "names": [
+        {
+          "value": "Dameri //"
         }
       ],
       "eventsFacts": [
