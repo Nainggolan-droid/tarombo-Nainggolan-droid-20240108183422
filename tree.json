@@ -8424,6 +8424,19 @@
         }
       ],
       "id": "F495*3cc320bc-9832-4dc9-9c56-6c3774530d1b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1167*a051c22e-89cc-4d0f-93e0-fd66277d2803"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1154*72d804f8-d3a0-4086-8c72-faed8daafc9c"
+        }
+      ],
+      "id": "F496*718da112-9fde-4c03-aff0-f0960db67454"
     }
   ],
   "head": {
@@ -32641,6 +32654,11 @@
           "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F496*718da112-9fde-4c03-aff0-f0960db67454"
+        }
+      ],
       "id": "I1154*72d804f8-d3a0-4086-8c72-faed8daafc9c",
       "names": [
         {
@@ -32903,6 +32921,25 @@
       "names": [
         {
           "value": "Pola //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F496*718da112-9fde-4c03-aff0-f0960db67454"
+        }
+      ],
+      "id": "I1167*a051c22e-89cc-4d0f-93e0-fd66277d2803",
+      "names": [
+        {
+          "value": "Kenan //"
         }
       ],
       "eventsFacts": [
