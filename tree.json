@@ -8913,6 +8913,9 @@
       "childRefs": [
         {
           "ref": "I1225*934205db-0046-4107-8562-f413aac908bf"
+        },
+        {
+          "ref": "I1226*d5eaef0d-cd60-4d1f-b7bc-56f1f0c52f32"
         }
       ],
       "husbandRefs": [
@@ -34682,6 +34685,25 @@
       "names": [
         {
           "value": "Botol //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
+        }
+      ],
+      "id": "I1226*d5eaef0d-cd60-4d1f-b7bc-56f1f0c52f32",
+      "names": [
+        {
+          "value": "Jaukkat //"
         }
       ],
       "eventsFacts": [
