@@ -8313,6 +8313,9 @@
       "childRefs": [
         {
           "ref": "I1155*7c80bf4e-8c0a-4e70-bb35-9e49b4d8a48e"
+        },
+        {
+          "ref": "I1156*870685c0-db65-4e3e-ba10-d5bfba1f5d43"
         }
       ],
       "husbandRefs": [
@@ -32556,6 +32559,25 @@
       "names": [
         {
           "value": "Alboin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F488*a76f43ad-d046-497c-bf47-5d0afde638bb"
+        }
+      ],
+      "id": "I1156*870685c0-db65-4e3e-ba10-d5bfba1f5d43",
+      "names": [
+        {
+          "value": "Derik //"
         }
       ],
       "eventsFacts": [
