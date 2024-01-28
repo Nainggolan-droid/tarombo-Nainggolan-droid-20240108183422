@@ -9269,6 +9269,9 @@
       "childRefs": [
         {
           "ref": "I1277*9f4be745-58b1-4653-97af-48e71fb2283a"
+        },
+        {
+          "ref": "I1278*15924334-dada-4e12-b46b-e0b29b2df59a"
         }
       ],
       "husbandRefs": [
@@ -36103,6 +36106,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F547*6d2ec67c-d1b5-408e-8665-6050da1ff999"
+        }
+      ],
+      "id": "I1278*15924334-dada-4e12-b46b-e0b29b2df59a",
+      "names": [
+        {
+          "value": "Megauli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
