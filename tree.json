@@ -8485,6 +8485,19 @@
         }
       ],
       "id": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1174*5973ed72-2b57-40ae-8717-aff4c9a39a81"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1171*91ad569b-bf85-4cd4-95e5-4076326d6bec"
+        }
+      ],
+      "id": "F500*24d18f25-9f80-4ee1-ae5a-e025f35adbfa"
     }
   ],
   "head": {
@@ -33075,6 +33088,11 @@
           "ref": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F500*24d18f25-9f80-4ee1-ae5a-e025f35adbfa"
+        }
+      ],
       "id": "I1171*91ad569b-bf85-4cd4-95e5-4076326d6bec",
       "names": [
         {
@@ -33117,6 +33135,25 @@
       "names": [
         {
           "value": "Jamalu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F500*24d18f25-9f80-4ee1-ae5a-e025f35adbfa"
+        }
+      ],
+      "id": "I1174*5973ed72-2b57-40ae-8717-aff4c9a39a81",
+      "names": [
+        {
+          "value": "Sahata //"
         }
       ],
       "eventsFacts": [
