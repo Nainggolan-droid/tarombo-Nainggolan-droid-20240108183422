@@ -8269,6 +8269,9 @@
       "childRefs": [
         {
           "ref": "I1147*c0d2220d-6638-4dea-b39d-6012acd895f2"
+        },
+        {
+          "ref": "I1148*120802be-ccce-481f-8123-5c7813d98f8c"
         }
       ],
       "husbandRefs": [
@@ -32350,6 +32353,25 @@
       "names": [
         {
           "value": "Op.Soiloai //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+        }
+      ],
+      "id": "I1148*120802be-ccce-481f-8123-5c7813d98f8c",
+      "names": [
+        {
+          "value": "Op.Sonda //"
         }
       ],
       "eventsFacts": [
