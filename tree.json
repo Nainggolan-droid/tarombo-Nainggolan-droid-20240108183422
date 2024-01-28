@@ -8189,6 +8189,12 @@
       "childRefs": [
         {
           "ref": "I1137*132440e0-501d-4fa8-ab8a-61e1c3fe23d5"
+        },
+        {
+          "ref": "I1138*9cfc6ebc-3fd7-4a09-8c75-c0af73250f7c"
+        },
+        {
+          "ref": "I1139*70f8494d-8bb2-493e-94a3-339d42c2d2a0"
         }
       ],
       "husbandRefs": [
@@ -32053,6 +32059,44 @@
       "names": [
         {
           "value": "Daulat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
+      "id": "I1138*9cfc6ebc-3fd7-4a09-8c75-c0af73250f7c",
+      "names": [
+        {
+          "value": "Nelson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F481*4c408803-ff74-40f8-ae92-84c0d3deca1f"
+        }
+      ],
+      "id": "I1139*70f8494d-8bb2-493e-94a3-339d42c2d2a0",
+      "names": [
+        {
+          "value": "Benri //"
         }
       ],
       "eventsFacts": [
