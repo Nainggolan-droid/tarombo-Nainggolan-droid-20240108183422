@@ -8264,6 +8264,19 @@
           "ref": "I1145*d553cba8-ec8c-471c-8240-8315ad234495"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1147*c0d2220d-6638-4dea-b39d-6012acd895f2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1125*f7ad9dd6-b0c3-4d63-b046-d7b4f6d04a09"
+        }
+      ],
+      "id": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
     }
   ],
   "head": {
@@ -31879,6 +31892,11 @@
           "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+        }
+      ],
       "id": "I1125*f7ad9dd6-b0c3-4d63-b046-d7b4f6d04a09",
       "names": [
         {
@@ -32319,6 +32337,25 @@
       "names": [
         {
           "value": " /Situkir/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+        }
+      ],
+      "id": "I1147*c0d2220d-6638-4dea-b39d-6012acd895f2",
+      "names": [
+        {
+          "value": "Op.Soiloai //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
