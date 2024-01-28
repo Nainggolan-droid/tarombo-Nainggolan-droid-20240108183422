@@ -9527,6 +9527,19 @@
         }
       ],
       "id": "F560*ae659163-b407-41e6-8388-4521c703fa5c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1318*503dc298-1f4e-47a2-8065-f5c685f2a55f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1129*44e6cdc2-cb5f-4f4c-9faf-dec794a53017"
+        }
+      ],
+      "id": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
     }
   ],
   "head": {
@@ -33238,6 +33251,11 @@
           "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
+        }
+      ],
       "id": "I1129*44e6cdc2-cb5f-4f4c-9faf-dec794a53017",
       "names": [
         {
@@ -37167,6 +37185,25 @@
       "names": [
         {
           "value": "Perancis //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F561*b735f589-7bc1-4f51-ada6-32108cc30705"
+        }
+      ],
+      "id": "I1318*503dc298-1f4e-47a2-8065-f5c685f2a55f",
+      "names": [
+        {
+          "value": "Op.Janianta //"
         }
       ],
       "eventsFacts": [
