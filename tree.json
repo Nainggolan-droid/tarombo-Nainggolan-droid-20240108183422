@@ -8919,6 +8919,9 @@
         },
         {
           "ref": "I1227*98689dfe-d54c-497d-aa55-ac43c8b6ed8b"
+        },
+        {
+          "ref": "I1228*38edc367-cd0c-49b6-b4e1-ca9a0751a676"
         }
       ],
       "husbandRefs": [
@@ -34726,6 +34729,25 @@
       "names": [
         {
           "value": "Dikkar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
+        }
+      ],
+      "id": "I1228*38edc367-cd0c-49b6-b4e1-ca9a0751a676",
+      "names": [
+        {
+          "value": "Jason //"
         }
       ],
       "eventsFacts": [
