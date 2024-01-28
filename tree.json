@@ -8649,6 +8649,19 @@
         }
       ],
       "id": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1192*cba6f693-e6b4-4c84-9cb4-d85062c9432b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1188*4d10dcab-6830-4a43-b160-af197c3a4ceb"
+        }
+      ],
+      "id": "F511*f0829b83-21f5-49f0-af19-a75533a216ca"
     }
   ],
   "head": {
@@ -33617,6 +33630,11 @@
           "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F511*f0829b83-21f5-49f0-af19-a75533a216ca"
+        }
+      ],
       "id": "I1188*4d10dcab-6830-4a43-b160-af197c3a4ceb",
       "names": [
         {
@@ -33678,6 +33696,25 @@
       "names": [
         {
           "value": "Johan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F511*f0829b83-21f5-49f0-af19-a75533a216ca"
+        }
+      ],
+      "id": "I1192*cba6f693-e6b4-4c84-9cb4-d85062c9432b",
+      "names": [
+        {
+          "value": "Sahat //"
         }
       ],
       "eventsFacts": [
