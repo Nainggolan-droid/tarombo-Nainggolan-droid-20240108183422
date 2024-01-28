@@ -8667,6 +8667,9 @@
       "childRefs": [
         {
           "ref": "I1193*f4f2a61c-db4e-4675-bed7-f53e3f6a1559"
+        },
+        {
+          "ref": "I1194*8f6cc0fa-91d5-4a9b-b133-42cfc874fb69"
         }
       ],
       "husbandRefs": [
@@ -33752,6 +33755,25 @@
       "names": [
         {
           "value": "Sudin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
+        }
+      ],
+      "id": "I1194*8f6cc0fa-91d5-4a9b-b133-42cfc874fb69",
+      "names": [
+        {
+          "value": "Sarus //"
         }
       ],
       "eventsFacts": [
