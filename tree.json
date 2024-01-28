@@ -8092,6 +8092,19 @@
         }
       ],
       "id": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1123*a1b1bdb1-f375-46e1-8c12-5f171ca522ce"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1122*2514d109-ac3b-4782-a4d4-676c40abcdaf"
+        }
+      ],
+      "id": "F476*441df4b2-7c8a-443c-a6a7-f05b6571cfb3"
     }
   ],
   "head": {
@@ -31628,11 +31641,35 @@
           "ref": "F475*eed071e3-09ed-451d-8513-d7ca9037e405"
         }
       ],
+      "fams": [
+        {
+          "ref": "F476*441df4b2-7c8a-443c-a6a7-f05b6571cfb3"
+        }
+      ],
       "id": "I1122*2514d109-ac3b-4782-a4d4-676c40abcdaf",
       "names": [
         {
           "nick": "A.Michael",
           "value": "David //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F476*441df4b2-7c8a-443c-a6a7-f05b6571cfb3"
+        }
+      ],
+      "id": "I1123*a1b1bdb1-f375-46e1-8c12-5f171ca522ce",
+      "names": [
+        {
+          "value": "Michael //"
         }
       ],
       "eventsFacts": [
