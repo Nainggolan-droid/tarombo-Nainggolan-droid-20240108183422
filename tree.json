@@ -8411,6 +8411,19 @@
         }
       ],
       "id": "F494*d676df80-e370-41ad-b16f-0d8f0ce8c987"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1166*c1b6e30f-e8a8-4233-8476-882b7b79d2f4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1165*c249ef56-c6b7-406c-9834-d1469ad60d66"
+        }
+      ],
+      "id": "F495*3cc320bc-9832-4dc9-9c56-6c3774530d1b"
     }
   ],
   "head": {
@@ -32862,10 +32875,34 @@
           "ref": "F494*d676df80-e370-41ad-b16f-0d8f0ce8c987"
         }
       ],
+      "fams": [
+        {
+          "ref": "F495*3cc320bc-9832-4dc9-9c56-6c3774530d1b"
+        }
+      ],
       "id": "I1165*c249ef56-c6b7-406c-9834-d1469ad60d66",
       "names": [
         {
           "value": "Pajita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F495*3cc320bc-9832-4dc9-9c56-6c3774530d1b"
+        }
+      ],
+      "id": "I1166*c1b6e30f-e8a8-4233-8476-882b7b79d2f4",
+      "names": [
+        {
+          "value": "Pola //"
         }
       ],
       "eventsFacts": [
