@@ -9196,6 +9196,9 @@
         },
         {
           "ref": "I1267*8b0c2930-5836-4ef9-b942-31fed990fce7"
+        },
+        {
+          "ref": "I1268*cc05e12d-3479-4d7b-bc4b-5b37e087d0e0"
         }
       ],
       "husbandRefs": [
@@ -35838,6 +35841,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
+        }
+      ],
+      "id": "I1268*cc05e12d-3479-4d7b-bc4b-5b37e087d0e0",
+      "names": [
+        {
+          "value": "Edward //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
