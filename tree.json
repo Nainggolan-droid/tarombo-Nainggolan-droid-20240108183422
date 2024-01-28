@@ -9027,6 +9027,9 @@
         },
         {
           "ref": "I1243*183eb41d-f612-4072-a2ea-36c5c4211bef"
+        },
+        {
+          "ref": "I1244*6148646a-26d0-4d94-8b14-6be4f5fcc4fe"
         }
       ],
       "husbandRefs": [
@@ -35168,6 +35171,25 @@
       "names": [
         {
           "value": "Firman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
+        }
+      ],
+      "id": "I1244*6148646a-26d0-4d94-8b14-6be4f5fcc4fe",
+      "names": [
+        {
+          "value": "Saudin //"
         }
       ],
       "eventsFacts": [
