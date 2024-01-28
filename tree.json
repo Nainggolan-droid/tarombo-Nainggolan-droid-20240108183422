@@ -8437,6 +8437,19 @@
         }
       ],
       "id": "F496*718da112-9fde-4c03-aff0-f0960db67454"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1168*8823a3e7-66ea-4358-8dec-c83c8fe315d6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1167*a051c22e-89cc-4d0f-93e0-fd66277d2803"
+        }
+      ],
+      "id": "F497*4e890c4d-b341-432f-a4af-a2c3ab5970bf"
     }
   ],
   "head": {
@@ -32936,10 +32949,34 @@
           "ref": "F496*718da112-9fde-4c03-aff0-f0960db67454"
         }
       ],
+      "fams": [
+        {
+          "ref": "F497*4e890c4d-b341-432f-a4af-a2c3ab5970bf"
+        }
+      ],
       "id": "I1167*a051c22e-89cc-4d0f-93e0-fd66277d2803",
       "names": [
         {
           "value": "Kenan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F497*4e890c4d-b341-432f-a4af-a2c3ab5970bf"
+        }
+      ],
+      "id": "I1168*8823a3e7-66ea-4358-8dec-c83c8fe315d6",
+      "names": [
+        {
+          "value": "Ojak //"
         }
       ],
       "eventsFacts": [
