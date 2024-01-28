@@ -8294,6 +8294,9 @@
       "childRefs": [
         {
           "ref": "I1152*8d8e4d0a-eaac-416f-89df-7821ce24c733"
+        },
+        {
+          "ref": "I1153*20a3aafe-9330-4496-8369-b132a68d827c"
         }
       ],
       "husbandRefs": [
@@ -32475,6 +32478,25 @@
       "names": [
         {
           "value": "Op.Gulasa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
+        }
+      ],
+      "id": "I1153*20a3aafe-9330-4496-8369-b132a68d827c",
+      "names": [
+        {
+          "value": "Op.Toga //"
         }
       ],
       "eventsFacts": [
