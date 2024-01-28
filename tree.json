@@ -8769,6 +8769,9 @@
         },
         {
           "ref": "I1207*0277e02e-7df9-4956-8a21-fb1ebfcb4513"
+        },
+        {
+          "ref": "I1208*19f4fa31-14ef-4d3e-9046-a89fa6efb324"
         }
       ],
       "husbandRefs": [
@@ -34150,6 +34153,25 @@
       "names": [
         {
           "value": "John //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
+        }
+      ],
+      "id": "I1208*19f4fa31-14ef-4d3e-9046-a89fa6efb324",
+      "names": [
+        {
+          "value": "Douglas //"
         }
       ],
       "eventsFacts": [
