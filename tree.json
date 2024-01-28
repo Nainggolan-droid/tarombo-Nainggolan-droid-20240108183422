@@ -8498,6 +8498,19 @@
         }
       ],
       "id": "F500*24d18f25-9f80-4ee1-ae5a-e025f35adbfa"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1175*616ff207-c7b4-403c-8492-f06208fa82cf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1173*5857bf11-ae1c-4d07-b42a-845e348f245c"
+        }
+      ],
+      "id": "F501*896957c5-fc17-46af-98fb-5c95f9fec2cd"
     }
   ],
   "head": {
@@ -33131,6 +33144,11 @@
           "ref": "F499*3f5e4b5d-4b4b-4222-908f-eca6ca96f1e5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F501*896957c5-fc17-46af-98fb-5c95f9fec2cd"
+        }
+      ],
       "id": "I1173*5857bf11-ae1c-4d07-b42a-845e348f245c",
       "names": [
         {
@@ -33154,6 +33172,25 @@
       "names": [
         {
           "value": "Sahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F501*896957c5-fc17-46af-98fb-5c95f9fec2cd"
+        }
+      ],
+      "id": "I1175*616ff207-c7b4-403c-8492-f06208fa82cf",
+      "names": [
+        {
+          "value": "Daler //"
         }
       ],
       "eventsFacts": [
