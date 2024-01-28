@@ -8699,6 +8699,9 @@
       "childRefs": [
         {
           "ref": "I1197*63725fb9-24ac-4d06-bec2-18e6b44d94f8"
+        },
+        {
+          "ref": "I1198*8ccdb95c-17e6-4e89-9150-c9ce920a6a7f"
         }
       ],
       "husbandRefs": [
@@ -33870,6 +33873,25 @@
       "names": [
         {
           "value": "Simon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
+        }
+      ],
+      "id": "I1198*8ccdb95c-17e6-4e89-9150-c9ce920a6a7f",
+      "names": [
+        {
+          "value": "Mula //"
         }
       ],
       "eventsFacts": [
