@@ -9600,6 +9600,19 @@
         }
       ],
       "id": "F564*e347ce87-d647-4636-9021-ed7d8d997d24"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1329*008525b2-72d3-432c-814d-738d15784e2d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1328*d5b172c9-f843-4969-920d-f88d3666d5d7"
+        }
+      ],
+      "id": "F565*326228cf-2a28-4bf6-bbf9-25ab5026eaea"
     }
   ],
   "head": {
@@ -37465,10 +37478,34 @@
           "ref": "F564*e347ce87-d647-4636-9021-ed7d8d997d24"
         }
       ],
+      "fams": [
+        {
+          "ref": "F565*326228cf-2a28-4bf6-bbf9-25ab5026eaea"
+        }
+      ],
       "id": "I1328*d5b172c9-f843-4969-920d-f88d3666d5d7",
       "names": [
         {
           "value": "Jonap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F565*326228cf-2a28-4bf6-bbf9-25ab5026eaea"
+        }
+      ],
+      "id": "I1329*008525b2-72d3-432c-814d-738d15784e2d",
+      "names": [
+        {
+          "value": "Jotar //"
         }
       ],
       "eventsFacts": [
