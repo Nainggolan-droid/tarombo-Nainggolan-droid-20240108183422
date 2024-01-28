@@ -8569,6 +8569,19 @@
         }
       ],
       "id": "F505*063c841d-7542-4f1d-a787-7c075a4b71a0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1182*bd962f1d-78d7-4add-9a62-9a232f37996d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1150*2631af55-1ec1-46c1-868e-7aefd8935317"
+        }
+      ],
+      "id": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
     }
   ],
   "head": {
@@ -32710,6 +32723,11 @@
           "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
         }
       ],
+      "fams": [
+        {
+          "ref": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
+        }
+      ],
       "id": "I1150*2631af55-1ec1-46c1-868e-7aefd8935317",
       "names": [
         {
@@ -33383,6 +33401,25 @@
       "names": [
         {
           "value": "Efendi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F506*de12dfb0-7150-4534-be53-b22e20519b83"
+        }
+      ],
+      "id": "I1182*bd962f1d-78d7-4add-9a62-9a232f37996d",
+      "names": [
+        {
+          "value": "A.Ngadar //"
         }
       ],
       "eventsFacts": [
