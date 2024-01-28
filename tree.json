@@ -9478,6 +9478,9 @@
         },
         {
           "ref": "I1310*f933bd63-386c-49e9-afa5-2d783deb2473"
+        },
+        {
+          "ref": "I1311*d2f3fd7c-86eb-46ab-a6e6-646bd153a3f7"
         }
       ],
       "husbandRefs": [
@@ -36983,6 +36986,25 @@
       "names": [
         {
           "value": "A.Dihoni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F558*4e6b61ae-73c4-4c16-a4fd-642e6e1edf75"
+        }
+      ],
+      "id": "I1311*d2f3fd7c-86eb-46ab-a6e6-646bd153a3f7",
+      "names": [
+        {
+          "value": "Koriman //"
         }
       ],
       "eventsFacts": [
