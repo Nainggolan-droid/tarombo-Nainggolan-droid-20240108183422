@@ -9220,6 +9220,19 @@
         }
       ],
       "id": "F544*c13c1e8b-5b5a-400f-a04b-060f91056a5b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1269*2327eac3-61fe-4c03-a962-ac19cb655568"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1268*cc05e12d-3479-4d7b-bc4b-5b37e087d0e0"
+        }
+      ],
+      "id": "F545*aafa7b63-0bb5-4cb6-a855-eabfb5061b32"
     }
   ],
   "head": {
@@ -35850,10 +35863,34 @@
           "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
         }
       ],
+      "fams": [
+        {
+          "ref": "F545*aafa7b63-0bb5-4cb6-a855-eabfb5061b32"
+        }
+      ],
       "id": "I1268*cc05e12d-3479-4d7b-bc4b-5b37e087d0e0",
       "names": [
         {
           "value": "Edward //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F545*aafa7b63-0bb5-4cb6-a855-eabfb5061b32"
+        }
+      ],
+      "id": "I1269*2327eac3-61fe-4c03-a962-ac19cb655568",
+      "names": [
+        {
+          "value": "Soni //"
         }
       ],
       "eventsFacts": [
