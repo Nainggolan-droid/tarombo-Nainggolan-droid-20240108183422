@@ -8065,6 +8065,9 @@
         },
         {
           "ref": "I1119*dedaf3c0-a494-4303-9f9e-d36061c39493"
+        },
+        {
+          "ref": "I1120*9dae9814-b1b0-41aa-a3a0-dd0e9c1fe1e8"
         }
       ],
       "husbandRefs": [
@@ -31550,6 +31553,25 @@
       "names": [
         {
           "value": "Gayus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F474*9bdcd1b8-dee4-42bb-bd2e-be82c3012c86"
+        }
+      ],
+      "id": "I1120*9dae9814-b1b0-41aa-a3a0-dd0e9c1fe1e8",
+      "names": [
+        {
+          "value": "Sabar //"
         }
       ],
       "eventsFacts": [
