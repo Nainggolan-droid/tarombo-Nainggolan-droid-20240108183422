@@ -9225,6 +9225,9 @@
       "childRefs": [
         {
           "ref": "I1269*2327eac3-61fe-4c03-a962-ac19cb655568"
+        },
+        {
+          "ref": "I1270*7093176e-0451-46ee-a9b5-e76f5d202f62"
         }
       ],
       "husbandRefs": [
@@ -35897,6 +35900,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F545*aafa7b63-0bb5-4cb6-a855-eabfb5061b32"
+        }
+      ],
+      "id": "I1270*7093176e-0451-46ee-a9b5-e76f5d202f62",
+      "names": [
+        {
+          "value": "Ica //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
