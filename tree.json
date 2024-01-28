@@ -8173,6 +8173,9 @@
         },
         {
           "ref": "I1135*63ff0f3a-314f-49ad-9202-1b3b2e1fd28e"
+        },
+        {
+          "ref": "I1136*d64a2260-6dc1-4f5e-9947-9da184968124"
         }
       ],
       "husbandRefs": [
@@ -31994,6 +31997,25 @@
       "names": [
         {
           "value": "Guna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F480*2860bfd1-9269-4648-a411-b3e9a4b4a3bf"
+        }
+      ],
+      "id": "I1136*d64a2260-6dc1-4f5e-9947-9da184968124",
+      "names": [
+        {
+          "value": "Kobun //"
         }
       ],
       "eventsFacts": [
