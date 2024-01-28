@@ -9153,6 +9153,19 @@
           "ref": "I1258*2ab59d5f-6409-4100-a64d-59e5251f797b"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1260*9c6b4aa4-3c77-4e20-8da1-f892e3fa699c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1241*6cfe2f0f-630c-4ce0-a6f9-f62c57aa1af3"
+        }
+      ],
+      "id": "F541*bc99b904-3527-4c2c-8b7c-8cb8bf844ac7"
     }
   ],
   "head": {
@@ -35249,6 +35262,11 @@
           "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F541*bc99b904-3527-4c2c-8b7c-8cb8bf844ac7"
+        }
+      ],
       "id": "I1241*6cfe2f0f-630c-4ce0-a6f9-f62c57aa1af3",
       "names": [
         {
@@ -35602,6 +35620,25 @@
       "names": [
         {
           "value": " /Jawa/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F541*bc99b904-3527-4c2c-8b7c-8cb8bf844ac7"
+        }
+      ],
+      "id": "I1260*9c6b4aa4-3c77-4e20-8da1-f892e3fa699c",
+      "names": [
+        {
+          "value": "Maralo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
