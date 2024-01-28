@@ -8110,6 +8110,9 @@
       "childRefs": [
         {
           "ref": "I1124*279de590-1759-4066-912c-b8439cd96468"
+        },
+        {
+          "ref": "I1125*f7ad9dd6-b0c3-4d63-b046-d7b4f6d04a09"
         }
       ],
       "husbandRefs": [
@@ -31707,6 +31710,25 @@
       "names": [
         {
           "value": "Op.Soranglan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F477*fea3ba85-1966-4123-a092-ad54af58e65a"
+        }
+      ],
+      "id": "I1125*f7ad9dd6-b0c3-4d63-b046-d7b4f6d04a09",
+      "names": [
+        {
+          "value": "Panggiling //"
         }
       ],
       "eventsFacts": [
