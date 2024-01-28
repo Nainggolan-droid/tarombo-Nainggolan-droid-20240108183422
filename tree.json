@@ -9424,6 +9424,9 @@
       "childRefs": [
         {
           "ref": "I1302*0bc9ab3c-2b88-4392-b794-f835b00a22f3"
+        },
+        {
+          "ref": "I1303*31b75942-21ec-4958-9d78-5f87977f7f45"
         }
       ],
       "husbandRefs": [
@@ -36762,6 +36765,25 @@
       "names": [
         {
           "value": "Manukkar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F555*b62f447e-e8fa-41aa-98ef-2c842dc0dfd0"
+        }
+      ],
+      "id": "I1303*31b75942-21ec-4958-9d78-5f87977f7f45",
+      "names": [
+        {
+          "value": "Haposan //"
         }
       ],
       "eventsFacts": [
