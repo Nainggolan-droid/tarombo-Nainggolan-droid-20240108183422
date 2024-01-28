@@ -8540,6 +8540,19 @@
         }
       ],
       "id": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1179*11d8e088-d181-405f-a11c-0822c6b2d27d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1177*8f0d51d9-fa86-4f28-9795-1fc9f3dd78cc"
+        }
+      ],
+      "id": "F504*eb1162b6-c349-4fca-96d6-3839af8a1f45"
     }
   ],
   "head": {
@@ -33264,6 +33277,11 @@
           "ref": "F503*4601f119-5ffc-4154-b78e-a6741ab18862"
         }
       ],
+      "fams": [
+        {
+          "ref": "F504*eb1162b6-c349-4fca-96d6-3839af8a1f45"
+        }
+      ],
       "id": "I1177*8f0d51d9-fa86-4f28-9795-1fc9f3dd78cc",
       "names": [
         {
@@ -33287,6 +33305,25 @@
       "names": [
         {
           "value": "Kasi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F504*eb1162b6-c349-4fca-96d6-3839af8a1f45"
+        }
+      ],
+      "id": "I1179*11d8e088-d181-405f-a11c-0822c6b2d27d",
+      "names": [
+        {
+          "value": "Dagar //"
         }
       ],
       "eventsFacts": [
