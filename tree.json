@@ -9562,6 +9562,19 @@
         }
       ],
       "id": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1323*f9f9ff3c-c28c-40c4-b066-5b851131e537"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1320*faf02c09-41f8-4148-bea8-5328fae8bddd"
+        }
+      ],
+      "id": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
     }
   ],
   "head": {
@@ -37265,6 +37278,11 @@
           "ref": "F562*8754e8d0-01da-4d4b-8604-a84e9827dd34"
         }
       ],
+      "fams": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
       "id": "I1320*faf02c09-41f8-4148-bea8-5328fae8bddd",
       "names": [
         {
@@ -37307,6 +37325,25 @@
       "names": [
         {
           "value": "Dameri //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
+      "id": "I1323*f9f9ff3c-c28c-40c4-b066-5b851131e537",
+      "names": [
+        {
+          "value": "Ajar //"
         }
       ],
       "eventsFacts": [
