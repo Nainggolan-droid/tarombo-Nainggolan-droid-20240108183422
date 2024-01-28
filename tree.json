@@ -8948,6 +8948,9 @@
       "childRefs": [
         {
           "ref": "I1230*74d7ab7a-1ce4-4082-9ee1-8fcedf07b46e"
+        },
+        {
+          "ref": "I1231*0978cce7-e839-4349-94d7-44dd43fc9361"
         }
       ],
       "husbandRefs": [
@@ -34822,6 +34825,25 @@
       "names": [
         {
           "value": "Krisman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F529*8c938bfe-cffc-4423-b6d4-cc98bf43bfaa"
+        }
+      ],
+      "id": "I1231*0978cce7-e839-4349-94d7-44dd43fc9361",
+      "names": [
+        {
+          "value": "Bitson //"
         }
       ],
       "eventsFacts": [
