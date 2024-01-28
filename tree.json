@@ -8343,6 +8343,19 @@
         }
       ],
       "id": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1160*aa24397f-f827-4c97-9cdd-77902c9f6693"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1157*5ff13ebc-bd77-4d7c-9b3f-b1b052a53b67"
+        }
+      ],
+      "id": "F490*80485569-d2a0-4da6-836e-f54ab028a52c"
     }
   ],
   "head": {
@@ -32617,6 +32630,11 @@
           "ref": "F489*c1f4a4b4-a8ca-47a7-9be2-fd6d71d0f9dc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F490*80485569-d2a0-4da6-836e-f54ab028a52c"
+        }
+      ],
       "id": "I1157*5ff13ebc-bd77-4d7c-9b3f-b1b052a53b67",
       "names": [
         {
@@ -32659,6 +32677,25 @@
       "names": [
         {
           "value": "Mahadin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F490*80485569-d2a0-4da6-836e-f54ab028a52c"
+        }
+      ],
+      "id": "I1160*aa24397f-f827-4c97-9cdd-77902c9f6693",
+      "names": [
+        {
+          "value": "Jingar //"
         }
       ],
       "eventsFacts": [
