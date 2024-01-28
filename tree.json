@@ -9024,6 +9024,9 @@
         },
         {
           "ref": "I1242*9129e799-4f34-4389-8d02-10e466529d73"
+        },
+        {
+          "ref": "I1243*183eb41d-f612-4072-a2ea-36c5c4211bef"
         }
       ],
       "husbandRefs": [
@@ -35146,6 +35149,25 @@
       "names": [
         {
           "value": "Renatus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F533*45965e41-2346-4906-b430-94ef4a9bf21e"
+        }
+      ],
+      "id": "I1243*183eb41d-f612-4072-a2ea-36c5c4211bef",
+      "names": [
+        {
+          "value": "Firman //"
         }
       ],
       "eventsFacts": [
