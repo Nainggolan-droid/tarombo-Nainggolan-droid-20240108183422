@@ -9497,6 +9497,9 @@
         },
         {
           "ref": "I1313*94f234ba-e120-4dda-82b6-8e70f3fe876b"
+        },
+        {
+          "ref": "I1314*e9331e1c-d585-4c16-9117-99be841dad15"
         }
       ],
       "husbandRefs": [
@@ -37064,6 +37067,25 @@
       "names": [
         {
           "value": "Lomu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F559*c1ba4bfe-3891-4417-967c-e4756de5e31e"
+        }
+      ],
+      "id": "I1314*e9331e1c-d585-4c16-9117-99be841dad15",
+      "names": [
+        {
+          "value": "Tomit //"
         }
       ],
       "eventsFacts": [
