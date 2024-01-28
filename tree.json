@@ -8705,6 +8705,9 @@
         },
         {
           "ref": "I1199*d4c0cc98-91ec-4a83-8851-9ea69cb3bd96"
+        },
+        {
+          "ref": "I1200*4b149393-34e1-430c-b6cd-1eecc37f5652"
         }
       ],
       "husbandRefs": [
@@ -33914,6 +33917,25 @@
       "names": [
         {
           "value": "Karl //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F514*bfc398ac-9664-40c9-8a34-ce020a303408"
+        }
+      ],
+      "id": "I1200*4b149393-34e1-430c-b6cd-1eecc37f5652",
+      "names": [
+        {
+          "value": "Johannes //"
         }
       ],
       "eventsFacts": [
