@@ -9567,6 +9567,9 @@
       "childRefs": [
         {
           "ref": "I1323*f9f9ff3c-c28c-40c4-b066-5b851131e537"
+        },
+        {
+          "ref": "I1324*a340c124-fc1f-455b-ac27-f467a2220414"
         }
       ],
       "husbandRefs": [
@@ -37344,6 +37347,25 @@
       "names": [
         {
           "value": "Ajar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
+      "id": "I1324*a340c124-fc1f-455b-ac27-f467a2220414",
+      "names": [
+        {
+          "value": "Motor //"
         }
       ],
       "eventsFacts": [
