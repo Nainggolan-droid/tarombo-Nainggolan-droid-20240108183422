@@ -8943,6 +8943,19 @@
         }
       ],
       "id": "F528*2d0b1c02-775b-419c-8d71-6bb87916ed94"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1230*74d7ab7a-1ce4-4082-9ee1-8fcedf07b46e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1226*d5eaef0d-cd60-4d1f-b7bc-56f1f0c52f32"
+        }
+      ],
+      "id": "F529*8c938bfe-cffc-4423-b6d4-cc98bf43bfaa"
     }
   ],
   "head": {
@@ -34719,6 +34732,11 @@
           "ref": "F527*0bc1e62f-2033-42ef-b3ef-5cef39370c00"
         }
       ],
+      "fams": [
+        {
+          "ref": "F529*8c938bfe-cffc-4423-b6d4-cc98bf43bfaa"
+        }
+      ],
       "id": "I1226*d5eaef0d-cd60-4d1f-b7bc-56f1f0c52f32",
       "names": [
         {
@@ -34785,6 +34803,25 @@
       "names": [
         {
           "value": "Tamba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F529*8c938bfe-cffc-4423-b6d4-cc98bf43bfaa"
+        }
+      ],
+      "id": "I1230*74d7ab7a-1ce4-4082-9ee1-8fcedf07b46e",
+      "names": [
+        {
+          "value": "Krisman //"
         }
       ],
       "eventsFacts": [
