@@ -9459,6 +9459,9 @@
         },
         {
           "ref": "I1307*fe48156c-5feb-487b-89ff-711a2d36b89d"
+        },
+        {
+          "ref": "I1308*375b40bc-a57c-4987-bccc-4283e7333f5f"
         }
       ],
       "husbandRefs": [
@@ -36902,6 +36905,25 @@
       "names": [
         {
           "value": "Tigor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F557*d294338b-6db4-439a-8b16-1e48ea1063e9"
+        }
+      ],
+      "id": "I1308*375b40bc-a57c-4987-bccc-4283e7333f5f",
+      "names": [
+        {
+          "value": "Timbul //"
         }
       ],
       "eventsFacts": [
