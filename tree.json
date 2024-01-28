@@ -9046,6 +9046,9 @@
       "childRefs": [
         {
           "ref": "I1246*89b0f4d6-0778-4ba0-aa4a-a01785ccc24a"
+        },
+        {
+          "ref": "I1248*132aac57-ace2-4d1d-9c8e-e12b299a0ec3"
         }
       ],
       "husbandRefs": [
@@ -35286,6 +35289,25 @@
       "names": [
         {
           "value": " /Pasaribu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
+        }
+      ],
+      "id": "I1248*132aac57-ace2-4d1d-9c8e-e12b299a0ec3",
+      "names": [
+        {
+          "value": "Sabam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
