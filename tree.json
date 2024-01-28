@@ -8146,6 +8146,19 @@
         }
       ],
       "id": "F478*af908e13-afad-40a9-98b0-2720f665d72d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1131*4f461df8-3a8c-4548-b5b2-26f3ed62537b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1130*f0bebef1-1a8e-41ad-96f9-bc378eadb8e7"
+        }
+      ],
+      "id": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
     }
   ],
   "head": {
@@ -31850,10 +31863,34 @@
           "ref": "F478*af908e13-afad-40a9-98b0-2720f665d72d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
+        }
+      ],
       "id": "I1130*f0bebef1-1a8e-41ad-96f9-bc378eadb8e7",
       "names": [
         {
           "value": "Guru Sahata //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F479*82e9aefa-1ce4-4ede-8a0c-08945b7e01bb"
+        }
+      ],
+      "id": "I1131*4f461df8-3a8c-4548-b5b2-26f3ed62537b",
+      "names": [
+        {
+          "value": "A.Adat //"
         }
       ],
       "eventsFacts": [
