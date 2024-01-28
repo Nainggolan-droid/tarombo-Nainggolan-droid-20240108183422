@@ -9605,6 +9605,9 @@
       "childRefs": [
         {
           "ref": "I1329*008525b2-72d3-432c-814d-738d15784e2d"
+        },
+        {
+          "ref": "I1330*2f7069de-cdf6-4637-8e97-8d3d3306abe9"
         }
       ],
       "husbandRefs": [
@@ -37506,6 +37509,25 @@
       "names": [
         {
           "value": "Jotar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F565*326228cf-2a28-4bf6-bbf9-25ab5026eaea"
+        }
+      ],
+      "id": "I1330*2f7069de-cdf6-4637-8e97-8d3d3306abe9",
+      "names": [
+        {
+          "value": "Muller //"
         }
       ],
       "eventsFacts": [
