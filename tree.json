@@ -8289,6 +8289,19 @@
         }
       ],
       "id": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1152*8d8e4d0a-eaac-416f-89df-7821ce24c733"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1147*c0d2220d-6638-4dea-b39d-6012acd895f2"
+        }
+      ],
+      "id": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
     }
   ],
   "head": {
@@ -32358,6 +32371,11 @@
           "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
         }
       ],
+      "fams": [
+        {
+          "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
+        }
+      ],
       "id": "I1147*c0d2220d-6638-4dea-b39d-6012acd895f2",
       "names": [
         {
@@ -32438,6 +32456,25 @@
       "names": [
         {
           "value": "A.Timbang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F487*d8464339-ea11-4bb6-8791-ccb8978deb0d"
+        }
+      ],
+      "id": "I1152*8d8e4d0a-eaac-416f-89df-7821ce24c733",
+      "names": [
+        {
+          "value": "Op.Gulasa //"
         }
       ],
       "eventsFacts": [
