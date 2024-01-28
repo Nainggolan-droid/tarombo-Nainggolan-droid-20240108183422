@@ -8772,6 +8772,9 @@
         },
         {
           "ref": "I1208*19f4fa31-14ef-4d3e-9046-a89fa6efb324"
+        },
+        {
+          "ref": "I1209*e3b023e1-f14d-455d-8c65-14bd87f17a94"
         }
       ],
       "husbandRefs": [
@@ -34172,6 +34175,25 @@
       "names": [
         {
           "value": "Douglas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
+        }
+      ],
+      "id": "I1209*e3b023e1-f14d-455d-8c65-14bd87f17a94",
+      "names": [
+        {
+          "value": "Gaban //"
         }
       ],
       "eventsFacts": [
