@@ -8681,6 +8681,19 @@
         }
       ],
       "id": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1196*9511a46d-d722-4bd8-810a-24dedc43e694"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1151*7aa4af10-6fea-4f8c-b792-81eea398e05c"
+        }
+      ],
+      "id": "F513*8528b0a2-d9e2-4d03-b8f2-dae55ad1d0b2"
     }
   ],
   "head": {
@@ -32846,6 +32859,11 @@
           "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
         }
       ],
+      "fams": [
+        {
+          "ref": "F513*8528b0a2-d9e2-4d03-b8f2-dae55ad1d0b2"
+        }
+      ],
       "id": "I1151*7aa4af10-6fea-4f8c-b792-81eea398e05c",
       "names": [
         {
@@ -33796,6 +33814,25 @@
       "names": [
         {
           "value": "Karben //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F513*8528b0a2-d9e2-4d03-b8f2-dae55ad1d0b2"
+        }
+      ],
+      "id": "I1196*9511a46d-d722-4bd8-810a-24dedc43e694",
+      "names": [
+        {
+          "value": "A.Torhaja //"
         }
       ],
       "eventsFacts": [
