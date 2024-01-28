@@ -9064,6 +9064,9 @@
         },
         {
           "ref": "I1256*8f43c498-f991-4220-ae6f-2008a52ebeb5"
+        },
+        {
+          "ref": "I1258*2ab59d5f-6409-4100-a64d-59e5251f797b"
         }
       ],
       "husbandRefs": [
@@ -35549,6 +35552,25 @@
       "names": [
         {
           "value": " /Jawa/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F534*4b40b730-ca91-4c3a-805e-f1ec8d708004"
+        }
+      ],
+      "id": "I1258*2ab59d5f-6409-4100-a64d-59e5251f797b",
+      "names": [
+        {
+          "value": "Wina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
