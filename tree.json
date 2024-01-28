@@ -8996,6 +8996,9 @@
       "childRefs": [
         {
           "ref": "I1236*693f0310-956e-45e6-a1dd-981693d64b5c"
+        },
+        {
+          "ref": "I1237*146204f6-a9b7-41b3-9249-21544b783584"
         }
       ],
       "husbandRefs": [
@@ -34999,6 +35002,25 @@
       "names": [
         {
           "value": "Ms.Palemon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F532*03560aea-ccca-4e42-9cf6-3089b0f31fa5"
+        }
+      ],
+      "id": "I1237*146204f6-a9b7-41b3-9249-21544b783584",
+      "names": [
+        {
+          "value": "Musa //"
         }
       ],
       "eventsFacts": [
