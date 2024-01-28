@@ -8763,6 +8763,9 @@
       "childRefs": [
         {
           "ref": "I1205*78cff654-e65a-4222-9804-b07ec60b9baf"
+        },
+        {
+          "ref": "I1206*98f949b4-fb03-456d-9e86-486f806c0707"
         }
       ],
       "husbandRefs": [
@@ -34106,6 +34109,25 @@
       "names": [
         {
           "value": "Edy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F518*68b5bd2b-8dc1-4c0c-a00f-07b637ca40aa"
+        }
+      ],
+      "id": "I1206*98f949b4-fb03-456d-9e86-486f806c0707",
+      "names": [
+        {
+          "value": "Saborang //"
         }
       ],
       "eventsFacts": [
