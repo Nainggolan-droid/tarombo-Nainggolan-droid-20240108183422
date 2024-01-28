@@ -8272,6 +8272,9 @@
         },
         {
           "ref": "I1148*120802be-ccce-481f-8123-5c7813d98f8c"
+        },
+        {
+          "ref": "I1149*c68df0dd-a439-4341-a965-a329d6c9805e"
         }
       ],
       "husbandRefs": [
@@ -32372,6 +32375,25 @@
       "names": [
         {
           "value": "Op.Sonda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F486*d74d61c0-bde5-4662-b737-745a9549ba49"
+        }
+      ],
+      "id": "I1149*c68df0dd-a439-4341-a965-a329d6c9805e",
+      "names": [
+        {
+          "value": "Jainganan //"
         }
       ],
       "eventsFacts": [
