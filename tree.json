@@ -9573,6 +9573,9 @@
         },
         {
           "ref": "I1325*a0db12a3-dad9-4286-8988-95889739d6a1"
+        },
+        {
+          "ref": "I1326*e56257ec-9aec-4bc8-ae66-c9d7a3d577c8"
         }
       ],
       "husbandRefs": [
@@ -37388,6 +37391,25 @@
       "names": [
         {
           "value": "Johan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F563*1a008f5a-fa0b-4dfc-b143-6ca6397d0242"
+        }
+      ],
+      "id": "I1326*e56257ec-9aec-4bc8-ae66-c9d7a3d577c8",
+      "names": [
+        {
+          "value": "Jasulim //"
         }
       ],
       "eventsFacts": [
