@@ -9199,6 +9199,9 @@
         },
         {
           "ref": "I1268*cc05e12d-3479-4d7b-bc4b-5b37e087d0e0"
+        },
+        {
+          "ref": "I1271*fc130c66-2bca-4989-a37b-342fc17645b1"
         }
       ],
       "husbandRefs": [
@@ -35913,6 +35916,25 @@
       "names": [
         {
           "value": "Ica //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F543*088b2e0e-e454-46dd-8cd5-6ba32612c032"
+        }
+      ],
+      "id": "I1271*fc130c66-2bca-4989-a37b-342fc17645b1",
+      "names": [
+        {
+          "value": "Linda //"
         }
       ],
       "eventsFacts": [
