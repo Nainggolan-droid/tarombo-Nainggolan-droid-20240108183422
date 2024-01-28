@@ -9516,6 +9516,9 @@
       "childRefs": [
         {
           "ref": "I1316*f514bb4c-62a6-4c32-8898-4923642b3087"
+        },
+        {
+          "ref": "I1317*cd0d453b-5cf3-4c8f-8bf9-8222ee160971"
         }
       ],
       "husbandRefs": [
@@ -37145,6 +37148,25 @@
       "names": [
         {
           "value": "Sahat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F560*ae659163-b407-41e6-8388-4521c703fa5c"
+        }
+      ],
+      "id": "I1317*cd0d453b-5cf3-4c8f-8bf9-8222ee160971",
+      "names": [
+        {
+          "value": "Perancis //"
         }
       ],
       "eventsFacts": [
