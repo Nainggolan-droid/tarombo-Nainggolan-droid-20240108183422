@@ -8635,6 +8635,9 @@
         },
         {
           "ref": "I1189*51a63d2c-0afb-4b76-beee-bc5c43992bfb"
+        },
+        {
+          "ref": "I1190*ff79640c-8c3c-43e2-aa87-2770e21c8d72"
         }
       ],
       "husbandRefs": [
@@ -33634,6 +33637,25 @@
       "names": [
         {
           "value": "Borjok //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
+        }
+      ],
+      "id": "I1190*ff79640c-8c3c-43e2-aa87-2770e21c8d72",
+      "names": [
+        {
+          "value": "Jahormat //"
         }
       ],
       "eventsFacts": [
