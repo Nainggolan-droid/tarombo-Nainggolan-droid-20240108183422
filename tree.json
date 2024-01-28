@@ -8662,6 +8662,19 @@
         }
       ],
       "id": "F511*f0829b83-21f5-49f0-af19-a75533a216ca"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1193*f4f2a61c-db4e-4675-bed7-f53e3f6a1559"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1189*51a63d2c-0afb-4b76-beee-bc5c43992bfb"
+        }
+      ],
+      "id": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
     }
   ],
   "head": {
@@ -33654,6 +33667,11 @@
           "ref": "F510*42a9181b-4f9d-4e82-baa3-2be50aed2ee4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
+        }
+      ],
       "id": "I1189*51a63d2c-0afb-4b76-beee-bc5c43992bfb",
       "names": [
         {
@@ -33715,6 +33733,25 @@
       "names": [
         {
           "value": "Sahat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F512*7fe9b777-b914-4fa4-985d-11d3aaf0b9b5"
+        }
+      ],
+      "id": "I1193*f4f2a61c-db4e-4675-bed7-f53e3f6a1559",
+      "names": [
+        {
+          "value": "Sudin //"
         }
       ],
       "eventsFacts": [
