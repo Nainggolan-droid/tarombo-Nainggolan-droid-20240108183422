@@ -10495,6 +10495,9 @@
         },
         {
           "ref": "I1440*b186b1e0-6859-48ad-8289-c0c1e8754073"
+        },
+        {
+          "ref": "I1441*305c1247-04d5-4535-a7f5-5449bfc045e0"
         }
       ],
       "husbandRefs": [
@@ -40727,6 +40730,25 @@
       "names": [
         {
           "value": "Op.Alvaro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1441*305c1247-04d5-4535-a7f5-5449bfc045e0",
+      "names": [
+        {
+          "value": "Edu //"
         }
       ],
       "eventsFacts": [
