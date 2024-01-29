@@ -10003,6 +10003,9 @@
         },
         {
           "ref": "I1387*3454d295-a657-4d59-875e-6f52aeeb1efa"
+        },
+        {
+          "ref": "I1389*ba1e3cde-5c2a-4441-831e-025fff51ca8a"
         }
       ],
       "husbandRefs": [
@@ -39151,6 +39154,25 @@
       "names": [
         {
           "value": " /Sitorus/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
+      "id": "I1389*ba1e3cde-5c2a-4441-831e-025fff51ca8a",
+      "names": [
+        {
+          "value": "Riamin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
