@@ -10357,6 +10357,9 @@
       "childRefs": [
         {
           "ref": "I1423*185db219-179c-4bbb-af43-577690deac9e"
+        },
+        {
+          "ref": "I1425*8cf51e73-c189-4268-97f8-45df3784b697"
         }
       ],
       "husbandRefs": [
@@ -40254,6 +40257,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F612*c2651ebb-a727-417a-8b83-daee4f16883c"
+        }
+      ],
+      "id": "I1425*8cf51e73-c189-4268-97f8-45df3784b697",
+      "names": [
+        {
+          "value": "A.Angly //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
