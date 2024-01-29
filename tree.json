@@ -9672,6 +9672,9 @@
       "childRefs": [
         {
           "ref": "I1338*4709bdca-bda2-4966-9fb4-5c1177489fe3"
+        },
+        {
+          "ref": "I1339*13ae2014-a104-4f0b-a66e-0a3efe4d329e"
         }
       ],
       "husbandRefs": [
@@ -37758,6 +37761,25 @@
       "names": [
         {
           "value": "Op.Tiniga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
+        }
+      ],
+      "id": "I1339*13ae2014-a104-4f0b-a66e-0a3efe4d329e",
+      "names": [
+        {
+          "value": "Op.Sugar //"
         }
       ],
       "eventsFacts": [
