@@ -10854,6 +10854,9 @@
         },
         {
           "ref": "I1494*d8d55032-9811-4491-82e2-fbf657e51bba"
+        },
+        {
+          "ref": "I1496*fd289961-7696-40d2-bca5-fbdc689d6736"
         }
       ],
       "husbandRefs": [
@@ -42218,6 +42221,25 @@
       "names": [
         {
           "value": " /Jhon Woworuntu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1496*fd289961-7696-40d2-bca5-fbdc689d6736",
+      "names": [
+        {
+          "value": "Pesta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
