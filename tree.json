@@ -9879,6 +9879,9 @@
         },
         {
           "ref": "I1367*0cb34bca-f0e0-4d04-9a5f-2a3dff6ea42a"
+        },
+        {
+          "ref": "I1368*c8920e9d-8007-4fc4-9686-af55c6e6a26e"
         }
       ],
       "husbandRefs": [
@@ -38562,6 +38565,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
+      "id": "I1368*c8920e9d-8007-4fc4-9686-af55c6e6a26e",
+      "names": [
+        {
+          "value": "Tiur Malum //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
