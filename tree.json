@@ -10624,6 +10624,19 @@
         }
       ],
       "id": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1457*529e6447-830f-4088-9777-60e144c0f51e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1456*67bf3d00-5c9e-4199-b37d-402cf6ec592a"
+        }
+      ],
+      "id": "F629*9de9a14b-92ee-48a6-9def-106ebb83336b"
     }
   ],
   "head": {
@@ -41146,11 +41159,35 @@
           "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F629*9de9a14b-92ee-48a6-9def-106ebb83336b"
+        }
+      ],
       "id": "I1456*67bf3d00-5c9e-4199-b37d-402cf6ec592a",
       "names": [
         {
           "nick": "A.Liametesh",
           "value": "Kamson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F629*9de9a14b-92ee-48a6-9def-106ebb83336b"
+        }
+      ],
+      "id": "I1457*529e6447-830f-4088-9777-60e144c0f51e",
+      "names": [
+        {
+          "value": "Liametesh //"
         }
       ],
       "eventsFacts": [
