@@ -9702,6 +9702,19 @@
         }
       ],
       "id": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1343*5cfbd2f7-b2b8-4ecb-99f2-fa47e2aa867f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1340*049dc506-8a20-4636-9906-8ef8d8c51aec"
+        }
+      ],
+      "id": "F571*4c10a8a0-39be-4025-bbc5-68479ab6e3b0"
     }
   ],
   "head": {
@@ -37819,6 +37832,11 @@
           "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F571*4c10a8a0-39be-4025-bbc5-68479ab6e3b0"
+        }
+      ],
       "id": "I1340*049dc506-8a20-4636-9906-8ef8d8c51aec",
       "names": [
         {
@@ -37861,6 +37879,25 @@
       "names": [
         {
           "value": "Op.Togap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F571*4c10a8a0-39be-4025-bbc5-68479ab6e3b0"
+        }
+      ],
+      "id": "I1343*5cfbd2f7-b2b8-4ecb-99f2-fa47e2aa867f",
+      "names": [
+        {
+          "value": "Pulung //"
         }
       ],
       "eventsFacts": [
