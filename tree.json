@@ -10571,6 +10571,9 @@
         },
         {
           "ref": "I1451*663a9d84-495a-47d9-88bd-b650e0cfaec1"
+        },
+        {
+          "ref": "I1452*dd7e4419-c278-4adc-b2f0-8af72b17b1a4"
         }
       ],
       "husbandRefs": [
@@ -41013,6 +41016,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1452*dd7e4419-c278-4adc-b2f0-8af72b17b1a4",
+      "names": [
+        {
+          "value": "Kanni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
