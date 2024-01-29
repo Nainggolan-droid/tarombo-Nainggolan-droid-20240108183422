@@ -10712,6 +10712,9 @@
         },
         {
           "ref": "I1468*93dc088e-a6cb-4e8f-a3a9-a210b09ea05c"
+        },
+        {
+          "ref": "I1469*8b0dbb47-3e77-4f56-a013-c1e18f7f24d2"
         }
       ],
       "husbandRefs": [
@@ -41487,6 +41490,25 @@
       "names": [
         {
           "value": "Donna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F634*bb81ae41-b158-4e12-926d-eeb6efd0d739"
+        }
+      ],
+      "id": "I1469*8b0dbb47-3e77-4f56-a013-c1e18f7f24d2",
+      "names": [
+        {
+          "value": "Winda //"
         }
       ],
       "eventsFacts": [
