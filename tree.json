@@ -10407,6 +10407,45 @@
         }
       ],
       "id": "F615*5c777a23-ba96-4763-a8ed-3d281cd0f6f4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1428*0957cd1b-508d-425d-b0a1-b51b8e738f86"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1409*f7e2e4f3-8684-4569-a32a-aa842ab890b4"
+        }
+      ],
+      "id": "F616*73aa3ed2-e193-4ca3-920c-3c7d07283b1f"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1429*ce1993ef-caad-4d7a-a820-367aaa9363e2"
+        }
+      ],
+      "id": "F617*756f589c-caca-4f99-8f5d-f5fb58f10341",
+      "wifeRefs": [
+        {
+          "ref": "I1428*0957cd1b-508d-425d-b0a1-b51b8e738f86"
+        }
+      ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1430*1fbd8cbc-df3a-4b16-a5ce-0d896b6f7f3c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1410*91a0ee78-3c2e-4b2b-95bf-c5f730acc1e6"
+        }
+      ],
+      "id": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
     }
   ],
   "head": {
@@ -39929,6 +39968,11 @@
           "ref": "F602*a6fa5cd0-ec0f-4a73-bfe9-9ad59336fcf6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F616*73aa3ed2-e193-4ca3-920c-3c7d07283b1f"
+        }
+      ],
       "id": "I1409*f7e2e4f3-8684-4569-a32a-aa842ab890b4",
       "names": [
         {
@@ -39947,6 +39991,11 @@
       "famc": [
         {
           "ref": "F602*a6fa5cd0-ec0f-4a73-bfe9-9ad59336fcf6"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
         }
       ],
       "id": "I1410*91a0ee78-3c2e-4b2b-95bf-c5f730acc1e6",
@@ -40351,6 +40400,62 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F616*73aa3ed2-e193-4ca3-920c-3c7d07283b1f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F617*756f589c-caca-4f99-8f5d-f5fb58f10341"
+        }
+      ],
+      "id": "I1428*0957cd1b-508d-425d-b0a1-b51b8e738f86",
+      "names": [
+        {
+          "value": "...... //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F617*756f589c-caca-4f99-8f5d-f5fb58f10341"
+        }
+      ],
+      "id": "I1429*ce1993ef-caad-4d7a-a820-367aaa9363e2",
+      "names": [
+        {
+          "value": " /Sitanggang Upar/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
+        }
+      ],
+      "id": "I1430*1fbd8cbc-df3a-4b16-a5ce-0d896b6f7f3c",
+      "names": [
+        {
+          "value": "A.Mombur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
