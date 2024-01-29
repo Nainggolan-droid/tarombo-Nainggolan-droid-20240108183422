@@ -10574,6 +10574,9 @@
         },
         {
           "ref": "I1452*dd7e4419-c278-4adc-b2f0-8af72b17b1a4"
+        },
+        {
+          "ref": "I1454*5b41f96e-5b17-446d-9e17-75d1d1e9b390"
         }
       ],
       "husbandRefs": [
@@ -41066,6 +41069,25 @@
       "names": [
         {
           "value": " /Sagala/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1454*5b41f96e-5b17-446d-9e17-75d1d1e9b390",
+      "names": [
+        {
+          "value": "Nurti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
