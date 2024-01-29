@@ -10441,6 +10441,9 @@
         },
         {
           "ref": "I1431*4a3da254-2ba5-4950-82bc-7b5d0b54ac39"
+        },
+        {
+          "ref": "I1432*d3c5dfdb-8764-4072-8dc5-c78ab57e0314"
         }
       ],
       "husbandRefs": [
@@ -40478,6 +40481,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
+        }
+      ],
+      "id": "I1432*d3c5dfdb-8764-4072-8dc5-c78ab57e0314",
+      "names": [
+        {
+          "value": "Nan.Toga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
