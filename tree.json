@@ -10009,6 +10009,9 @@
         },
         {
           "ref": "I1391*afddfdf5-cf34-4f7c-b1ce-deeef69e2e0a"
+        },
+        {
+          "ref": "I1393*25df88b7-72b1-4588-b17e-027be7edf86b"
         }
       ],
       "husbandRefs": [
@@ -39257,6 +39260,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
+      "id": "I1393*25df88b7-72b1-4588-b17e-027be7edf86b",
+      "names": [
+        {
+          "value": "Murni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
