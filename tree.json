@@ -10704,6 +10704,19 @@
         }
       ],
       "id": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1467*ee19772f-1d3c-4a4b-adea-cc7fc2200da5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1449*c5776303-a32b-40bc-bddd-8e6310cf2e66"
+        }
+      ],
+      "id": "F634*bb81ae41-b158-4e12-926d-eeb6efd0d739"
     }
   ],
   "head": {
@@ -41097,6 +41110,11 @@
           "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
         }
       ],
+      "fams": [
+        {
+          "ref": "F634*bb81ae41-b158-4e12-926d-eeb6efd0d739"
+        }
+      ],
       "id": "I1449*c5776303-a32b-40bc-bddd-8e6310cf2e66",
       "names": [
         {
@@ -41434,6 +41452,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F634*bb81ae41-b158-4e12-926d-eeb6efd0d739"
+        }
+      ],
+      "id": "I1467*ee19772f-1d3c-4a4b-adea-cc7fc2200da5",
+      "names": [
+        {
+          "value": "Josua Holando //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
