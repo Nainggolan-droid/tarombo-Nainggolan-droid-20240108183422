@@ -10287,6 +10287,19 @@
         }
       ],
       "id": "F606*ad8622a7-f641-44d7-8968-a9a99e1b44a4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1418*6dd10efd-ead6-4de7-9904-42f77990b894"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1417*af9bbaa4-e13d-4bc1-8018-27db3e8c137a"
+        }
+      ],
+      "id": "F607*0430cfa3-6e79-4a2e-82ff-ac10909cf2a7"
     }
   ],
   "head": {
@@ -39982,11 +39995,35 @@
           "ref": "F606*ad8622a7-f641-44d7-8968-a9a99e1b44a4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F607*0430cfa3-6e79-4a2e-82ff-ac10909cf2a7"
+        }
+      ],
       "id": "I1417*af9bbaa4-e13d-4bc1-8018-27db3e8c137a",
       "names": [
         {
           "nick": "A.Ricky",
           "value": "Polman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F607*0430cfa3-6e79-4a2e-82ff-ac10909cf2a7"
+        }
+      ],
+      "id": "I1418*6dd10efd-ead6-4de7-9904-42f77990b894",
+      "names": [
+        {
+          "value": "Ricky //"
         }
       ],
       "eventsFacts": [
