@@ -10218,6 +10218,9 @@
         },
         {
           "ref": "I1410*91a0ee78-3c2e-4b2b-95bf-c5f730acc1e6"
+        },
+        {
+          "ref": "I1428*564569ae-171b-414c-8e52-ceaebc465c8e"
         }
       ],
       "husbandRefs": [
@@ -40345,6 +40348,25 @@
       "names": [
         {
           "value": "Audrey //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F602*a6fa5cd0-ec0f-4a73-bfe9-9ad59336fcf6"
+        }
+      ],
+      "id": "I1428*564569ae-171b-414c-8e52-ceaebc465c8e",
+      "names": [
+        {
+          "value": "...... //"
         }
       ],
       "eventsFacts": [
