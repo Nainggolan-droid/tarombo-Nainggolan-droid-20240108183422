@@ -9981,6 +9981,9 @@
       "childRefs": [
         {
           "ref": "I1381*96d681a8-1f4c-40bd-84e2-0477a68d0ee1"
+        },
+        {
+          "ref": "I1382*013cd12e-1a93-4be2-a149-eb1b2f5eeed3"
         }
       ],
       "husbandRefs": [
@@ -38948,6 +38951,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F587*5f8db572-99eb-40ab-b440-1804c6f71e0e"
+        }
+      ],
+      "id": "I1382*013cd12e-1a93-4be2-a149-eb1b2f5eeed3",
+      "names": [
+        {
+          "value": "Inez Marsyanda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
