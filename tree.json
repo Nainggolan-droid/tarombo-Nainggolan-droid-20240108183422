@@ -9823,6 +9823,19 @@
           "ref": "I1357*086b4082-879d-4ac7-8b1f-98da1ff38079"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1360*857da76e-31ed-4fa3-98aa-5927e6b0ba4e"
+        }
+      ],
+      "id": "F578*ace09ffc-efb4-473c-a9ba-43089ce61bf6",
+      "wifeRefs": [
+        {
+          "ref": "I1359*053ba80c-cad1-4b64-b01a-788ac287263c"
+        }
+      ]
     }
   ],
   "head": {
@@ -38317,6 +38330,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F578*ace09ffc-efb4-473c-a9ba-43089ce61bf6"
+        }
+      ],
       "id": "I1359*053ba80c-cad1-4b64-b01a-788ac287263c",
       "names": [
         {
@@ -38327,6 +38345,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F578*ace09ffc-efb4-473c-a9ba-43089ce61bf6"
+        }
+      ],
+      "id": "I1360*857da76e-31ed-4fa3-98aa-5927e6b0ba4e",
+      "names": [
+        {
+          "value": " /Lumban Gaul/"
         }
       ]
     }
