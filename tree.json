@@ -10830,6 +10830,9 @@
         },
         {
           "ref": "I1484*34f9efb6-af69-4fe3-bf1b-dfe6e417761c"
+        },
+        {
+          "ref": "I1485*a77ba8ad-4476-40cc-bf30-8d93bd6abd33"
         }
       ],
       "husbandRefs": [
@@ -41941,6 +41944,25 @@
       "names": [
         {
           "value": "Sihar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1485*a77ba8ad-4476-40cc-bf30-8d93bd6abd33",
+      "names": [
+        {
+          "value": "Sinton //"
         }
       ],
       "eventsFacts": [
