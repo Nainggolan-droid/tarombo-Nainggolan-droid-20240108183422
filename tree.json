@@ -9688,6 +9688,9 @@
       "childRefs": [
         {
           "ref": "I1340*049dc506-8a20-4636-9906-8ef8d8c51aec"
+        },
+        {
+          "ref": "I1341*5023ba1d-8c63-41ee-8b10-e6373b5dfc4d"
         }
       ],
       "husbandRefs": [
@@ -37817,6 +37820,25 @@
       "names": [
         {
           "value": "A.Tiniga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
+        }
+      ],
+      "id": "I1341*5023ba1d-8c63-41ee-8b10-e6373b5dfc4d",
+      "names": [
+        {
+          "value": "Op.Jadiha //"
         }
       ],
       "eventsFacts": [
