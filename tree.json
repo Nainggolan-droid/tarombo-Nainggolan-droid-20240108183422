@@ -9723,6 +9723,9 @@
         },
         {
           "ref": "I1345*1f760ef8-b819-4b38-912a-b36b2e76bcb2"
+        },
+        {
+          "ref": "I1347*74c81558-0ce5-49fb-b3f4-6255cf9d3193"
         }
       ],
       "husbandRefs": [
@@ -37995,6 +37998,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
+        }
+      ],
+      "id": "I1347*74c81558-0ce5-49fb-b3f4-6255cf9d3193",
+      "names": [
+        {
+          "value": "Bungainim //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
