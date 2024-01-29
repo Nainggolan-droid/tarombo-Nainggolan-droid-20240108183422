@@ -10504,6 +10504,9 @@
         },
         {
           "ref": "I1443*c4c9d344-4a77-4479-9418-d1be9aca4e96"
+        },
+        {
+          "ref": "I1445*f729413f-750f-4318-8018-9a3bce3bea0f"
         }
       ],
       "husbandRefs": [
@@ -40830,6 +40833,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1445*f729413f-750f-4318-8018-9a3bce3bea0f",
+      "names": [
+        {
+          "value": "Betty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
