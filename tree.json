@@ -10438,6 +10438,9 @@
       "childRefs": [
         {
           "ref": "I1430*1fbd8cbc-df3a-4b16-a5ce-0d896b6f7f3c"
+        },
+        {
+          "ref": "I1431*4a3da254-2ba5-4950-82bc-7b5d0b54ac39"
         }
       ],
       "husbandRefs": [
@@ -40450,6 +40453,25 @@
       "names": [
         {
           "value": "A.Mombur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
+        }
+      ],
+      "id": "I1431*4a3da254-2ba5-4950-82bc-7b5d0b54ac39",
+      "names": [
+        {
+          "value": "Rubeb //"
         }
       ],
       "eventsFacts": [
