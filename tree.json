@@ -10244,6 +10244,9 @@
       "childRefs": [
         {
           "ref": "I1412*5378dbe8-61dd-43f5-b6a9-162fffe5ae79"
+        },
+        {
+          "ref": "I1413*ba1a4141-060d-461a-9bbb-74e679a50d18"
         }
       ],
       "husbandRefs": [
@@ -39841,6 +39844,25 @@
       "names": [
         {
           "value": "Tordalan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F604*68389001-4155-4c4c-a50e-b3fc574e0231"
+        }
+      ],
+      "id": "I1413*ba1a4141-060d-461a-9bbb-74e679a50d18",
+      "names": [
+        {
+          "value": "Karal //"
         }
       ],
       "eventsFacts": [
