@@ -9720,6 +9720,9 @@
       "childRefs": [
         {
           "ref": "I1344*8096f5d7-ecb8-4709-ae62-8760e5573afb"
+        },
+        {
+          "ref": "I1345*1f760ef8-b819-4b38-912a-b36b2e76bcb2"
         }
       ],
       "husbandRefs": [
@@ -37936,6 +37939,25 @@
         {
           "nick": "Op.Hotman",
           "value": "Karianus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
+        }
+      ],
+      "id": "I1345*1f760ef8-b819-4b38-912a-b36b2e76bcb2",
+      "names": [
+        {
+          "value": "Tormainim //"
         }
       ],
       "eventsFacts": [
