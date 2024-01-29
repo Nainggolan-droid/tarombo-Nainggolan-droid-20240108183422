@@ -10156,6 +10156,19 @@
           "ref": "I1399*7e4bd0a0-5b24-425e-88a9-94f7de26e4e9"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1401*134afdc6-0915-494a-ae2c-383bed60dde7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1355*0ea0c71b-2e21-4b8e-bf97-007e8c725441"
+        }
+      ],
+      "id": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
     }
   ],
   "head": {
@@ -38595,6 +38608,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
+        }
+      ],
       "id": "I1355*0ea0c71b-2e21-4b8e-bf97-007e8c725441",
       "names": [
         {
@@ -39491,6 +39509,25 @@
       "names": [
         {
           "value": " /...../"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
+        }
+      ],
+      "id": "I1401*134afdc6-0915-494a-ae2c-383bed60dde7",
+      "names": [
+        {
+          "value": "Horas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
