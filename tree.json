@@ -10872,6 +10872,19 @@
           "ref": "I1490*9bbb25fc-a0ed-4bc9-839f-44fa18b882f4"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1493*b65671ca-c42e-4c7c-9af0-46d5d5fee9a4"
+        }
+      ],
+      "id": "F643*e6af0a4f-97bc-4220-8a86-ead2d4a0580c",
+      "wifeRefs": [
+        {
+          "ref": "I1492*7d353401-7a65-47eb-900f-9594286fedbb"
+        }
+      ]
     }
   ],
   "head": {
@@ -42124,6 +42137,11 @@
           "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F643*e6af0a4f-97bc-4220-8a86-ead2d4a0580c"
+        }
+      ],
       "id": "I1492*7d353401-7a65-47eb-900f-9594286fedbb",
       "names": [
         {
@@ -42134,6 +42152,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F643*e6af0a4f-97bc-4220-8a86-ead2d4a0580c"
+        }
+      ],
+      "id": "I1493*b65671ca-c42e-4c7c-9af0-46d5d5fee9a4",
+      "names": [
+        {
+          "value": " /Siagian/"
         }
       ]
     }
