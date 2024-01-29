@@ -10492,6 +10492,9 @@
         },
         {
           "ref": "I1439*e72c9820-9d7e-411b-8c47-edd10b1598e6"
+        },
+        {
+          "ref": "I1440*b186b1e0-6859-48ad-8289-c0c1e8754073"
         }
       ],
       "husbandRefs": [
@@ -40705,6 +40708,25 @@
       "names": [
         {
           "value": "Op.Kasih //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1440*b186b1e0-6859-48ad-8289-c0c1e8754073",
+      "names": [
+        {
+          "value": "Op.Alvaro //"
         }
       ],
       "eventsFacts": [
