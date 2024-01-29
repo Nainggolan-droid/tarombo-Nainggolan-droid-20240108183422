@@ -10470,6 +10470,9 @@
       "childRefs": [
         {
           "ref": "I1434*1e01ef9b-8f4c-4eb4-804d-d7c21baa93e9"
+        },
+        {
+          "ref": "I1435*635c1530-0c1b-477a-af49-fbb3da1a923e"
         }
       ],
       "husbandRefs": [
@@ -40564,6 +40567,26 @@
         {
           "nick": "Op.Boy",
           "value": "Anus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
+        }
+      ],
+      "id": "I1435*635c1530-0c1b-477a-af49-fbb3da1a923e",
+      "names": [
+        {
+          "nick": "Op.Kamson",
+          "value": "Kosman //"
         }
       ],
       "eventsFacts": [
