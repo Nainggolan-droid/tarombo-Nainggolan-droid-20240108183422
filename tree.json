@@ -10300,6 +10300,19 @@
         }
       ],
       "id": "F607*0430cfa3-6e79-4a2e-82ff-ac10909cf2a7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1419*a313e22b-fe26-454a-b57d-5f2bf58f564a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1415*f70c83dc-61ad-40d8-8d95-9fb927ce02dd"
+        }
+      ],
+      "id": "F608*000b79c8-3a45-46e2-9a19-3440532a372d"
     }
   ],
   "head": {
@@ -39955,6 +39968,11 @@
           "ref": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F608*000b79c8-3a45-46e2-9a19-3440532a372d"
+        }
+      ],
       "id": "I1415*f70c83dc-61ad-40d8-8d95-9fb927ce02dd",
       "names": [
         {
@@ -40024,6 +40042,25 @@
       "names": [
         {
           "value": "Ricky //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F608*000b79c8-3a45-46e2-9a19-3440532a372d"
+        }
+      ],
+      "id": "I1419*a313e22b-fe26-454a-b57d-5f2bf58f564a",
+      "names": [
+        {
+          "value": "Eljon //"
         }
       ],
       "eventsFacts": [
