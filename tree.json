@@ -9865,6 +9865,19 @@
         }
       ],
       "id": "F580*b5e6f5ea-3244-4e3d-ae8a-97ae71e2d7c3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1364*fa1617ca-fc78-4a1e-a266-d87aab2dfa7f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1352*0f0d975d-91ce-41e1-be98-8c2abcc4fb4e"
+        }
+      ],
+      "id": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
     }
   ],
   "head": {
@@ -38229,6 +38242,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
       "id": "I1352*0f0d975d-91ce-41e1-be98-8c2abcc4fb4e",
       "names": [
         {
@@ -38449,6 +38467,25 @@
       "names": [
         {
           "value": "Benny Parotama //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
+      "id": "I1364*fa1617ca-fc78-4a1e-a266-d87aab2dfa7f",
+      "names": [
+        {
+          "value": "Bukti //"
         }
       ],
       "eventsFacts": [
