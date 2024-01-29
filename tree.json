@@ -10559,6 +10559,9 @@
       "childRefs": [
         {
           "ref": "I1447*08d543b7-e543-466d-8ef7-8b60132ac85c"
+        },
+        {
+          "ref": "I1448*7ba27f4f-4ae1-4172-90a1-5d71ebe9107e"
         }
       ],
       "husbandRefs": [
@@ -40915,6 +40918,25 @@
         {
           "nick": "Op.Liametesh",
           "value": "Lundu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1448*7ba27f4f-4ae1-4172-90a1-5d71ebe9107e",
+      "names": [
+        {
+          "value": "Bilpen //"
         }
       ],
       "eventsFacts": [
