@@ -10582,6 +10582,19 @@
         }
       ],
       "id": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1453*4f9ec925-89f7-41ae-8b77-6bb27adf640b"
+        }
+      ],
+      "id": "F626*d9502c80-693a-47a8-9cbd-28441f1381c6",
+      "wifeRefs": [
+        {
+          "ref": "I1452*dd7e4419-c278-4adc-b2f0-8af72b17b1a4"
+        }
+      ]
     }
   ],
   "head": {
@@ -41025,6 +41038,11 @@
           "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
         }
       ],
+      "fams": [
+        {
+          "ref": "F626*d9502c80-693a-47a8-9cbd-28441f1381c6"
+        }
+      ],
       "id": "I1452*dd7e4419-c278-4adc-b2f0-8af72b17b1a4",
       "names": [
         {
@@ -41035,6 +41053,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F626*d9502c80-693a-47a8-9cbd-28441f1381c6"
+        }
+      ],
+      "id": "I1453*4f9ec925-89f7-41ae-8b77-6bb27adf640b",
+      "names": [
+        {
+          "value": " /Sagala/"
         }
       ]
     }
