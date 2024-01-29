@@ -10498,6 +10498,9 @@
         },
         {
           "ref": "I1441*305c1247-04d5-4535-a7f5-5449bfc045e0"
+        },
+        {
+          "ref": "I1442*7fac3e1d-ddaa-4c6b-b57b-25477cdf1401"
         }
       ],
       "husbandRefs": [
@@ -40749,6 +40752,25 @@
       "names": [
         {
           "value": "Edu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1442*7fac3e1d-ddaa-4c6b-b57b-25477cdf1401",
+      "names": [
+        {
+          "value": "A.Paskah //"
         }
       ],
       "eventsFacts": [
