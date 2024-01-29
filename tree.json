@@ -10255,6 +10255,19 @@
         }
       ],
       "id": "F604*68389001-4155-4c4c-a50e-b3fc574e0231"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1414*b5d6da52-e318-4397-bfe2-8e6faf935d9c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1412*5378dbe8-61dd-43f5-b6a9-162fffe5ae79"
+        }
+      ],
+      "id": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
     }
   ],
   "head": {
@@ -39840,6 +39853,11 @@
           "ref": "F604*68389001-4155-4c4c-a50e-b3fc574e0231"
         }
       ],
+      "fams": [
+        {
+          "ref": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
+        }
+      ],
       "id": "I1412*5378dbe8-61dd-43f5-b6a9-162fffe5ae79",
       "names": [
         {
@@ -39865,6 +39883,25 @@
         {
           "nick": "Op.Lasro",
           "value": "Karal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
+        }
+      ],
+      "id": "I1414*b5d6da52-e318-4397-bfe2-8e6faf935d9c",
+      "names": [
+        {
+          "value": "A.Polman //"
         }
       ],
       "eventsFacts": [
