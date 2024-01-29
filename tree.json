@@ -9637,6 +9637,9 @@
       "childRefs": [
         {
           "ref": "I1333*6949a36c-472c-42c8-a268-154f6c7faafc"
+        },
+        {
+          "ref": "I1334*e3d2e306-0024-42d4-aeeb-26c4709580e2"
         }
       ],
       "husbandRefs": [
@@ -37624,6 +37627,25 @@
       "names": [
         {
           "value": "Op.Parhohom //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
+        }
+      ],
+      "id": "I1334*e3d2e306-0024-42d4-aeeb-26c4709580e2",
+      "names": [
+        {
+          "value": "Op.Pauk //"
         }
       ],
       "eventsFacts": [
