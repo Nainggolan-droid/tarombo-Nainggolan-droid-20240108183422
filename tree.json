@@ -9873,6 +9873,9 @@
         },
         {
           "ref": "I1365*0eacf87c-ef3f-42b9-98b6-7e52c8a43bfb"
+        },
+        {
+          "ref": "I1366*237dc9dd-bb87-4d2f-8938-1305b0216b6d"
         }
       ],
       "husbandRefs": [
@@ -38510,6 +38513,25 @@
         {
           "nick": "A.Juan",
           "value": "Dapot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
+      "id": "I1366*237dc9dd-bb87-4d2f-8938-1305b0216b6d",
+      "names": [
+        {
+          "value": "Patar //"
         }
       ],
       "eventsFacts": [
