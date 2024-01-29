@@ -9691,6 +9691,9 @@
         },
         {
           "ref": "I1341*5023ba1d-8c63-41ee-8b10-e6373b5dfc4d"
+        },
+        {
+          "ref": "I1342*d1ac0668-3e56-49e4-8db5-b2eab7141ed9"
         }
       ],
       "husbandRefs": [
@@ -37839,6 +37842,25 @@
       "names": [
         {
           "value": "Op.Jadiha //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
+        }
+      ],
+      "id": "I1342*d1ac0668-3e56-49e4-8db5-b2eab7141ed9",
+      "names": [
+        {
+          "value": "Op.Togap //"
         }
       ],
       "eventsFacts": [
