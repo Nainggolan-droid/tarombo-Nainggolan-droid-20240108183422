@@ -10313,6 +10313,19 @@
         }
       ],
       "id": "F608*000b79c8-3a45-46e2-9a19-3440532a372d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1420*d1485b9e-9d08-4137-8e03-6f675e65cff5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1419*a313e22b-fe26-454a-b57d-5f2bf58f564a"
+        }
+      ],
+      "id": "F609*a7c3dc15-9b28-4f98-9cac-9c128b7bc37f"
     }
   ],
   "head": {
@@ -40057,11 +40070,35 @@
           "ref": "F608*000b79c8-3a45-46e2-9a19-3440532a372d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F609*a7c3dc15-9b28-4f98-9cac-9c128b7bc37f"
+        }
+      ],
       "id": "I1419*a313e22b-fe26-454a-b57d-5f2bf58f564a",
       "names": [
         {
           "nick": "A.Yache",
           "value": "Eljon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F609*a7c3dc15-9b28-4f98-9cac-9c128b7bc37f"
+        }
+      ],
+      "id": "I1420*d1485b9e-9d08-4137-8e03-6f675e65cff5",
+      "names": [
+        {
+          "value": "Yache //"
         }
       ],
       "eventsFacts": [
