@@ -9763,6 +9763,19 @@
           "ref": "I1347*74c81558-0ce5-49fb-b3f4-6255cf9d3193"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1350*c6ec4dff-866e-474e-9d3f-f4495c32fc5e"
+        }
+      ],
+      "id": "F575*39312fc4-2e50-45cc-b2ed-5e07b468254b",
+      "wifeRefs": [
+        {
+          "ref": "I1349*8e0f2edf-752d-46fd-a34a-3ba7bf684d94"
+        }
+      ]
     }
   ],
   "head": {
@@ -38060,6 +38073,11 @@
           "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F575*39312fc4-2e50-45cc-b2ed-5e07b468254b"
+        }
+      ],
       "id": "I1349*8e0f2edf-752d-46fd-a34a-3ba7bf684d94",
       "names": [
         {
@@ -38070,6 +38088,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F575*39312fc4-2e50-45cc-b2ed-5e07b468254b"
+        }
+      ],
+      "id": "I1350*c6ec4dff-866e-474e-9d3f-f4495c32fc5e",
+      "names": [
+        {
+          "value": " /Sinabutar/"
         }
       ]
     }
