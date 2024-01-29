@@ -10839,6 +10839,9 @@
         },
         {
           "ref": "I1487*2b3a9378-af43-4a67-9fd5-0a0cb7dc1d20"
+        },
+        {
+          "ref": "I1488*3475694f-14cc-4491-80b9-ade431038dd7"
         }
       ],
       "husbandRefs": [
@@ -42007,6 +42010,25 @@
       "names": [
         {
           "value": "Poltak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1488*3475694f-14cc-4491-80b9-ade431038dd7",
+      "names": [
+        {
+          "value": "Marolop //"
         }
       ],
       "eventsFacts": [
