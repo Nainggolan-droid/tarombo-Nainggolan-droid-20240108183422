@@ -10690,6 +10690,12 @@
       "childRefs": [
         {
           "ref": "I1464*bf751a59-c73d-4b10-932c-86e1f43691a9"
+        },
+        {
+          "ref": "I1465*3011ec90-39e3-4a7a-89b0-95177a543b9f"
+        },
+        {
+          "ref": "I1466*b1d01219-e75f-4466-82c8-0fdbc3eaf51f"
         }
       ],
       "husbandRefs": [
@@ -41390,6 +41396,44 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
+        }
+      ],
+      "id": "I1465*3011ec90-39e3-4a7a-89b0-95177a543b9f",
+      "names": [
+        {
+          "value": "Brian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
+        }
+      ],
+      "id": "I1466*b1d01219-e75f-4466-82c8-0fdbc3eaf51f",
+      "names": [
+        {
+          "value": "Brindauly //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
