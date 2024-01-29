@@ -10750,6 +10750,9 @@
         },
         {
           "ref": "I1474*ac7af299-6b74-4d63-9230-fcfd5c82fba9"
+        },
+        {
+          "ref": "I1475*3a03a853-c753-4412-8ef5-d255867a23c0"
         }
       ],
       "husbandRefs": [
@@ -41649,6 +41652,25 @@
       "names": [
         {
           "value": "Desfrida Nathasya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F636*282bf415-46ba-4a9e-aa24-027469f4cb9d"
+        }
+      ],
+      "id": "I1475*3a03a853-c753-4412-8ef5-d255867a23c0",
+      "names": [
+        {
+          "value": "Heidi Magdalena //"
         }
       ],
       "eventsFacts": [
