@@ -9667,6 +9667,19 @@
           "ref": "I1336*5d8d42f0-583a-4c85-af8c-ab102f1e94f5"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1338*4709bdca-bda2-4966-9fb4-5c1177489fe3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1333*6949a36c-472c-42c8-a268-154f6c7faafc"
+        }
+      ],
+      "id": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
     }
   ],
   "head": {
@@ -37642,6 +37655,11 @@
           "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
+        }
+      ],
       "id": "I1333*6949a36c-472c-42c8-a268-154f6c7faafc",
       "names": [
         {
@@ -37727,6 +37745,25 @@
       "names": [
         {
           "value": " /Simbolon Rimbang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
+        }
+      ],
+      "id": "I1338*4709bdca-bda2-4966-9fb4-5c1177489fe3",
+      "names": [
+        {
+          "value": "Op.Tiniga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
