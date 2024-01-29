@@ -10611,6 +10611,19 @@
           "ref": "I1454*5b41f96e-5b17-446d-9e17-75d1d1e9b390"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1456*67bf3d00-5c9e-4199-b37d-402cf6ec592a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1447*08d543b7-e543-466d-8ef7-8b60132ac85c"
+        }
+      ],
+      "id": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
     }
   ],
   "head": {
@@ -40954,6 +40967,11 @@
           "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
         }
       ],
+      "fams": [
+        {
+          "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+        }
+      ],
       "id": "I1447*08d543b7-e543-466d-8ef7-8b60132ac85c",
       "names": [
         {
@@ -41119,6 +41137,25 @@
       "names": [
         {
           "value": " /Tamba/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+        }
+      ],
+      "id": "I1456*67bf3d00-5c9e-4199-b37d-402cf6ec592a",
+      "names": [
+        {
+          "value": "Kamson //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
