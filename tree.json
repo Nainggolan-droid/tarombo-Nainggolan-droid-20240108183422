@@ -10616,6 +10616,9 @@
       "childRefs": [
         {
           "ref": "I1456*67bf3d00-5c9e-4199-b37d-402cf6ec592a"
+        },
+        {
+          "ref": "I1458*14860d9b-b545-4708-a49e-3893f1815dcb"
         }
       ],
       "husbandRefs": [
@@ -41194,6 +41197,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+        }
+      ],
+      "id": "I1458*14860d9b-b545-4708-a49e-3893f1815dcb",
+      "names": [
+        {
+          "value": "Masnihot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
