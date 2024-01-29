@@ -10857,6 +10857,9 @@
         },
         {
           "ref": "I1496*fd289961-7696-40d2-bca5-fbdc689d6736"
+        },
+        {
+          "ref": "I1498*e15ae479-581f-447e-8288-e1fb58dd1f0e"
         }
       ],
       "husbandRefs": [
@@ -42271,6 +42274,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1498*e15ae479-581f-447e-8288-e1fb58dd1f0e",
+      "names": [
+        {
+          "value": "Sarli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
