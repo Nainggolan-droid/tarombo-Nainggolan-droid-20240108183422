@@ -9965,6 +9965,9 @@
         },
         {
           "ref": "I1379*151f94f7-4400-4a6a-9a78-b3877b716b9d"
+        },
+        {
+          "ref": "I1380*fe0c82e1-6773-4d9b-98a2-9352136bc06f"
         }
       ],
       "husbandRefs": [
@@ -38883,6 +38886,25 @@
       "names": [
         {
           "value": "Ita Oktafia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
+      "id": "I1380*fe0c82e1-6773-4d9b-98a2-9352136bc06f",
+      "names": [
+        {
+          "value": "Maria Rossa //"
         }
       ],
       "eventsFacts": [
