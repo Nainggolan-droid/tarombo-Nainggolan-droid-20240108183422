@@ -10098,6 +10098,19 @@
           "ref": "I1393*25df88b7-72b1-4588-b17e-027be7edf86b"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1395*58091d16-1126-4be6-b594-3283efd449c2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1354*93636c78-47c1-46ee-b7ec-ea03ef5ed803"
+        }
+      ],
+      "id": "F595*84de67f3-d9e3-4b67-9c54-2f1bbe74a637"
     }
   ],
   "head": {
@@ -38512,6 +38525,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F595*84de67f3-d9e3-4b67-9c54-2f1bbe74a637"
+        }
+      ],
       "id": "I1354*93636c78-47c1-46ee-b7ec-ea03ef5ed803",
       "names": [
         {
@@ -39310,6 +39328,25 @@
       "names": [
         {
           "value": " /Sihombing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F595*84de67f3-d9e3-4b67-9c54-2f1bbe74a637"
+        }
+      ],
+      "id": "I1395*58091d16-1126-4be6-b594-3283efd449c2",
+      "names": [
+        {
+          "value": "Ambon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
