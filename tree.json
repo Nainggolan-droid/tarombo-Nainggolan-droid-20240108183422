@@ -9715,6 +9715,19 @@
         }
       ],
       "id": "F571*4c10a8a0-39be-4025-bbc5-68479ab6e3b0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1344*8096f5d7-ecb8-4709-ae62-8760e5573afb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1341*5023ba1d-8c63-41ee-8b10-e6373b5dfc4d"
+        }
+      ],
+      "id": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
     }
   ],
   "head": {
@@ -37856,6 +37869,11 @@
           "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
+        }
+      ],
       "id": "I1341*5023ba1d-8c63-41ee-8b10-e6373b5dfc4d",
       "names": [
         {
@@ -37898,6 +37916,25 @@
       "names": [
         {
           "value": "Pulung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
+        }
+      ],
+      "id": "I1344*8096f5d7-ecb8-4709-ae62-8760e5573afb",
+      "names": [
+        {
+          "value": "Karianus //"
         }
       ],
       "eventsFacts": [
