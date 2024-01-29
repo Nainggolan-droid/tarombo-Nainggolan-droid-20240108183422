@@ -9940,6 +9940,9 @@
         },
         {
           "ref": "I1374*ecd1706e-bdfe-4cc6-baa6-23a8743c09c8"
+        },
+        {
+          "ref": "I1375*1ba25c43-a71d-40bf-b796-ea5201c81f83"
         }
       ],
       "husbandRefs": [
@@ -38758,6 +38761,25 @@
       "names": [
         {
           "value": "Canny //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F585*547ac03b-e61b-49d0-b82d-7cfa5a7f9ee9"
+        }
+      ],
+      "id": "I1375*1ba25c43-a71d-40bf-b796-ea5201c81f83",
+      "names": [
+        {
+          "value": "Tiara //"
         }
       ],
       "eventsFacts": [
