@@ -9997,6 +9997,9 @@
       "childRefs": [
         {
           "ref": "I1383*6fa0d126-b84d-4a65-bd6f-06125c6b32a9"
+        },
+        {
+          "ref": "I1385*7829bcee-8b00-48e0-9f2d-ef3ae16351d5"
         }
       ],
       "husbandRefs": [
@@ -39039,6 +39042,25 @@
       "names": [
         {
           "value": "Grace //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
+      "id": "I1385*7829bcee-8b00-48e0-9f2d-ef3ae16351d5",
+      "names": [
+        {
+          "value": "Ida //"
         }
       ],
       "eventsFacts": [
