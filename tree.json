@@ -9787,6 +9787,9 @@
         },
         {
           "ref": "I1353*fe653e11-e1df-4612-b965-82ade4974683"
+        },
+        {
+          "ref": "I1354*93636c78-47c1-46ee-b7ec-ea03ef5ed803"
         }
       ],
       "husbandRefs": [
@@ -38179,6 +38182,25 @@
         {
           "nick": "A.Binsar",
           "value": "Marben //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1354*93636c78-47c1-46ee-b7ec-ea03ef5ed803",
+      "names": [
+        {
+          "value": "Mukdin //"
         }
       ],
       "eventsFacts": [
