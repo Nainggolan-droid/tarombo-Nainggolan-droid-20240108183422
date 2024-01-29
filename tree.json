@@ -10811,6 +10811,9 @@
       "childRefs": [
         {
           "ref": "I1481*fb8cbf56-59bc-4cd4-b34c-d7afa22a2b86"
+        },
+        {
+          "ref": "I1482*fa1d790e-c048-4e02-a229-f29c723acbc0"
         }
       ],
       "husbandRefs": [
@@ -41859,6 +41862,25 @@
       "names": [
         {
           "value": "A.Johan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F640*95fd3d95-acb9-432e-9e35-6f4b6d04a4a0"
+        }
+      ],
+      "id": "I1482*fa1d790e-c048-4e02-a229-f29c723acbc0",
+      "names": [
+        {
+          "value": "A.Timbul //"
         }
       ],
       "eventsFacts": [
