@@ -9796,6 +9796,9 @@
         },
         {
           "ref": "I1356*b6951359-b4bc-4a02-b046-f999e7a6975e"
+        },
+        {
+          "ref": "I1357*086b4082-879d-4ac7-8b1f-98da1ff38079"
         }
       ],
       "husbandRefs": [
@@ -38252,6 +38255,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1357*086b4082-879d-4ac7-8b1f-98da1ff38079",
+      "names": [
+        {
+          "value": "Suriam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
