@@ -10465,6 +10465,19 @@
           "ref": "I1432*d3c5dfdb-8764-4072-8dc5-c78ab57e0314"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1434*1e01ef9b-8f4c-4eb4-804d-d7c21baa93e9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1430*1fbd8cbc-df3a-4b16-a5ce-0d896b6f7f3c"
+        }
+      ],
+      "id": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
     }
   ],
   "head": {
@@ -40465,6 +40478,11 @@
           "ref": "F618*b6747adf-f6f3-456d-8ae6-7a79bf7ca64d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
+        }
+      ],
       "id": "I1430*1fbd8cbc-df3a-4b16-a5ce-0d896b6f7f3c",
       "names": [
         {
@@ -40532,6 +40550,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
+        }
+      ],
+      "id": "I1434*1e01ef9b-8f4c-4eb4-804d-d7c21baa93e9",
+      "names": [
+        {
+          "value": "Anus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
