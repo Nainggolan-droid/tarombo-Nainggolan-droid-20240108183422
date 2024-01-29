@@ -10619,6 +10619,9 @@
         },
         {
           "ref": "I1458*14860d9b-b545-4708-a49e-3893f1815dcb"
+        },
+        {
+          "ref": "I1460*d1d336a4-2753-45e4-91f7-4511bc54501b"
         }
       ],
       "husbandRefs": [
@@ -41247,6 +41250,25 @@
       "names": [
         {
           "value": " /Tampubolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+        }
+      ],
+      "id": "I1460*d1d336a4-2753-45e4-91f7-4511bc54501b",
+      "names": [
+        {
+          "value": "Fransiska //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
