@@ -10747,6 +10747,9 @@
       "childRefs": [
         {
           "ref": "I1473*d1e6e2d2-796d-43fd-bd8c-ffedbd56d223"
+        },
+        {
+          "ref": "I1474*ac7af299-6b74-4d63-9230-fcfd5c82fba9"
         }
       ],
       "husbandRefs": [
@@ -41633,6 +41636,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F636*282bf415-46ba-4a9e-aa24-027469f4cb9d"
+        }
+      ],
+      "id": "I1474*ac7af299-6b74-4d63-9230-fcfd5c82fba9",
+      "names": [
+        {
+          "value": "Desfrida Nathasya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
