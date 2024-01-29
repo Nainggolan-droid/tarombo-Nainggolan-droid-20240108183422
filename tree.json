@@ -10565,6 +10565,9 @@
         },
         {
           "ref": "I1449*c5776303-a32b-40bc-bddd-8e6310cf2e66"
+        },
+        {
+          "ref": "I1450*751a56fa-26a9-46d4-9ef3-15521d08392a"
         }
       ],
       "husbandRefs": [
@@ -40961,6 +40964,25 @@
         {
           "nick": "Op.nisi.Arthur",
           "value": "Holder //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1450*751a56fa-26a9-46d4-9ef3-15521d08392a",
+      "names": [
+        {
+          "value": "Marno //"
         }
       ],
       "eventsFacts": [
