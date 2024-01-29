@@ -9852,6 +9852,19 @@
         }
       ],
       "id": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1363*3a1c55a8-0911-445a-b03f-d783e8c04e0a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1361*162d4f9e-631a-4d62-8b3f-2306baf86dc5"
+        }
+      ],
+      "id": "F580*b5e6f5ea-3244-4e3d-ae8a-97ae71e2d7c3"
     }
   ],
   "head": {
@@ -38388,6 +38401,11 @@
           "ref": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
         }
       ],
+      "fams": [
+        {
+          "ref": "F580*b5e6f5ea-3244-4e3d-ae8a-97ae71e2d7c3"
+        }
+      ],
       "id": "I1361*162d4f9e-631a-4d62-8b3f-2306baf86dc5",
       "names": [
         {
@@ -38418,6 +38436,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F580*b5e6f5ea-3244-4e3d-ae8a-97ae71e2d7c3"
+        }
+      ],
+      "id": "I1363*3a1c55a8-0911-445a-b03f-d783e8c04e0a",
+      "names": [
+        {
+          "value": "Benny Parotama //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
