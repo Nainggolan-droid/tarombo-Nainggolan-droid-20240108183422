@@ -9654,6 +9654,19 @@
         }
       ],
       "id": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1337*605be4ed-ed28-4a10-9c49-9ca0b84312c6"
+        }
+      ],
+      "id": "F568*73e46c2e-ad98-441e-ac95-a5ff1e577ba5",
+      "wifeRefs": [
+        {
+          "ref": "I1336*5d8d42f0-583a-4c85-af8c-ab102f1e94f5"
+        }
+      ]
     }
   ],
   "head": {
@@ -37686,6 +37699,11 @@
           "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F568*73e46c2e-ad98-441e-ac95-a5ff1e577ba5"
+        }
+      ],
       "id": "I1336*5d8d42f0-583a-4c85-af8c-ab102f1e94f5",
       "names": [
         {
@@ -37696,6 +37714,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F568*73e46c2e-ad98-441e-ac95-a5ff1e577ba5"
+        }
+      ],
+      "id": "I1337*605be4ed-ed28-4a10-9c49-9ca0b84312c6",
+      "names": [
+        {
+          "value": " /Simbolon Rimbang/"
         }
       ]
     }
