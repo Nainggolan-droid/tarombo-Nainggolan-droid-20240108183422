@@ -9919,6 +9919,19 @@
           "ref": "I1370*1b330cc7-33fd-4105-8c52-e925a54ea2a9"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1372*cb059f7e-a2fd-4305-81a0-68be6a64781c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1364*fa1617ca-fc78-4a1e-a266-d87aab2dfa7f"
+        }
+      ],
+      "id": "F584*974aa2a6-0de5-4fad-9e00-2aec67dd9fcf"
     }
   ],
   "head": {
@@ -38523,6 +38536,11 @@
           "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F584*974aa2a6-0de5-4fad-9e00-2aec67dd9fcf"
+        }
+      ],
       "id": "I1364*fa1617ca-fc78-4a1e-a266-d87aab2dfa7f",
       "names": [
         {
@@ -38668,6 +38686,25 @@
       "names": [
         {
           "value": " /Sitinjak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F584*974aa2a6-0de5-4fad-9e00-2aec67dd9fcf"
+        }
+      ],
+      "id": "I1372*cb059f7e-a2fd-4305-81a0-68be6a64781c",
+      "names": [
+        {
+          "value": "Samuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
