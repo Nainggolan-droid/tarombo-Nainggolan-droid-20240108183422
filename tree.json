@@ -9726,6 +9726,9 @@
         },
         {
           "ref": "I1347*74c81558-0ce5-49fb-b3f4-6255cf9d3193"
+        },
+        {
+          "ref": "I1349*8e0f2edf-752d-46fd-a34a-3ba7bf684d94"
         }
       ],
       "husbandRefs": [
@@ -38048,6 +38051,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
+        }
+      ],
+      "id": "I1349*8e0f2edf-752d-46fd-a34a-3ba7bf684d94",
+      "names": [
+        {
+          "value": "Naidi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
