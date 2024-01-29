@@ -10164,6 +10164,9 @@
         },
         {
           "ref": "I1402*a1a84db7-22d6-4500-99d1-0168cc8ab102"
+        },
+        {
+          "ref": "I1403*970016ac-3ee3-471f-a80b-58ecfc7afe3e"
         }
       ],
       "husbandRefs": [
@@ -39544,6 +39547,25 @@
       "names": [
         {
           "value": "Tumbur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
+        }
+      ],
+      "id": "I1403*970016ac-3ee3-471f-a80b-58ecfc7afe3e",
+      "names": [
+        {
+          "value": "Maruli //"
         }
       ],
       "eventsFacts": [
