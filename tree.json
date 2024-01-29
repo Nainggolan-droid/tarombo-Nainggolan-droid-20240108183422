@@ -10622,6 +10622,9 @@
         },
         {
           "ref": "I1460*d1d336a4-2753-45e4-91f7-4511bc54501b"
+        },
+        {
+          "ref": "I1462*0ff06373-5dbc-4a2c-ae7c-b5eb5bdd752b"
         }
       ],
       "husbandRefs": [
@@ -41300,6 +41303,25 @@
       "names": [
         {
           "value": " /Tambunan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
+        }
+      ],
+      "id": "I1462*0ff06373-5dbc-4a2c-ae7c-b5eb5bdd752b",
+      "names": [
+        {
+          "value": "Winarta //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
