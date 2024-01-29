@@ -10731,6 +10731,9 @@
         },
         {
           "ref": "I1471*0d8179b8-570e-417b-a117-20178e06fb04"
+        },
+        {
+          "ref": "I1472*f203cc43-0deb-4a8c-9152-393821e1d722"
         }
       ],
       "husbandRefs": [
@@ -41568,6 +41571,25 @@
       "names": [
         {
           "value": "Hans //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F635*1474ba5c-1c43-4f53-9ecd-45f7786489ab"
+        }
+      ],
+      "id": "I1472*f203cc43-0deb-4a8c-9152-393821e1d722",
+      "names": [
+        {
+          "value": "Samuel //"
         }
       ],
       "eventsFacts": [
