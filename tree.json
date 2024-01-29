@@ -10769,6 +10769,9 @@
       "childRefs": [
         {
           "ref": "I1477*0813ab54-85d4-4251-a969-98ed2ac46bfc"
+        },
+        {
+          "ref": "I1479*f88967fb-373c-4577-8556-d0a5b7ffae33"
         }
       ],
       "husbandRefs": [
@@ -41769,6 +41772,25 @@
       "names": [
         {
           "value": " /Sihotang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F637*804278a4-80d4-4c02-884d-9a888b9541c4"
+        }
+      ],
+      "id": "I1479*f88967fb-373c-4577-8556-d0a5b7ffae33",
+      "names": [
+        {
+          "value": "Rina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
