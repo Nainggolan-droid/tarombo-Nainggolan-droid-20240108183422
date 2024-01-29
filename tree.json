@@ -10167,6 +10167,9 @@
         },
         {
           "ref": "I1403*970016ac-3ee3-471f-a80b-58ecfc7afe3e"
+        },
+        {
+          "ref": "I1404*3912c29f-78fb-41ae-a164-9bef2c776c49"
         }
       ],
       "husbandRefs": [
@@ -39573,6 +39576,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
+        }
+      ],
+      "id": "I1404*3912c29f-78fb-41ae-a164-9bef2c776c49",
+      "names": [
+        {
+          "value": "Risma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
