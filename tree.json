@@ -9882,6 +9882,9 @@
         },
         {
           "ref": "I1368*c8920e9d-8007-4fc4-9686-af55c6e6a26e"
+        },
+        {
+          "ref": "I1370*1b330cc7-33fd-4105-8c52-e925a54ea2a9"
         }
       ],
       "husbandRefs": [
@@ -38615,6 +38618,25 @@
       "names": [
         {
           "value": " /Sitompul/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
+      "id": "I1370*1b330cc7-33fd-4105-8c52-e925a54ea2a9",
+      "names": [
+        {
+          "value": "Dameria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
