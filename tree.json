@@ -9790,6 +9790,9 @@
         },
         {
           "ref": "I1354*93636c78-47c1-46ee-b7ec-ea03ef5ed803"
+        },
+        {
+          "ref": "I1355*0ea0c71b-2e21-4b8e-bf97-007e8c725441"
         }
       ],
       "husbandRefs": [
@@ -38202,6 +38205,25 @@
         {
           "nick": "Op.Angel",
           "value": "Mukdin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1355*0ea0c71b-2e21-4b8e-bf97-007e8c725441",
+      "names": [
+        {
+          "value": "Martua //"
         }
       ],
       "eventsFacts": [
