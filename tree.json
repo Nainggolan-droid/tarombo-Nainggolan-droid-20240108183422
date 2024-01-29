@@ -9640,6 +9640,9 @@
         },
         {
           "ref": "I1334*e3d2e306-0024-42d4-aeeb-26c4709580e2"
+        },
+        {
+          "ref": "I1335*74e1bef6-809b-466e-bec9-f747dea791f1"
         }
       ],
       "husbandRefs": [
@@ -37646,6 +37649,25 @@
       "names": [
         {
           "value": "Op.Pauk //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
+        }
+      ],
+      "id": "I1335*74e1bef6-809b-466e-bec9-f747dea791f1",
+      "names": [
+        {
+          "value": "Op.Tarsise //"
         }
       ],
       "eventsFacts": [
