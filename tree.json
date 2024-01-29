@@ -10486,6 +10486,9 @@
       "childRefs": [
         {
           "ref": "I1436*64ca2962-9d57-44bc-ab84-c36ad20e099e"
+        },
+        {
+          "ref": "I1437*e7599d0f-966d-4ebe-8c99-db2b3fc1ff53"
         }
       ],
       "husbandRefs": [
@@ -40624,6 +40627,25 @@
       "names": [
         {
           "value": "Op.Grace //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1437*e7599d0f-966d-4ebe-8c99-db2b3fc1ff53",
+      "names": [
+        {
+          "value": "Op.nisi.Andrew //"
         }
       ],
       "eventsFacts": [
