@@ -10833,6 +10833,9 @@
         },
         {
           "ref": "I1485*a77ba8ad-4476-40cc-bf30-8d93bd6abd33"
+        },
+        {
+          "ref": "I1486*6a6f62d6-11de-4f12-8450-ac8bfa7d062f"
         }
       ],
       "husbandRefs": [
@@ -41963,6 +41966,25 @@
       "names": [
         {
           "value": "Sinton //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1486*6a6f62d6-11de-4f12-8450-ac8bfa7d062f",
+      "names": [
+        {
+          "value": "Zainal //"
         }
       ],
       "eventsFacts": [
