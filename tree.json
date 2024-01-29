@@ -10069,6 +10069,19 @@
           "ref": "I1389*ba1e3cde-5c2a-4441-831e-025fff51ca8a"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1392*b2ce4961-79d0-44dc-9e90-3ca5d409f351"
+        }
+      ],
+      "id": "F593*b4565f12-8ada-42f3-877c-6b8e2d782ffd",
+      "wifeRefs": [
+        {
+          "ref": "I1391*afddfdf5-cf34-4f7c-b1ce-deeef69e2e0a"
+        }
+      ]
     }
   ],
   "head": {
@@ -39216,6 +39229,11 @@
           "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
         }
       ],
+      "fams": [
+        {
+          "ref": "F593*b4565f12-8ada-42f3-877c-6b8e2d782ffd"
+        }
+      ],
       "id": "I1391*afddfdf5-cf34-4f7c-b1ce-deeef69e2e0a",
       "names": [
         {
@@ -39226,6 +39244,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F593*b4565f12-8ada-42f3-877c-6b8e2d782ffd"
+        }
+      ],
+      "id": "I1392*b2ce4961-79d0-44dc-9e90-3ca5d409f351",
+      "names": [
+        {
+          "value": " /Sitanggang/"
         }
       ]
     }
