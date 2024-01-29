@@ -10501,6 +10501,9 @@
         },
         {
           "ref": "I1442*7fac3e1d-ddaa-4c6b-b57b-25477cdf1401"
+        },
+        {
+          "ref": "I1443*c4c9d344-4a77-4479-9418-d1be9aca4e96"
         }
       ],
       "husbandRefs": [
@@ -40777,6 +40780,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+        }
+      ],
+      "id": "I1443*c4c9d344-4a77-4479-9418-d1be9aca4e96",
+      "names": [
+        {
+          "value": "Lasmaida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
