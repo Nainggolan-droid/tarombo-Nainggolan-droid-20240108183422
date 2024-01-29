@@ -10497,6 +10497,19 @@
         }
       ],
       "id": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1438*2190986c-f7a4-43e2-a85c-57e3d5c09fd8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1437*e7599d0f-966d-4ebe-8c99-db2b3fc1ff53"
+        }
+      ],
+      "id": "F622*ecdcd3b2-af0e-4778-bdd2-9eb8f368cd22"
     }
   ],
   "head": {
@@ -40642,10 +40655,34 @@
           "ref": "F621*e5995acf-57a3-4678-ac6e-bd5603a2ed00"
         }
       ],
+      "fams": [
+        {
+          "ref": "F622*ecdcd3b2-af0e-4778-bdd2-9eb8f368cd22"
+        }
+      ],
       "id": "I1437*e7599d0f-966d-4ebe-8c99-db2b3fc1ff53",
       "names": [
         {
           "value": "Op.nisi.Andrew //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F622*ecdcd3b2-af0e-4778-bdd2-9eb8f368cd22"
+        }
+      ],
+      "id": "I1438*2190986c-f7a4-43e2-a85c-57e3d5c09fd8",
+      "names": [
+        {
+          "value": "Dolly //"
         }
       ],
       "eventsFacts": [
