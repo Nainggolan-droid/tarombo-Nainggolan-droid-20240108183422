@@ -10672,6 +10672,19 @@
           "ref": "I1460*d1d336a4-2753-45e4-91f7-4511bc54501b"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1463*da366a1b-63fe-442e-9e1a-d1f3c9791889"
+        }
+      ],
+      "id": "F632*2e0c4df1-5e00-4589-b4a4-2fc2c6e17c9e",
+      "wifeRefs": [
+        {
+          "ref": "I1462*0ff06373-5dbc-4a2c-ae7c-b5eb5bdd752b"
+        }
+      ]
     }
   ],
   "head": {
@@ -41312,6 +41325,11 @@
           "ref": "F628*9eaaaae2-9d19-4464-9ddd-086627ae09b5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F632*2e0c4df1-5e00-4589-b4a4-2fc2c6e17c9e"
+        }
+      ],
       "id": "I1462*0ff06373-5dbc-4a2c-ae7c-b5eb5bdd752b",
       "names": [
         {
@@ -41322,6 +41340,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F632*2e0c4df1-5e00-4589-b4a4-2fc2c6e17c9e"
+        }
+      ],
+      "id": "I1463*da366a1b-63fe-442e-9e1a-d1f3c9791889",
+      "names": [
+        {
+          "value": " /Simangunsong/"
         }
       ]
     }
