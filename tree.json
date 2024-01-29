@@ -9906,6 +9906,19 @@
           "ref": "I1368*c8920e9d-8007-4fc4-9686-af55c6e6a26e"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1371*f6bb9993-f4bb-40f9-a996-8badfb8f9039"
+        }
+      ],
+      "id": "F583*4d2ae5da-977a-4ddb-8074-4d2b8274a3f5",
+      "wifeRefs": [
+        {
+          "ref": "I1370*1b330cc7-33fd-4105-8c52-e925a54ea2a9"
+        }
+      ]
     }
   ],
   "head": {
@@ -38627,6 +38640,11 @@
           "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F583*4d2ae5da-977a-4ddb-8074-4d2b8274a3f5"
+        }
+      ],
       "id": "I1370*1b330cc7-33fd-4105-8c52-e925a54ea2a9",
       "names": [
         {
@@ -38637,6 +38655,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F583*4d2ae5da-977a-4ddb-8074-4d2b8274a3f5"
+        }
+      ],
+      "id": "I1371*f6bb9993-f4bb-40f9-a996-8badfb8f9039",
+      "names": [
+        {
+          "value": " /Sitinjak/"
         }
       ]
     }
