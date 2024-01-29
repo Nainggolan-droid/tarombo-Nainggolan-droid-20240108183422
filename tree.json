@@ -10856,6 +10856,19 @@
         }
       ],
       "id": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1491*14d9dff5-ae91-4989-a4ba-3a2accb4a691"
+        }
+      ],
+      "id": "F642*ede4fac5-3605-4262-83fe-1febc53bfc8b",
+      "wifeRefs": [
+        {
+          "ref": "I1490*9bbb25fc-a0ed-4bc9-839f-44fa18b882f4"
+        }
+      ]
     }
   ],
   "head": {
@@ -42071,6 +42084,11 @@
           "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F642*ede4fac5-3605-4262-83fe-1febc53bfc8b"
+        }
+      ],
       "id": "I1490*9bbb25fc-a0ed-4bc9-839f-44fa18b882f4",
       "names": [
         {
@@ -42081,6 +42099,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F642*ede4fac5-3605-4262-83fe-1febc53bfc8b"
+        }
+      ],
+      "id": "I1491*14d9dff5-ae91-4989-a4ba-3a2accb4a691",
+      "names": [
+        {
+          "value": " /Nai Bau Hutabarik/"
         }
       ]
     }
