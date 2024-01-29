@@ -9799,6 +9799,9 @@
         },
         {
           "ref": "I1357*086b4082-879d-4ac7-8b1f-98da1ff38079"
+        },
+        {
+          "ref": "I1359*053ba80c-cad1-4b64-b01a-788ac287263c"
         }
       ],
       "husbandRefs": [
@@ -38305,6 +38308,25 @@
       "names": [
         {
           "value": " /Sitorus/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1359*053ba80c-cad1-4b64-b01a-788ac287263c",
+      "names": [
+        {
+          "value": " /Rosma/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
