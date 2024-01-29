@@ -9937,6 +9937,9 @@
       "childRefs": [
         {
           "ref": "I1373*76fb39af-d225-4c83-95a5-48e319d37885"
+        },
+        {
+          "ref": "I1374*ecd1706e-bdfe-4cc6-baa6-23a8743c09c8"
         }
       ],
       "husbandRefs": [
@@ -38742,6 +38745,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F585*547ac03b-e61b-49d0-b82d-7cfa5a7f9ee9"
+        }
+      ],
+      "id": "I1374*ecd1706e-bdfe-4cc6-baa6-23a8743c09c8",
+      "names": [
+        {
+          "value": "Canny //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
