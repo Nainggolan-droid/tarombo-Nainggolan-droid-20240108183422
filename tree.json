@@ -9841,6 +9841,9 @@
       "childRefs": [
         {
           "ref": "I1361*162d4f9e-631a-4d62-8b3f-2306baf86dc5"
+        },
+        {
+          "ref": "I1362*a631ebf6-dbe9-4c1e-a730-f2aa49d0553d"
         }
       ],
       "husbandRefs": [
@@ -38396,6 +38399,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
+        }
+      ],
+      "id": "I1362*a631ebf6-dbe9-4c1e-a730-f2aa49d0553d",
+      "names": [
+        {
+          "value": "Hotdi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
