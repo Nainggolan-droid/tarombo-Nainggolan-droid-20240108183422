@@ -10845,6 +10845,9 @@
         },
         {
           "ref": "I1489*2f6e1227-4f65-49d2-b11c-a89c8e7d890f"
+        },
+        {
+          "ref": "I1490*9bbb25fc-a0ed-4bc9-839f-44fa18b882f4"
         }
       ],
       "husbandRefs": [
@@ -42059,6 +42062,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1490*9bbb25fc-a0ed-4bc9-839f-44fa18b882f4",
+      "names": [
+        {
+          "value": "Tiomina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
