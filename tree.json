@@ -39380,6 +39380,12 @@
         {
           "value": " /Angel/"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
       ]
     }
   ]
