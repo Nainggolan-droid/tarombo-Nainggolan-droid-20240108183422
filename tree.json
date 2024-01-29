@@ -10339,6 +10339,19 @@
         }
       ],
       "id": "F610*80fe890f-fffd-4f25-a54f-de4c17b68c7f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1422*1cbe7b5e-029c-48f1-b152-67c4c4e51e0e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1421*f880aeb5-520f-4566-872e-9cfd7597b5ad"
+        }
+      ],
+      "id": "F611*5de8c293-f41d-4006-9bcb-06a0167dd305"
     }
   ],
   "head": {
@@ -40132,6 +40145,11 @@
           "ref": "F610*80fe890f-fffd-4f25-a54f-de4c17b68c7f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F611*5de8c293-f41d-4006-9bcb-06a0167dd305"
+        }
+      ],
       "id": "I1421*f880aeb5-520f-4566-872e-9cfd7597b5ad",
       "names": [
         {
@@ -40143,6 +40161,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F611*5de8c293-f41d-4006-9bcb-06a0167dd305"
+        }
+      ],
+      "id": "I1422*1cbe7b5e-029c-48f1-b152-67c4c4e51e0e",
+      "names": [
+        {
+          "value": "Winda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
