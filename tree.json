@@ -9956,6 +9956,9 @@
       "childRefs": [
         {
           "ref": "I1376*0b87f019-0f9a-4253-a1ab-078b35d7b8e8"
+        },
+        {
+          "ref": "I1377*da5b8658-240a-4471-8b1a-4adc87dc1c00"
         }
       ],
       "husbandRefs": [
@@ -38823,6 +38826,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
+      "id": "I1377*da5b8658-240a-4471-8b1a-4adc87dc1c00",
+      "names": [
+        {
+          "value": "Swanjegger //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
