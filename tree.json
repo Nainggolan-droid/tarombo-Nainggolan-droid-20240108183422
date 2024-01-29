@@ -10326,6 +10326,19 @@
         }
       ],
       "id": "F609*a7c3dc15-9b28-4f98-9cac-9c128b7bc37f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1421*f880aeb5-520f-4566-872e-9cfd7597b5ad"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1416*fedff66c-f02a-46ad-9912-5d470c1dc6c3"
+        }
+      ],
+      "id": "F610*80fe890f-fffd-4f25-a54f-de4c17b68c7f"
     }
   ],
   "head": {
@@ -40006,6 +40019,11 @@
           "ref": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F610*80fe890f-fffd-4f25-a54f-de4c17b68c7f"
+        }
+      ],
       "id": "I1416*fedff66c-f02a-46ad-9912-5d470c1dc6c3",
       "names": [
         {
@@ -40099,6 +40117,25 @@
       "names": [
         {
           "value": "Yache //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F610*80fe890f-fffd-4f25-a54f-de4c17b68c7f"
+        }
+      ],
+      "id": "I1421*f880aeb5-520f-4566-872e-9cfd7597b5ad",
+      "names": [
+        {
+          "value": "Sarly //"
         }
       ],
       "eventsFacts": [
