@@ -9870,6 +9870,9 @@
       "childRefs": [
         {
           "ref": "I1364*fa1617ca-fc78-4a1e-a266-d87aab2dfa7f"
+        },
+        {
+          "ref": "I1365*0eacf87c-ef3f-42b9-98b6-7e52c8a43bfb"
         }
       ],
       "husbandRefs": [
@@ -38487,6 +38490,25 @@
         {
           "nick": "A.Samuel",
           "value": "Bukti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
+        }
+      ],
+      "id": "I1365*0eacf87c-ef3f-42b9-98b6-7e52c8a43bfb",
+      "names": [
+        {
+          "value": "Dapot //"
         }
       ],
       "eventsFacts": [
