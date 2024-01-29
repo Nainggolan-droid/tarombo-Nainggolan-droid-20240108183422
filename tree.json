@@ -9962,6 +9962,9 @@
         },
         {
           "ref": "I1378*3925db4f-f6c1-4ade-a101-d4c8ecb6b498"
+        },
+        {
+          "ref": "I1379*151f94f7-4400-4a6a-9a78-b3877b716b9d"
         }
       ],
       "husbandRefs": [
@@ -38867,6 +38870,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
+      "id": "I1379*151f94f7-4400-4a6a-9a78-b3877b716b9d",
+      "names": [
+        {
+          "value": "Ita Oktavia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
