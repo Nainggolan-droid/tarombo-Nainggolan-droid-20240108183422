@@ -9776,6 +9776,19 @@
           "ref": "I1349*8e0f2edf-752d-46fd-a34a-3ba7bf684d94"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1351*92444da1-814c-4a69-92ca-1f3429f23af0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1344*8096f5d7-ecb8-4709-ae62-8760e5573afb"
+        }
+      ],
+      "id": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
     }
   ],
   "head": {
@@ -37979,6 +37992,11 @@
           "ref": "F572*c6185a99-7e3b-438e-a13e-b532f7b841ce"
         }
       ],
+      "fams": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
       "id": "I1344*8096f5d7-ecb8-4709-ae62-8760e5573afb",
       "names": [
         {
@@ -38101,6 +38119,25 @@
       "names": [
         {
           "value": " /Sinabutar/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1351*92444da1-814c-4a69-92ca-1f3429f23af0",
+      "names": [
+        {
+          "value": "Lagi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
