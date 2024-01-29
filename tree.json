@@ -10000,6 +10000,9 @@
         },
         {
           "ref": "I1385*7829bcee-8b00-48e0-9f2d-ef3ae16351d5"
+        },
+        {
+          "ref": "I1387*3454d295-a657-4d59-875e-6f52aeeb1efa"
         }
       ],
       "husbandRefs": [
@@ -39098,6 +39101,25 @@
       "names": [
         {
           "value": " /Lumban Gaol/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
+      "id": "I1387*3454d295-a657-4d59-875e-6f52aeeb1efa",
+      "names": [
+        {
+          "value": "Linda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
