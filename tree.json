@@ -10742,6 +10742,19 @@
         }
       ],
       "id": "F635*1474ba5c-1c43-4f53-9ecd-45f7786489ab"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1473*d1e6e2d2-796d-43fd-bd8c-ffedbd56d223"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1451*663a9d84-495a-47d9-88bd-b650e0cfaec1"
+        }
+      ],
+      "id": "F636*282bf415-46ba-4a9e-aa24-027469f4cb9d"
     }
   ],
   "head": {
@@ -41185,6 +41198,11 @@
           "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
         }
       ],
+      "fams": [
+        {
+          "ref": "F636*282bf415-46ba-4a9e-aa24-027469f4cb9d"
+        }
+      ],
       "id": "I1451*663a9d84-495a-47d9-88bd-b650e0cfaec1",
       "names": [
         {
@@ -41590,6 +41608,25 @@
       "names": [
         {
           "value": "Samuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F636*282bf415-46ba-4a9e-aa24-027469f4cb9d"
+        }
+      ],
+      "id": "I1473*d1e6e2d2-796d-43fd-bd8c-ffedbd56d223",
+      "names": [
+        {
+          "value": "Gregorius //"
         }
       ],
       "eventsFacts": [
