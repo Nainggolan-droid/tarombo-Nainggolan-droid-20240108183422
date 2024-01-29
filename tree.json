@@ -10161,6 +10161,9 @@
       "childRefs": [
         {
           "ref": "I1401*134afdc6-0915-494a-ae2c-383bed60dde7"
+        },
+        {
+          "ref": "I1402*a1a84db7-22d6-4500-99d1-0168cc8ab102"
         }
       ],
       "husbandRefs": [
@@ -39522,6 +39525,25 @@
       "names": [
         {
           "value": "Horas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F599*13c5bc6e-eefa-4e72-8869-c2889372ee6f"
+        }
+      ],
+      "id": "I1402*a1a84db7-22d6-4500-99d1-0168cc8ab102",
+      "names": [
+        {
+          "value": "Tumbur //"
         }
       ],
       "eventsFacts": [
