@@ -10822,6 +10822,19 @@
         }
       ],
       "id": "F640*95fd3d95-acb9-432e-9e35-6f4b6d04a4a0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1483*5d3b8561-831f-4c42-af9b-953ae796cadf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1481*fb8cbf56-59bc-4cd4-b34c-d7afa22a2b86"
+        }
+      ],
+      "id": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
     }
   ],
   "head": {
@@ -41858,6 +41871,11 @@
           "ref": "F640*95fd3d95-acb9-432e-9e35-6f4b6d04a4a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
       "id": "I1481*fb8cbf56-59bc-4cd4-b34c-d7afa22a2b86",
       "names": [
         {
@@ -41881,6 +41899,25 @@
       "names": [
         {
           "value": "A.Timbul //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1483*5d3b8561-831f-4c42-af9b-953ae796cadf",
+      "names": [
+        {
+          "value": "Mangasa //"
         }
       ],
       "eventsFacts": [
