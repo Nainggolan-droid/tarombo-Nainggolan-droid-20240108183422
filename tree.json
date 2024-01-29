@@ -9951,6 +9951,19 @@
         }
       ],
       "id": "F585*547ac03b-e61b-49d0-b82d-7cfa5a7f9ee9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1376*0b87f019-0f9a-4253-a1ab-078b35d7b8e8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1366*237dc9dd-bb87-4d2f-8938-1305b0216b6d"
+        }
+      ],
+      "id": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
     }
   ],
   "head": {
@@ -38605,6 +38618,11 @@
           "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
       "id": "I1366*237dc9dd-bb87-4d2f-8938-1305b0216b6d",
       "names": [
         {
@@ -38780,6 +38798,25 @@
       "names": [
         {
           "value": "Tiara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
+      "id": "I1376*0b87f019-0f9a-4253-a1ab-078b35d7b8e8",
+      "names": [
+        {
+          "value": "Romasi //"
         }
       ],
       "eventsFacts": [
