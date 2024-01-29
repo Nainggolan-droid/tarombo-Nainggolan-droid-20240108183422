@@ -9784,6 +9784,9 @@
         },
         {
           "ref": "I1352*0f0d975d-91ce-41e1-be98-8c2abcc4fb4e"
+        },
+        {
+          "ref": "I1353*fe653e11-e1df-4612-b965-82ade4974683"
         }
       ],
       "husbandRefs": [
@@ -38156,6 +38159,25 @@
         {
           "nick": "Op.Samuel",
           "value": "Maringan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1353*fe653e11-e1df-4612-b965-82ade4974683",
+      "names": [
+        {
+          "value": "Marben //"
         }
       ],
       "eventsFacts": [
