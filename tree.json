@@ -10106,6 +10106,9 @@
         },
         {
           "ref": "I1397*cb3f87d4-58f6-4502-b20d-40450eda7ad5"
+        },
+        {
+          "ref": "I1399*7e4bd0a0-5b24-425e-88a9-94f7de26e4e9"
         }
       ],
       "husbandRefs": [
@@ -39438,6 +39441,25 @@
       "names": [
         {
           "value": " /Nababan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F595*84de67f3-d9e3-4b67-9c54-2f1bbe74a637"
+        }
+      ],
+      "id": "I1399*7e4bd0a0-5b24-425e-88a9-94f7de26e4e9",
+      "names": [
+        {
+          "value": "Dina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
