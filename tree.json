@@ -9632,6 +9632,19 @@
         }
       ],
       "id": "F566*813270ca-3626-4469-a740-ebd11082499e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1333*6949a36c-472c-42c8-a268-154f6c7faafc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I219*8eb559d2-e7ae-4d18-bdf2-936b35787651"
+        }
+      ],
+      "id": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
     }
   ],
   "head": {
@@ -9642,7 +9655,7 @@
       "time": "17:09:59",
       "value": "8 JAN 2024"
     },
-    "file": "5.json",
+    "file": "1.json",
     "gedc": {
       "form": "LINEAGE-LINKED",
       "vers": "5.5.1"
@@ -14232,6 +14245,11 @@
       "famc": [
         {
           "ref": "F96*289cc329-3191-4704-8887-12dd2ec94455"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
         }
       ],
       "id": "I219*8eb559d2-e7ae-4d18-bdf2-936b35787651",
@@ -37587,6 +37605,25 @@
       "names": [
         {
           "value": "Lamsor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
+        }
+      ],
+      "id": "I1333*6949a36c-472c-42c8-a268-154f6c7faafc",
+      "names": [
+        {
+          "value": "Op.Parhohom //"
         }
       ],
       "eventsFacts": [
