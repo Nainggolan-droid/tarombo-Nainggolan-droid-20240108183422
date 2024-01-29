@@ -10554,6 +10554,19 @@
           "ref": "I1445*f729413f-750f-4318-8018-9a3bce3bea0f"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1447*08d543b7-e543-466d-8ef7-8b60132ac85c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1435*635c1530-0c1b-477a-af49-fbb3da1a923e"
+        }
+      ],
+      "id": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
     }
   ],
   "head": {
@@ -40660,6 +40673,11 @@
           "ref": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
       "id": "I1435*635c1530-0c1b-477a-af49-fbb3da1a923e",
       "names": [
         {
@@ -40883,6 +40901,25 @@
       "names": [
         {
           "value": " /Sidabutar/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1447*08d543b7-e543-466d-8ef7-8b60132ac85c",
+      "names": [
+        {
+          "value": "Lundu //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
