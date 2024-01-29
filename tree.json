@@ -10274,6 +10274,19 @@
         }
       ],
       "id": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1417*af9bbaa4-e13d-4bc1-8018-27db3e8c137a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1414*b5d6da52-e318-4397-bfe2-8e6faf935d9c"
+        }
+      ],
+      "id": "F606*ad8622a7-f641-44d7-8968-a9a99e1b44a4"
     }
   ],
   "head": {
@@ -39904,6 +39917,11 @@
           "ref": "F605*f0709c85-7b25-400c-b755-79ad844d5ee9"
         }
       ],
+      "fams": [
+        {
+          "ref": "F606*ad8622a7-f641-44d7-8968-a9a99e1b44a4"
+        }
+      ],
       "id": "I1414*b5d6da52-e318-4397-bfe2-8e6faf935d9c",
       "names": [
         {
@@ -39949,6 +39967,25 @@
         {
           "nick": "Op.Winda",
           "value": "A.Sarli //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F606*ad8622a7-f641-44d7-8968-a9a99e1b44a4"
+        }
+      ],
+      "id": "I1417*af9bbaa4-e13d-4bc1-8018-27db3e8c137a",
+      "names": [
+        {
+          "value": "Polman //"
         }
       ],
       "eventsFacts": [
