@@ -9976,6 +9976,19 @@
         }
       ],
       "id": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1381*96d681a8-1f4c-40bd-84e2-0477a68d0ee1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1367*0cb34bca-f0e0-4d04-9a5f-2a3dff6ea42a"
+        }
+      ],
+      "id": "F587*5f8db572-99eb-40ab-b440-1804c6f71e0e"
     }
   ],
   "head": {
@@ -38655,6 +38668,11 @@
           "ref": "F581*8a1567ba-1fa3-410b-bd0b-08d0d0710699"
         }
       ],
+      "fams": [
+        {
+          "ref": "F587*5f8db572-99eb-40ab-b440-1804c6f71e0e"
+        }
+      ],
       "id": "I1367*0cb34bca-f0e0-4d04-9a5f-2a3dff6ea42a",
       "names": [
         {
@@ -38911,6 +38929,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F587*5f8db572-99eb-40ab-b440-1804c6f71e0e"
+        }
+      ],
+      "id": "I1381*96d681a8-1f4c-40bd-84e2-0477a68d0ee1",
+      "names": [
+        {
+          "value": "Edo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
