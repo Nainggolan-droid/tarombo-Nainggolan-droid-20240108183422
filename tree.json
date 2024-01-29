@@ -9992,6 +9992,19 @@
         }
       ],
       "id": "F587*5f8db572-99eb-40ab-b440-1804c6f71e0e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1383*6fa0d126-b84d-4a65-bd6f-06125c6b32a9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1353*fe653e11-e1df-4612-b965-82ade4974683"
+        }
+      ],
+      "id": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
     }
   ],
   "head": {
@@ -38381,6 +38394,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
       "id": "I1353*fe653e11-e1df-4612-b965-82ade4974683",
       "names": [
         {
@@ -38970,6 +38988,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F588*f1a81b31-67f5-4b1a-a94f-6a4970bd6c63"
+        }
+      ],
+      "id": "I1383*6fa0d126-b84d-4a65-bd6f-06125c6b32a9",
+      "names": [
+        {
+          "value": "Binsar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
