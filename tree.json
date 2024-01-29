@@ -10827,6 +10827,9 @@
       "childRefs": [
         {
           "ref": "I1483*5d3b8561-831f-4c42-af9b-953ae796cadf"
+        },
+        {
+          "ref": "I1484*34f9efb6-af69-4fe3-bf1b-dfe6e417761c"
         }
       ],
       "husbandRefs": [
@@ -41919,6 +41922,25 @@
         {
           "nick": "Op.Chintya",
           "value": "Mangasa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
+        }
+      ],
+      "id": "I1484*34f9efb6-af69-4fe3-bf1b-dfe6e417761c",
+      "names": [
+        {
+          "value": "Sihar //"
         }
       ],
       "eventsFacts": [
