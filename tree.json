@@ -9836,6 +9836,19 @@
           "ref": "I1359*053ba80c-cad1-4b64-b01a-788ac287263c"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1361*162d4f9e-631a-4d62-8b3f-2306baf86dc5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1351*92444da1-814c-4a69-92ca-1f3429f23af0"
+        }
+      ],
+      "id": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
     }
   ],
   "head": {
@@ -38175,6 +38188,11 @@
           "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
+        }
+      ],
       "id": "I1351*92444da1-814c-4a69-92ca-1f3429f23af0",
       "names": [
         {
@@ -38358,6 +38376,25 @@
       "names": [
         {
           "value": " /Lumban Gaol/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F579*52daa60b-a635-4e49-aee2-65bd307fa303"
+        }
+      ],
+      "id": "I1361*162d4f9e-631a-4d62-8b3f-2306baf86dc5",
+      "names": [
+        {
+          "value": "Hotman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
