@@ -10473,6 +10473,9 @@
         },
         {
           "ref": "I1435*635c1530-0c1b-477a-af49-fbb3da1a923e"
+        },
+        {
+          "ref": "I1476*73726129-50fe-4fd6-bb58-3f41c6bafde2"
         }
       ],
       "husbandRefs": [
@@ -41677,6 +41680,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F620*2c801452-5229-4fd4-8515-0d17c498ca4b"
+        }
+      ],
+      "id": "I1476*73726129-50fe-4fd6-bb58-3f41c6bafde2",
+      "names": [
+        {
+          "value": "Torang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
