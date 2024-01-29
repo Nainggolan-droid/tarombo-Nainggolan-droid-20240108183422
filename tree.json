@@ -10888,6 +10888,19 @@
           "ref": "I1492*7d353401-7a65-47eb-900f-9594286fedbb"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1495*cef23c04-5e3f-4339-ad0a-d31e89f32aaa"
+        }
+      ],
+      "id": "F644*a0fa0a9c-fffb-4d6a-9ce2-8c7e92ac73ad",
+      "wifeRefs": [
+        {
+          "ref": "I1494*d8d55032-9811-4491-82e2-fbf657e51bba"
+        }
+      ]
     }
   ],
   "head": {
@@ -42177,6 +42190,11 @@
           "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F644*a0fa0a9c-fffb-4d6a-9ce2-8c7e92ac73ad"
+        }
+      ],
       "id": "I1494*d8d55032-9811-4491-82e2-fbf657e51bba",
       "names": [
         {
@@ -42187,6 +42205,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F644*a0fa0a9c-fffb-4d6a-9ce2-8c7e92ac73ad"
+        }
+      ],
+      "id": "I1495*cef23c04-5e3f-4339-ad0a-d31e89f32aaa",
+      "names": [
+        {
+          "value": " /Jhon Woworuntu/"
         }
       ]
     }
