@@ -10194,6 +10194,19 @@
           "ref": "I1404*3912c29f-78fb-41ae-a164-9bef2c776c49"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1407*4748b724-f040-4ddb-a417-ef64b48e5f6e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1342*d1ac0668-3e56-49e4-8db5-b2eab7141ed9"
+        }
+      ],
+      "id": "F601*5ef1b6c4-ec08-4005-8f21-39dd2e921a9b"
     }
   ],
   "head": {
@@ -38359,6 +38372,11 @@
           "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F601*5ef1b6c4-ec08-4005-8f21-39dd2e921a9b"
+        }
+      ],
       "id": "I1342*d1ac0668-3e56-49e4-8db5-b2eab7141ed9",
       "names": [
         {
@@ -39654,6 +39672,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F601*5ef1b6c4-ec08-4005-8f21-39dd2e921a9b"
+        }
+      ],
+      "id": "I1407*4748b724-f040-4ddb-a417-ef64b48e5f6e",
+      "names": [
+        {
+          "value": "Paro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
