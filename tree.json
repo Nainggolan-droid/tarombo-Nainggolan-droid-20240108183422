@@ -9781,6 +9781,9 @@
       "childRefs": [
         {
           "ref": "I1351*92444da1-814c-4a69-92ca-1f3429f23af0"
+        },
+        {
+          "ref": "I1352*0f0d975d-91ce-41e1-be98-8c2abcc4fb4e"
         }
       ],
       "husbandRefs": [
@@ -38133,6 +38136,25 @@
         {
           "nick": "Op.Benny",
           "value": "Lagi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F576*3d771524-9d09-4c9f-b3f0-1a0aa69a073f"
+        }
+      ],
+      "id": "I1352*0f0d975d-91ce-41e1-be98-8c2abcc4fb4e",
+      "names": [
+        {
+          "value": "Maringan //"
         }
       ],
       "eventsFacts": [
