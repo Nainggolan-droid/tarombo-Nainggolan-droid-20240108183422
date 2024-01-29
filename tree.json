@@ -9683,6 +9683,19 @@
         }
       ],
       "id": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1340*049dc506-8a20-4636-9906-8ef8d8c51aec"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1338*4709bdca-bda2-4966-9fb4-5c1177489fe3"
+        }
+      ],
+      "id": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
     }
   ],
   "head": {
@@ -37757,6 +37770,11 @@
           "ref": "F569*4cbd3629-8f26-4167-a101-4257a38b4a1c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
+        }
+      ],
       "id": "I1338*4709bdca-bda2-4966-9fb4-5c1177489fe3",
       "names": [
         {
@@ -37780,6 +37798,25 @@
       "names": [
         {
           "value": "Op.Sugar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F570*d846070a-af06-447c-85ff-b782ec0d3d0d"
+        }
+      ],
+      "id": "I1340*049dc506-8a20-4636-9906-8ef8d8c51aec",
+      "names": [
+        {
+          "value": "A.Tiniga //"
         }
       ],
       "eventsFacts": [
