@@ -9643,6 +9643,9 @@
         },
         {
           "ref": "I1335*74e1bef6-809b-466e-bec9-f747dea791f1"
+        },
+        {
+          "ref": "I1336*5d8d42f0-583a-4c85-af8c-ab102f1e94f5"
         }
       ],
       "husbandRefs": [
@@ -37674,6 +37677,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
+        }
+      ],
+      "id": "I1336*5d8d42f0-583a-4c85-af8c-ab102f1e94f5",
+      "names": [
+        {
+          "value": "....... //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
