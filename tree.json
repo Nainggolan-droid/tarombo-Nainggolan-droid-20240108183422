@@ -9959,6 +9959,9 @@
         },
         {
           "ref": "I1377*da5b8658-240a-4471-8b1a-4adc87dc1c00"
+        },
+        {
+          "ref": "I1378*3925db4f-f6c1-4ade-a101-d4c8ecb6b498"
         }
       ],
       "husbandRefs": [
@@ -38839,6 +38842,25 @@
       "names": [
         {
           "value": "Swanjegger //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F586*b40d3791-f1cb-45b4-93fc-2bc2c7537aad"
+        }
+      ],
+      "id": "I1378*3925db4f-f6c1-4ade-a101-d4c8ecb6b498",
+      "names": [
+        {
+          "value": "Gerrand //"
         }
       ],
       "eventsFacts": [
