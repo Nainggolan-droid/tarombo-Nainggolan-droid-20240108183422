@@ -10568,6 +10568,9 @@
         },
         {
           "ref": "I1450*751a56fa-26a9-46d4-9ef3-15521d08392a"
+        },
+        {
+          "ref": "I1451*663a9d84-495a-47d9-88bd-b650e0cfaec1"
         }
       ],
       "husbandRefs": [
@@ -40984,6 +40987,25 @@
         {
           "nick": "A.Andi",
           "value": "Marro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
+        }
+      ],
+      "id": "I1451*663a9d84-495a-47d9-88bd-b650e0cfaec1",
+      "names": [
+        {
+          "value": "Arnes //"
         }
       ],
       "eventsFacts": [
