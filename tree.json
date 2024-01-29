@@ -10793,6 +10793,19 @@
           "ref": "I1477*0813ab54-85d4-4251-a969-98ed2ac46bfc"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1480*778d2ef0-e2aa-483e-82d6-cb6267c83b6d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1335*74e1bef6-809b-466e-bec9-f747dea791f1"
+        }
+      ],
+      "id": "F639*67dfc2ca-c7b7-4155-b422-7ea25911d521"
     }
   ],
   "head": {
@@ -38816,6 +38829,11 @@
           "ref": "F567*87725d32-2557-4949-a16f-feeb3dcdb4fc"
         }
       ],
+      "fams": [
+        {
+          "ref": "F639*67dfc2ca-c7b7-4155-b422-7ea25911d521"
+        }
+      ],
       "id": "I1335*74e1bef6-809b-466e-bec9-f747dea791f1",
       "names": [
         {
@@ -41791,6 +41809,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F639*67dfc2ca-c7b7-4155-b422-7ea25911d521"
+        }
+      ],
+      "id": "I1480*778d2ef0-e2aa-483e-82d6-cb6267c83b6d",
+      "names": [
+        {
+          "value": "Op.Tunggal //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
