@@ -10685,6 +10685,19 @@
           "ref": "I1462*0ff06373-5dbc-4a2c-ae7c-b5eb5bdd752b"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1464*bf751a59-c73d-4b10-932c-86e1f43691a9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1448*7ba27f4f-4ae1-4172-90a1-5d71ebe9107e"
+        }
+      ],
+      "id": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
     }
   ],
   "head": {
@@ -41053,6 +41066,11 @@
           "ref": "F625*87cf6d66-8c72-4bd6-8acf-fdc58d6fce41"
         }
       ],
+      "fams": [
+        {
+          "ref": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
+        }
+      ],
       "id": "I1448*7ba27f4f-4ae1-4172-90a1-5d71ebe9107e",
       "names": [
         {
@@ -41353,6 +41371,25 @@
       "names": [
         {
           "value": " /Simangunsong/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F633*1aad0eb7-2a0d-4f02-8186-6008d2b5b71f"
+        }
+      ],
+      "id": "I1464*bf751a59-c73d-4b10-932c-86e1f43691a9",
+      "names": [
+        {
+          "value": "Yuricho //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
