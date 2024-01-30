@@ -11611,6 +11611,9 @@
       "childRefs": [
         {
           "ref": "I1591*90506e67-62bb-4296-84ab-9ed0106f5d21"
+        },
+        {
+          "ref": "I1592*98caee9d-81f4-46f2-bc22-10da6b3f27ba"
         }
       ],
       "husbandRefs": [
@@ -44862,6 +44865,25 @@
       "names": [
         {
           "value": "Boni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F687*ff38bbd0-01c8-4154-92c4-ea25b9bd15e6"
+        }
+      ],
+      "id": "I1592*98caee9d-81f4-46f2-bc22-10da6b3f27ba",
+      "names": [
+        {
+          "value": "Natan //"
         }
       ],
       "eventsFacts": [
