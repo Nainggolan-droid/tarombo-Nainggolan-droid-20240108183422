@@ -11635,6 +11635,19 @@
         }
       ],
       "id": "F688*06b95a81-ead6-406c-a4af-06c8fd403cc4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1594*226ce26a-e36d-475c-b45b-0b1a53b001c9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1592*98caee9d-81f4-46f2-bc22-10da6b3f27ba"
+        }
+      ],
+      "id": "F689*b512289b-d681-49a4-adb9-8b500996f525"
     }
   ],
   "head": {
@@ -44898,6 +44911,11 @@
           "ref": "F687*ff38bbd0-01c8-4154-92c4-ea25b9bd15e6"
         }
       ],
+      "fams": [
+        {
+          "ref": "F689*b512289b-d681-49a4-adb9-8b500996f525"
+        }
+      ],
       "id": "I1592*98caee9d-81f4-46f2-bc22-10da6b3f27ba",
       "names": [
         {
@@ -44921,6 +44939,25 @@
       "names": [
         {
           "value": "Luther //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F689*b512289b-d681-49a4-adb9-8b500996f525"
+        }
+      ],
+      "id": "I1594*226ce26a-e36d-475c-b45b-0b1a53b001c9",
+      "names": [
+        {
+          "value": "Kaman //"
         }
       ],
       "eventsFacts": [
