@@ -11113,6 +11113,9 @@
         },
         {
           "ref": "I1525*9eaefa4f-4b12-4cb6-bfc8-58877c996b9b"
+        },
+        {
+          "ref": "I1526*44e27d21-1d18-4d19-bb0d-f36ff7153a93"
         }
       ],
       "husbandRefs": [
@@ -43049,6 +43052,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F657*6392ae07-562e-451c-8752-ae7651afaede"
+        }
+      ],
+      "id": "I1526*44e27d21-1d18-4d19-bb0d-f36ff7153a93",
+      "names": [
+        {
+          "value": "Tetty //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
