@@ -11271,6 +11271,9 @@
         },
         {
           "ref": "I1555*262cabd3-2c9d-4d66-9934-4be835524122"
+        },
+        {
+          "ref": "I1556*0fffbece-4189-4f10-8ba5-64216f93713b"
         }
       ],
       "husbandRefs": [
@@ -43831,6 +43834,25 @@
       "names": [
         {
           "value": "Pinancap //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1556*0fffbece-4189-4f10-8ba5-64216f93713b",
+      "names": [
+        {
+          "value": "Patar //"
         }
       ],
       "eventsFacts": [
