@@ -10928,6 +10928,9 @@
         },
         {
           "ref": "I1501*0f0d937c-066b-4d24-a6a4-243cdb306f07"
+        },
+        {
+          "ref": "I1503*6f5a396c-7dab-47ba-a8ad-af23d94a699f"
         }
       ],
       "husbandRefs": [
@@ -42422,6 +42425,25 @@
       "names": [
         {
           "value": " /Sihombing/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
+        }
+      ],
+      "id": "I1503*6f5a396c-7dab-47ba-a8ad-af23d94a699f",
+      "names": [
+        {
+          "value": "Rhidoana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
