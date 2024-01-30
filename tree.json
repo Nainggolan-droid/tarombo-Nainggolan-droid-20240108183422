@@ -11262,6 +11262,9 @@
         },
         {
           "ref": "I1552*ec33359e-1888-4e99-b169-d7ff3807a033"
+        },
+        {
+          "ref": "I1553*e609b1f5-6189-4ed6-9947-ceb235aeaf0f"
         }
       ],
       "husbandRefs": [
@@ -43765,6 +43768,25 @@
         {
           "nick": "A.Daniel",
           "value": "Lamser //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1553*e609b1f5-6189-4ed6-9947-ceb235aeaf0f",
+      "names": [
+        {
+          "value": "Gortap //"
         }
       ],
       "eventsFacts": [
