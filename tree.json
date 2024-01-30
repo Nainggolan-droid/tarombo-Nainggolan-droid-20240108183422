@@ -11844,6 +11844,9 @@
         },
         {
           "ref": "I1625*7e548e25-bedf-4a68-b4b4-0d8a2b558c2e"
+        },
+        {
+          "ref": "I1627*be420acf-6d60-4a85-81a3-af2b22fd9c23"
         }
       ],
       "husbandRefs": [
@@ -45873,6 +45876,25 @@
       "names": [
         {
           "value": " /Napitupulu/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F701*0105c29c-d67d-47b6-aeb2-5045bc15b267"
+        }
+      ],
+      "id": "I1627*be420acf-6d60-4a85-81a3-af2b22fd9c23",
+      "names": [
+        {
+          "value": "Lenny //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
