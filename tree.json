@@ -10965,6 +10965,19 @@
           "ref": "I1501*0f0d937c-066b-4d24-a6a4-243cdb306f07"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1504*b7a5eeea-7937-4f7d-9bcd-98c77681e170"
+        }
+      ],
+      "id": "F649*5b6c7b7d-95e8-4f39-b9ef-6fb545cd6e44",
+      "wifeRefs": [
+        {
+          "ref": "I1503*6f5a396c-7dab-47ba-a8ad-af23d94a699f"
+        }
+      ]
     }
   ],
   "head": {
@@ -42434,6 +42447,11 @@
           "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F649*5b6c7b7d-95e8-4f39-b9ef-6fb545cd6e44"
+        }
+      ],
       "id": "I1503*6f5a396c-7dab-47ba-a8ad-af23d94a699f",
       "names": [
         {
@@ -42445,6 +42463,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F649*5b6c7b7d-95e8-4f39-b9ef-6fb545cd6e44"
+        }
+      ],
+      "id": "I1504*b7a5eeea-7937-4f7d-9bcd-98c77681e170",
+      "names": [
+        {
+          "value": " /Manurung/"
         }
       ]
     }
