@@ -11414,6 +11414,19 @@
         }
       ],
       "id": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1567*bd36e54f-8610-406d-b983-7d7dcbd7bf22"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1566*5a2b7fc3-79d9-4a02-9d71-5c37431891be"
+        }
+      ],
+      "id": "F675*740df25a-c640-4d29-956e-616afa0b13e6"
     }
   ],
   "head": {
@@ -44122,11 +44135,35 @@
           "ref": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F675*740df25a-c640-4d29-956e-616afa0b13e6"
+        }
+      ],
       "id": "I1566*5a2b7fc3-79d9-4a02-9d71-5c37431891be",
       "names": [
         {
           "nick": "A.Javier",
           "value": "Malaiholo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F675*740df25a-c640-4d29-956e-616afa0b13e6"
+        }
+      ],
+      "id": "I1567*bd36e54f-8610-406d-b983-7d7dcbd7bf22",
+      "names": [
+        {
+          "value": "Javier //"
         }
       ],
       "eventsFacts": [
