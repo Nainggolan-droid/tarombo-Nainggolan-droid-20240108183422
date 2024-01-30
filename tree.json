@@ -11751,6 +11751,19 @@
         }
       ],
       "id": "F696*29993199-fe95-43bc-9df3-410df44598bd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1606*4723dd6c-2810-46d2-8fcf-1f0c62057ab6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I38*f04fb1e9-a062-44c7-9cbb-9e018cd3cb8b"
+        }
+      ],
+      "id": "F697*6b77550b-48f7-4060-85db-7f8f0924e8de"
     }
   ],
   "head": {
@@ -12594,6 +12607,11 @@
       "famc": [
         {
           "ref": "F14*982f39cb-6389-40c0-82b4-47ff976c58e2"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F697*6b77550b-48f7-4060-85db-7f8f0924e8de"
         }
       ],
       "id": "I38*f04fb1e9-a062-44c7-9cbb-9e018cd3cb8b",
@@ -45305,6 +45323,25 @@
       "names": [
         {
           "value": "Apollo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F697*6b77550b-48f7-4060-85db-7f8f0924e8de"
+        }
+      ],
+      "id": "I1606*4723dd6c-2810-46d2-8fcf-1f0c62057ab6",
+      "names": [
+        {
+          "value": "A.Mangandar //"
         }
       ],
       "eventsFacts": [
