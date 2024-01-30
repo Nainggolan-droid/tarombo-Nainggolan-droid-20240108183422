@@ -11832,6 +11832,9 @@
         },
         {
           "ref": "I1619*11889a47-7082-465b-a95f-5e3ccb72fd9b"
+        },
+        {
+          "ref": "I1621*0391f94b-b866-4b05-8872-1065f06b60a8"
         }
       ],
       "husbandRefs": [
@@ -45723,6 +45726,25 @@
       "names": [
         {
           "value": " /Panjaitan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F701*0105c29c-d67d-47b6-aeb2-5045bc15b267"
+        }
+      ],
+      "id": "I1621*0391f94b-b866-4b05-8872-1065f06b60a8",
+      "names": [
+        {
+          "value": "Charles //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
