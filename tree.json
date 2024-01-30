@@ -11711,6 +11711,9 @@
         },
         {
           "ref": "I1601*779c8424-338e-4baf-b595-e5cc918d9c24"
+        },
+        {
+          "ref": "I1602*bcf65836-4903-4251-9e07-e89ece4a7d3b"
         }
       ],
       "husbandRefs": [
@@ -45187,6 +45190,25 @@
       "names": [
         {
           "value": "Sopar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F694*c80a7eaf-e3fb-4ffe-8606-5c55ab664235"
+        }
+      ],
+      "id": "I1602*bcf65836-4903-4251-9e07-e89ece4a7d3b",
+      "names": [
+        {
+          "value": "Oskar //"
         }
       ],
       "eventsFacts": [
