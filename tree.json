@@ -11412,6 +11412,9 @@
         },
         {
           "ref": "I1569*941e66cd-a50d-4cdc-9280-a1ab60232301"
+        },
+        {
+          "ref": "I1571*07bc7e9c-67c3-4f63-971f-f3ac4b1ac2b1"
         }
       ],
       "husbandRefs": [
@@ -44246,6 +44249,25 @@
       "names": [
         {
           "value": " /Malau/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
+        }
+      ],
+      "id": "I1571*07bc7e9c-67c3-4f63-971f-f3ac4b1ac2b1",
+      "names": [
+        {
+          "value": "Risdho //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
