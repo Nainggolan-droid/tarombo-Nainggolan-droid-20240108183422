@@ -11677,6 +11677,19 @@
         }
       ],
       "id": "F691*ee4bd94d-6ab4-4f0e-8fc0-98db2d7d68f8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1598*d7b5f1cd-1a4f-4025-a9fe-ffca1d0237d2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1589*574a31b2-bbb5-4491-b43f-f41ec79b5884"
+        }
+      ],
+      "id": "F692*9a5008dc-0eb1-44a8-8440-1c46f719a02b"
     }
   ],
   "head": {
@@ -44883,6 +44896,11 @@
           "ref": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F692*9a5008dc-0eb1-44a8-8440-1c46f719a02b"
+        }
+      ],
       "id": "I1589*574a31b2-bbb5-4491-b43f-f41ec79b5884",
       "names": [
         {
@@ -45054,6 +45072,25 @@
       "names": [
         {
           "value": "Olo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F692*9a5008dc-0eb1-44a8-8440-1c46f719a02b"
+        }
+      ],
+      "id": "I1598*d7b5f1cd-1a4f-4025-a9fe-ffca1d0237d2",
+      "names": [
+        {
+          "value": "Billem //"
         }
       ],
       "eventsFacts": [
