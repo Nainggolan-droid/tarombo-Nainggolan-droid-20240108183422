@@ -10920,6 +10920,19 @@
           "ref": "I1496*fd289961-7696-40d2-bca5-fbdc689d6736"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1499*a8c1de48-65d4-4b4e-b5f4-219a6ef99750"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1483*5d3b8561-831f-4c42-af9b-953ae796cadf"
+        }
+      ],
+      "id": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
     }
   ],
   "head": {
@@ -41999,6 +42012,11 @@
           "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
+        }
+      ],
       "id": "I1483*5d3b8561-831f-4c42-af9b-953ae796cadf",
       "names": [
         {
@@ -42293,6 +42311,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
+        }
+      ],
+      "id": "I1499*a8c1de48-65d4-4b4e-b5f4-219a6ef99750",
+      "names": [
+        {
+          "value": "Binara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
