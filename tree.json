@@ -11213,6 +11213,19 @@
           "ref": "I1535*07705ebb-0f56-4754-84e6-4c749938288f"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1540*74adb0dc-b5da-4c7b-97c9-aa058122bed5"
+        }
+      ],
+      "id": "F663*944fdc8b-d8ce-40d7-a07c-981122896dec",
+      "wifeRefs": [
+        {
+          "ref": "I1539*a967a7a0-ad31-47c6-be18-27ccb10a3c42"
+        }
+      ]
     }
   ],
   "head": {
@@ -43398,6 +43411,11 @@
           "ref": "F660*6e916dc8-6958-490e-b32d-c7757d227660"
         }
       ],
+      "fams": [
+        {
+          "ref": "F663*944fdc8b-d8ce-40d7-a07c-981122896dec"
+        }
+      ],
       "id": "I1539*a967a7a0-ad31-47c6-be18-27ccb10a3c42",
       "names": [
         {
@@ -43408,6 +43426,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F663*944fdc8b-d8ce-40d7-a07c-981122896dec"
+        }
+      ],
+      "id": "I1540*74adb0dc-b5da-4c7b-97c9-aa058122bed5",
+      "names": [
+        {
+          "value": " /Purba/"
         }
       ]
     }
