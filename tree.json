@@ -11253,6 +11253,9 @@
         },
         {
           "ref": "I1546*2cb896a2-fcd3-4f48-b3c6-5fa8af24b1b7"
+        },
+        {
+          "ref": "I1548*cff7eb9c-75c6-4822-a03c-96437212bd8a"
         }
       ],
       "husbandRefs": [
@@ -43642,6 +43645,25 @@
       "names": [
         {
           "value": " /Sihole/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1548*cff7eb9c-75c6-4822-a03c-96437212bd8a",
+      "names": [
+        {
+          "value": "Derita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
