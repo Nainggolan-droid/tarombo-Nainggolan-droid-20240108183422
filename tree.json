@@ -11449,6 +11449,19 @@
           "ref": "I1569*941e66cd-a50d-4cdc-9280-a1ab60232301"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1572*57d5a533-e658-4f0f-a174-6af0595ef619"
+        }
+      ],
+      "id": "F677*91d5a568-5b4d-41e0-bc69-f9e9ce7ff730",
+      "wifeRefs": [
+        {
+          "ref": "I1571*07bc7e9c-67c3-4f63-971f-f3ac4b1ac2b1"
+        }
+      ]
     }
   ],
   "head": {
@@ -44258,6 +44271,11 @@
           "ref": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F677*91d5a568-5b4d-41e0-bc69-f9e9ce7ff730"
+        }
+      ],
       "id": "I1571*07bc7e9c-67c3-4f63-971f-f3ac4b1ac2b1",
       "names": [
         {
@@ -44268,6 +44286,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F677*91d5a568-5b4d-41e0-bc69-f9e9ce7ff730"
+        }
+      ],
+      "id": "I1572*57d5a533-e658-4f0f-a174-6af0595ef619",
+      "names": [
+        {
+          "value": " /Hutagaul/"
         }
       ]
     }
