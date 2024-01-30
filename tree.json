@@ -10992,6 +10992,9 @@
       "childRefs": [
         {
           "ref": "I1508*8e1274a8-1139-42c0-bea8-2902d3b1a03a"
+        },
+        {
+          "ref": "I1509*dfcb78ce-f289-4910-b967-d6596c22427a"
         }
       ],
       "husbandRefs": [
@@ -42582,6 +42585,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F650*8575bc5b-ac20-40d2-91b3-a0e7d1bbc688"
+        }
+      ],
+      "id": "I1509*dfcb78ce-f289-4910-b967-d6596c22427a",
+      "names": [
+        {
+          "value": "Loveni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
