@@ -11841,6 +11841,9 @@
         },
         {
           "ref": "I1623*98de20f9-e4a7-4344-b433-2a7fb9304e8b"
+        },
+        {
+          "ref": "I1625*7e548e25-bedf-4a68-b4b4-0d8a2b558c2e"
         }
       ],
       "husbandRefs": [
@@ -45820,6 +45823,25 @@
       "names": [
         {
           "value": " /Situmorang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F701*0105c29c-d67d-47b6-aeb2-5045bc15b267"
+        }
+      ],
+      "id": "I1625*7e548e25-bedf-4a68-b4b4-0d8a2b558c2e",
+      "names": [
+        {
+          "value": "Laura //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
