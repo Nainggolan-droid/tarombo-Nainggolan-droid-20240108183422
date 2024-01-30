@@ -11247,6 +11247,12 @@
         },
         {
           "ref": "I1543*e1c39844-a0fd-42f9-850f-5e77b1b174a5"
+        },
+        {
+          "ref": "I1545*07d4d4ee-8915-4c5c-b2f8-884f6fcce05b"
+        },
+        {
+          "ref": "I1546*2cb896a2-fcd3-4f48-b3c6-5fa8af24b1b7"
         }
       ],
       "husbandRefs": [
@@ -43567,6 +43573,44 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1545*07d4d4ee-8915-4c5c-b2f8-884f6fcce05b",
+      "names": [
+        {
+          "value": "Krisman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1546*2cb896a2-fcd3-4f48-b3c6-5fa8af24b1b7",
+      "names": [
+        {
+          "value": "Marlin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
