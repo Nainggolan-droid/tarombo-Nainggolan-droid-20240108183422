@@ -11158,6 +11158,9 @@
       "childRefs": [
         {
           "ref": "I1530*b9bf3bc8-c541-40a4-ba13-70d48743c0c0"
+        },
+        {
+          "ref": "I1531*b399198a-fab0-43f0-8ede-506eacd3164a"
         }
       ],
       "husbandRefs": [
@@ -43186,6 +43189,25 @@
       "names": [
         {
           "value": "Fredy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F660*6e916dc8-6958-490e-b32d-c7757d227660"
+        }
+      ],
+      "id": "I1531*b399198a-fab0-43f0-8ede-506eacd3164a",
+      "names": [
+        {
+          "value": "Lamro //"
         }
       ],
       "eventsFacts": [
