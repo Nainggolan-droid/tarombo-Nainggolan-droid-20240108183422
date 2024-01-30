@@ -11052,6 +11052,9 @@
         },
         {
           "ref": "I1518*6d527314-4ba8-4298-bc61-5791a3364e78"
+        },
+        {
+          "ref": "I1519*eb017323-f454-40a4-8efe-85e42eae0c53"
         }
       ],
       "husbandRefs": [
@@ -42847,6 +42850,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F653*b99f775e-9648-439e-8fd4-2c8f4daa50a2"
+        }
+      ],
+      "id": "I1519*eb017323-f454-40a4-8efe-85e42eae0c53",
+      "names": [
+        {
+          "value": "Theresia Maria //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
