@@ -11049,6 +11049,9 @@
       "childRefs": [
         {
           "ref": "I1517*2e0a970c-0ff5-4b70-94b4-0f6e7ac306c1"
+        },
+        {
+          "ref": "I1518*6d527314-4ba8-4298-bc61-5791a3364e78"
         }
       ],
       "husbandRefs": [
@@ -42819,6 +42822,25 @@
       "names": [
         {
           "value": "Dian Leonaro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F653*b99f775e-9648-439e-8fd4-2c8f4daa50a2"
+        }
+      ],
+      "id": "I1518*6d527314-4ba8-4298-bc61-5791a3364e78",
+      "names": [
+        {
+          "value": "Dominico Apul //"
         }
       ],
       "eventsFacts": [
