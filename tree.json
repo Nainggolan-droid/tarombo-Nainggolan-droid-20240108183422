@@ -11274,6 +11274,9 @@
         },
         {
           "ref": "I1556*0fffbece-4189-4f10-8ba5-64216f93713b"
+        },
+        {
+          "ref": "I1557*9022ae02-e3d0-439e-a442-254d51bb26db"
         }
       ],
       "husbandRefs": [
@@ -43860,6 +43863,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1557*9022ae02-e3d0-439e-a442-254d51bb26db",
+      "names": [
+        {
+          "value": "Nan.Sangkot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
