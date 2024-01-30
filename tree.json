@@ -11784,6 +11784,9 @@
         },
         {
           "ref": "I1614*b384a713-92d8-4a38-b31c-7b15b49dfae2"
+        },
+        {
+          "ref": "I1615*9b2b9077-39c9-4ca1-b1d1-6864aa1a865b"
         }
       ],
       "husbandRefs": [
@@ -45551,6 +45554,25 @@
       "names": [
         {
           "value": "Mangasden //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F698*7f5821a9-5339-46f8-b738-6570b35ca516"
+        }
+      ],
+      "id": "I1615*9b2b9077-39c9-4ca1-b1d1-6864aa1a865b",
+      "names": [
+        {
+          "value": "Daulat //"
         }
       ],
       "eventsFacts": [
