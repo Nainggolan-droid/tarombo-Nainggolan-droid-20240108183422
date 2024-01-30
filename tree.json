@@ -11648,6 +11648,19 @@
         }
       ],
       "id": "F689*b512289b-d681-49a4-adb9-8b500996f525"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1595*d34b7b26-448f-4826-984b-61acffd5dd7d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1588*8ae8430d-70bd-4219-a4c9-90a2f1fd1e79"
+        }
+      ],
+      "id": "F690*114314f6-38c6-4ba8-9b68-221a0e715bb2"
     }
   ],
   "head": {
@@ -44830,6 +44843,11 @@
           "ref": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F690*114314f6-38c6-4ba8-9b68-221a0e715bb2"
+        }
+      ],
       "id": "I1588*8ae8430d-70bd-4219-a4c9-90a2f1fd1e79",
       "names": [
         {
@@ -44958,6 +44976,25 @@
       "names": [
         {
           "value": "Kaman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F690*114314f6-38c6-4ba8-9b68-221a0e715bb2"
+        }
+      ],
+      "id": "I1595*d34b7b26-448f-4826-984b-61acffd5dd7d",
+      "names": [
+        {
+          "value": "Apul //"
         }
       ],
       "eventsFacts": [
