@@ -11017,6 +11017,9 @@
         },
         {
           "ref": "I1513*10883e59-3b2a-4225-a54a-8320abb3918f"
+        },
+        {
+          "ref": "I1514*a68b6957-f84e-47d0-839b-4dceeb3bd1cf"
         }
       ],
       "husbandRefs": [
@@ -42701,6 +42704,25 @@
       "names": [
         {
           "value": "Ruth //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F651*5c11a83d-039d-4e93-b59c-4e319bfe6eaf"
+        }
+      ],
+      "id": "I1514*a68b6957-f84e-47d0-839b-4dceeb3bd1cf",
+      "names": [
+        {
+          "value": "Rebecca //"
         }
       ],
       "eventsFacts": [
