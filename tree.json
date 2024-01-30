@@ -10925,6 +10925,9 @@
       "childRefs": [
         {
           "ref": "I1499*a8c1de48-65d4-4b4e-b5f4-219a6ef99750"
+        },
+        {
+          "ref": "I1501*0f0d937c-066b-4d24-a6a4-243cdb306f07"
         }
       ],
       "husbandRefs": [
@@ -42362,6 +42365,25 @@
       "names": [
         {
           "value": "Chitya //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
+        }
+      ],
+      "id": "I1501*0f0d937c-066b-4d24-a6a4-243cdb306f07",
+      "names": [
+        {
+          "value": "Renta //"
         }
       ],
       "eventsFacts": [
