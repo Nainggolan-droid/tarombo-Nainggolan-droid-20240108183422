@@ -11259,6 +11259,9 @@
         },
         {
           "ref": "I1550*43a0e1af-fafe-4193-b7bd-c5e6286bb5aa"
+        },
+        {
+          "ref": "I1552*ec33359e-1888-4e99-b169-d7ff3807a033"
         }
       ],
       "husbandRefs": [
@@ -43748,6 +43751,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1552*ec33359e-1888-4e99-b169-d7ff3807a033",
+      "names": [
+        {
+          "value": "Lamser //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
