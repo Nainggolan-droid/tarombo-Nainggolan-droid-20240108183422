@@ -11515,6 +11515,9 @@
         },
         {
           "ref": "I1579*5407c1aa-978c-4adf-9e3e-e1db2bb98267"
+        },
+        {
+          "ref": "I1581*26837c8b-6a03-4e45-8345-bb9799616fe0"
         }
       ],
       "husbandRefs": [
@@ -44538,6 +44541,25 @@
       "names": [
         {
           "value": " /Hutahaean/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F681*13bab7d6-5b36-41e7-bf73-73020d044b96"
+        }
+      ],
+      "id": "I1581*26837c8b-6a03-4e45-8345-bb9799616fe0",
+      "names": [
+        {
+          "value": "Serina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
