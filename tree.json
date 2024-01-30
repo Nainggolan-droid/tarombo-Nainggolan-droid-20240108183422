@@ -10934,6 +10934,9 @@
         },
         {
           "ref": "I1505*8a3042fb-9eb0-4c40-8c10-2a10072c8836"
+        },
+        {
+          "ref": "I1506*7321bdd3-d8d8-4d8f-b34b-549d0e902d24"
         }
       ],
       "husbandRefs": [
@@ -42493,6 +42496,25 @@
         {
           "nick": "A.David",
           "value": "Pardion //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F646*409ca7b4-b0de-48ea-af16-58fc1ec4c97f"
+        }
+      ],
+      "id": "I1506*7321bdd3-d8d8-4d8f-b34b-549d0e902d24",
+      "names": [
+        {
+          "value": "Iman //"
         }
       ],
       "eventsFacts": [
