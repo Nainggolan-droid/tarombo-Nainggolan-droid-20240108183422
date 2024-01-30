@@ -11470,6 +11470,9 @@
         },
         {
           "ref": "I1575*effe79b0-bd4c-4c64-adf7-47ee2bce542f"
+        },
+        {
+          "ref": "I1576*8c3d3192-842e-4e3e-ac9b-d79ed0df059f"
         }
       ],
       "husbandRefs": [
@@ -44395,6 +44398,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F678*7314881c-f48f-4946-b98b-094af31c15bf"
+        }
+      ],
+      "id": "I1576*8c3d3192-842e-4e3e-ac9b-d79ed0df059f",
+      "names": [
+        {
+          "value": "Novita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
