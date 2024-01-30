@@ -11853,6 +11853,19 @@
           "ref": "I1617*1abba4e0-4ae9-4e92-8ead-9180e152b5e3"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1620*adee153c-8fcd-48ba-9a6b-bb3f644c0309"
+        }
+      ],
+      "id": "F703*93d364c3-eb59-45f1-a80b-5842d1d4820e",
+      "wifeRefs": [
+        {
+          "ref": "I1619*11889a47-7082-465b-a95f-5e3ccb72fd9b"
+        }
+      ]
     }
   ],
   "head": {
@@ -45682,6 +45695,11 @@
           "ref": "F701*0105c29c-d67d-47b6-aeb2-5045bc15b267"
         }
       ],
+      "fams": [
+        {
+          "ref": "F703*93d364c3-eb59-45f1-a80b-5842d1d4820e"
+        }
+      ],
       "id": "I1619*11889a47-7082-465b-a95f-5e3ccb72fd9b",
       "names": [
         {
@@ -45692,6 +45710,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F703*93d364c3-eb59-45f1-a80b-5842d1d4820e"
+        }
+      ],
+      "id": "I1620*adee153c-8fcd-48ba-9a6b-bb3f644c0309",
+      "names": [
+        {
+          "value": " /Panjaitan/"
         }
       ]
     }
