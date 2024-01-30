@@ -11756,6 +11756,9 @@
       "childRefs": [
         {
           "ref": "I1606*4723dd6c-2810-46d2-8fcf-1f0c62057ab6"
+        },
+        {
+          "ref": "I1607*2581823b-ef7e-42c4-9405-ef6ac371062b"
         }
       ],
       "husbandRefs": [
@@ -45342,6 +45345,25 @@
       "names": [
         {
           "value": "A.Mangandar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F697*6b77550b-48f7-4060-85db-7f8f0924e8de"
+        }
+      ],
+      "id": "I1607*2581823b-ef7e-42c4-9405-ef6ac371062b",
+      "names": [
+        {
+          "value": "Op.Kelly //"
         }
       ],
       "eventsFacts": [
