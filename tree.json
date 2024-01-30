@@ -11570,6 +11570,9 @@
       "childRefs": [
         {
           "ref": "I1584*c21bcbbd-e4aa-4d77-8ee3-5cb8a0b8da72"
+        },
+        {
+          "ref": "I1585*1ec86cb4-6043-4d62-bd53-25f12a172a54"
         }
       ],
       "husbandRefs": [
@@ -44666,6 +44669,25 @@
       "names": [
         {
           "value": "Gogo Jhon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F685*2cddd2dc-7ca4-49df-9eb7-a2d42aa957c7"
+        }
+      ],
+      "id": "I1585*1ec86cb4-6043-4d62-bd53-25f12a172a54",
+      "names": [
+        {
+          "value": "Matius Ginola //"
         }
       ],
       "eventsFacts": [
