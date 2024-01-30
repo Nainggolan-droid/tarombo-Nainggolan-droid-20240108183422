@@ -11512,6 +11512,9 @@
       "childRefs": [
         {
           "ref": "I1578*f8f49122-a650-44c4-bbc7-09c597754c8d"
+        },
+        {
+          "ref": "I1579*5407c1aa-978c-4adf-9e3e-e1db2bb98267"
         }
       ],
       "husbandRefs": [
@@ -44485,6 +44488,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F681*13bab7d6-5b36-41e7-bf73-73020d044b96"
+        }
+      ],
+      "id": "I1579*5407c1aa-978c-4adf-9e3e-e1db2bb98267",
+      "names": [
+        {
+          "value": "Sarah //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
