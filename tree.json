@@ -11403,6 +11403,9 @@
       "childRefs": [
         {
           "ref": "I1565*8e23a5da-7bf0-4d3d-b0a8-3451488b4519"
+        },
+        {
+          "ref": "I1566*5a2b7fc3-79d9-4a02-9d71-5c37431891be"
         }
       ],
       "husbandRefs": [
@@ -44104,6 +44107,25 @@
         {
           "nick": "A.Harapan",
           "value": "Rudi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
+        }
+      ],
+      "id": "I1566*5a2b7fc3-79d9-4a02-9d71-5c37431891be",
+      "names": [
+        {
+          "value": "Malaiholo //"
         }
       ],
       "eventsFacts": [
