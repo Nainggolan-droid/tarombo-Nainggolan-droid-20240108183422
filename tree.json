@@ -11592,6 +11592,9 @@
         },
         {
           "ref": "I1588*8ae8430d-70bd-4219-a4c9-90a2f1fd1e79"
+        },
+        {
+          "ref": "I1589*574a31b2-bbb5-4491-b43f-f41ec79b5884"
         }
       ],
       "husbandRefs": [
@@ -44781,6 +44784,25 @@
       "names": [
         {
           "value": "A.Hudorom //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
+        }
+      ],
+      "id": "I1589*574a31b2-bbb5-4491-b43f-f41ec79b5884",
+      "names": [
+        {
+          "value": "Ap.Billem //"
         }
       ],
       "eventsFacts": [
