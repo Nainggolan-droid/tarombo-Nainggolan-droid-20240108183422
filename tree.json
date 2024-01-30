@@ -11173,6 +11173,9 @@
         },
         {
           "ref": "I1537*66b53f46-a2ed-4122-8e92-2b5ba8a812c6"
+        },
+        {
+          "ref": "I1538*dd391eae-55af-46a9-b274-5200c9a7e189"
         }
       ],
       "husbandRefs": [
@@ -43358,6 +43361,25 @@
       "names": [
         {
           "value": "Desy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F660*6e916dc8-6958-490e-b32d-c7757d227660"
+        }
+      ],
+      "id": "I1538*dd391eae-55af-46a9-b274-5200c9a7e189",
+      "names": [
+        {
+          "value": "Dewi //"
         }
       ],
       "eventsFacts": [
