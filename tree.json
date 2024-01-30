@@ -11781,6 +11781,9 @@
         },
         {
           "ref": "I1613*08f7d99a-b910-4619-aad4-121f6f224406"
+        },
+        {
+          "ref": "I1614*b384a713-92d8-4a38-b31c-7b15b49dfae2"
         }
       ],
       "husbandRefs": [
@@ -45529,6 +45532,25 @@
       "names": [
         {
           "value": "Mangapen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F698*7f5821a9-5339-46f8-b738-6570b35ca516"
+        }
+      ],
+      "id": "I1614*b384a713-92d8-4a38-b31c-7b15b49dfae2",
+      "names": [
+        {
+          "value": "Mangasden //"
         }
       ],
       "eventsFacts": [
