@@ -11690,6 +11690,19 @@
         }
       ],
       "id": "F692*9a5008dc-0eb1-44a8-8440-1c46f719a02b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1599*5ffabde1-2fcc-47a7-a8f1-98e6fd2d3ea1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1598*d7b5f1cd-1a4f-4025-a9fe-ffca1d0237d2"
+        }
+      ],
+      "id": "F693*b906242a-61de-4fcf-b34e-c14218cdef88"
     }
   ],
   "head": {
@@ -45087,10 +45100,34 @@
           "ref": "F692*9a5008dc-0eb1-44a8-8440-1c46f719a02b"
         }
       ],
+      "fams": [
+        {
+          "ref": "F693*b906242a-61de-4fcf-b34e-c14218cdef88"
+        }
+      ],
       "id": "I1598*d7b5f1cd-1a4f-4025-a9fe-ffca1d0237d2",
       "names": [
         {
           "value": "Billem //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F693*b906242a-61de-4fcf-b34e-c14218cdef88"
+        }
+      ],
+      "id": "I1599*5ffabde1-2fcc-47a7-a8f1-98e6fd2d3ea1",
+      "names": [
+        {
+          "value": "Ojak //"
         }
       ],
       "eventsFacts": [
