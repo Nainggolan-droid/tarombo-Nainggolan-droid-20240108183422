@@ -11891,6 +11891,19 @@
           "ref": "I1623*98de20f9-e4a7-4344-b433-2a7fb9304e8b"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1626*32a58cc4-cfe0-47ea-9f58-1337db8470c9"
+        }
+      ],
+      "id": "F705*3adc3011-c2c4-4e34-868b-8dba235845a0",
+      "wifeRefs": [
+        {
+          "ref": "I1625*7e548e25-bedf-4a68-b4b4-0d8a2b558c2e"
+        }
+      ]
     }
   ],
   "head": {
@@ -45832,6 +45845,11 @@
           "ref": "F701*0105c29c-d67d-47b6-aeb2-5045bc15b267"
         }
       ],
+      "fams": [
+        {
+          "ref": "F705*3adc3011-c2c4-4e34-868b-8dba235845a0"
+        }
+      ],
       "id": "I1625*7e548e25-bedf-4a68-b4b4-0d8a2b558c2e",
       "names": [
         {
@@ -45842,6 +45860,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F705*3adc3011-c2c4-4e34-868b-8dba235845a0"
+        }
+      ],
+      "id": "I1626*32a58cc4-cfe0-47ea-9f58-1337db8470c9",
+      "names": [
+        {
+          "value": " /Napitupulu/"
         }
       ]
     }
