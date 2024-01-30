@@ -11925,6 +11925,9 @@
       "childRefs": [
         {
           "ref": "I1629*b6f19133-122f-462f-8d82-2ab285e84202"
+        },
+        {
+          "ref": "I1631*c138d6fb-e386-4bfa-b4b4-354820d6981f"
         }
       ],
       "husbandRefs": [
@@ -45994,6 +45997,25 @@
       "names": [
         {
           "value": " /Sembiring/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F707*fe59140c-9bda-4816-99dd-559eee991ef3"
+        }
+      ],
+      "id": "I1631*c138d6fb-e386-4bfa-b4b4-354820d6981f",
+      "names": [
+        {
+          "value": "Della //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
