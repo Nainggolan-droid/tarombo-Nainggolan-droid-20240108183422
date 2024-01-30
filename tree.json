@@ -11664,6 +11664,19 @@
         }
       ],
       "id": "F690*114314f6-38c6-4ba8-9b68-221a0e715bb2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1597*dd3efc90-845e-484f-ab85-7c89fb856d34"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1595*d34b7b26-448f-4826-984b-61acffd5dd7d"
+        }
+      ],
+      "id": "F691*ee4bd94d-6ab4-4f0e-8fc0-98db2d7d68f8"
     }
   ],
   "head": {
@@ -44994,6 +45007,11 @@
           "ref": "F690*114314f6-38c6-4ba8-9b68-221a0e715bb2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F691*ee4bd94d-6ab4-4f0e-8fc0-98db2d7d68f8"
+        }
+      ],
       "id": "I1595*d34b7b26-448f-4826-984b-61acffd5dd7d",
       "names": [
         {
@@ -45017,6 +45035,25 @@
       "names": [
         {
           "value": "Ulak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F691*ee4bd94d-6ab4-4f0e-8fc0-98db2d7d68f8"
+        }
+      ],
+      "id": "I1597*dd3efc90-845e-484f-ab85-7c89fb856d34",
+      "names": [
+        {
+          "value": "Olo //"
         }
       ],
       "eventsFacts": [
