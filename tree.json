@@ -11116,6 +11116,9 @@
         },
         {
           "ref": "I1526*44e27d21-1d18-4d19-bb0d-f36ff7153a93"
+        },
+        {
+          "ref": "I1528*02833d28-25e7-402f-a62a-996d44682ef1"
         }
       ],
       "husbandRefs": [
@@ -43102,6 +43105,25 @@
       "names": [
         {
           "value": " /Tampubolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F657*6392ae07-562e-451c-8752-ae7651afaede"
+        }
+      ],
+      "id": "I1528*02833d28-25e7-402f-a62a-996d44682ef1",
+      "names": [
+        {
+          "value": "Ervina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
