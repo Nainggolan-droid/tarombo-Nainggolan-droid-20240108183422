@@ -11011,6 +11011,9 @@
         },
         {
           "ref": "I1511*29198943-7fd6-4cbc-a9d6-a813f77e7892"
+        },
+        {
+          "ref": "I1512*c5da028c-ccbd-4e06-ae2b-31b0dbece39b"
         }
       ],
       "husbandRefs": [
@@ -42657,6 +42660,25 @@
       "names": [
         {
           "value": "Dody //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F651*5c11a83d-039d-4e93-b59c-4e319bfe6eaf"
+        }
+      ],
+      "id": "I1512*c5da028c-ccbd-4e06-ae2b-31b0dbece39b",
+      "names": [
+        {
+          "value": "Dekon //"
         }
       ],
       "eventsFacts": [
