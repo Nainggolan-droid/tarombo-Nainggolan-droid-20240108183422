@@ -11954,6 +11954,9 @@
       "childRefs": [
         {
           "ref": "I1632*9c246d12-92c2-45dd-b84e-0d9473f98423"
+        },
+        {
+          "ref": "I1633*b56ddbf6-fa73-4f9c-b414-d84bb88b88a0"
         }
       ],
       "husbandRefs": [
@@ -46053,6 +46056,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F709*a91a4624-8dae-441b-a0ce-b801eaa7179f"
+        }
+      ],
+      "id": "I1633*b56ddbf6-fa73-4f9c-b414-d84bb88b88a0",
+      "names": [
+        {
+          "value": "Sonia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
