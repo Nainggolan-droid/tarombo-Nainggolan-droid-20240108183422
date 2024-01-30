@@ -11244,6 +11244,9 @@
       "childRefs": [
         {
           "ref": "I1542*3d8df953-3181-4339-a3b4-738c89a37e6b"
+        },
+        {
+          "ref": "I1543*e1c39844-a0fd-42f9-850f-5e77b1b174a5"
         }
       ],
       "husbandRefs": [
@@ -43514,6 +43517,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1543*e1c39844-a0fd-42f9-850f-5e77b1b174a5",
+      "names": [
+        {
+          "value": "Hotma //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
