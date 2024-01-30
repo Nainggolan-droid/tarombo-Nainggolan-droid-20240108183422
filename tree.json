@@ -11565,6 +11565,19 @@
         }
       ],
       "id": "F684*a7e12195-79e4-43bf-b42e-e7283cdaac1c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1584*c21bcbbd-e4aa-4d77-8ee3-5cb8a0b8da72"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1556*0fffbece-4189-4f10-8ba5-64216f93713b"
+        }
+      ],
+      "id": "F685*2cddd2dc-7ca4-49df-9eb7-a2d42aa957c7"
     }
   ],
   "head": {
@@ -44105,6 +44118,11 @@
           "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
         }
       ],
+      "fams": [
+        {
+          "ref": "F685*2cddd2dc-7ca4-49df-9eb7-a2d42aa957c7"
+        }
+      ],
       "id": "I1556*0fffbece-4189-4f10-8ba5-64216f93713b",
       "names": [
         {
@@ -44635,6 +44653,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F685*2cddd2dc-7ca4-49df-9eb7-a2d42aa957c7"
+        }
+      ],
+      "id": "I1584*c21bcbbd-e4aa-4d77-8ee3-5cb8a0b8da72",
+      "names": [
+        {
+          "value": "Gogo Jhon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
