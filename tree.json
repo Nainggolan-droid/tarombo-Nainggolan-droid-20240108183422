@@ -11467,6 +11467,9 @@
       "childRefs": [
         {
           "ref": "I1573*66d5e832-055b-4e05-be49-c90e1a5d1b34"
+        },
+        {
+          "ref": "I1575*effe79b0-bd4c-4c64-adf7-47ee2bce542f"
         }
       ],
       "husbandRefs": [
@@ -44367,6 +44370,25 @@
       "names": [
         {
           "value": "Danzel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F678*7314881c-f48f-4946-b98b-094af31c15bf"
+        }
+      ],
+      "id": "I1575*effe79b0-bd4c-4c64-adf7-47ee2bce542f",
+      "names": [
+        {
+          "value": "Robin //"
         }
       ],
       "eventsFacts": [
