@@ -11170,6 +11170,9 @@
         },
         {
           "ref": "I1535*07705ebb-0f56-4754-84e6-4c749938288f"
+        },
+        {
+          "ref": "I1537*66b53f46-a2ed-4122-8e92-2b5ba8a812c6"
         }
       ],
       "husbandRefs": [
@@ -43342,6 +43345,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F660*6e916dc8-6958-490e-b32d-c7757d227660"
+        }
+      ],
+      "id": "I1537*66b53f46-a2ed-4122-8e92-2b5ba8a812c6",
+      "names": [
+        {
+          "value": "Desy //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
