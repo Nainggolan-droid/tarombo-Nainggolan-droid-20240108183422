@@ -11280,6 +11280,9 @@
         },
         {
           "ref": "I1559*55efeba0-e974-42be-b3bf-3a26f6931b27"
+        },
+        {
+          "ref": "I1561*76c6affe-805d-478f-b2c5-8dfee1228b4d"
         }
       ],
       "husbandRefs": [
@@ -43966,6 +43969,25 @@
       "names": [
         {
           "value": " /Limbong/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1561*76c6affe-805d-478f-b2c5-8dfee1228b4d",
+      "names": [
+        {
+          "value": "Derita //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
