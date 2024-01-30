@@ -11475,6 +11475,19 @@
         }
       ],
       "id": "F678*7314881c-f48f-4946-b98b-094af31c15bf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1574*9eee95e1-4914-471f-9232-01759c583eac"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1573*66d5e832-055b-4e05-be49-c90e1a5d1b34"
+        }
+      ],
+      "id": "F679*3151f2f7-323d-4842-a7c9-7c47f75f8e9e"
     }
   ],
   "head": {
@@ -44326,10 +44339,34 @@
           "ref": "F678*7314881c-f48f-4946-b98b-094af31c15bf"
         }
       ],
+      "fams": [
+        {
+          "ref": "F679*3151f2f7-323d-4842-a7c9-7c47f75f8e9e"
+        }
+      ],
       "id": "I1573*66d5e832-055b-4e05-be49-c90e1a5d1b34",
       "names": [
         {
           "value": "Ponirin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F679*3151f2f7-323d-4842-a7c9-7c47f75f8e9e"
+        }
+      ],
+      "id": "I1574*9eee95e1-4914-471f-9232-01759c583eac",
+      "names": [
+        {
+          "value": "Danzel //"
         }
       ],
       "eventsFacts": [
