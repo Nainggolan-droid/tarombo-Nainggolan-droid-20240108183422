@@ -11708,6 +11708,9 @@
       "childRefs": [
         {
           "ref": "I1600*455c1788-def7-4c80-a330-fe45a6290c30"
+        },
+        {
+          "ref": "I1601*779c8424-338e-4baf-b595-e5cc918d9c24"
         }
       ],
       "husbandRefs": [
@@ -45165,6 +45168,25 @@
       "names": [
         {
           "value": "Osman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F694*c80a7eaf-e3fb-4ffe-8606-5c55ab664235"
+        }
+      ],
+      "id": "I1601*779c8424-338e-4baf-b595-e5cc918d9c24",
+      "names": [
+        {
+          "value": "Sopar //"
         }
       ],
       "eventsFacts": [
