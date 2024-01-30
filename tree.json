@@ -11973,6 +11973,9 @@
         },
         {
           "ref": "I1635*e3858447-278d-47ff-b50a-deeb74958f41"
+        },
+        {
+          "ref": "I1636*e7b7ea9d-c0c7-4589-9aa5-03ab26dace4b"
         }
       ],
       "husbandRefs": [
@@ -46193,6 +46196,25 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F710*903f1653-ba99-4966-9b31-f35bdef8ed00"
+        }
+      ],
+      "id": "I1636*e7b7ea9d-c0c7-4589-9aa5-03ab26dace4b",
+      "names": [
+        {
+          "value": "Saidi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
