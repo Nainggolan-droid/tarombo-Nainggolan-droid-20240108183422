@@ -11606,6 +11606,19 @@
         }
       ],
       "id": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1591*90506e67-62bb-4296-84ab-9ed0106f5d21"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1587*46969aac-8302-4ea6-b376-fad1b4430189"
+        }
+      ],
+      "id": "F687*ff38bbd0-01c8-4154-92c4-ea25b9bd15e6"
     }
   ],
   "head": {
@@ -44764,6 +44777,11 @@
           "ref": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F687*ff38bbd0-01c8-4154-92c4-ea25b9bd15e6"
+        }
+      ],
       "id": "I1587*46969aac-8302-4ea6-b376-fad1b4430189",
       "names": [
         {
@@ -44825,6 +44843,25 @@
       "names": [
         {
           "value": "Arcinius //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F687*ff38bbd0-01c8-4154-92c4-ea25b9bd15e6"
+        }
+      ],
+      "id": "I1591*90506e67-62bb-4296-84ab-9ed0106f5d21",
+      "names": [
+        {
+          "value": "Boni //"
         }
       ],
       "eventsFacts": [
