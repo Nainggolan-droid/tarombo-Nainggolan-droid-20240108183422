@@ -11081,6 +11081,9 @@
       "childRefs": [
         {
           "ref": "I1521*8f43116a-154d-435d-91bd-722a70dc095e"
+        },
+        {
+          "ref": "I1523*051fb82b-8404-4a56-b1a1-436feecc2150"
         }
       ],
       "husbandRefs": [
@@ -42968,6 +42971,25 @@
       "names": [
         {
           "value": " /Siahaan/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F655*2d61e71e-1851-4b50-a65c-6c24b93dd042"
+        }
+      ],
+      "id": "I1523*051fb82b-8404-4a56-b1a1-436feecc2150",
+      "names": [
+        {
+          "value": "Rian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
