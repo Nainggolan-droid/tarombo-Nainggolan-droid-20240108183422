@@ -11164,6 +11164,9 @@
         },
         {
           "ref": "I1532*c484489f-5010-4a34-9fc3-7e1d2d724147"
+        },
+        {
+          "ref": "I1533*2af50c7e-84cd-4fab-8fc0-15855da29025"
         }
       ],
       "husbandRefs": [
@@ -43236,6 +43239,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F660*6e916dc8-6958-490e-b32d-c7757d227660"
+        }
+      ],
+      "id": "I1533*2af50c7e-84cd-4fab-8fc0-15855da29025",
+      "names": [
+        {
+          "value": "Dorlan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
