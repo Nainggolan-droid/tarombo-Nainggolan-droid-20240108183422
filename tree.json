@@ -11033,6 +11033,9 @@
       "childRefs": [
         {
           "ref": "I1515*44ca7b13-95a2-4d32-ada8-5c5faa6e39f4"
+        },
+        {
+          "ref": "I1516*a7222911-b2c1-4cc1-8803-a89030d68c72"
         }
       ],
       "husbandRefs": [
@@ -42766,6 +42769,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F652*ae88b1d8-babb-4763-88b2-fbc5cb600fad"
+        }
+      ],
+      "id": "I1516*a7222911-b2c1-4cc1-8803-a89030d68c72",
+      "names": [
+        {
+          "value": "Op.Nobel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
