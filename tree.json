@@ -11406,6 +11406,9 @@
         },
         {
           "ref": "I1566*5a2b7fc3-79d9-4a02-9d71-5c37431891be"
+        },
+        {
+          "ref": "I1568*6a020a35-4be1-465c-82b0-1857ff443c80"
         }
       ],
       "husbandRefs": [
@@ -44164,6 +44167,25 @@
       "names": [
         {
           "value": "Javier //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F674*5ac03ca9-9813-4aed-b2f0-c03439c3cd6c"
+        }
+      ],
+      "id": "I1568*6a020a35-4be1-465c-82b0-1857ff443c80",
+      "names": [
+        {
+          "value": "Indra //"
         }
       ],
       "eventsFacts": [
