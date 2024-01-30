@@ -11523,6 +11523,19 @@
         }
       ],
       "id": "F681*13bab7d6-5b36-41e7-bf73-73020d044b96"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1580*85cacdf3-c738-4d93-af33-bf2e39c5d2c6"
+        }
+      ],
+      "id": "F682*80d72e92-5fa0-4b2e-bd1c-bb467e90e9c9",
+      "wifeRefs": [
+        {
+          "ref": "I1579*5407c1aa-978c-4adf-9e3e-e1db2bb98267"
+        }
+      ]
     }
   ],
   "head": {
@@ -44497,6 +44510,11 @@
           "ref": "F681*13bab7d6-5b36-41e7-bf73-73020d044b96"
         }
       ],
+      "fams": [
+        {
+          "ref": "F682*80d72e92-5fa0-4b2e-bd1c-bb467e90e9c9"
+        }
+      ],
       "id": "I1579*5407c1aa-978c-4adf-9e3e-e1db2bb98267",
       "names": [
         {
@@ -44507,6 +44525,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F682*80d72e92-5fa0-4b2e-bd1c-bb467e90e9c9"
+        }
+      ],
+      "id": "I1580*85cacdf3-c738-4d93-af33-bf2e39c5d2c6",
+      "names": [
+        {
+          "value": " /Hutahaean/"
         }
       ]
     }
