@@ -11105,6 +11105,19 @@
           "ref": "I1521*8f43116a-154d-435d-91bd-722a70dc095e"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1524*ab9d2bb3-8bde-440b-8fb3-a9fd5840c368"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1486*6a6f62d6-11de-4f12-8450-ac8bfa7d062f"
+        }
+      ],
+      "id": "F657*6392ae07-562e-451c-8752-ae7651afaede"
     }
   ],
   "head": {
@@ -42257,6 +42270,11 @@
           "ref": "F641*6502a7a8-cd0e-4730-b150-91f5c5da7390"
         }
       ],
+      "fams": [
+        {
+          "ref": "F657*6392ae07-562e-451c-8752-ae7651afaede"
+        }
+      ],
       "id": "I1486*6a6f62d6-11de-4f12-8450-ac8bfa7d062f",
       "names": [
         {
@@ -42984,6 +43002,25 @@
       "names": [
         {
           "value": "Rian //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F657*6392ae07-562e-451c-8752-ae7651afaede"
+        }
+      ],
+      "id": "I1524*ab9d2bb3-8bde-440b-8fb3-a9fd5840c368",
+      "names": [
+        {
+          "value": "Surung //"
         }
       ],
       "eventsFacts": [
