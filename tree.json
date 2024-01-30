@@ -11226,6 +11226,19 @@
           "ref": "I1539*a967a7a0-ad31-47c6-be18-27ccb10a3c42"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1541*947c9eef-0b90-4acc-a63f-a5b0661719de"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1482*fa1d790e-c048-4e02-a229-f29c723acbc0"
+        }
+      ],
+      "id": "F664*1d18aaaf-3169-4a52-b725-8790298d0e26"
     }
   ],
   "head": {
@@ -42286,6 +42299,11 @@
           "ref": "F640*95fd3d95-acb9-432e-9e35-6f4b6d04a4a0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F664*1d18aaaf-3169-4a52-b725-8790298d0e26"
+        }
+      ],
       "id": "I1482*fa1d790e-c048-4e02-a229-f29c723acbc0",
       "names": [
         {
@@ -43439,6 +43457,25 @@
       "names": [
         {
           "value": " /Purba/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F664*1d18aaaf-3169-4a52-b725-8790298d0e26"
+        }
+      ],
+      "id": "I1541*947c9eef-0b90-4acc-a63f-a5b0661719de",
+      "names": [
+        {
+          "value": "Jaihut //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
