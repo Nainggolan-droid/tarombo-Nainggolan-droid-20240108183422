@@ -29950,12 +29950,6 @@
           "tag": "SEX",
           "value": "M"
         }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/d0d43c66-85db-4477-ac17-6a557eea1820.jpg",
-          "fileTag": "FILE"
-        }
       ]
     },
     {
@@ -30366,12 +30360,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/f60612c3-bc94-49f1-8177-ac988475b3b8.jpg",
-          "fileTag": "FILE"
         }
       ]
     },
