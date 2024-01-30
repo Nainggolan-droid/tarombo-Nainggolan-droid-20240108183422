@@ -11573,6 +11573,9 @@
         },
         {
           "ref": "I1585*1ec86cb4-6043-4d62-bd53-25f12a172a54"
+        },
+        {
+          "ref": "I1586*8ebabd2e-1698-499d-85b0-a6c1be41a954"
         }
       ],
       "husbandRefs": [
@@ -44694,6 +44697,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F685*2cddd2dc-7ca4-49df-9eb7-a2d42aa957c7"
+        }
+      ],
+      "id": "I1586*8ebabd2e-1698-499d-85b0-a6c1be41a954",
+      "names": [
+        {
+          "value": "Gracia Tesalonika //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
