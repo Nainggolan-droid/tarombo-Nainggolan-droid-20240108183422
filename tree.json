@@ -11256,6 +11256,9 @@
         },
         {
           "ref": "I1548*cff7eb9c-75c6-4822-a03c-96437212bd8a"
+        },
+        {
+          "ref": "I1550*43a0e1af-fafe-4193-b7bd-c5e6286bb5aa"
         }
       ],
       "husbandRefs": [
@@ -43695,6 +43698,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F665*a30574d4-7513-4174-9a42-5c1b145b5104"
+        }
+      ],
+      "id": "I1550*43a0e1af-fafe-4193-b7bd-c5e6286bb5aa",
+      "names": [
+        {
+          "value": "Saur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
