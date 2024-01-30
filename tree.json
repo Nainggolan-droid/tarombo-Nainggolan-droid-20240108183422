@@ -21864,10 +21864,11 @@
       ],
       "eventsFacts": [
         {
-          "tag": "SEX",
-          "value": "M"
+          "tag": "_PRIV",
+          "value": ""
         }
-      ]
+      ],
+      "media": []
     },
     {
       "famc": [
@@ -30900,6 +30901,12 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ],
+      "media": [
+        {
+          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/acf1b54a-5f89-44b8-b9fc-34da7b33bbab.jpg",
+          "fileTag": "FILE"
         }
       ]
     },
