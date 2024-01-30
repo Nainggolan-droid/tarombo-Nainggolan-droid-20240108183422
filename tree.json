@@ -11589,6 +11589,9 @@
       "childRefs": [
         {
           "ref": "I1587*46969aac-8302-4ea6-b376-fad1b4430189"
+        },
+        {
+          "ref": "I1588*8ae8430d-70bd-4219-a4c9-90a2f1fd1e79"
         }
       ],
       "husbandRefs": [
@@ -44759,6 +44762,25 @@
       "names": [
         {
           "value": "A.Torus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F686*b5c4e585-68c6-4f8f-ba6c-b580b8b86cb5"
+        }
+      ],
+      "id": "I1588*8ae8430d-70bd-4219-a4c9-90a2f1fd1e79",
+      "names": [
+        {
+          "value": "A.Hudorom //"
         }
       ],
       "eventsFacts": [
