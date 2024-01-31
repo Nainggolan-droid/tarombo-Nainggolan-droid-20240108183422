@@ -11993,11 +11993,7 @@
       "id": "F718*c1f51988-e087-46e4-90e7-814aa42402ce"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1048*b46bf19f-6bcf-4c3d-9eef-fbff11732147"
@@ -34523,26 +34519,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F719*5be284a3-ea8c-41e4-9e6e-3b79774c03c1"
-        }
-      ],
-      "fams": [],
-      "id": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947",
-      "names": [
-        {
-          "value": "Udin //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
