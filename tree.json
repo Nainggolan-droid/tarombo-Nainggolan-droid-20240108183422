@@ -12030,6 +12030,19 @@
         }
       ],
       "id": "F721*3dadbcf7-2e56-4ff3-87bb-42429bd192f5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1647*e94110f8-8392-4aea-be0a-4a5f5e7f3eb6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1223*b4c0dcc9-321c-4ca4-bc51-684212c092c7"
+        }
+      ],
+      "id": "F722*9b7977df-32d7-4fa2-a9f3-1a09a094e74e"
     }
   ],
   "head": {
@@ -37787,6 +37800,11 @@
           "ref": "F525*0a6cf202-5b5c-4fc0-8f87-5eb6f77c9a86"
         }
       ],
+      "fams": [
+        {
+          "ref": "F722*9b7977df-32d7-4fa2-a9f3-1a09a094e74e"
+        }
+      ],
       "id": "I1223*b4c0dcc9-321c-4ca4-bc51-684212c092c7",
       "names": [
         {
@@ -46378,6 +46396,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F722*9b7977df-32d7-4fa2-a9f3-1a09a094e74e"
+        }
+      ],
+      "id": "I1647*e94110f8-8392-4aea-be0a-4a5f5e7f3eb6",
+      "names": [
+        {
+          "value": "Johan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
