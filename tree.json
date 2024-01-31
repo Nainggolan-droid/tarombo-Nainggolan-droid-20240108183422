@@ -11906,6 +11906,11 @@
           "ref": "I1046*5b9233af-090c-4c3b-9111-504de49c6b24"
         }
       ],
+      "husbandRefs": [
+        {
+          "ref": "I1637*e172a324-bcb9-4409-8a46-f8e357cfa37d"
+        }
+      ],
       "id": "F712*ec665a63-62dd-48eb-83ba-ab781b3f59d7"
     }
   ],
@@ -46084,6 +46089,9 @@
       "fams": [
         {
           "ref": "F711*94982df9-9e58-4ffe-becd-feebdcfeb32d"
+        },
+        {
+          "ref": "F712*ec665a63-62dd-48eb-83ba-ab781b3f59d7"
         }
       ],
       "id": "I1637*e172a324-bcb9-4409-8a46-f8e357cfa37d",
