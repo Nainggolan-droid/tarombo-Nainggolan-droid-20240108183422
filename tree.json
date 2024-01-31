@@ -12046,6 +12046,19 @@
         }
       ],
       "id": "F722*9b7977df-32d7-4fa2-a9f3-1a09a094e74e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1649*9da16b40-76e9-4089-924b-c41e19d16ce5"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I877*6d821184-8c03-4cef-ad31-d6c50bea541b"
+        }
+      ],
+      "id": "F723*e846e9b5-f1e6-4dab-8fc2-31952e819e30"
     }
   ],
   "head": {
@@ -30575,6 +30588,11 @@
           "ref": "F366*7e2eba9a-c4e5-4123-a8f5-31c9d5dca3d7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F723*e846e9b5-f1e6-4dab-8fc2-31952e819e30"
+        }
+      ],
       "id": "I877*6d821184-8c03-4cef-ad31-d6c50bea541b",
       "names": [
         {
@@ -41434,7 +41452,7 @@
       "id": "I1400*942e3e6a-43bd-4f6a-8992-a68512ad8e91",
       "names": [
         {
-          "value": " /...../"
+          "value": " /Sihotang/"
         }
       ]
     },
@@ -46431,6 +46449,25 @@
       "names": [
         {
           "value": "Dina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F723*e846e9b5-f1e6-4dab-8fc2-31952e819e30"
+        }
+      ],
+      "id": "I1649*9da16b40-76e9-4089-924b-c41e19d16ce5",
+      "names": [
+        {
+          "value": "Thania //"
         }
       ],
       "eventsFacts": [
