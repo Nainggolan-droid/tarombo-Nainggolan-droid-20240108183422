@@ -7485,6 +7485,9 @@
         },
         {
           "ref": "I1049*be9e8963-fd86-45a0-895e-42680e397a76"
+        },
+        {
+          "ref": "I1637*e172a324-bcb9-4409-8a46-f8e357cfa37d"
         }
       ],
       "husbandRefs": [
@@ -46225,6 +46228,25 @@
       "names": [
         {
           "value": "Saidi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F437*5ec211cd-e10e-4104-8b53-a5e81b3aa2cb"
+        }
+      ],
+      "id": "I1637*e172a324-bcb9-4409-8a46-f8e357cfa37d",
+      "names": [
+        {
+          "value": "A.Rupia //"
         }
       ],
       "eventsFacts": [
