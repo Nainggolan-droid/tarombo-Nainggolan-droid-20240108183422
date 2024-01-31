@@ -7533,11 +7533,6 @@
       "id": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
-        }
-      ],
       "husbandRefs": [
         {
           "ref": "I1048*b46bf19f-6bcf-4c3d-9eef-fbff11732147"
@@ -7549,11 +7544,6 @@
       "childRefs": [
         {
           "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
-        }
-      ],
-      "husbandRefs": [
-        {
-          "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
         }
       ],
       "id": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
@@ -34323,16 +34313,6 @@
       ]
     },
     {
-      "famc": [
-        {
-          "ref": "F447*7c030d5c-488f-4b33-9da2-33c7c29bd792"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F448*2fbf604a-8f2f-478c-8702-5f44702a6f2c"
-        }
-      ],
       "id": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947",
       "names": [
         {
