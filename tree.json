@@ -12006,11 +12006,7 @@
       "id": "F719*5be284a3-ea8c-41e4-9e6e-3b79774c03c1"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1638*335cd4a0-135b-4784-b4dc-f0f8c0a88175"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
@@ -46280,33 +46276,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F720*85d86681-619a-45e7-bf2b-d93221d2d476"
-        }
-      ],
-      "fams": [],
-      "id": "I1638*335cd4a0-135b-4784-b4dc-f0f8c0a88175",
-      "names": [
-        {
-          "nick": "A.Hansel",
-          "value": "Irwan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/d413b1c7-edb3-45f3-83c5-9c8a9d65804f.png",
-          "fileTag": "FILE"
         }
       ]
     },
