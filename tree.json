@@ -11868,6 +11868,9 @@
         },
         {
           "ref": "I1048*b46bf19f-6bcf-4c3d-9eef-fbff11732147"
+        },
+        {
+          "ref": "I1641*231b3f25-e757-4b56-80c9-b0be89601399"
         }
       ],
       "husbandRefs": [
@@ -46384,6 +46387,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F711*94982df9-9e58-4ffe-becd-feebdcfeb32d"
+        }
+      ],
+      "id": "I1641*231b3f25-e757-4b56-80c9-b0be89601399",
+      "names": [
+        {
+          "value": "Mangapil //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
