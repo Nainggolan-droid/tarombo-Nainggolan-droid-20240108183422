@@ -12004,6 +12004,19 @@
         }
       ],
       "id": "F719*5be284a3-ea8c-41e4-9e6e-3b79774c03c1"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1638*335cd4a0-135b-4784-b4dc-f0f8c0a88175"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947"
+        }
+      ],
+      "id": "F720*85d86681-619a-45e7-bf2b-d93221d2d476"
     }
   ],
   "head": {
@@ -34551,6 +34564,11 @@
           "ref": "F719*5be284a3-ea8c-41e4-9e6e-3b79774c03c1"
         }
       ],
+      "fams": [
+        {
+          "ref": "F720*85d86681-619a-45e7-bf2b-d93221d2d476"
+        }
+      ],
       "id": "I1068*04a5d45d-1108-49fa-82ac-bb42fb93b947",
       "names": [
         {
@@ -46275,6 +46293,25 @@
       "names": [
         {
           "value": "A.Rupia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F720*85d86681-619a-45e7-bf2b-d93221d2d476"
+        }
+      ],
+      "id": "I1638*335cd4a0-135b-4784-b4dc-f0f8c0a88175",
+      "names": [
+        {
+          "value": "Irwan //"
         }
       ],
       "eventsFacts": [
