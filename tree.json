@@ -12022,6 +12022,9 @@
       "childRefs": [
         {
           "ref": "I1639*d3c05a59-0d15-426b-98b9-e792a6b7f363"
+        },
+        {
+          "ref": "I1640*e26c4775-5c13-4c37-9497-46325f56a482"
         }
       ],
       "husbandRefs": [
@@ -46362,6 +46365,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F721*2fbdcbc1-e6e8-47e0-9e78-3a5bb05a34c3"
+        }
+      ],
+      "id": "I1640*e26c4775-5c13-4c37-9497-46325f56a482",
+      "names": [
+        {
+          "value": "Hana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
