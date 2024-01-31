@@ -12001,6 +12001,19 @@
         }
       ],
       "id": "F719*b97d390e-e122-44b0-9e64-62fd76eb3efd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1644*76eae2ca-56ef-46f6-ac71-bd17323573bf"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1643*fcc2d497-bc98-4364-b6cd-7ceae4d53825"
+        }
+      ],
+      "id": "F720*0a8f1a62-1425-4a1f-89bc-d0618f0447a5"
     }
   ],
   "head": {
@@ -46265,10 +46278,34 @@
           "ref": "F719*b97d390e-e122-44b0-9e64-62fd76eb3efd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F720*0a8f1a62-1425-4a1f-89bc-d0618f0447a5"
+        }
+      ],
       "id": "I1643*fcc2d497-bc98-4364-b6cd-7ceae4d53825",
       "names": [
         {
           "value": "Udin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F720*0a8f1a62-1425-4a1f-89bc-d0618f0447a5"
+        }
+      ],
+      "id": "I1644*76eae2ca-56ef-46f6-ac71-bd17323573bf",
+      "names": [
+        {
+          "value": "Irwan //"
         }
       ],
       "eventsFacts": [
