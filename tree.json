@@ -7532,15 +7532,6 @@
       "id": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
     },
     {
-      "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
-        }
-      ],
-      "id": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-    },
-    {
       "childRefs": [
         {
           "ref": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b"
@@ -34572,11 +34563,7 @@
           "ref": "F724*dd5fcdfb-8649-4fd5-85fb-61b20267c448"
         }
       ],
-      "fams": [
-        {
-          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-        }
-      ],
+      "fams": [],
       "id": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95",
       "names": [
         {
