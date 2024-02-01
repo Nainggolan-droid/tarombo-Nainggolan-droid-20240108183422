@@ -7532,11 +7532,7 @@
       "id": "F446*ce814e4e-07e5-4e6b-ac4c-ff9cb4a508d9"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
@@ -34598,25 +34594,6 @@
         {
           "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/3/c6d104a1-e0ea-4ecc-8b36-ca99d36b1669.png",
           "fileTag": "FILE"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-        }
-      ],
-      "id": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c",
-      "names": [
-        {
-          "value": "Hansel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
