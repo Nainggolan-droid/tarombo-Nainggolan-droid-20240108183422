@@ -12045,11 +12045,7 @@
       "id": "F723*e846e9b5-f1e6-4dab-8fc2-31952e819e30"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I1643*fcc2d497-bc98-4364-b6cd-7ceae4d53825"
@@ -34554,33 +34550,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F724*dd5fcdfb-8649-4fd5-85fb-61b20267c448"
-        }
-      ],
-      "fams": [],
-      "id": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95",
-      "names": [
-        {
-          "nick": "A.Hana",
-          "value": "Iwan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/3/c6d104a1-e0ea-4ecc-8b36-ca99d36b1669.png",
-          "fileTag": "FILE"
         }
       ]
     },
