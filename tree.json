@@ -12059,6 +12059,19 @@
         }
       ],
       "id": "F723*e846e9b5-f1e6-4dab-8fc2-31952e819e30"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1650*be3d886d-ae2a-4ab2-8f5a-f5b997236a48"
+        }
+      ],
+      "id": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228",
+      "wifeRefs": [
+        {
+          "ref": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f"
+        }
+      ]
     }
   ],
   "head": {
@@ -32043,9 +32056,15 @@
           "ref": "F391*03f04471-da2b-4b64-8551-b335557a7925"
         }
       ],
+      "fams": [
+        {
+          "ref": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228"
+        }
+      ],
       "id": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f",
       "names": [
         {
+          "nick": "Nai.Linda",
           "value": "Roslina //"
         }
       ],
@@ -46481,6 +46500,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228"
+        }
+      ],
+      "id": "I1650*be3d886d-ae2a-4ab2-8f5a-f5b997236a48",
+      "names": [
+        {
+          "value": " /Naibaho/"
         }
       ]
     }
