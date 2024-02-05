@@ -29741,7 +29741,7 @@
       ],
       "media": [
         {
-          "_file": "13122351-75ae-4c8c-a72c-bead472f60a5.png",
+          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/a5027481-adae-4bbc-9b30-ff230840a1b2.png",
           "fileTag": "FILE"
         }
       ]
@@ -29762,6 +29762,12 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ],
+      "media": [
+        {
+          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/d14e1368-8a04-4989-af71-f9acf67d634a.png",
+          "fileTag": "FILE"
         }
       ]
     },
