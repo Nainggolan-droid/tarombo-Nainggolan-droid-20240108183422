@@ -7534,22 +7534,6 @@
     {
       "childRefs": [
         {
-          "ref": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c"
-        },
-        {
-          "ref": "I1071*97184cc3-8100-4b5b-8367-6911807d1343"
-        }
-      ],
-      "husbandRefs": [
-        {
-          "ref": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95"
-        }
-      ],
-      "id": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-    },
-    {
-      "childRefs": [
-        {
           "ref": "I1072*d6073f9d-4b33-48e4-843c-e536876aad8b"
         },
         {
@@ -12063,10 +12047,10 @@
     {
       "husbandRefs": [
         {
-          "ref": "I1650*be3d886d-ae2a-4ab2-8f5a-f5b997236a48"
+          "ref": "I1650*0031dd02-1766-49f4-a293-270799b40d0c"
         }
       ],
-      "id": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228",
+      "id": "F724*17537815-3ed5-4873-97a8-9afbe4245377",
       "wifeRefs": [
         {
           "ref": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f"
@@ -12283,6 +12267,11 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ],
+      "mediaRefs": [
+        {
+          "ref": "M1*47a9f341-6703-4c9b-b979-fc5bd92517ea"
         }
       ]
     },
@@ -18172,12 +18161,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/bb6f9044-3e65-48b2-8d06-086655f074c3.jpg",
-          "fileTag": "FILE"
         }
       ]
     },
@@ -29738,12 +29721,6 @@
           "tag": "SEX",
           "value": "M"
         }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/a5027481-adae-4bbc-9b30-ff230840a1b2.png",
-          "fileTag": "FILE"
-        }
       ]
     },
     {
@@ -29762,12 +29739,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/d14e1368-8a04-4989-af71-f9acf67d634a.png",
-          "fileTag": "FILE"
         }
       ]
     },
@@ -32070,7 +32041,7 @@
       ],
       "fams": [
         {
-          "ref": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228"
+          "ref": "F724*17537815-3ed5-4873-97a8-9afbe4245377"
         }
       ],
       "id": "I947*caab19aa-58ad-4ec7-b784-5b922dbdcf2f",
@@ -34588,71 +34559,6 @@
       "names": [
         {
           "value": "Graciella //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-        }
-      ],
-      "id": "I1069*b40f434f-08b4-4b39-91e3-a861c59a4e95",
-      "names": [
-        {
-          "nick": "A.Hana",
-          "value": "Iwan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ],
-      "media": [
-        {
-          "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/3/c6d104a1-e0ea-4ecc-8b36-ca99d36b1669.png",
-          "fileTag": "FILE"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-        }
-      ],
-      "id": "I1070*acd9cc59-15f8-4a67-afd8-f08e76795f8c",
-      "names": [
-        {
-          "value": "Hansel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F449*e1432c78-ff79-453a-98e9-caac8b9555ec"
-        }
-      ],
-      "id": "I1071*97184cc3-8100-4b5b-8367-6911807d1343",
-      "names": [
-        {
-          "value": "Hana //"
         }
       ],
       "eventsFacts": [
@@ -46518,10 +46424,10 @@
     {
       "fams": [
         {
-          "ref": "F724*fe6052ba-52c9-4da9-aa0f-864de549c228"
+          "ref": "F724*17537815-3ed5-4873-97a8-9afbe4245377"
         }
       ],
-      "id": "I1650*be3d886d-ae2a-4ab2-8f5a-f5b997236a48",
+      "id": "I1650*0031dd02-1766-49f4-a293-270799b40d0c",
       "names": [
         {
           "value": " /Naibaho/"
