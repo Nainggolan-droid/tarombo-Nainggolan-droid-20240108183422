@@ -12078,13 +12078,7 @@
       "vers": "0.3.5 (2839f2a)"
     }
   },
-  "media": [
-    {
-      "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/1/173016fd-9d34-4012-93de-f1b534c4e2a0.jpg",
-      "fileTag": "FILE",
-      "id": "M1*47a9f341-6703-4c9b-b979-fc5bd92517ea"
-    }
-  ],
+  "media": [],
   "people": [
     {
       "fams": [
@@ -12267,14 +12261,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ],
-      "mediaRefs": [
-        {
-          "ref": "M1*47a9f341-6703-4c9b-b979-fc5bd92517ea"
-        },
-        {
-          "ref": "M1*47a9f341-6703-4c9b-b979-fc5bd92517ea"
         }
       ]
     },
