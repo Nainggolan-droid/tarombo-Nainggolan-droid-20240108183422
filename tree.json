@@ -3575,9 +3575,6 @@
       "childRefs": [
         {
           "ref": "I501*e1913670-cac4-417c-b84f-5c94d26b9849"
-        },
-        {
-          "ref": "I1659*c0bf0241-1b64-4f29-879f-a5fb8f83b119"
         }
       ],
       "husbandRefs": [
@@ -22724,7 +22721,7 @@
       "id": "I500*41f17fab-7fe2-4e63-9251-c7d5040f8a80",
       "names": [
         {
-          "value": "Argide /\"A. Krista/"
+          "value": "A.Krista //"
         }
       ],
       "eventsFacts": [
@@ -46663,25 +46660,6 @@
       "names": [
         {
           "value": "Ap.Maksa //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
-        }
-      ],
-      "id": "I1659*c0bf0241-1b64-4f29-879f-a5fb8f83b119",
-      "names": [
-        {
-          "value": "Untung /\"A. Krista/"
         }
       ],
       "eventsFacts": [
