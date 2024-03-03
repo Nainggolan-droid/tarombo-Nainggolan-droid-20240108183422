@@ -12090,6 +12090,9 @@
         },
         {
           "ref": "I1654*b7d15d3d-d767-4a5f-8b32-f1197ebb4891"
+        },
+        {
+          "ref": "I1655*373a342e-d980-4431-9a4b-786c8362e55c"
         }
       ],
       "husbandRefs": [
@@ -46554,6 +46557,29 @@
         },
         {
           "date": "12 SEP 2001",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F727*50c15b4d-21fa-4040-ad98-8a3cfbe945ab"
+        }
+      ],
+      "id": "I1655*373a342e-d980-4431-9a4b-786c8362e55c",
+      "names": [
+        {
+          "value": "Dileon Tua /\"A. Daniel\"/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "13 JUL 2007",
           "tag": "BIRT"
         }
       ]
