@@ -3581,6 +3581,9 @@
         },
         {
           "ref": "I1660*c2ebfcb8-6036-415f-ab3e-bbc617eee3cf"
+        },
+        {
+          "ref": "I1661*50e8626b-5c16-4b25-b490-7c40deed1fcf"
         }
       ],
       "husbandRefs": [
@@ -46704,6 +46707,25 @@
       "names": [
         {
           "value": "Leven /\"A. Krista/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
+        }
+      ],
+      "id": "I1661*50e8626b-5c16-4b25-b490-7c40deed1fcf",
+      "names": [
+        {
+          "value": "Roni /\"A. Krista/"
         }
       ],
       "eventsFacts": [
