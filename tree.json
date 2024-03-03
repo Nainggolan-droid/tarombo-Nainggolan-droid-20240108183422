@@ -12106,6 +12106,9 @@
       "childRefs": [
         {
           "ref": "I1656*48a7c63e-3911-4366-8209-678f00f696a6"
+        },
+        {
+          "ref": "I1657*637232c9-8b28-4aae-a930-e7216ad167af"
         }
       ],
       "husbandRefs": [
@@ -22778,7 +22781,7 @@
       "id": "I503*edb649c5-bba7-459e-a854-d4b33a53f225",
       "names": [
         {
-          "value": "A.Andreas //"
+          "value": "Hotbin  /\"A. Andreas\"/"
         }
       ],
       "eventsFacts": [
@@ -46612,6 +46615,25 @@
       "names": [
         {
           "value": "Andreas  //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F728*ea5a9548-dec8-4bee-a17f-f4c16e9aea2f"
+        }
+      ],
+      "id": "I1657*637232c9-8b28-4aae-a930-e7216ad167af",
+      "names": [
+        {
+          "value": "Armando /\"A. Andreas\"/"
         }
       ],
       "eventsFacts": [
