@@ -3587,6 +3587,9 @@
         },
         {
           "ref": "I1662*43a7b41b-ef30-472b-a81c-dcfbd956bf6b"
+        },
+        {
+          "ref": "I1663*2e81c85c-e5c7-4b31-a0d5-66401604b253"
         }
       ],
       "husbandRefs": [
@@ -46754,6 +46757,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
+        }
+      ],
+      "id": "I1663*2e81c85c-e5c7-4b31-a0d5-66401604b253",
+      "names": [
+        {
+          "value": "Ruth /\"A. Krista/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
