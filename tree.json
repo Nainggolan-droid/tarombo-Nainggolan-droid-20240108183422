@@ -3584,6 +3584,9 @@
         },
         {
           "ref": "I1661*50e8626b-5c16-4b25-b490-7c40deed1fcf"
+        },
+        {
+          "ref": "I1662*43a7b41b-ef30-472b-a81c-dcfbd956bf6b"
         }
       ],
       "husbandRefs": [
@@ -46726,6 +46729,25 @@
       "names": [
         {
           "value": "Roni /\"A. Krista/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F206*b99e0de9-4ef1-417f-ae29-b4220112efdb"
+        }
+      ],
+      "id": "I1662*43a7b41b-ef30-472b-a81c-dcfbd956bf6b",
+      "names": [
+        {
+          "value": "Tedy /\"A. Krista/"
         }
       ],
       "eventsFacts": [
