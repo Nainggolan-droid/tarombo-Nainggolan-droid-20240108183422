@@ -12082,6 +12082,19 @@
           "ref": "I668*899cf591-eef4-4bf0-98c5-941bb61f3542"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1653*3544b797-4a0f-41e0-9e21-41552a98deeb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I502*1c7fb14d-6880-46f1-9d89-4fee3faf3ea1"
+        }
+      ],
+      "id": "F727*50c15b4d-21fa-4040-ad98-8a3cfbe945ab"
     }
   ],
   "head": {
@@ -22712,6 +22725,11 @@
       "famc": [
         {
           "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F727*50c15b4d-21fa-4040-ad98-8a3cfbe945ab"
         }
       ],
       "id": "I502*1c7fb14d-6880-46f1-9d89-4fee3faf3ea1",
@@ -46488,6 +46506,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F727*50c15b4d-21fa-4040-ad98-8a3cfbe945ab"
+        }
+      ],
+      "id": "I1653*3544b797-4a0f-41e0-9e21-41552a98deeb",
+      "names": [
+        {
+          "value": "Daniel /\"A. Daniel\"/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
