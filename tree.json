@@ -42,6 +42,9 @@
         },
         {
           "ref": "I8*f05de988-2290-4808-b39e-8380c951b34e"
+        },
+        {
+          "ref": "I1658*71deca25-785f-4e2a-aa04-14015f08d749"
         }
       ],
       "husbandRefs": [
@@ -12117,19 +12120,6 @@
         }
       ],
       "id": "F728*ea5a9548-dec8-4bee-a17f-f4c16e9aea2f"
-    },
-    {
-      "childRefs": [
-        {
-          "ref": "I1658*a1aaafb2-185c-4b4b-b539-8f1ab587b58f"
-        }
-      ],
-      "husbandRefs": [
-        {
-          "ref": "I504*1ab7d1cc-9a11-4182-b310-d77b8c8080b4"
-        }
-      ],
-      "id": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
     }
   ],
   "head": {
@@ -22810,21 +22800,10 @@
           "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
         }
       ],
-      "fams": [
-        {
-          "ref": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
-        }
-      ],
       "id": "I504*1ab7d1cc-9a11-4182-b310-d77b8c8080b4",
       "names": [
         {
-          "value": "Suwandro /A. Samuel/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
+          "value": "A.Samuel //"
         }
       ]
     },
@@ -46670,13 +46649,13 @@
     {
       "famc": [
         {
-          "ref": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
+          "ref": "F3*c980334f-3ac0-496f-b498-e3a8585ef653"
         }
       ],
-      "id": "I1658*a1aaafb2-185c-4b4b-b539-8f1ab587b58f",
+      "id": "I1658*71deca25-785f-4e2a-aa04-14015f08d749",
       "names": [
         {
-          "value": "Samuel /A. Samuel/"
+          "value": "Ap.Maksa //"
         }
       ],
       "eventsFacts": [
