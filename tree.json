@@ -12087,6 +12087,9 @@
       "childRefs": [
         {
           "ref": "I1653*3544b797-4a0f-41e0-9e21-41552a98deeb"
+        },
+        {
+          "ref": "I1654*b7d15d3d-d767-4a5f-8b32-f1197ebb4891"
         }
       ],
       "husbandRefs": [
@@ -46525,6 +46528,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F727*50c15b4d-21fa-4040-ad98-8a3cfbe945ab"
+        }
+      ],
+      "id": "I1654*b7d15d3d-d767-4a5f-8b32-f1197ebb4891",
+      "names": [
+        {
+          "value": "Denise /\"A. Daniel\"/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "date": "12 SEP 2001",
+          "tag": "BIRT"
         }
       ]
     }
