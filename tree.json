@@ -12117,6 +12117,19 @@
         }
       ],
       "id": "F728*ea5a9548-dec8-4bee-a17f-f4c16e9aea2f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1658*a1aaafb2-185c-4b4b-b539-8f1ab587b58f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I504*1ab7d1cc-9a11-4182-b310-d77b8c8080b4"
+        }
+      ],
+      "id": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
     }
   ],
   "head": {
@@ -22795,6 +22808,11 @@
       "famc": [
         {
           "ref": "F205*ebe18f2b-4dec-40eb-a6df-eee268be2ad5"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
         }
       ],
       "id": "I504*1ab7d1cc-9a11-4182-b310-d77b8c8080b4",
@@ -46640,6 +46658,25 @@
       "names": [
         {
           "value": "Armando /\"A. Andreas\"/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F729*23c78269-16f7-4b77-9d8b-043933f6521d"
+        }
+      ],
+      "id": "I1658*a1aaafb2-185c-4b4b-b539-8f1ab587b58f",
+      "names": [
+        {
+          "value": "Samuel /A. Samuel/"
         }
       ],
       "eventsFacts": [
