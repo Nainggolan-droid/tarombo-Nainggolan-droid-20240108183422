@@ -22780,12 +22780,21 @@
       "names": [
         {
           "value": "Lijon (Br. Tampubolon) /\"A. Daniel\"/"
+        },
+        {
+          "value": "//"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ],
+      "notes": [
+        {
+          "sourceCitationsUnderValue": false,
+          "value": "💗Br.Tampubolon"
         }
       ]
     },
