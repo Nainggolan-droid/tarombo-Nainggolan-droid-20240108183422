@@ -22838,13 +22838,17 @@
       "id": "I504*1ab7d1cc-9a11-4182-b310-d77b8c8080b4",
       "names": [
         {
-          "value": "A.Samuel (Br. P.1000) //"
+          "value": "A.Samuel //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "DEAT",
           "value": "Y"
+        },
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     },
